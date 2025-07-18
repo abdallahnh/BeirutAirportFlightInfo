@@ -5,9 +5,10 @@ const { execSync } = require('child_process');
 
 const DATA_FILE = 'flight_data.json';
 
-// --- 1. SCRAPING LOGIC ---
+// --- 1. SCRAPING LOGIC (Updated) ---
 async function scrapeFlights() {
     const flightData = {};
+    // Loop through both flight types
     for (const type of ['dprtr', 'arivl']) {
         const url = `https://www.beirutairport.gov.lb/_flight.php?type=${type}`;
         const response = await axios.get(url);
@@ -21,10 +22,12 @@ async function scrapeFlights() {
                 if (!flightNumber || !date) return;
                 
                 const id = `${flightNumber}-${date}`;
+                // **CHANGE**: We now save the 'type' with each flight
                 flightData[id] = {
                     flightNumber,
                     status: $(cells).eq(7).text().trim(),
                     actualTime: $(cells).eq(8).text().trim(),
+                    type: type, // <-- Add this line
                 };
             }
         });
@@ -32,22 +35,27 @@ async function scrapeFlights() {
     return flightData;
 }
 
-// --- 2. NOTIFICATION LOGIC ---
-async function sendNotification(changes) {
+// --- 2. NOTIFICATION LOGIC (Updated) ---
+async function sendNotification(changes, flightType) {
     if (changes.length === 0) {
-        console.log('No changes to notify.');
+        console.log(`No ${flightType} changes to notify.`);
         return;
     }
     
-    console.log(`Sending notification for ${changes.length} changes...`);
-    const body = changes.slice(0, 2).join('\n'); // Show first 2 changes
+    console.log(`Sending notification for ${changes.length} ${flightType} changes...`);
+    const body = changes.slice(0, 2).join('\n');
+    
+    // **CHANGE**: Create a dynamic title and sound based on the flight type
+    const title = flightType === 'dprtr' ? '✈️ Departure Update' : '✈️ Arrival Update';
+    const soundFile = flightType === 'dprtr' ? 'departure_sound.aiff' : 'arrival_sound.aiff';
     
     const response = await axios.post('https://onesignal.com/api/v1/notifications', 
         {
             app_id: process.env.ONESIGNAL_APP_ID,
             included_segments: ['All'],
-            headings: { en: '✈️ Flight Status Update' },
+            headings: { en: title },
             contents: { en: body },
+            ios_sound: soundFile, // Use the specific sound file
         },
         {
             headers: {
@@ -56,12 +64,11 @@ async function sendNotification(changes) {
             },
         }
     );
-    console.log('OneSignal response:', response.status, response.data);
+    console.log('OneSignal response:', response.status);
 }
 
-// --- 3. MAIN WORKFLOW ---
+// --- 3. MAIN WORKFLOW (Updated) ---
 async function main() {
-    // Read old data from the file
     let oldData = {};
     try {
         oldData = JSON.parse(await fs.readFile(DATA_FILE, 'utf8'));
@@ -70,30 +77,39 @@ async function main() {
         console.log('No previous data file found. Starting fresh.');
     }
 
-    // Scrape new data
     const newData = await scrapeFlights();
     console.log(`Scraped ${Object.keys(newData).length} new flights.`);
 
-    // Compare and find changes
-    const changes = [];
+    // **CHANGE**: Create separate lists for arrival and departure changes
+    const arrivalChanges = [];
+    const departureChanges = [];
+
+    // Loop through new data and sort changes into the correct list
     for (const id in newData) {
         if (oldData[id] && JSON.stringify(newData[id]) !== JSON.stringify(oldData[id])) {
-            changes.push(`${newData[id].flightNumber} status: ${newData[id].status}`);
+            const changeMessage = `${newData[id].flightNumber} status: ${newData[id].status}`;
+            
+            // Check the type we saved earlier to sort the change
+            if (newData[id].type === 'arivl') {
+                arrivalChanges.push(changeMessage);
+            } else {
+                departureChanges.push(changeMessage);
+            }
         }
     }
 
-    // Send notification if there are changes
-    await sendNotification(changes);
+    // **CHANGE**: Send notifications separately for each type
+    await sendNotification(arrivalChanges, 'arivl');
+    await sendNotification(departureChanges, 'dprtr');
 
-    // Save new data to the file and commit it
+    // Save new data to the file and commit it for the next run
     await fs.writeFile(DATA_FILE, JSON.stringify(newData, null, 2));
     console.log('Wrote new data to file.');
     
-    // Commit the updated data file back to the repository
     execSync('git config --global user.email "action@github.com"');
     execSync('git config --global user.name "GitHub Action"');
     execSync('git add flight_data.json');
-    execSync('git commit -m "Update flight data" || exit 0'); // exit 0 if no changes to commit
+    execSync('git commit -m "Update flight data" || exit 0');
     execSync('git push');
     console.log('Committed and pushed updated data.');
 }
