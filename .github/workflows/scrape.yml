@@ -2,9 +2,12 @@ name: Scrape Airport Flights
 
 on:
   schedule:
-    # Runs every 15 minutes
     - cron: '*/15 * * * *'
-  workflow_dispatch: # Allows manual running
+  workflow_dispatch:
+
+# Add permissions for writing back to the repo
+permissions:
+  contents: write
 
 jobs:
   scrape:
@@ -17,7 +20,8 @@ jobs:
           node-version: '20'
       - name: Install dependencies
         run: npm install
-      - name: Run Scraper
+      - name: Run Scraper and Notifier
         env:
-          FIREBASE_SERVICE_ACCOUNT_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}
+          ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
+          ONESIGNAL_REST_API_KEY: ${{ secrets.ONESIGNAL_REST_API_KEY }}
         run: node scraper.js
