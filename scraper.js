@@ -19,7 +19,7 @@ async function scrapeFlights() {
                 const flightNumber = $(cells).eq(2).text().trim();
                 const date = $(row).closest('table').find('tr.date_row').text().trim();
                 if (!flightNumber || !date) return;
-
+                
                 const id = `${flightNumber}-${date}`;
                 flightData[id] = {
                     flightNumber,
@@ -38,10 +38,10 @@ async function sendNotification(changes) {
         console.log('No changes to notify.');
         return;
     }
-
+    
     console.log(`Sending notification for ${changes.length} changes...`);
     const body = changes.slice(0, 2).join('\n'); // Show first 2 changes
-
+    
     const response = await axios.post('https://onesignal.com/api/v1/notifications', 
         {
             app_id: process.env.ONESIGNAL_APP_ID,
@@ -88,7 +88,7 @@ async function main() {
     // Save new data to the file and commit it
     await fs.writeFile(DATA_FILE, JSON.stringify(newData, null, 2));
     console.log('Wrote new data to file.');
-
+    
     // Commit the updated data file back to the repository
     execSync('git config --global user.email "action@github.com"');
     execSync('git config --global user.name "GitHub Action"');
