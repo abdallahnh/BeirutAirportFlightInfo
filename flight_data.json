@@ -29,17 +29,10 @@
   },
   "EK 958-2025-07-19": {
     "flightNumber": "EK 958",
-    "status": "الصعودالىالطائرة",
+    "status": "غادرت",
     "actualTime": "11:49",
     "type": "dprtr",
     "airlineCode": "EK"
-  },
-  "ME 324-2025-07-19": {
-    "flightNumber": "ME 324",
-    "status": "غادرت",
-    "actualTime": "11:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "ME 304-2025-07-19": {
     "flightNumber": "ME 304",
@@ -48,40 +41,26 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "RJ 402-2025-07-19": {
-    "flightNumber": "RJ 402",
-    "status": "الصعودالىالطائرة",
-    "actualTime": "11:36",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
-  "UF 002-2025-07-19": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
-  "IA 132-2025-07-19": {
-    "flightNumber": "IA 132",
-    "status": "تمفتحالبوابة",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "G9 386-2025-07-19": {
     "flightNumber": "G9 386",
-    "status": "",
-    "actualTime": "12:30",
+    "status": "الصعودالىالطائرة",
+    "actualTime": "12:27",
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "ET 3407-2025-07-19": {
-    "flightNumber": "ET 3407",
-    "status": "",
-    "actualTime": "13:00",
+  "IA 132-2025-07-19": {
+    "flightNumber": "IA 132",
+    "status": "تماغلاقالبوابة",
+    "actualTime": "11:59",
     "type": "dprtr",
-    "airlineCode": "ET"
+    "airlineCode": "IA"
+  },
+  "UF 002-2025-07-19": {
+    "flightNumber": "UF 002",
+    "status": "غادرت",
+    "actualTime": "12:02",
+    "type": "dprtr",
+    "airlineCode": "UF"
   },
   "ME 229-2025-07-19": {
     "flightNumber": "ME 229",
@@ -90,9 +69,16 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "ET 3407-2025-07-19": {
+    "flightNumber": "ET 3407",
+    "status": "",
+    "actualTime": "13:00",
+    "type": "dprtr",
+    "airlineCode": "ET"
+  },
   "QR 417-2025-07-19": {
     "flightNumber": "QR 417",
-    "status": "",
+    "status": "تمفتحالبوابة",
     "actualTime": "13:05",
     "type": "dprtr",
     "airlineCode": "QR"
