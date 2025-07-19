@@ -27,27 +27,6 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "RJ 404-2025-07-19": {
-    "flightNumber": "RJ 404",
-    "status": "غادرت",
-    "actualTime": "19:49",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
-  "ME 261-2025-07-19": {
-    "flightNumber": "ME 261",
-    "status": "غادرت",
-    "actualTime": "20:13",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 430-2025-07-19": {
-    "flightNumber": "ME 430",
-    "status": "النداء الاخير",
-    "actualTime": "20:28",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 442-2025-07-19": {
     "flightNumber": "ME 442",
     "status": "تأخير",
@@ -55,10 +34,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "ME 430-2025-07-19": {
+    "flightNumber": "ME 430",
+    "status": "غادرت",
+    "actualTime": "20:28",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "G9 409-2025-07-19": {
     "flightNumber": "G9 409",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:10",
+    "status": "النداء الاخير",
+    "actualTime": "20:47",
     "type": "dprtr",
     "airlineCode": "G9"
   },
