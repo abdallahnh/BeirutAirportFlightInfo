@@ -1,46 +1,4 @@
 {
-  "LH 1307-2025-07-19": {
-    "flightNumber": "LH 1307",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "16:22",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
-  "IA 140-2025-07-19": {
-    "flightNumber": "IA 140",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "16:58",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "UF 004-2025-07-19": {
-    "flightNumber": "UF 004",
-    "status": "ألغيت",
-    "actualTime": "17:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
-  "IA 1302-2025-07-19": {
-    "flightNumber": "IA 1302",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "17:09",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "ME 368-2025-07-19": {
-    "flightNumber": "ME 368",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "17:10",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 402-2025-07-19": {
-    "flightNumber": "ME 402",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "17:22",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EY 584-2025-07-19": {
     "flightNumber": "EY 584",
     "status": "تم اغلاق البوابة",
@@ -76,13 +34,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "PC 1825-2025-07-19": {
-    "flightNumber": "PC 1825",
-    "status": "غادرت",
-    "actualTime": "20:03",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "ME 261-2025-07-19": {
     "flightNumber": "ME 261",
     "status": "غادرت",
@@ -90,17 +41,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 442-2025-07-19": {
-    "flightNumber": "ME 442",
-    "status": "تأخير",
-    "actualTime": "21:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 430-2025-07-19": {
     "flightNumber": "ME 430",
     "status": "النداء الاخير",
     "actualTime": "20:28",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 442-2025-07-19": {
+    "flightNumber": "ME 442",
+    "status": "تأخير",
+    "actualTime": "21:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
