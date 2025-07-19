@@ -29,16 +29,16 @@
     "actualTime": "06:54",
     "type": "dprtr"
   },
-  "ME 426-2025-07-19": {
-    "flightNumber": "ME 426",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:56",
-    "type": "dprtr"
-  },
   "RJ 408-2025-07-19": {
     "flightNumber": "RJ 408",
     "status": "تم اغلاق البوابة",
     "actualTime": "06:45",
+    "type": "dprtr"
+  },
+  "ME 426-2025-07-19": {
+    "flightNumber": "ME 426",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "06:56",
     "type": "dprtr"
   },
   "ME 310-2025-07-19": {
@@ -49,7 +49,7 @@
   },
   "ME 211-2025-07-19": {
     "flightNumber": "ME 211",
-    "status": "الصعود الى الطائرة",
+    "status": "تأخير",
     "actualTime": "07:24",
     "type": "dprtr"
   },
@@ -61,19 +61,19 @@
   },
   "ME 424-2025-07-19": {
     "flightNumber": "ME 424",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:30",
+    "status": "غادرت",
+    "actualTime": "07:54",
     "type": "dprtr"
   },
   "ME 364-2025-07-19": {
     "flightNumber": "ME 364",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:55",
     "type": "dprtr"
   },
   "ME 241-2025-07-19": {
     "flightNumber": "ME 241",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:15",
     "type": "dprtr"
   },
@@ -985,7 +985,7 @@
   },
   "ME 272-2025-07-19": {
     "flightNumber": "ME 272",
-    "status": "تبكير",
+    "status": "وصلت",
     "actualTime": "07:55",
     "type": "arivl"
   },
