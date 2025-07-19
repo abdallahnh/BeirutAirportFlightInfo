@@ -2,7 +2,7 @@ name: Scrape Airport Flights
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/7 * * * *'
   workflow_dispatch:
 
 # Add permissions for writing back to the repo
