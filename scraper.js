@@ -5,22 +5,53 @@ const { execSync } = require('child_process');
 
 const DATA_FILE = 'flight_data.json';
 
-// A map to translate airline codes into full names for notifications.
+// **UPDATED**: A comprehensive list of airlines serving Beirut (BEY).
+// Sorted alphabetically for easier maintenance.
 const airlineNames = {
-    "ME": "Middle East Airlines",
-    "TK": "Turkish Airlines",
+    "A3": "Aegean Airlines",
+    "G9": "Air Arabia",
+    "JU": "Air Serbia",
     "AF": "Air France",
+    "AZ": "ITA Airways",
+    "VF": "AnadoluJet",
+    "JI": "Armenian Airlines",
+    "BA": "British Airways",
+    "SN": "Brussels Airlines",
+    "CY": "Cyprus Airways",
+    "MS": "EgyptAir",
     "EK": "Emirates",
-    "QR": "Qatar Airways",
-    "RJ": "Royal Jordanian",
+    "ET": "Ethiopian Airlines",
+    "EY": "Etihad Airways",
+    "FZ": "flydubai",
+    "XY": "flynas",
+    "GF": "Gulf Air",
+    "IA": "Iraqi Airways",
+    "J9": "Jazeera Airways",
+    "KL": "KLM",
+    "KU": "Kuwait Airways",
+    "LO": "LOT Polish Airlines",
+    "LH": "Lufthansa",
+    "ME": "Middle East Airlines",
+    "WY": "Oman Air",
     "PC": "Pegasus Airlines",
-    "IA": "Iraqi Airways"
+    "QR": "Qatar Airways",
+    "AT": "Royal Air Maroc",
+    "RJ": "Royal Jordanian",
+    "SK": "Scandinavian Airlines",
+    "SV": "Saudia",
+    "XQ": "SunExpress",
+    "LX": "SWISS",
+    "RO": "TAROM",
+    "HV": "Transavia",
+    "TU": "Tunisair",
+    "TK": "Turkish Airlines",
+    "W6": "Wizz Air"
 };
 
-// All tags a user can subscribe to.
-const allKnownTags = [
-    "ME", "TK", "AF", "EK", "QR", "RJ", "PC", "IA", "all_flights"
-];
+// **UPDATED**: This list is now generated automatically from the keys of airlineNames
+// to ensure it's always in sync. The special "all_flights" tag is added at the end.
+const allKnownTags = [...Object.keys(airlineNames), "all_flights"];
+
 
 // --- 1. SCRAPING LOGIC (Unchanged) ---
 async function scrapeFlights() {
@@ -55,13 +86,12 @@ async function scrapeFlights() {
     return flightData;
 }
 
-// --- 2. NOTIFICATION LOGIC (Updated Title/Body) ---
+// --- 2. NOTIFICATION LOGIC (Unchanged) ---
 async function sendAirlineNotification(airlineCode, changes) {
     if (changes.length === 0) {
         return;
     }
 
-    // **CHANGE**: Reverted title to be general (Departure/Arrival).
     const departureCount = changes.filter(c => c.type === 'dprtr').length;
     const isMostlyDepartures = departureCount >= changes.length / 2;
     const title = isMostlyDepartures ? '✈️ Departure Updates' : '✈️ Arrival Updates';
@@ -69,14 +99,11 @@ async function sendAirlineNotification(airlineCode, changes) {
     
     let body;
     if (changes.length === 1) {
-        // The message now contains the full airline name from the main function.
         body = changes[0].message; 
     } else {
-        // The summary also uses the new, detailed message format.
         body = `${changes.length} updates for ${airlineNames[airlineCode] || airlineCode}. First: ${changes[0].message}`;
     }
 
-    // The filter remains simple and targeted.
     const filters = [
         { "field": "tag", "key": airlineCode, "relation": "=", "value": "1" },
         { "operator": "OR" },
@@ -102,7 +129,7 @@ async function sendAirlineNotification(airlineCode, changes) {
     ).catch(err => console.error(`OneSignal API Error for ${airlineCode}:`, err.response?.data));
 }
 
-// --- 3. MAIN WORKFLOW (Updated Message Creation) ---
+// --- 3. MAIN WORKFLOW (Unchanged) ---
 async function main() {
     let oldData = {};
     try {
@@ -120,7 +147,6 @@ async function main() {
 
         if (oldFlight && oldFlight.status !== newFlight.status) {
             if (newFlight.status && newFlight.status.trim() !== '') {
-                // **CHANGE**: Prepend the full airline name to the message string.
                 const airlineName = airlineNames[newFlight.airlineCode] || newFlight.airlineCode;
                 allChanges.push({
                     message: `${airlineName}: ${newFlight.flightNumber} status is now ${newFlight.status}`,
@@ -144,8 +170,11 @@ async function main() {
         }, {});
 
         for (const airlineCode in changesByAirline) {
-            const specificChanges = changesByAirline[airlineCode];
-            await sendAirlineNotification(airlineCode, specificChanges);
+            // Ensure we only process airlines we have defined as tags.
+            if (allKnownTags.includes(airlineCode)) {
+                const specificChanges = changesByAirline[airlineCode];
+                await sendAirlineNotification(airlineCode, specificChanges);
+            }
         }
     } else {
         console.log('No changes to notify.');
