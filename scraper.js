@@ -9,7 +9,7 @@ const allKnownTags = [
     "ME", "TK", "AF", "EK", "QR", "RJ", "PC", "all_flights"
 ];
 
-// --- 1. SCRAPING LOGIC (No changes here) ---
+// --- 1. SCRAPING LOGIC (Updated to better clean the status) ---
 async function scrapeFlights() {
     const flightData = {};
     for (const type of ['dprtr', 'arivl']) {
@@ -26,10 +26,13 @@ async function scrapeFlights() {
                 const date = $(row).closest('table').find('tr.date_row').text().trim();
                 if (!flightNumber || !date) return;
                 
+                // **THE FIX**: More robustly clean the status text here.
+                const statusText = $(cells).eq(7).text().replace(/\s|&nbsp;/g, '').trim();
+
                 const id = `${flightNumber}-${date}`;
                 flightData[id] = {
                     flightNumber,
-                    status: $(cells).eq(7).text().trim(),
+                    status: statusText,
                     actualTime: $(cells).eq(8).text().trim(),
                     type: type,
                     airlineCode: airlineCode,
@@ -81,7 +84,7 @@ async function sendGroupedNotification(allChanges) {
     ).catch(err => console.error("OneSignal API Error:", err.response?.data));
 }
 
-// --- 3. MAIN WORKFLOW (Updated to check for empty status) ---
+// --- 3. MAIN WORKFLOW (No changes here, the fix is in the scraping logic) ---
 async function main() {
     let oldData = {};
     try {
@@ -98,7 +101,6 @@ async function main() {
         const newFlight = newData[id];
 
         if (oldFlight && oldFlight.status !== newFlight.status) {
-            // **THE FIX**: Only add the change if the new status is not empty.
             if (newFlight.status && newFlight.status.trim() !== '') {
                 allChanges.push({
                     message: `${newFlight.flightNumber} status: ${newFlight.status}`,
