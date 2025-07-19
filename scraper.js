@@ -5,13 +5,11 @@ const { execSync } = require('child_process');
 
 const DATA_FILE = 'flight_data.json';
 
-// **CHANGE**: Add a list of all possible airline codes here.
-// This must match the list in your iOS app's AirlineData.swift file.
-const allAirlineCodes = [
-    "ME", "TK", "AF", "EK", "QR", "RJ", "PC"
+// **CHANGE**: Add the "all_flights" tag to the list of known tags
+const allKnownTags = [
+    "ME", "TK", "AF", "EK", "QR", "RJ", "PC", "all_flights"
     // Add all other codes you have in your app
 ];
-
 
 // --- 1. SCRAPING LOGIC (No changes here) ---
 async function scrapeFlights() {
@@ -44,30 +42,29 @@ async function scrapeFlights() {
     return flightData;
 }
 
-// --- 2. NOTIFICATION LOGIC (Updated to include unconfigured users) ---
+// --- 2. NOTIFICATION LOGIC (Updated to include "all_flights" subscribers) ---
 async function sendNotification(change) {
     console.log(`Sending notification for ${change.flightNumber} of airline ${change.airlineCode}...`);
     const body = `${change.flightNumber} status: ${change.newStatus}`;
     const title = change.type === 'dprtr' ? '✈️ Departure Update' : '✈️ Arrival Update';
     const soundFile = change.type === 'dprtr' ? 'departure_sound.aiff' : 'arrival_sound.aiff';
     
-    // **CHANGE**: Build a complex filter to target two groups of users.
+    // **CHANGE**: Add a filter for users subscribed to "all_flights"
     const filters = [
-        // GROUP 1: Users who are explicitly subscribed to this airline.
+        // GROUP 1: Users subscribed to this specific airline
         { "field": "tag", "key": change.airlineCode, "relation": "=", "value": "1" },
-        
-        // OR
         { "operator": "OR" },
-
-        // GROUP 2: Users who have NOT set ANY airline preference yet.
-        // We do this by checking that all possible airline tags "do not exist".
-        ...allAirlineCodes.map(code => ({ "field": "tag", "key": code, "relation": "not_exists" }))
+        // GROUP 2: Users subscribed to ALL flights
+        { "field": "tag", "key": "all_flights", "relation": "=", "value": "1" },
+        { "operator": "OR" },
+        // GROUP 3: Users who have not set ANY preference yet
+        ...allKnownTags.map(code => ({ "field": "tag", "key": code, "relation": "not_exists" }))
     ];
 
     await axios.post('https://onesignal.com/api/v1/notifications', 
         {
             app_id: process.env.ONESIGNAL_APP_ID,
-            filters: filters, // Use the new advanced filter
+            filters: filters,
             headings: { en: title },
             contents: { en: body },
             ios_sound: soundFile,
