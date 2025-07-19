@@ -8,7 +8,7 @@ const DATA_FILE = 'flight_data.json';
 // **CHANGE**: Add a list of all possible airline codes here.
 // This must match the list in your iOS app's AirlineData.swift file.
 const allAirlineCodes = [
-    "ME", "TK", "AF", "EK", "QR", "RJ", 
+    "ME", "TK", "AF", "EK", "QR", "RJ", "PC"
     // Add all other codes you have in your app
 ];
 
