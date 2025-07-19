@@ -101,7 +101,7 @@ async function main() {
         if (oldFlight && oldFlight.status !== newFlight.status && newFlight.status?.trim()) {
             const airlineName = airlineNames[newFlight.airlineCode] || newFlight.airlineCode;
             allChanges.push({
-                message: `${airlineName}: ${newFlight.flightNumber} status is now ${newFlight.status}`,
+                message: `${airlineName}: ${newFlight.flightNumber} ${newFlight.status}`,
                 airlineCode: newFlight.airlineCode, type: newFlight.type,
             });
         }
