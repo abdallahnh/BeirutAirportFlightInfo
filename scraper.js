@@ -5,7 +5,6 @@ const { execSync } = require('child_process');
 
 const DATA_FILE = 'flight_data.json';
 
-// **CHANGE**: Add the "all_flights" tag to the list of known tags
 const allKnownTags = [
     "ME", "TK", "AF", "EK", "QR", "RJ", "PC", "all_flights"
     // Add all other codes you have in your app
@@ -42,25 +41,44 @@ async function scrapeFlights() {
     return flightData;
 }
 
-// --- 2. NOTIFICATION LOGIC (Updated to include "all_flights" subscribers) ---
-async function sendNotification(change) {
-    console.log(`Sending notification for ${change.flightNumber} of airline ${change.airlineCode}...`);
-    const body = `${change.flightNumber} status: ${change.newStatus}`;
-    const title = change.type === 'dprtr' ? '✈️ Departure Update' : '✈️ Arrival Update';
-    const soundFile = change.type === 'dprtr' ? 'departure_sound.aiff' : 'arrival_sound.aiff';
-    
-    // **CHANGE**: Add a filter for users subscribed to "all_flights"
-    const filters = [
-        // GROUP 1: Users subscribed to this specific airline
-        { "field": "tag", "key": change.airlineCode, "relation": "=", "value": "1" },
-        { "operator": "OR" },
-        // GROUP 2: Users subscribed to ALL flights
-        { "field": "tag", "key": "all_flights", "relation": "=", "value": "1" },
-        { "operator": "OR" },
-        // GROUP 3: Users who have not set ANY preference yet
-        ...allKnownTags.map(code => ({ "field": "tag", "key": code, "relation": "not_exists" }))
-    ];
+// --- 2. NOTIFICATION LOGIC (Rewritten for Grouping) ---
+async function sendGroupedNotification(allChanges) {
+    if (allChanges.length === 0) {
+        console.log('No changes to notify.');
+        return;
+    }
 
+    console.log(`Grouping ${allChanges.length} changes into one notification.`);
+    
+    // Create a summary body from all the change messages
+    const body = allChanges.map(c => c.message).slice(0, 3).join('\n'); // Show first 3 changes
+    
+    // Determine if it's mostly departures or arrivals for the title and sound
+    const departureCount = allChanges.filter(c => c.type === 'dprtr').length;
+    const isMostlyDepartures = departureCount >= allChanges.length / 2;
+    const title = isMostlyDepartures ? '✈️ Departure Updates' : '✈️ Arrival Updates';
+    const soundFile = isMostlyDepartures ? 'departure_sound.aiff' : 'arrival_sound.aiff';
+
+    // Get a unique list of all airline codes that have changed
+    const changedAirlineCodes = [...new Set(allChanges.map(c => c.airlineCode))];
+    
+    // Build the filters for targeting users
+    const filters = [];
+
+    // GROUP 1: Users subscribed to "All Flights"
+    filters.push({ "field": "tag", "key": "all_flights", "relation": "=", "value": "1" });
+
+    // GROUP 2: Users subscribed to ANY of the changed airlines
+    changedAirlineCodes.forEach(code => {
+        filters.push({ "operator": "OR" });
+        filters.push({ "field": "tag", "key": code, "relation": "=", "value": "1" });
+    });
+
+    // GROUP 3: Unconfigured users (backward compatibility)
+    filters.push({ "operator": "OR" });
+    filters.push(...allKnownTags.map(code => ({ "field": "tag", "key": code, "relation": "not_exists" })));
+    
+    // Send the single, targeted notification
     await axios.post('https://onesignal.com/api/v1/notifications', 
         {
             app_id: process.env.ONESIGNAL_APP_ID,
@@ -78,7 +96,7 @@ async function sendNotification(change) {
     ).catch(err => console.error("OneSignal API Error:", err.response?.data));
 }
 
-// --- 3. MAIN WORKFLOW (No changes here) ---
+// --- 3. MAIN WORKFLOW (Updated to collect changes first) ---
 async function main() {
     let oldData = {};
     try {
@@ -88,21 +106,28 @@ async function main() {
     }
 
     const newData = await scrapeFlights();
+    
+    // **CHANGE**: Create a single list to collect all changes
+    const allChanges = [];
 
     for (const id in newData) {
         const oldFlight = oldData[id];
         const newFlight = newData[id];
 
+        // If a status change is found, add it to our collection
         if (oldFlight && oldFlight.status !== newFlight.status) {
-            await sendNotification({
-                flightNumber: newFlight.flightNumber,
+            allChanges.push({
+                message: `${newFlight.flightNumber} status: ${newFlight.status}`,
                 airlineCode: newFlight.airlineCode,
-                newStatus: newFlight.status,
                 type: newFlight.type,
             });
         }
     }
 
+    // **CHANGE**: After checking all flights, send all collected changes at once
+    await sendGroupedNotification(allChanges);
+
+    // Save and commit the new data
     await fs.writeFile(DATA_FILE, JSON.stringify(newData, null, 2));
     
     execSync('git config --global user.email "action@github.com"');
