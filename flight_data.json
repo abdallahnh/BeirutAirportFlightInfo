@@ -64,14 +64,14 @@
   },
   "ME 418-2025-07-19": {
     "flightNumber": "ME 418",
-    "status": "",
+    "status": "تمفتحالبوابة",
     "actualTime": "15:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 825-2025-07-19": {
     "flightNumber": "TK 825",
-    "status": "",
+    "status": "تمفتحالبوابة",
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -559,12 +559,26 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "IA 134-2025-07-20": {
+    "flightNumber": "IA 134",
+    "status": "",
+    "actualTime": "10:45",
+    "type": "dprtr",
+    "airlineCode": "IA"
+  },
   "FZ 158-2025-07-20": {
     "flightNumber": "FZ 158",
     "status": "",
     "actualTime": "10:45",
     "type": "dprtr",
     "airlineCode": "FZ"
+  },
+  "IA 136-2025-07-20": {
+    "flightNumber": "IA 136",
+    "status": "",
+    "actualTime": "11:00",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "CY 121-2025-07-20": {
     "flightNumber": "CY 121",
@@ -937,13 +951,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "G9 385-2025-07-19": {
-    "flightNumber": "G9 385",
-    "status": "وصلت",
-    "actualTime": "12:05",
-    "type": "arivl",
-    "airlineCode": "G9"
-  },
   "EY 581-2025-07-19": {
     "flightNumber": "EY 581",
     "status": "وصلت",
@@ -960,8 +967,8 @@
   },
   "AF 564-2025-07-19": {
     "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "وصلت",
+    "actualTime": "14:18",
     "type": "arivl",
     "airlineCode": "AF"
   },
