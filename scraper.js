@@ -5,12 +5,24 @@ const { execSync } = require('child_process');
 
 const DATA_FILE = 'flight_data.json';
 
+// A map to translate airline codes into full names for notifications.
+const airlineNames = {
+    "ME": "Middle East Airlines",
+    "TK": "Turkish Airlines",
+    "AF": "Air France",
+    "EK": "Emirates",
+    "QR": "Qatar Airways",
+    "RJ": "Royal Jordanian",
+    "PC": "Pegasus Airlines",
+    "IA": "Iraqi Airways"
+};
+
 // All tags a user can subscribe to.
 const allKnownTags = [
-    "ME", "TK", "AF", "EK", "QR", "RJ", "PC", "all_flights"
+    "ME", "TK", "AF", "EK", "QR", "RJ", "PC", "IA", "all_flights"
 ];
 
-// --- 1. SCRAPING LOGIC (FIXED) ---
+// --- 1. SCRAPING LOGIC (Unchanged) ---
 async function scrapeFlights() {
     const flightData = {};
     for (const type of ['dprtr', 'arivl']) {
@@ -27,7 +39,6 @@ async function scrapeFlights() {
                 const date = $(row).closest('table').find('tr.date_row').text().trim();
                 if (!flightNumber || !date) return;
                 
-                // **FIX**: Replaces multiple whitespace/&nbsp; with a single space to preserve word separation.
                 const statusText = $(cells).eq(7).text().replace(/(&nbsp;|\s)+/g, ' ').trim();
 
                 const id = `${flightNumber}-${date}`;
@@ -44,49 +55,38 @@ async function scrapeFlights() {
     return flightData;
 }
 
-// --- 2. NOTIFICATION LOGIC (FIXED) ---
-async function sendGroupedNotification(allChanges) {
-    if (allChanges.length === 0) {
-        console.log('No changes to notify.');
+// --- 2. NOTIFICATION LOGIC (NEW: Per-Airline) ---
+async function sendAirlineNotification(airlineCode, changes) {
+    if (changes.length === 0) {
         return;
     }
 
-    console.log(`Grouping ${allChanges.length} changes into one notification.`);
-    const body = allChanges.map(c => c.message).slice(0, 3).join('\n');
-    const departureCount = allChanges.filter(c => c.type === 'dprtr').length;
-    const isMostlyDepartures = departureCount >= allChanges.length / 2;
-    const title = isMostlyDepartures ? '✈️ Departure Updates' : '✈️ Arrival Updates';
-    const soundFile = isMostlyDepartures ? 'departure_sound.aiff' : 'arrival_sound.aiff';
-    const changedAirlineCodes = [...new Set(allChanges.map(c => c.airlineCode))];
+    // Use the full airline name, or default to the code if not found.
+    const airlineName = airlineNames[airlineCode] || airlineCode;
+    const title = `✈️ ${airlineName} Update`;
     
-    // **FIX**: Explicitly and correctly build the filter logic to handle all user subscription cases.
-    const filters = [];
-
-    // Group 1: Target users subscribed to "all_flights".
-    filters.push({ "field": "tag", "key": "all_flights", "relation": "=", "value": "1" });
-
-    // Group 2: Target users subscribed to one of the specific airlines that changed.
-    changedAirlineCodes.forEach(code => {
-        filters.push({ "operator": "OR" });
-        filters.push({ "field": "tag", "key": code, "relation": "=", "value": "1" });
-    });
-
-    // Group 3: Target new users who have NOT set any airline preference tags.
-    // This creates a block like: (tag ME !exists AND tag TK !exists AND ...).
-    const newUserConditions = allKnownTags
-        .filter(tag => tag !== 'all_flights') // Exclude the general tag from this check.
-        .flatMap((code, index) => {
-            const condition = { field: 'tag', key: code, relation: 'not_exists' };
-            // Add 'AND' operator before all but the first condition in this block.
-            return index > 0 ? [{ operator: 'AND' }, condition] : [condition];
-        });
-
-    // Combine Group 3 with the others using an OR.
-    if (newUserConditions.length > 0) {
-        filters.push({ "operator": "OR" });
-        filters.push(...newUserConditions);
+    let body;
+    if (changes.length === 1) {
+        // If only one flight for this airline changed, be specific.
+        body = changes[0].message; // e.g., "ME266 status: On Time"
+    } else {
+        // If multiple flights changed, summarize.
+        body = `${changes.length} flight updates. First update: ${changes[0].message}`;
     }
+
+    // Filter is now much simpler: send to users subscribed to this specific
+    // airline OR to "all_flights".
+    const filters = [
+        { "field": "tag", "key": airlineCode, "relation": "=", "value": "1" },
+        { "operator": "OR" },
+        { "field": "tag", "key": "all_flights", "relation": "=", "value": "1" }
+    ];
+
+    const departureCount = changes.filter(c => c.type === 'dprtr').length;
+    const soundFile = (departureCount >= changes.length / 2) ? 'departure_sound.aiff' : 'arrival_sound.aiff';
     
+    console.log(`Sending notification for ${airlineCode}: "${body}"`);
+
     await axios.post('https://onesignal.com/api/v1/notifications', 
         {
             app_id: process.env.ONESIGNAL_APP_ID,
@@ -101,10 +101,10 @@ async function sendGroupedNotification(allChanges) {
                 'Authorization': `Basic ${process.env.ONESIGNAL_REST_API_KEY}`,
             },
         }
-    ).catch(err => console.error("OneSignal API Error:", err.response?.data));
+    ).catch(err => console.error(`OneSignal API Error for ${airlineCode}:`, err.response?.data));
 }
 
-// --- 3. MAIN WORKFLOW ---
+// --- 3. MAIN WORKFLOW (NEW: Grouping Logic) ---
 async function main() {
     let oldData = {};
     try {
@@ -123,17 +123,37 @@ async function main() {
         if (oldFlight && oldFlight.status !== newFlight.status) {
             if (newFlight.status && newFlight.status.trim() !== '') {
                 allChanges.push({
-                    message: `${newFlight.flightNumber} status: ${newFlight.status}`,
+                    message: `${newFlight.flightNumber} (${newFlight.airlineCode}) status: ${newFlight.status}`,
                     airlineCode: newFlight.airlineCode,
                     type: newFlight.type,
                 });
             } else {
-                console.log(`Skipping notification for ${newFlight.flightNumber} because the new status is empty.`);
+                console.log(`Skipping notification for ${newFlight.flightNumber} because new status is empty.`);
             }
         }
     }
 
-    await sendGroupedNotification(allChanges);
+    if (allChanges.length > 0) {
+        // **NEW**: Group all changes by their airline code.
+        const changesByAirline = allChanges.reduce((acc, change) => {
+            const code = change.airlineCode;
+            if (!acc[code]) {
+                acc[code] = [];
+            }
+            acc[code].push(change);
+            return acc;
+        }, {});
+
+        // **NEW**: Loop through each airline that had changes and send a
+        // dedicated notification for it.
+        for (const airlineCode in changesByAirline) {
+            const specificChanges = changesByAirline[airlineCode];
+            await sendAirlineNotification(airlineCode, specificChanges);
+        }
+    } else {
+        console.log('No changes to notify.');
+    }
+
 
     await fs.writeFile(DATA_FILE, JSON.stringify(newData, null, 2));
     
