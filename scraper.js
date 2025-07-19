@@ -5,11 +5,12 @@ const { execSync } = require('child_process');
 
 const DATA_FILE = 'flight_data.json';
 
+// All tags a user can subscribe to.
 const allKnownTags = [
     "ME", "TK", "AF", "EK", "QR", "RJ", "PC", "all_flights"
 ];
 
-// --- 1. SCRAPING LOGIC (Updated to better clean the status) ---
+// --- 1. SCRAPING LOGIC (FIXED) ---
 async function scrapeFlights() {
     const flightData = {};
     for (const type of ['dprtr', 'arivl']) {
@@ -26,8 +27,8 @@ async function scrapeFlights() {
                 const date = $(row).closest('table').find('tr.date_row').text().trim();
                 if (!flightNumber || !date) return;
                 
-                // **THE FIX**: More robustly clean the status text here.
-                const statusText = $(cells).eq(7).text().replace(/\s|&nbsp;/g, '').trim();
+                // **FIX**: Replaces multiple whitespace/&nbsp; with a single space to preserve word separation.
+                const statusText = $(cells).eq(7).text().replace(/(&nbsp;|\s)+/g, ' ').trim();
 
                 const id = `${flightNumber}-${date}`;
                 flightData[id] = {
@@ -43,7 +44,7 @@ async function scrapeFlights() {
     return flightData;
 }
 
-// --- 2. NOTIFICATION LOGIC (No changes here) ---
+// --- 2. NOTIFICATION LOGIC (FIXED) ---
 async function sendGroupedNotification(allChanges) {
     if (allChanges.length === 0) {
         console.log('No changes to notify.');
@@ -57,15 +58,34 @@ async function sendGroupedNotification(allChanges) {
     const title = isMostlyDepartures ? '✈️ Departure Updates' : '✈️ Arrival Updates';
     const soundFile = isMostlyDepartures ? 'departure_sound.aiff' : 'arrival_sound.aiff';
     const changedAirlineCodes = [...new Set(allChanges.map(c => c.airlineCode))];
+    
+    // **FIX**: Explicitly and correctly build the filter logic to handle all user subscription cases.
     const filters = [];
 
+    // Group 1: Target users subscribed to "all_flights".
     filters.push({ "field": "tag", "key": "all_flights", "relation": "=", "value": "1" });
+
+    // Group 2: Target users subscribed to one of the specific airlines that changed.
     changedAirlineCodes.forEach(code => {
         filters.push({ "operator": "OR" });
         filters.push({ "field": "tag", "key": code, "relation": "=", "value": "1" });
     });
-    filters.push({ "operator": "OR" });
-    filters.push(...allKnownTags.map(code => ({ "field": "tag", "key": code, "relation": "not_exists" })));
+
+    // Group 3: Target new users who have NOT set any airline preference tags.
+    // This creates a block like: (tag ME !exists AND tag TK !exists AND ...).
+    const newUserConditions = allKnownTags
+        .filter(tag => tag !== 'all_flights') // Exclude the general tag from this check.
+        .flatMap((code, index) => {
+            const condition = { field: 'tag', key: code, relation: 'not_exists' };
+            // Add 'AND' operator before all but the first condition in this block.
+            return index > 0 ? [{ operator: 'AND' }, condition] : [condition];
+        });
+
+    // Combine Group 3 with the others using an OR.
+    if (newUserConditions.length > 0) {
+        filters.push({ "operator": "OR" });
+        filters.push(...newUserConditions);
+    }
     
     await axios.post('https://onesignal.com/api/v1/notifications', 
         {
@@ -84,7 +104,7 @@ async function sendGroupedNotification(allChanges) {
     ).catch(err => console.error("OneSignal API Error:", err.response?.data));
 }
 
-// --- 3. MAIN WORKFLOW (No changes here, the fix is in the scraping logic) ---
+// --- 3. MAIN WORKFLOW ---
 async function main() {
     let oldData = {};
     try {
