@@ -1,14 +1,7 @@
 {
-  "G9 388-2025-07-20": {
-    "flightNumber": "G9 388",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "22:19",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "PC 7135-2025-07-20": {
     "flightNumber": "PC 7135",
-    "status": "تم فتح البوابة",
+    "status": "غادرت",
     "actualTime": "23:05",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -638,7 +631,7 @@
   },
   "ME 443-2025-07-20": {
     "flightNumber": "ME 443",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "23:30",
     "type": "arivl",
     "airlineCode": "ME"
@@ -652,15 +645,15 @@
   },
   "ME 403-2025-07-20": {
     "flightNumber": "ME 403",
-    "status": "تبكير",
+    "status": "وصلت",
     "actualTime": "23:15",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 369-2025-07-20": {
     "flightNumber": "ME 369",
-    "status": "تبكير",
-    "actualTime": "23:20",
+    "status": "وصلت",
+    "actualTime": "23:15",
     "type": "arivl",
     "airlineCode": "ME"
   },
