@@ -1,35 +1,7 @@
 {
-  "RJ 408-2025-07-20": {
-    "flightNumber": "RJ 408",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:41",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
-  "ME 304-2025-07-20": {
-    "flightNumber": "ME 304",
-    "status": "النداء الاخير",
-    "actualTime": "07:45",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 201-2025-07-20": {
-    "flightNumber": "ME 201",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:34",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 271-2025-07-20": {
-    "flightNumber": "ME 271",
-    "status": "النداء الاخير",
-    "actualTime": "07:56",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EK 956-2025-07-20": {
     "flightNumber": "EK 956",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "09:51",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -43,29 +15,29 @@
   },
   "ME 263-2025-07-20": {
     "flightNumber": "ME 263",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:45",
+    "status": "غادرت",
+    "actualTime": "10:08",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 134-2025-07-20": {
-    "flightNumber": "IA 134",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:45",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "FZ 158-2025-07-20": {
     "flightNumber": "FZ 158",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "09:56",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
+  "IA 134-2025-07-20": {
+    "flightNumber": "IA 134",
+    "status": "النداء الاخير",
+    "actualTime": "10:16",
+    "type": "dprtr",
+    "airlineCode": "IA"
+  },
   "IA 136-2025-07-20": {
     "flightNumber": "IA 136",
-    "status": "",
-    "actualTime": "11:00",
+    "status": "النداء الاخير",
+    "actualTime": "10:14",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -958,19 +930,19 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "TK 827-2025-07-21": {
-    "flightNumber": "TK 827",
-    "status": "",
-    "actualTime": "21:50",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "CY 121-2025-07-21": {
     "flightNumber": "CY 121",
     "status": "",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
+  },
+  "TK 827-2025-07-21": {
+    "flightNumber": "TK 827",
+    "status": "",
+    "actualTime": "21:50",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "FZ 160-2025-07-21": {
     "flightNumber": "FZ 160",
