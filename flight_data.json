@@ -1,18 +1,4 @@
 {
-  "FZ 160-2025-07-20": {
-    "flightNumber": "FZ 160",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "21:39",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
-  "ME 261-2025-07-20": {
-    "flightNumber": "ME 261",
-    "status": "غادرت",
-    "actualTime": "22:15",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "G9 388-2025-07-20": {
     "flightNumber": "G9 388",
     "status": "تم اغلاق البوابة",
@@ -22,17 +8,10 @@
   },
   "PC 7135-2025-07-20": {
     "flightNumber": "PC 7135",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "23:05",
     "type": "dprtr",
     "airlineCode": "PC"
-  },
-  "ME 434-2025-07-20": {
-    "flightNumber": "ME 434",
-    "status": "غادرت",
-    "actualTime": "22:23",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "PC 1832-2025-07-21": {
     "flightNumber": "PC 1832",
@@ -617,24 +596,10 @@
   },
   "PC 7134-2025-07-20": {
     "flightNumber": "PC 7134",
-    "status": "",
-    "actualTime": "22:00",
+    "status": "وصلت",
+    "actualTime": "22:57",
     "type": "arivl",
     "airlineCode": "PC"
-  },
-  "G9 387-2025-07-20": {
-    "flightNumber": "G9 387",
-    "status": "وصلت",
-    "actualTime": "21:48",
-    "type": "arivl",
-    "airlineCode": "G9"
-  },
-  "ME 268-2025-07-20": {
-    "flightNumber": "ME 268",
-    "status": "وصلت",
-    "actualTime": "22:17",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "PC 1831-2025-07-20": {
     "flightNumber": "PC 1831",
@@ -652,8 +617,8 @@
   },
   "ME 419-2025-07-20": {
     "flightNumber": "ME 419",
-    "status": "",
-    "actualTime": "22:50",
+    "status": "وصلت",
+    "actualTime": "23:03",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -810,6 +775,13 @@
     "actualTime": "14:45",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "PC 1833-2025-07-21": {
+    "flightNumber": "PC 1833",
+    "status": "",
+    "actualTime": "04:50",
+    "type": "arivl",
+    "airlineCode": "PC"
   },
   "ME 435-2025-07-21": {
     "flightNumber": "ME 435",
