@@ -36,14 +36,14 @@
   },
   "ME 320-2025-07-20": {
     "flightNumber": "ME 320",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:55",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "11:26",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2025-07-20": {
     "flightNumber": "EK 958",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:05",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -64,17 +64,10 @@
   },
   "RJ 402-2025-07-20": {
     "flightNumber": "RJ 402",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:20",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:27",
     "type": "dprtr",
     "airlineCode": "RJ"
-  },
-  "IA 132-2025-07-20": {
-    "flightNumber": "IA 132",
-    "status": "",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
   },
   "UF 002-2025-07-20": {
     "flightNumber": "UF 002",
@@ -82,6 +75,13 @@
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "UF"
+  },
+  "IA 132-2025-07-20": {
+    "flightNumber": "IA 132",
+    "status": "تم فتح البوابة",
+    "actualTime": "12:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "G9 386-2025-07-20": {
     "flightNumber": "G9 386",
@@ -106,7 +106,7 @@
   },
   "QR 417-2025-07-20": {
     "flightNumber": "QR 417",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:05",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -932,7 +932,7 @@
   },
   "VF 546-2025-07-21": {
     "flightNumber": "VF 546",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "VF"
@@ -962,13 +962,6 @@
     "flightNumber": "IA 137",
     "status": "وصلت",
     "actualTime": "09:45",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "IA 135-2025-07-20": {
-    "flightNumber": "IA 135",
-    "status": "وصلت",
-    "actualTime": "09:39",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -1030,8 +1023,8 @@
   },
   "UF 001-2025-07-20": {
     "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "وصلت",
+    "actualTime": "11:38",
     "type": "arivl",
     "airlineCode": "UF"
   },
@@ -1044,8 +1037,8 @@
   },
   "QR 416-2025-07-20": {
     "flightNumber": "QR 416",
-    "status": "",
-    "actualTime": "11:35",
+    "status": "وصلت",
+    "actualTime": "11:33",
     "type": "arivl",
     "airlineCode": "QR"
   },
@@ -1058,8 +1051,8 @@
   },
   "G9 385-2025-07-20": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "11:50",
+    "status": "وصلت",
+    "actualTime": "11:37",
     "type": "arivl",
     "airlineCode": "G9"
   },
