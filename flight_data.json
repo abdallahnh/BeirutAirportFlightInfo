@@ -923,19 +923,19 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "LH 1307-2025-07-22": {
-    "flightNumber": "LH 1307",
-    "status": "",
-    "actualTime": "16:50",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "ME 312-2025-07-22": {
     "flightNumber": "ME 312",
     "status": "",
     "actualTime": "16:50",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "LH 1307-2025-07-22": {
+    "flightNumber": "LH 1307",
+    "status": "",
+    "actualTime": "16:50",
+    "type": "dprtr",
+    "airlineCode": "LH"
   },
   "IA 140-2025-07-22": {
     "flightNumber": "IA 140",
@@ -1191,8 +1191,8 @@
   },
   "ME 429-2025-07-20": {
     "flightNumber": "ME 429",
-    "status": "",
-    "actualTime": "23:59",
+    "status": "وصلت",
+    "actualTime": "00:03",
     "type": "arivl",
     "airlineCode": "ME"
   },
