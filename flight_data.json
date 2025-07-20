@@ -1,11 +1,4 @@
 {
-  "QR 419-2025-07-21": {
-    "flightNumber": "QR 419",
-    "status": "النداء الاخير",
-    "actualTime": "01:10",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "PC 1827-2025-07-21": {
     "flightNumber": "PC 1827",
     "status": "",
@@ -22,15 +15,15 @@
   },
   "VF 544-2025-07-21": {
     "flightNumber": "VF 544",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:00",
     "type": "dprtr",
     "airlineCode": "VF"
   },
   "ME 571-2025-07-21": {
     "flightNumber": "ME 571",
-    "status": "تم فتح البوابة",
-    "actualTime": "02:05",
+    "status": "النداء الاخير",
+    "actualTime": "01:40",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -1098,41 +1091,6 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "ME 230-2025-07-20": {
-    "flightNumber": "ME 230",
-    "status": "وصلت",
-    "actualTime": "23:37",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "PC 762-2025-07-20": {
-    "flightNumber": "PC 762",
-    "status": "وصلت",
-    "actualTime": "23:40",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "ME 443-2025-07-20": {
-    "flightNumber": "ME 443",
-    "status": "وصلت",
-    "actualTime": "23:30",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 423-2025-07-20": {
-    "flightNumber": "ME 423",
-    "status": "وصلت",
-    "actualTime": "23:36",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 224-2025-07-20": {
-    "flightNumber": "ME 224",
-    "status": "وصلت",
-    "actualTime": "23:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "LH 1308-2025-07-20": {
     "flightNumber": "LH 1308",
     "status": "وصلت",
@@ -1170,8 +1128,8 @@
   },
   "VF 543-2025-07-21": {
     "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "01:10",
+    "status": "وصلت",
+    "actualTime": "01:38",
     "type": "arivl",
     "airlineCode": "VF"
   },
