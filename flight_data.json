@@ -71,8 +71,8 @@
   },
   "ME 430-2025-07-20": {
     "flightNumber": "ME 430",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:40",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -92,8 +92,8 @@
   },
   "RJ 404-2025-07-20": {
     "flightNumber": "RJ 404",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:35",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -734,13 +734,6 @@
     "type": "arivl",
     "airlineCode": "KU"
   },
-  "QR 426-2025-07-20": {
-    "flightNumber": "QR 426",
-    "status": "وصلت",
-    "actualTime": "18:16",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "CY 120-2025-07-20": {
     "flightNumber": "CY 120",
     "status": "وصلت",
@@ -769,19 +762,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 313-2025-07-20": {
-    "flightNumber": "ME 313",
-    "status": "وصلت",
-    "actualTime": "19:46",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 1824-2025-07-20": {
     "flightNumber": "PC 1824",
     "status": "",
     "actualTime": "20:00",
     "type": "arivl",
     "airlineCode": "PC"
+  },
+  "ME 313-2025-07-20": {
+    "flightNumber": "ME 313",
+    "status": "وصلت",
+    "actualTime": "19:46",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "ME 282-2025-07-20": {
     "flightNumber": "ME 282",
@@ -799,14 +792,14 @@
   },
   "RJ 403-2025-07-20": {
     "flightNumber": "RJ 403",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "20:13",
     "type": "arivl",
     "airlineCode": "RJ"
   },
   "J9 261-2025-07-20": {
     "flightNumber": "J9 261",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "20:09",
     "type": "arivl",
     "airlineCode": "J9"
