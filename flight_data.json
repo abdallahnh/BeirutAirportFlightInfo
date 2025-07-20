@@ -41,13 +41,6 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
-  "ME 229-2025-07-20": {
-    "flightNumber": "ME 229",
-    "status": "النداء الاخير",
-    "actualTime": "12:41",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ET 3407-2025-07-20": {
     "flightNumber": "ET 3407",
     "status": "",
@@ -57,14 +50,14 @@
   },
   "QR 417-2025-07-20": {
     "flightNumber": "QR 417",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:39",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "EY 582-2025-07-20": {
     "flightNumber": "EY 582",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "14:00",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -930,13 +923,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "RJ 401-2025-07-20": {
-    "flightNumber": "RJ 401",
-    "status": "وصلت",
-    "actualTime": "10:51",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "UF 001-2025-07-20": {
     "flightNumber": "UF 001",
     "status": "وصلت",
@@ -988,8 +974,8 @@
   },
   "ME 266-2025-07-20": {
     "flightNumber": "ME 266",
-    "status": "",
-    "actualTime": "13:15",
+    "status": "وصلت",
+    "actualTime": "13:01",
     "type": "arivl",
     "airlineCode": "ME"
   },
