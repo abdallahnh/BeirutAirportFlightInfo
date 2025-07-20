@@ -36,7 +36,7 @@
   },
   "KU 502-2025-07-20": {
     "flightNumber": "KU 502",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "19:49",
     "type": "dprtr",
     "airlineCode": "KU"
@@ -50,15 +50,15 @@
   },
   "QR 427-2025-07-20": {
     "flightNumber": "QR 427",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "19:29",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "MS 712-2025-07-20": {
     "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "20:10",
+    "status": "النداء الاخير",
+    "actualTime": "20:09",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -71,14 +71,14 @@
   },
   "ME 430-2025-07-20": {
     "flightNumber": "ME 430",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "G9 409-2025-07-20": {
     "flightNumber": "G9 409",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:10",
     "type": "dprtr",
     "airlineCode": "G9"
@@ -92,7 +92,7 @@
   },
   "RJ 404-2025-07-20": {
     "flightNumber": "RJ 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:30",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -769,13 +769,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "PC 1824-2025-07-20": {
-    "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "20:00",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "ME 313-2025-07-20": {
     "flightNumber": "ME 313",
     "status": "وصلت",
@@ -783,31 +776,38 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "PC 1824-2025-07-20": {
+    "flightNumber": "PC 1824",
+    "status": "",
+    "actualTime": "20:00",
+    "type": "arivl",
+    "airlineCode": "PC"
+  },
   "ME 282-2025-07-20": {
     "flightNumber": "ME 282",
-    "status": "",
-    "actualTime": "20:05",
+    "status": "وصلت",
+    "actualTime": "20:04",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "G9 408-2025-07-20": {
     "flightNumber": "G9 408",
-    "status": "",
-    "actualTime": "20:30",
+    "status": "وصلت",
+    "actualTime": "20:06",
     "type": "arivl",
     "airlineCode": "G9"
   },
   "RJ 403-2025-07-20": {
     "flightNumber": "RJ 403",
     "status": "",
-    "actualTime": "20:35",
+    "actualTime": "20:13",
     "type": "arivl",
     "airlineCode": "RJ"
   },
   "J9 261-2025-07-20": {
     "flightNumber": "J9 261",
     "status": "",
-    "actualTime": "20:35",
+    "actualTime": "20:09",
     "type": "arivl",
     "airlineCode": "J9"
   },
