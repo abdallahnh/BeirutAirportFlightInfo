@@ -13,20 +13,6 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "IA 1302-2025-07-20": {
-    "flightNumber": "IA 1302",
-    "status": "غادرت",
-    "actualTime": "17:07",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "ME 267-2025-07-20": {
-    "flightNumber": "ME 267",
-    "status": "غادرت",
-    "actualTime": "17:27",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 281-2025-07-20": {
     "flightNumber": "ME 281",
     "status": "تم اغلاق البوابة",
@@ -50,7 +36,7 @@
   },
   "KU 502-2025-07-20": {
     "flightNumber": "KU 502",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:45",
     "type": "dprtr",
     "airlineCode": "KU"
@@ -741,20 +727,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "ME 218-2025-07-20": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "16:58",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 214-2025-07-20": {
-    "flightNumber": "ME 214",
-    "status": "وصلت",
-    "actualTime": "16:54",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 1307-2025-07-20": {
     "flightNumber": "IA 1307",
     "status": "وصلت",
@@ -776,19 +748,19 @@
     "type": "arivl",
     "airlineCode": "KU"
   },
-  "CY 120-2025-07-20": {
-    "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "18:50",
-    "type": "arivl",
-    "airlineCode": "CY"
-  },
   "QR 426-2025-07-20": {
     "flightNumber": "QR 426",
     "status": "وصلت",
     "actualTime": "18:16",
     "type": "arivl",
     "airlineCode": "QR"
+  },
+  "CY 120-2025-07-20": {
+    "flightNumber": "CY 120",
+    "status": "وصلت",
+    "actualTime": "18:57",
+    "type": "arivl",
+    "airlineCode": "CY"
   },
   "ME 212-2025-07-20": {
     "flightNumber": "ME 212",
