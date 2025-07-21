@@ -1,25 +1,4 @@
 {
-  "ME 434-2025-07-21": {
-    "flightNumber": "ME 434",
-    "status": "النداء الاخير",
-    "actualTime": "22:20",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "G9 388-2025-07-21": {
-    "flightNumber": "G9 388",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "22:18",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
-  "RJ 501-2025-07-21": {
-    "flightNumber": "RJ 501",
-    "status": "",
-    "actualTime": "23:45",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "QR 419-2025-07-22": {
     "flightNumber": "QR 419",
     "status": "تم اغلاق البوابة",
@@ -50,7 +29,7 @@
   },
   "ET 407-2025-07-22": {
     "flightNumber": "ET 407",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -1126,76 +1105,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "VF 545-2025-07-21": {
-    "flightNumber": "VF 545",
-    "status": "",
-    "actualTime": "22:10",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
-  "RJ 050-2025-07-21": {
-    "flightNumber": "RJ 050",
-    "status": "",
-    "actualTime": "22:15",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
-  "ME 403-2025-07-21": {
-    "flightNumber": "ME 403",
-    "status": "",
-    "actualTime": "23:25",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 230-2025-07-21": {
-    "flightNumber": "ME 230",
-    "status": "وصلت",
-    "actualTime": "23:48",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 423-2025-07-21": {
-    "flightNumber": "ME 423",
-    "status": "وصلت",
-    "actualTime": "00:12",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 224-2025-07-21": {
-    "flightNumber": "ME 224",
-    "status": "وصلت",
-    "actualTime": "23:54",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "EK 955-2025-07-21": {
-    "flightNumber": "EK 955",
-    "status": "ألغيت",
-    "actualTime": "23:50",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
-  "LH 1308-2025-07-21": {
-    "flightNumber": "LH 1308",
-    "status": "وصلت",
-    "actualTime": "01:30",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
-  "ME 429-2025-07-21": {
-    "flightNumber": "ME 429",
-    "status": "وصلت",
-    "actualTime": "23:51",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "QR 418-2025-07-22": {
-    "flightNumber": "QR 418",
-    "status": "وصلت",
-    "actualTime": "00:03",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "VF 543-2025-07-22": {
     "flightNumber": "VF 543",
     "status": "",
@@ -1212,8 +1121,8 @@
   },
   "ET 406-2025-07-22": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "وصلت",
+    "actualTime": "01:45",
     "type": "arivl",
     "airlineCode": "ET"
   },
