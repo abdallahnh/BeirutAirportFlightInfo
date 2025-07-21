@@ -34,51 +34,44 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EY 584-2025-07-21": {
-    "flightNumber": "EY 584",
-    "status": "غادرت",
-    "actualTime": "18:33",
-    "type": "dprtr",
-    "airlineCode": "EY"
-  },
   "EK 954-2025-07-21": {
     "flightNumber": "EK 954",
-    "status": "",
-    "actualTime": "19:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:25",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "TK 3439-2025-07-21": {
     "flightNumber": "TK 3439",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "20:00",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "ME 402-2025-07-21": {
     "flightNumber": "ME 402",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "19:03",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "QR 427-2025-07-21": {
     "flightNumber": "QR 427",
-    "status": "تم فتح البوابة",
-    "actualTime": "20:05",
+    "status": "النداء الاخير",
+    "actualTime": "19:16",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "MS 712-2025-07-21": {
     "flightNumber": "MS 712",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:10",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "RJ 404-2025-07-21": {
     "flightNumber": "RJ 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -111,19 +104,19 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "TK 827-2025-07-21": {
-    "flightNumber": "TK 827",
-    "status": "",
-    "actualTime": "21:50",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "CY 121-2025-07-21": {
     "flightNumber": "CY 121",
     "status": "",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
+  },
+  "TK 827-2025-07-21": {
+    "flightNumber": "TK 827",
+    "status": "",
+    "actualTime": "22:25",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "FZ 160-2025-07-21": {
     "flightNumber": "FZ 160",
@@ -692,13 +685,6 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "EY 583-2025-07-21": {
-    "flightNumber": "EY 583",
-    "status": "وصلت",
-    "actualTime": "17:35",
-    "type": "arivl",
-    "airlineCode": "EY"
-  },
   "EK 953-2025-07-21": {
     "flightNumber": "EK 953",
     "status": "وصلت",
@@ -750,8 +736,8 @@
   },
   "RJ 403-2025-07-21": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "19:40",
+    "status": "وصلت",
+    "actualTime": "19:15",
     "type": "arivl",
     "airlineCode": "RJ"
   },
