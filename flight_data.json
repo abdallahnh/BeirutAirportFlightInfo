@@ -62,24 +62,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 368-2025-07-22": {
-    "flightNumber": "ME 368",
-    "status": "غادرت",
-    "actualTime": "17:11",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 422-2025-07-22": {
     "flightNumber": "ME 422",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "17:16",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 402-2025-07-22": {
-    "flightNumber": "ME 402",
     "status": "غادرت",
-    "actualTime": "18:00",
+    "actualTime": "17:16",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -92,7 +78,7 @@
   },
   "EY 584-2025-07-22": {
     "flightNumber": "EY 584",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:15",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -216,19 +202,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "PC 759-2025-07-23": {
-    "flightNumber": "PC 759",
-    "status": "",
-    "actualTime": "03:05",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "ET 407-2025-07-23": {
     "flightNumber": "ET 407",
     "status": "",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "ET"
+  },
+  "PC 759-2025-07-23": {
+    "flightNumber": "PC 759",
+    "status": "",
+    "actualTime": "03:05",
+    "type": "dprtr",
+    "airlineCode": "PC"
   },
   "LO 144-2025-07-23": {
     "flightNumber": "LO 144",
@@ -769,13 +755,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 327-2025-07-22": {
-    "flightNumber": "ME 327",
-    "status": "وصلت",
-    "actualTime": "15:58",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 216-2025-07-22": {
     "flightNumber": "ME 216",
     "status": "وصلت",
@@ -813,8 +792,8 @@
   },
   "QR 426-2025-07-22": {
     "flightNumber": "QR 426",
-    "status": "",
-    "actualTime": "18:35",
+    "status": "وصلت",
+    "actualTime": "17:58",
     "type": "arivl",
     "airlineCode": "QR"
   },
