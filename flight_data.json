@@ -13,17 +13,10 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "MS 712-2025-07-22": {
-    "flightNumber": "MS 712",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "19:43",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "PC 1825-2025-07-22": {
     "flightNumber": "PC 1825",
-    "status": "",
-    "actualTime": "20:45",
+    "status": "النداء الاخير",
+    "actualTime": "20:02",
     "type": "dprtr",
     "airlineCode": "PC"
   },
@@ -36,7 +29,7 @@
   },
   "ME 430-2025-07-22": {
     "flightNumber": "ME 430",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -50,7 +43,7 @@
   },
   "RJ 404-2025-07-22": {
     "flightNumber": "RJ 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:30",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -650,13 +643,6 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "QR 426-2025-07-22": {
-    "flightNumber": "QR 426",
-    "status": "وصلت",
-    "actualTime": "17:58",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "ME 212-2025-07-22": {
     "flightNumber": "ME 212",
     "status": "وصلت",
@@ -680,15 +666,15 @@
   },
   "PC 1824-2025-07-22": {
     "flightNumber": "PC 1824",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "19:47",
     "type": "arivl",
     "airlineCode": "PC"
   },
   "ME 323-2025-07-22": {
     "flightNumber": "ME 323",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "19:49",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -701,15 +687,15 @@
   },
   "RJ 403-2025-07-22": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "20:35",
+    "status": "وصلت",
+    "actualTime": "20:12",
     "type": "arivl",
     "airlineCode": "RJ"
   },
   "J9 261-2025-07-22": {
     "flightNumber": "J9 261",
-    "status": "",
-    "actualTime": "20:35",
+    "status": "وصلت",
+    "actualTime": "20:17",
     "type": "arivl",
     "airlineCode": "J9"
   },
