@@ -48,44 +48,30 @@
     "type": "dprtr",
     "airlineCode": "RO"
   },
-  "ME 275-2025-07-22": {
-    "flightNumber": "ME 275",
-    "status": "",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 243-2025-07-22": {
-    "flightNumber": "ME 243",
-    "status": "",
-    "actualTime": "06:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 251-2025-07-22": {
     "flightNumber": "ME 251",
-    "status": "",
-    "actualTime": "07:00",
+    "status": "النداء الاخير",
+    "actualTime": "06:21",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 247-2025-07-22": {
     "flightNumber": "ME 247",
-    "status": "",
-    "actualTime": "07:00",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "06:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 215-2025-07-22": {
     "flightNumber": "ME 215",
-    "status": "",
-    "actualTime": "07:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:34",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 231-2025-07-22": {
     "flightNumber": "ME 231",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -106,7 +92,7 @@
   },
   "RJ 408-2025-07-22": {
     "flightNumber": "RJ 408",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:35",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -1084,13 +1070,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "MS 713-2025-07-22": {
-    "flightNumber": "MS 713",
-    "status": "وصلت",
-    "actualTime": "03:28",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "ME 431-2025-07-22": {
     "flightNumber": "ME 431",
     "status": "وصلت",
@@ -1114,8 +1093,8 @@
   },
   "RJ 407-2025-07-22": {
     "flightNumber": "RJ 407",
-    "status": "",
-    "actualTime": "06:30",
+    "status": "وصلت",
+    "actualTime": "05:53",
     "type": "arivl",
     "airlineCode": "RJ"
   },
