@@ -1,32 +1,4 @@
 {
-  "ME 402-2025-07-23": {
-    "flightNumber": "ME 402",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "18:18",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "EK 954-2025-07-23": {
-    "flightNumber": "EK 954",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "18:58",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
-  "TK 3439-2025-07-23": {
-    "flightNumber": "TK 3439",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "19:09",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "QR 427-2025-07-23": {
-    "flightNumber": "QR 427",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "19:10",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "PC 1825-2025-07-23": {
     "flightNumber": "PC 1825",
     "status": "النداء الاخير",
@@ -44,7 +16,7 @@
   "ME 430-2025-07-23": {
     "flightNumber": "ME 430",
     "status": "تم فتح البوابة",
-    "actualTime": "21:00",
+    "actualTime": "21:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -713,19 +685,19 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "ME 434-2025-07-24": {
-    "flightNumber": "ME 434",
-    "status": "",
-    "actualTime": "23:05",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "PC 7135-2025-07-24": {
     "flightNumber": "PC 7135",
     "status": "",
     "actualTime": "22:00",
     "type": "arivl",
     "airlineCode": "PC"
+  },
+  "ME 434-2025-07-24": {
+    "flightNumber": "ME 434",
+    "status": "",
+    "actualTime": "23:05",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 1422-2025-07-24": {
     "flightNumber": "ME 1422",
@@ -806,8 +778,8 @@
   },
   "CY 120-2025-07-23": {
     "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "20:50",
+    "status": "وصلت",
+    "actualTime": "20:39",
     "type": "arivl",
     "airlineCode": "CY"
   },
