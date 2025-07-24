@@ -1,31 +1,10 @@
 {
-  "KU 504-2025-07-24": {
-    "flightNumber": "KU 504",
-    "status": "تأخير",
-    "actualTime": "02:55",
-    "type": "dprtr",
-    "airlineCode": "KU"
-  },
   "FZ 160-2025-07-24": {
     "flightNumber": "FZ 160",
     "status": "تم اغلاق البوابة",
     "actualTime": "21:46",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "G9 388-2025-07-24": {
-    "flightNumber": "G9 388",
-    "status": "النداء الاخير",
-    "actualTime": "22:43",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
-  "ME 434-2025-07-24": {
-    "flightNumber": "ME 434",
-    "status": "غادرت",
-    "actualTime": "22:40",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "QR 419-2025-07-25": {
     "flightNumber": "QR 419",
@@ -54,6 +33,13 @@
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "KU 504-2025-07-25": {
+    "flightNumber": "KU 504",
+    "status": "",
+    "actualTime": "02:55",
+    "type": "dprtr",
+    "airlineCode": "KU"
   },
   "PC 759-2025-07-25": {
     "flightNumber": "PC 759",
@@ -593,13 +579,6 @@
     "actualTime": "01:55",
     "type": "arivl",
     "airlineCode": "KU"
-  },
-  "FZ 159-2025-07-24": {
-    "flightNumber": "FZ 159",
-    "status": "وصلت",
-    "actualTime": "21:08",
-    "type": "arivl",
-    "airlineCode": "FZ"
   },
   "ME 307-2025-07-24": {
     "flightNumber": "ME 307",
