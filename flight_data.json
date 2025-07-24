@@ -6,16 +6,9 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "LH 1309-2025-07-25": {
-    "flightNumber": "LH 1309",
-    "status": "غادرت",
-    "actualTime": "00:52",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "VF 544-2025-07-25": {
     "flightNumber": "VF 544",
-    "status": "تم فتح البوابة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "02:00",
     "type": "dprtr",
     "airlineCode": "VF"
@@ -29,8 +22,8 @@
   },
   "KU 504-2025-07-25": {
     "flightNumber": "KU 504",
-    "status": "",
-    "actualTime": "02:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:50",
     "type": "dprtr",
     "airlineCode": "KU"
   },
@@ -125,15 +118,15 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 217-2025-07-25": {
-    "flightNumber": "ME 217",
+  "ME 231-2025-07-25": {
+    "flightNumber": "ME 231",
     "status": "",
     "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 231-2025-07-25": {
-    "flightNumber": "ME 231",
+  "ME 217-2025-07-25": {
+    "flightNumber": "ME 217",
     "status": "",
     "actualTime": "07:20",
     "type": "dprtr",
@@ -1133,13 +1126,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 403-2025-07-24": {
-    "flightNumber": "ME 403",
-    "status": "وصلت",
-    "actualTime": "23:48",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 230-2025-07-24": {
     "flightNumber": "ME 230",
     "status": "وصلت",
@@ -1153,27 +1139,6 @@
     "actualTime": "00:01",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "ME 369-2025-07-24": {
-    "flightNumber": "ME 369",
-    "status": "وصلت",
-    "actualTime": "23:46",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 224-2025-07-24": {
-    "flightNumber": "ME 224",
-    "status": "وصلت",
-    "actualTime": "23:53",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "LH 1308-2025-07-24": {
-    "flightNumber": "LH 1308",
-    "status": "وصلت",
-    "actualTime": "23:50",
-    "type": "arivl",
-    "airlineCode": "LH"
   },
   "VF 543-2025-07-25": {
     "flightNumber": "VF 543",
@@ -1329,19 +1294,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 131-2025-07-25": {
-    "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "UF 001-2025-07-25": {
     "flightNumber": "UF 001",
     "status": "",
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "UF"
+  },
+  "IA 131-2025-07-25": {
+    "flightNumber": "IA 131",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "QR 416-2025-07-25": {
     "flightNumber": "QR 416",
