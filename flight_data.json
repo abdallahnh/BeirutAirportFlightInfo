@@ -1427,6 +1427,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "RJ 407-2025-07-26": {
+    "flightNumber": "RJ 407",
+    "status": "",
+    "actualTime": "06:30",
+    "type": "arivl",
+    "airlineCode": "RJ"
+  },
   "ME 272-2025-07-26": {
     "flightNumber": "ME 272",
     "status": "",
@@ -1476,13 +1483,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 305-2025-07-26": {
-    "flightNumber": "ME 305",
-    "status": "",
-    "actualTime": "11:20",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "RJ 401-2025-07-26": {
     "flightNumber": "RJ 401",
     "status": "",
@@ -1490,12 +1490,12 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "IA 131-2025-07-26": {
-    "flightNumber": "IA 131",
+  "ME 305-2025-07-26": {
+    "flightNumber": "ME 305",
     "status": "",
-    "actualTime": "11:30",
+    "actualTime": "11:20",
     "type": "arivl",
-    "airlineCode": "IA"
+    "airlineCode": "ME"
   },
   "UF 001-2025-07-26": {
     "flightNumber": "UF 001",
@@ -1503,6 +1503,13 @@
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "UF"
+  },
+  "IA 131-2025-07-26": {
+    "flightNumber": "IA 131",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "QR 416-2025-07-26": {
     "flightNumber": "QR 416",
