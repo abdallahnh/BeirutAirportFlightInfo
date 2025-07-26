@@ -22,7 +22,7 @@
   },
   "KU 504-2025-07-26": {
     "flightNumber": "KU 504",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "21:58",
     "type": "dprtr",
     "airlineCode": "KU"
@@ -267,7 +267,7 @@
   },
   "EK 956-2025-07-27": {
     "flightNumber": "EK 956",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "09:30",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -713,13 +713,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 202-2025-07-26": {
-    "flightNumber": "ME 202",
-    "status": "وصلت",
-    "actualTime": "20:17",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 1824-2025-07-26": {
     "flightNumber": "PC 1824",
     "status": "تأخير",
@@ -727,40 +720,12 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "ME 323-2025-07-26": {
-    "flightNumber": "ME 323",
-    "status": "وصلت",
-    "actualTime": "20:01",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 313-2025-07-26": {
-    "flightNumber": "ME 313",
-    "status": "وصلت",
-    "actualTime": "20:05",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 242-2025-07-26": {
     "flightNumber": "ME 242",
     "status": "وصلت",
     "actualTime": "20:23",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "ME 576-2025-07-26": {
-    "flightNumber": "ME 576",
-    "status": "وصلت",
-    "actualTime": "20:19",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "G9 408-2025-07-26": {
-    "flightNumber": "G9 408",
-    "status": "وصلت",
-    "actualTime": "20:15",
-    "type": "arivl",
-    "airlineCode": "G9"
   },
   "J9 261-2025-07-26": {
     "flightNumber": "J9 261",
@@ -799,7 +764,7 @@
   },
   "SK 2967-2025-07-26": {
     "flightNumber": "SK 2967",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "22:01",
     "type": "arivl",
     "airlineCode": "SK"
@@ -813,7 +778,7 @@
   },
   "G9 387-2025-07-26": {
     "flightNumber": "G9 387",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "22:04",
     "type": "arivl",
     "airlineCode": "G9"
