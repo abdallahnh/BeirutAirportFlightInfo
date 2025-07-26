@@ -1,22 +1,15 @@
 {
-  "PC 1825-2025-07-26": {
-    "flightNumber": "PC 1825",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "00:03",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "QR 419-2025-07-27": {
     "flightNumber": "QR 419",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "00:53",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "LH 1309-2025-07-27": {
     "flightNumber": "LH 1309",
-    "status": "",
-    "actualTime": "01:50",
+    "status": "النداء الاخير",
+    "actualTime": "01:07",
     "type": "dprtr",
     "airlineCode": "LH"
   },
@@ -1231,72 +1224,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "QR 418-2025-07-26": {
-    "flightNumber": "QR 418",
-    "status": "وصلت",
-    "actualTime": "23:20",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
-  "ME 403-2025-07-26": {
-    "flightNumber": "ME 403",
-    "status": "وصلت",
-    "actualTime": "23:58",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 230-2025-07-26": {
-    "flightNumber": "ME 230",
-    "status": "وصلت",
-    "actualTime": "23:42",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 443-2025-07-26": {
-    "flightNumber": "ME 443",
-    "status": "وصلت",
-    "actualTime": "00:07",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 423-2025-07-26": {
-    "flightNumber": "ME 423",
-    "status": "وصلت",
-    "actualTime": "00:17",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 369-2025-07-26": {
-    "flightNumber": "ME 369",
-    "status": "وصلت",
-    "actualTime": "00:06",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 437-2025-07-26": {
-    "flightNumber": "ME 437",
-    "status": "وصلت",
-    "actualTime": "00:11",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "LH 1308-2025-07-26": {
-    "flightNumber": "LH 1308",
-    "status": "وصلت",
-    "actualTime": "00:02",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
-  "ME 429-2025-07-26": {
-    "flightNumber": "ME 429",
-    "status": "وصلت",
-    "actualTime": "00:01",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 1232-2025-07-27": {
     "flightNumber": "ME 1232",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "00:54",
     "type": "arivl",
     "airlineCode": "ME"
