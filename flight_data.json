@@ -1,11 +1,4 @@
 {
-  "RJ 402-2025-07-26": {
-    "flightNumber": "RJ 402",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "11:45",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "IA 132-2025-07-26": {
     "flightNumber": "IA 132",
     "status": "تم اغلاق البوابة",
@@ -34,26 +27,12 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "EY 582-2025-07-26": {
-    "flightNumber": "EY 582",
-    "status": "غادرت",
-    "actualTime": "13:13",
-    "type": "dprtr",
-    "airlineCode": "EY"
-  },
   "ME 418-2025-07-26": {
     "flightNumber": "ME 418",
     "status": "",
     "actualTime": "15:25",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "RJ 406-2025-07-26": {
-    "flightNumber": "RJ 406",
-    "status": "",
-    "actualTime": "17:45",
-    "type": "dprtr",
-    "airlineCode": "RJ"
   },
   "TK 825-2025-07-26": {
     "flightNumber": "TK 825",
@@ -159,6 +138,13 @@
     "actualTime": "17:35",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "RJ 406-2025-07-26": {
+    "flightNumber": "RJ 406",
+    "status": "",
+    "actualTime": "17:45",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "ME 368-2025-07-26": {
     "flightNumber": "ME 368",
@@ -888,13 +874,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "EY 581-2025-07-26": {
-    "flightNumber": "EY 581",
-    "status": "وصلت",
-    "actualTime": "12:22",
-    "type": "arivl",
-    "airlineCode": "EY"
-  },
   "ME 266-2025-07-26": {
     "flightNumber": "ME 266",
     "status": "وصلت",
@@ -904,15 +883,15 @@
   },
   "ME 425-2025-07-26": {
     "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
+    "status": "وصلت",
+    "actualTime": "14:13",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "AF 564-2025-07-26": {
     "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "وصلت",
+    "actualTime": "14:16",
     "type": "arivl",
     "airlineCode": "AF"
   },
