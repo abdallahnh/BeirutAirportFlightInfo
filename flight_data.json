@@ -55,13 +55,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "UF 002-2025-07-27": {
-    "flightNumber": "UF 002",
-    "status": "غادرت",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "IA 132-2025-07-27": {
     "flightNumber": "IA 132",
     "status": "النداء الاخير",
@@ -78,7 +71,7 @@
   },
   "QR 417-2025-07-27": {
     "flightNumber": "QR 417",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "12:27",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -923,19 +916,19 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "TK 827-2025-07-28": {
-    "flightNumber": "TK 827",
-    "status": "",
-    "actualTime": "21:50",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "CY 121-2025-07-28": {
     "flightNumber": "CY 121",
     "status": "",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
+  },
+  "TK 827-2025-07-28": {
+    "flightNumber": "TK 827",
+    "status": "",
+    "actualTime": "21:50",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "FZ 160-2025-07-28": {
     "flightNumber": "FZ 160",
@@ -978,13 +971,6 @@
     "actualTime": "06:30",
     "type": "arivl",
     "airlineCode": "RJ"
-  },
-  "ME 311-2025-07-27": {
-    "flightNumber": "ME 311",
-    "status": "وصلت",
-    "actualTime": "10:34",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 276-2025-07-27": {
     "flightNumber": "ME 276",
@@ -1037,8 +1023,8 @@
   },
   "EY 581-2025-07-27": {
     "flightNumber": "EY 581",
-    "status": "",
-    "actualTime": "12:25",
+    "status": "وصلت",
+    "actualTime": "12:35",
     "type": "arivl",
     "airlineCode": "EY"
   },
@@ -1077,19 +1063,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 236-2025-07-27": {
-    "flightNumber": "ME 236",
-    "status": "",
-    "actualTime": "14:30",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 6004-2025-07-27": {
     "flightNumber": "PC 6004",
     "status": "",
     "actualTime": "14:30",
     "type": "arivl",
     "airlineCode": "PC"
+  },
+  "ME 236-2025-07-27": {
+    "flightNumber": "ME 236",
+    "status": "",
+    "actualTime": "14:30",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "TK 824-2025-07-27": {
     "flightNumber": "TK 824",
