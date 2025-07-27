@@ -43,28 +43,21 @@
   },
   "ME 324-2025-07-27": {
     "flightNumber": "ME 324",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "12:15",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 308-2025-07-27": {
-    "flightNumber": "ME 308",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 402-2025-07-27": {
     "flightNumber": "RJ 402",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:37",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "UF 002-2025-07-27": {
     "flightNumber": "UF 002",
-    "status": "",
+    "status": "غادرت",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "UF"
@@ -78,15 +71,15 @@
   },
   "G9 386-2025-07-27": {
     "flightNumber": "G9 386",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:54",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "QR 417-2025-07-27": {
     "flightNumber": "QR 417",
-    "status": "",
-    "actualTime": "13:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:27",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -986,13 +979,6 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "MS 709-2025-07-27": {
-    "flightNumber": "MS 709",
-    "status": "وصلت",
-    "actualTime": "10:03",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "ME 311-2025-07-27": {
     "flightNumber": "ME 311",
     "status": "وصلت",
@@ -1091,19 +1077,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "PC 6004-2025-07-27": {
-    "flightNumber": "PC 6004",
-    "status": "",
-    "actualTime": "14:30",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "ME 236-2025-07-27": {
     "flightNumber": "ME 236",
     "status": "",
     "actualTime": "14:30",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "PC 6004-2025-07-27": {
+    "flightNumber": "PC 6004",
+    "status": "",
+    "actualTime": "14:30",
+    "type": "arivl",
+    "airlineCode": "PC"
   },
   "TK 824-2025-07-27": {
     "flightNumber": "TK 824",
