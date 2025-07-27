@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 136-2025-07-27": {
-    "flightNumber": "IA 136",
-    "status": "النداء الاخير",
-    "actualTime": "10:02",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "MS 710-2025-07-27": {
     "flightNumber": "MS 710",
     "status": "النداء الاخير",
@@ -43,24 +36,17 @@
   },
   "ME 320-2025-07-27": {
     "flightNumber": "ME 320",
-    "status": "",
-    "actualTime": "11:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:10",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2025-07-27": {
     "flightNumber": "EK 958",
-    "status": "",
-    "actualTime": "12:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:09",
     "type": "dprtr",
     "airlineCode": "EK"
-  },
-  "ME 324-2025-07-27": {
-    "flightNumber": "ME 324",
-    "status": "",
-    "actualTime": "12:15",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "ME 308-2025-07-27": {
     "flightNumber": "ME 308",
@@ -69,9 +55,16 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "ME 324-2025-07-27": {
+    "flightNumber": "ME 324",
+    "status": "",
+    "actualTime": "12:15",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "RJ 402-2025-07-27": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -1007,13 +1000,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "FZ 157-2025-07-27": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "08:54",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "IA 135-2025-07-27": {
     "flightNumber": "IA 135",
     "status": "وصلت",
@@ -1058,15 +1044,15 @@
   },
   "RJ 401-2025-07-27": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "11:20",
+    "status": "وصلت",
+    "actualTime": "11:08",
     "type": "arivl",
     "airlineCode": "RJ"
   },
   "ME 305-2025-07-27": {
     "flightNumber": "ME 305",
-    "status": "",
-    "actualTime": "11:20",
+    "status": "وصلت",
+    "actualTime": "11:13",
     "type": "arivl",
     "airlineCode": "ME"
   },
