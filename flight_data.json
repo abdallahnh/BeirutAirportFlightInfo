@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "EY"
   },
-  "TK 3440-2025-07-28": {
-    "flightNumber": "TK 3440",
-    "status": "غادرت",
-    "actualTime": "14:08",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "ME 223-2025-07-28": {
     "flightNumber": "ME 223",
     "status": "تأخير",
@@ -22,14 +15,14 @@
   },
   "ME 436-2025-07-28": {
     "flightNumber": "ME 436",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "14:44",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 418-2025-07-28": {
     "flightNumber": "ME 418",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:25",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -806,7 +799,7 @@
   },
   "ME 427-2025-07-28": {
     "flightNumber": "ME 427",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "14:50",
     "type": "arivl",
     "airlineCode": "ME"
