@@ -134,15 +134,15 @@
   },
   "QR 419-2025-07-29": {
     "flightNumber": "QR 419",
-    "status": "",
-    "actualTime": "01:40",
+    "status": "تأخير",
+    "actualTime": "02:30",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "LH 1309-2025-07-29": {
     "flightNumber": "LH 1309",
-    "status": "",
-    "actualTime": "01:50",
+    "status": "النداء الاخير",
+    "actualTime": "01:09",
     "type": "dprtr",
     "airlineCode": "LH"
   },
@@ -155,8 +155,8 @@
   },
   "ME 575-2025-07-29": {
     "flightNumber": "ME 575",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -1224,31 +1224,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 268-2025-07-28": {
-    "flightNumber": "ME 268",
-    "status": "وصلت",
-    "actualTime": "23:17",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 419-2025-07-28": {
-    "flightNumber": "ME 419",
-    "status": "وصلت",
-    "actualTime": "23:03",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 262-2025-07-28": {
     "flightNumber": "ME 262",
     "status": "وصلت",
     "actualTime": "23:43",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 230-2025-07-28": {
-    "flightNumber": "ME 230",
-    "status": "وصلت",
-    "actualTime": "23:13",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1296,8 +1275,8 @@
   },
   "QR 418-2025-07-29": {
     "flightNumber": "QR 418",
-    "status": "",
-    "actualTime": "00:10",
+    "status": "وصلت",
+    "actualTime": "01:03",
     "type": "arivl",
     "airlineCode": "QR"
   },
