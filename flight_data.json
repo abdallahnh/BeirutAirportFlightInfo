@@ -34,16 +34,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 422-2025-07-29": {
-    "flightNumber": "ME 422",
-    "status": "النداء الاخير",
-    "actualTime": "18:20",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EY 584-2025-07-29": {
     "flightNumber": "EY 584",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:19",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -107,7 +100,7 @@
   "TK 827-2025-07-29": {
     "flightNumber": "TK 827",
     "status": "",
-    "actualTime": "21:50",
+    "actualTime": "22:25",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -160,19 +153,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ET 407-2025-07-30": {
-    "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "03:05",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "PC 759-2025-07-30": {
     "flightNumber": "PC 759",
     "status": "",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "PC"
+  },
+  "ET 407-2025-07-30": {
+    "flightNumber": "ET 407",
+    "status": "",
+    "actualTime": "03:05",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "LO 144-2025-07-30": {
     "flightNumber": "LO 144",
@@ -734,20 +727,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 248-2025-07-29": {
-    "flightNumber": "ME 248",
-    "status": "وصلت",
-    "actualTime": "16:33",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "IA 1301-2025-07-29": {
-    "flightNumber": "IA 1301",
-    "status": "وصلت",
-    "actualTime": "16:45",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 216-2025-07-29": {
     "flightNumber": "ME 216",
     "status": "وصلت",
@@ -759,13 +738,6 @@
     "flightNumber": "ME 218",
     "status": "وصلت",
     "actualTime": "17:11",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 325-2025-07-29": {
-    "flightNumber": "ME 325",
-    "status": "وصلت",
-    "actualTime": "16:41",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -785,8 +757,8 @@
   },
   "QR 426-2025-07-29": {
     "flightNumber": "QR 426",
-    "status": "",
-    "actualTime": "18:50",
+    "status": "وصلت",
+    "actualTime": "18:29",
     "type": "arivl",
     "airlineCode": "QR"
   },
