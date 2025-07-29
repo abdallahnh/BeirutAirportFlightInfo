@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 136-2025-07-29": {
-    "flightNumber": "IA 136",
-    "status": "غادرت",
-    "actualTime": "10:08",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "FZ 158-2025-07-29": {
     "flightNumber": "FZ 158",
     "status": "تم اغلاق البوابة",
@@ -50,7 +43,7 @@
   },
   "CY 121-2025-07-29": {
     "flightNumber": "CY 121",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -881,19 +874,19 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "SK 2828-2025-07-30": {
-    "flightNumber": "SK 2828",
-    "status": "",
-    "actualTime": "23:00",
-    "type": "dprtr",
-    "airlineCode": "SK"
-  },
   "VF 546-2025-07-30": {
     "flightNumber": "VF 546",
     "status": "",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "VF"
+  },
+  "SK 2828-2025-07-30": {
+    "flightNumber": "SK 2828",
+    "status": "",
+    "actualTime": "23:00",
+    "type": "dprtr",
+    "airlineCode": "SK"
   },
   "G9 388-2025-07-30": {
     "flightNumber": "G9 388",
@@ -1154,19 +1147,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "EY 583-2025-07-29": {
-    "flightNumber": "EY 583",
-    "status": "",
-    "actualTime": "17:40",
-    "type": "arivl",
-    "airlineCode": "EY"
-  },
   "EK 953-2025-07-29": {
     "flightNumber": "EK 953",
     "status": "",
     "actualTime": "17:40",
     "type": "arivl",
     "airlineCode": "EK"
+  },
+  "EY 583-2025-07-29": {
+    "flightNumber": "EY 583",
+    "status": "",
+    "actualTime": "17:40",
+    "type": "arivl",
+    "airlineCode": "EY"
   },
   "QR 426-2025-07-29": {
     "flightNumber": "QR 426",
