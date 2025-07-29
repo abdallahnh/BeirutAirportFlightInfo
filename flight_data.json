@@ -13,40 +13,26 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 251-2025-07-29": {
-    "flightNumber": "ME 251",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "08:41",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2025-07-29": {
     "flightNumber": "TK 831",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:10",
+    "status": "النداء الاخير",
+    "actualTime": "09:11",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "IA 136-2025-07-29": {
     "flightNumber": "IA 136",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:30",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "FZ 158-2025-07-29": {
     "flightNumber": "FZ 158",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:45",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "RJ 402-2025-07-29": {
-    "flightNumber": "RJ 402",
-    "status": "",
-    "actualTime": "11:20",
-    "type": "dprtr",
-    "airlineCode": "RJ"
   },
   "MS 710-2025-07-29": {
     "flightNumber": "MS 710",
@@ -89,6 +75,13 @@
     "actualTime": "12:15",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "RJ 402-2025-07-29": {
+    "flightNumber": "RJ 402",
+    "status": "",
+    "actualTime": "12:20",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "UF 002-2025-07-29": {
     "flightNumber": "UF 002",
@@ -895,19 +888,19 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "SK 2828-2025-07-30": {
-    "flightNumber": "SK 2828",
-    "status": "",
-    "actualTime": "23:00",
-    "type": "dprtr",
-    "airlineCode": "SK"
-  },
   "G9 388-2025-07-30": {
     "flightNumber": "G9 388",
     "status": "",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "G9"
+  },
+  "SK 2828-2025-07-30": {
+    "flightNumber": "SK 2828",
+    "status": "",
+    "actualTime": "23:00",
+    "type": "dprtr",
+    "airlineCode": "SK"
   },
   "ME 434-2025-07-30": {
     "flightNumber": "ME 434",
@@ -932,15 +925,15 @@
   },
   "IA 135-2025-07-29": {
     "flightNumber": "IA 135",
-    "status": "",
-    "actualTime": "09:30",
+    "status": "وصلت",
+    "actualTime": "09:18",
     "type": "arivl",
     "airlineCode": "IA"
   },
   "FZ 157-2025-07-29": {
     "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "09:45",
+    "status": "وصلت",
+    "actualTime": "09:04",
     "type": "arivl",
     "airlineCode": "FZ"
   },
