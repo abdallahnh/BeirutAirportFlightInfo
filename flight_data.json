@@ -1,25 +1,4 @@
 {
-  "RJ 408-2025-07-30": {
-    "flightNumber": "RJ 408",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:45",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
-  "ME 304-2025-07-30": {
-    "flightNumber": "ME 304",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "07:15",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 424-2025-07-30": {
-    "flightNumber": "ME 424",
-    "status": "النداء الاخير",
-    "actualTime": "08:05",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2025-07-30": {
     "flightNumber": "TK 831",
     "status": "تم اغلاق البوابة",
@@ -43,22 +22,22 @@
   },
   "MS 710-2025-07-30": {
     "flightNumber": "MS 710",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:30",
+    "status": "النداء الاخير",
+    "actualTime": "10:58",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "ME 320-2025-07-30": {
     "flightNumber": "ME 320",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:55",
+    "status": "النداء الاخير",
+    "actualTime": "11:26",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2025-07-30": {
     "flightNumber": "EK 958",
-    "status": "",
-    "actualTime": "12:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:34",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -965,13 +944,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "FZ 157-2025-07-30": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "08:59",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "EK 957-2025-07-30": {
     "flightNumber": "EK 957",
     "status": "وصلت",
@@ -995,15 +967,15 @@
   },
   "ME 266-2025-07-30": {
     "flightNumber": "ME 266",
-    "status": "تبكير",
-    "actualTime": "11:05",
+    "status": "وصلت",
+    "actualTime": "11:03",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 305-2025-07-30": {
     "flightNumber": "ME 305",
-    "status": "",
-    "actualTime": "11:20",
+    "status": "وصلت",
+    "actualTime": "11:36",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1016,8 +988,8 @@
   },
   "QR 416-2025-07-30": {
     "flightNumber": "QR 416",
-    "status": "",
-    "actualTime": "11:35",
+    "status": "وصلت",
+    "actualTime": "11:07",
     "type": "arivl",
     "airlineCode": "QR"
   },
