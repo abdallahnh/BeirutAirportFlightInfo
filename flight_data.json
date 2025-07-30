@@ -48,27 +48,6 @@
     "type": "dprtr",
     "airlineCode": "LH"
   },
-  "ME 203-2025-07-30": {
-    "flightNumber": "ME 203",
-    "status": "غادرت",
-    "actualTime": "17:50",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 422-2025-07-30": {
-    "flightNumber": "ME 422",
-    "status": "غادرت",
-    "actualTime": "17:19",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 418-2025-07-30": {
-    "flightNumber": "ME 418",
-    "status": "غادرت",
-    "actualTime": "17:27",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 402-2025-07-30": {
     "flightNumber": "ME 402",
     "status": "الصعود الى الطائرة",
@@ -78,22 +57,15 @@
   },
   "IA 1302-2025-07-30": {
     "flightNumber": "IA 1302",
-    "status": "تم فتح البوابة",
-    "actualTime": "18:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:34",
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "ME 306-2025-07-30": {
-    "flightNumber": "ME 306",
-    "status": "غادرت",
-    "actualTime": "17:43",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EY 584-2025-07-30": {
     "flightNumber": "EY 584",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:15",
+    "status": "النداء الاخير",
+    "actualTime": "18:25",
     "type": "dprtr",
     "airlineCode": "EY"
   },
@@ -120,7 +92,7 @@
   },
   "TK 3439-2025-07-30": {
     "flightNumber": "TK 3439",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:20",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -839,13 +811,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 248-2025-07-30": {
-    "flightNumber": "ME 248",
-    "status": "وصلت",
-    "actualTime": "16:22",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 1301-2025-07-30": {
     "flightNumber": "IA 1301",
     "status": "وصلت",
@@ -918,8 +883,8 @@
   },
   "TK 3441-2025-07-30": {
     "flightNumber": "TK 3441",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "18:32",
     "type": "arivl",
     "airlineCode": "TK"
   },
