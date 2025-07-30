@@ -6,23 +6,16 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "ME 308-2025-07-30": {
-    "flightNumber": "ME 308",
-    "status": "غادرت",
-    "actualTime": "12:10",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "G9 386-2025-07-30": {
     "flightNumber": "G9 386",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "12:17",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "IA 132-2025-07-30": {
     "flightNumber": "IA 132",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:24",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -36,7 +29,7 @@
   },
   "QR 417-2025-07-30": {
     "flightNumber": "QR 417",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:10",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -72,7 +65,7 @@
   "TK 825-2025-07-30": {
     "flightNumber": "TK 825",
     "status": "",
-    "actualTime": "15:35",
+    "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -352,7 +345,7 @@
   "TK 829-2025-07-31": {
     "flightNumber": "TK 829",
     "status": "",
-    "actualTime": "03:35",
+    "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -650,13 +643,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "AH 4017-2025-07-31": {
-    "flightNumber": "AH 4017",
-    "status": "",
-    "actualTime": "15:20",
-    "type": "dprtr",
-    "airlineCode": "AH"
-  },
   "ME 418-2025-07-31": {
     "flightNumber": "ME 418",
     "status": "",
@@ -671,17 +657,17 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "TK 825-2025-07-31": {
-    "flightNumber": "TK 825",
+  "TK 3444-2025-07-31": {
+    "flightNumber": "TK 3444",
     "status": "",
     "actualTime": "15:35",
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "TK 3444-2025-07-31": {
-    "flightNumber": "TK 3444",
+  "TK 825-2025-07-31": {
+    "flightNumber": "TK 825",
     "status": "",
-    "actualTime": "15:35",
+    "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -846,6 +832,13 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
+  "TK 3443-2025-07-31": {
+    "flightNumber": "TK 3443",
+    "status": "",
+    "actualTime": "20:45",
+    "type": "dprtr",
+    "airlineCode": "TK"
+  },
   "PC 1825-2025-07-31": {
     "flightNumber": "PC 1825",
     "status": "",
@@ -894,13 +887,6 @@
     "actualTime": "22:00",
     "type": "dprtr",
     "airlineCode": "KU"
-  },
-  "TK 3443-2025-07-31": {
-    "flightNumber": "TK 3443",
-    "status": "",
-    "actualTime": "22:10",
-    "type": "dprtr",
-    "airlineCode": "TK"
   },
   "RJ 404-2025-07-31": {
     "flightNumber": "RJ 404",
@@ -1447,13 +1433,6 @@
     "actualTime": "05:20",
     "type": "arivl",
     "airlineCode": "PC"
-  },
-  "ME 1423-2025-07-31": {
-    "flightNumber": "ME 1423",
-    "status": "",
-    "actualTime": "05:25",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 435-2025-07-31": {
     "flightNumber": "ME 435",
