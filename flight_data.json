@@ -106,14 +106,14 @@
   },
   "ME 434-2025-07-30": {
     "flightNumber": "ME 434",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "22:50",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "SK 2828-2025-07-30": {
     "flightNumber": "SK 2828",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "22:36",
     "type": "dprtr",
     "airlineCode": "SK"
@@ -139,6 +139,13 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
+  "LH 1309-2025-07-31": {
+    "flightNumber": "LH 1309",
+    "status": "",
+    "actualTime": "01:50",
+    "type": "dprtr",
+    "airlineCode": "LH"
+  },
   "VF 544-2025-07-31": {
     "flightNumber": "VF 544",
     "status": "",
@@ -159,13 +166,6 @@
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "ET"
-  },
-  "LH 1309-2025-07-31": {
-    "flightNumber": "LH 1309",
-    "status": "",
-    "actualTime": "03:30",
-    "type": "dprtr",
-    "airlineCode": "LH"
   },
   "TK 829-2025-07-31": {
     "flightNumber": "TK 829",
@@ -754,13 +754,6 @@
     "actualTime": "23:35",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "CY 120-2025-07-30": {
-    "flightNumber": "CY 120",
-    "status": "وصلت",
-    "actualTime": "20:44",
-    "type": "arivl",
-    "airlineCode": "CY"
   },
   "TK 826-2025-07-30": {
     "flightNumber": "TK 826",
