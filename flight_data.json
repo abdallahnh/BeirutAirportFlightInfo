@@ -1,22 +1,22 @@
 {
   "TK 3440-2025-07-30": {
     "flightNumber": "TK 3440",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "14:04",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "ME 223-2025-07-30": {
     "flightNumber": "ME 223",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "14:47",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 436-2025-07-30": {
     "flightNumber": "ME 436",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:15",
+    "status": "النداء الاخير",
+    "actualTime": "14:41",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -36,21 +36,21 @@
   },
   "ME 257-2025-07-30": {
     "flightNumber": "ME 257",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "AF 565-2025-07-30": {
     "flightNumber": "AF 565",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "AF"
   },
   "IA 138-2025-07-30": {
     "flightNumber": "IA 138",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "16:15",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -832,19 +832,19 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "TK 827-2025-07-31": {
-    "flightNumber": "TK 827",
-    "status": "",
-    "actualTime": "21:50",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "KU 504-2025-07-31": {
     "flightNumber": "KU 504",
     "status": "",
     "actualTime": "22:00",
     "type": "dprtr",
     "airlineCode": "KU"
+  },
+  "TK 833-2025-07-31": {
+    "flightNumber": "TK 833",
+    "status": "",
+    "actualTime": "22:25",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "RJ 404-2025-07-31": {
     "flightNumber": "RJ 404",
@@ -983,6 +983,13 @@
     "flightNumber": "ME 226",
     "status": "",
     "actualTime": "15:50",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 321-2025-07-30": {
+    "flightNumber": "ME 321",
+    "status": "تبكير",
+    "actualTime": "15:40",
     "type": "arivl",
     "airlineCode": "ME"
   },
