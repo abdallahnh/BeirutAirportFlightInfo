@@ -50,7 +50,7 @@
   },
   "ME 430-2025-07-31": {
     "flightNumber": "ME 430",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:24",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -64,14 +64,14 @@
   },
   "J9 262-2025-07-31": {
     "flightNumber": "J9 262",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:20",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:47",
     "type": "dprtr",
     "airlineCode": "J9"
   },
   "RJ 404-2025-07-31": {
     "flightNumber": "RJ 404",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "20:32",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -1154,15 +1154,15 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 309-2025-08-01": {
-    "flightNumber": "ME 309",
+  "ME 226-2025-08-01": {
+    "flightNumber": "ME 226",
     "status": "",
     "actualTime": "15:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 226-2025-08-01": {
-    "flightNumber": "ME 226",
+  "ME 309-2025-08-01": {
+    "flightNumber": "ME 309",
     "status": "",
     "actualTime": "15:50",
     "type": "arivl",
@@ -1175,19 +1175,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "UF 003-2025-08-01": {
-    "flightNumber": "UF 003",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 1301-2025-08-01": {
     "flightNumber": "IA 1301",
     "status": "",
     "actualTime": "16:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "UF 003-2025-08-01": {
+    "flightNumber": "UF 003",
+    "status": "",
+    "actualTime": "16:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "ME 214-2025-08-01": {
     "flightNumber": "ME 214",
