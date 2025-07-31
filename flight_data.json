@@ -1,31 +1,10 @@
 {
-  "TK 3444-2025-07-31": {
-    "flightNumber": "TK 3444",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:13",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "TK 825-2025-07-31": {
-    "flightNumber": "TK 825",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:11",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "VF 1044-2025-07-31": {
     "flightNumber": "VF 1044",
     "status": "تم اغلاق البوابة",
     "actualTime": "16:07",
     "type": "dprtr",
     "airlineCode": "VF"
-  },
-  "IA 136-2025-07-31": {
-    "flightNumber": "IA 136",
-    "status": "ألغيت",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
   },
   "ME 312-2025-07-31": {
     "flightNumber": "ME 312",
@@ -36,22 +15,22 @@
   },
   "LH 1307-2025-07-31": {
     "flightNumber": "LH 1307",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "16:36",
     "type": "dprtr",
     "airlineCode": "LH"
   },
   "IA 140-2025-07-31": {
     "flightNumber": "IA 140",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:00",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "ME 203-2025-07-31": {
     "flightNumber": "ME 203",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -85,7 +64,7 @@
   },
   "ME 422-2025-07-31": {
     "flightNumber": "ME 422",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:50",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -99,14 +78,14 @@
   },
   "ME 402-2025-07-31": {
     "flightNumber": "ME 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "18:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "IA 1304-2025-07-31": {
     "flightNumber": "IA 1304",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "18:00",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -120,7 +99,7 @@
   },
   "ME 306-2025-07-31": {
     "flightNumber": "ME 306",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "18:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -804,27 +783,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "PC 6004-2025-07-31": {
-    "flightNumber": "PC 6004",
-    "status": "وصلت",
-    "actualTime": "14:47",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "ME 427-2025-07-31": {
-    "flightNumber": "ME 427",
-    "status": "وصلت",
-    "actualTime": "14:55",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 232-2025-07-31": {
-    "flightNumber": "ME 232",
-    "status": "وصلت",
-    "actualTime": "14:57",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "VF 1043-2025-07-31": {
     "flightNumber": "VF 1043",
     "status": "وصلت",
@@ -853,19 +811,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 139-2025-07-31": {
-    "flightNumber": "IA 139",
-    "status": "وصلت",
-    "actualTime": "16:40",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 244-2025-07-31": {
     "flightNumber": "ME 244",
     "status": "تأخير",
     "actualTime": "17:50",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "IA 139-2025-07-31": {
+    "flightNumber": "IA 139",
+    "status": "وصلت",
+    "actualTime": "16:40",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "ME 248-2025-07-31": {
     "flightNumber": "ME 248",
@@ -904,8 +862,8 @@
   },
   "IA 1303-2025-07-31": {
     "flightNumber": "IA 1303",
-    "status": "",
-    "actualTime": "17:00",
+    "status": "وصلت",
+    "actualTime": "16:54",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -918,15 +876,15 @@
   },
   "ME 264-2025-07-31": {
     "flightNumber": "ME 264",
-    "status": "",
-    "actualTime": "17:05",
+    "status": "وصلت",
+    "actualTime": "17:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "EY 583-2025-07-31": {
     "flightNumber": "EY 583",
-    "status": "",
-    "actualTime": "17:40",
+    "status": "وصلت",
+    "actualTime": "16:52",
     "type": "arivl",
     "airlineCode": "EY"
   },
