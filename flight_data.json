@@ -34,30 +34,23 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "G9 388-2025-07-31": {
-    "flightNumber": "G9 388",
-    "status": "تم فتح البوابة",
-    "actualTime": "22:06",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "PC 7135-2025-07-31": {
     "flightNumber": "PC 7135",
-    "status": "تم فتح البوابة",
-    "actualTime": "23:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "23:01",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "ME 434-2025-07-31": {
     "flightNumber": "ME 434",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "22:36",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "FZ 8240-2025-07-31": {
     "flightNumber": "FZ 8240",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "23:35",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -624,29 +617,29 @@
   },
   "ME 268-2025-07-31": {
     "flightNumber": "ME 268",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "22:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "FZ 8239-2025-07-31": {
     "flightNumber": "FZ 8239",
-    "status": "",
-    "actualTime": "22:35",
+    "status": "وصلت",
+    "actualTime": "23:05",
     "type": "arivl",
     "airlineCode": "FZ"
   },
   "ME 254-2025-07-31": {
     "flightNumber": "ME 254",
-    "status": "",
-    "actualTime": "22:45",
+    "status": "وصلت",
+    "actualTime": "23:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 419-2025-07-31": {
     "flightNumber": "ME 419",
-    "status": "",
-    "actualTime": "22:50",
+    "status": "وصلت",
+    "actualTime": "22:55",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1133,15 +1126,15 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "ME 572-2025-08-01": {
-    "flightNumber": "ME 572",
+  "ME 264-2025-08-01": {
+    "flightNumber": "ME 264",
     "status": "",
     "actualTime": "21:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 264-2025-08-01": {
-    "flightNumber": "ME 264",
+  "ME 572-2025-08-01": {
+    "flightNumber": "ME 572",
     "status": "",
     "actualTime": "21:00",
     "type": "arivl",
