@@ -36,7 +36,7 @@
   },
   "UF 002-2025-07-31": {
     "flightNumber": "UF 002",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:41",
     "type": "dprtr",
     "airlineCode": "UF"
@@ -71,7 +71,7 @@
   },
   "ME 436-2025-07-31": {
     "flightNumber": "ME 436",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -918,28 +918,28 @@
   },
   "ME 252-2025-07-31": {
     "flightNumber": "ME 252",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "14:13",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 425-2025-07-31": {
     "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
+    "status": "وصلت",
+    "actualTime": "14:25",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 405-2025-07-31": {
     "flightNumber": "ME 405",
-    "status": "",
-    "actualTime": "14:15",
+    "status": "وصلت",
+    "actualTime": "14:29",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "TK 824-2025-07-31": {
     "flightNumber": "TK 824",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "14:11",
     "type": "arivl",
     "airlineCode": "TK"
@@ -1371,6 +1371,13 @@
     "type": "arivl",
     "airlineCode": "MS"
   },
+  "KU 503-2025-08-01": {
+    "flightNumber": "KU 503",
+    "status": "",
+    "actualTime": "04:00",
+    "type": "arivl",
+    "airlineCode": "KU"
+  },
   "PC 1828-2025-08-01": {
     "flightNumber": "PC 1828",
     "status": "",
@@ -1388,7 +1395,7 @@
   "ME 204-2025-08-01": {
     "flightNumber": "ME 204",
     "status": "",
-    "actualTime": "14:45",
+    "actualTime": "04:45",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1427,6 +1434,13 @@
     "type": "arivl",
     "airlineCode": "EK"
   },
+  "MS 709-2025-08-01": {
+    "flightNumber": "MS 709",
+    "status": "",
+    "actualTime": "10:30",
+    "type": "arivl",
+    "airlineCode": "MS"
+  },
   "ME 272-2025-08-01": {
     "flightNumber": "ME 272",
     "status": "",
@@ -1434,17 +1448,10 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "MS 709-2025-08-01": {
-    "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "11:05",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "ME 311-2025-08-01": {
     "flightNumber": "ME 311",
     "status": "",
-    "actualTime": "11:10",
+    "actualTime": "11:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1454,13 +1461,6 @@
     "actualTime": "11:20",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "KU 501-2025-08-01": {
-    "flightNumber": "KU 501",
-    "status": "",
-    "actualTime": "11:20",
-    "type": "arivl",
-    "airlineCode": "KU"
   },
   "RJ 401-2025-08-01": {
     "flightNumber": "RJ 401",
@@ -1511,17 +1511,10 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "AF 564-2025-08-01": {
-    "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "13:20",
-    "type": "arivl",
-    "airlineCode": "AF"
-  },
   "ME 252-2025-08-01": {
     "flightNumber": "ME 252",
     "status": "",
-    "actualTime": "13:30",
+    "actualTime": "13:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1538,6 +1531,13 @@
     "actualTime": "14:15",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "AF 564-2025-08-01": {
+    "flightNumber": "AF 564",
+    "status": "",
+    "actualTime": "14:20",
+    "type": "arivl",
+    "airlineCode": "AF"
   },
   "TK 824-2025-08-01": {
     "flightNumber": "TK 824",
@@ -1564,13 +1564,6 @@
     "flightNumber": "ME 232",
     "status": "",
     "actualTime": "15:10",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 1429-2025-08-01": {
-    "flightNumber": "ME 1429",
-    "status": "",
-    "actualTime": "15:20",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1602,10 +1595,10 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 321-2025-08-01": {
-    "flightNumber": "ME 321",
+  "ME 226-2025-08-01": {
+    "flightNumber": "ME 226",
     "status": "",
-    "actualTime": "16:00",
+    "actualTime": "15:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1661,7 +1654,7 @@
   "QR 426-2025-08-01": {
     "flightNumber": "QR 426",
     "status": "",
-    "actualTime": "18:50",
+    "actualTime": "18:35",
     "type": "arivl",
     "airlineCode": "QR"
   },
@@ -1685,6 +1678,13 @@
     "actualTime": "19:35",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "RJ 403-2025-08-01": {
+    "flightNumber": "RJ 403",
+    "status": "",
+    "actualTime": "19:40",
+    "type": "arivl",
+    "airlineCode": "RJ"
   },
   "PC 1824-2025-08-01": {
     "flightNumber": "PC 1824",
@@ -1714,20 +1714,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "G9 408-2025-08-01": {
-    "flightNumber": "G9 408",
-    "status": "",
-    "actualTime": "20:30",
-    "type": "arivl",
-    "airlineCode": "G9"
-  },
-  "RJ 403-2025-08-01": {
-    "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "20:35",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "J9 261-2025-08-01": {
     "flightNumber": "J9 261",
     "status": "",
@@ -1752,7 +1738,14 @@
   "ME 572-2025-08-01": {
     "flightNumber": "ME 572",
     "status": "",
-    "actualTime": "21:40",
+    "actualTime": "21:00",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 264-2025-08-01": {
+    "flightNumber": "ME 264",
+    "status": "",
+    "actualTime": "23:55",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1772,6 +1765,13 @@
   },
   "ME 437-2025-08-01": {
     "flightNumber": "ME 437",
+    "status": "",
+    "actualTime": "21:55",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 327-2025-08-01": {
+    "flightNumber": "ME 327",
     "status": "",
     "actualTime": "21:55",
     "type": "arivl",
@@ -1860,13 +1860,6 @@
     "actualTime": "23:50",
     "type": "arivl",
     "airlineCode": "EK"
-  },
-  "ME 264-2025-08-01": {
-    "flightNumber": "ME 264",
-    "status": "",
-    "actualTime": "23:55",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "LH 1308-2025-08-01": {
     "flightNumber": "LH 1308",
