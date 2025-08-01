@@ -15,7 +15,7 @@
   },
   "G9 386-2025-08-01": {
     "flightNumber": "G9 386",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "12:12",
     "type": "dprtr",
     "airlineCode": "G9"
@@ -36,7 +36,7 @@
   },
   "ME 223-2025-08-01": {
     "flightNumber": "ME 223",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -862,15 +862,15 @@
   },
   "ME 252-2025-08-01": {
     "flightNumber": "ME 252",
-    "status": "",
-    "actualTime": "13:50",
+    "status": "وصلت",
+    "actualTime": "13:58",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 425-2025-08-01": {
     "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
+    "status": "وصلت",
+    "actualTime": "14:02",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -883,8 +883,8 @@
   },
   "AF 564-2025-08-01": {
     "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "وصلت",
+    "actualTime": "14:05",
     "type": "arivl",
     "airlineCode": "AF"
   },
@@ -1595,19 +1595,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "PC 1824-2025-08-02": {
-    "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "20:00",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "ME 323-2025-08-02": {
     "flightNumber": "ME 323",
     "status": "",
     "actualTime": "20:00",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "PC 1824-2025-08-02": {
+    "flightNumber": "PC 1824",
+    "status": "",
+    "actualTime": "20:00",
+    "type": "arivl",
+    "airlineCode": "PC"
   },
   "ME 313-2025-08-02": {
     "flightNumber": "ME 313",
