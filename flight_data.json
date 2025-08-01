@@ -41,13 +41,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 422-2025-08-01": {
-    "flightNumber": "ME 422",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "17:47",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 402-2025-08-01": {
     "flightNumber": "ME 402",
     "status": "تم اغلاق البوابة",
@@ -57,8 +50,8 @@
   },
   "ME 306-2025-08-01": {
     "flightNumber": "ME 306",
-    "status": "تم فتح البوابة",
-    "actualTime": "18:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:17",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -71,7 +64,7 @@
   },
   "EK 954-2025-08-01": {
     "flightNumber": "EK 954",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:40",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -85,8 +78,8 @@
   },
   "MS 712-2025-08-01": {
     "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "20:25",
+    "status": "تأخير",
+    "actualTime": "21:40",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -832,13 +825,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "UF 003-2025-08-01": {
-    "flightNumber": "UF 003",
-    "status": "وصلت",
-    "actualTime": "16:24",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 1301-2025-08-01": {
     "flightNumber": "IA 1301",
     "status": "وصلت",
@@ -862,8 +848,8 @@
   },
   "EY 583-2025-08-01": {
     "flightNumber": "EY 583",
-    "status": "",
-    "actualTime": "17:40",
+    "status": "وصلت",
+    "actualTime": "18:13",
     "type": "arivl",
     "airlineCode": "EY"
   },
@@ -897,8 +883,8 @@
   },
   "ME 202-2025-08-01": {
     "flightNumber": "ME 202",
-    "status": "",
-    "actualTime": "19:35",
+    "status": "تأخير",
+    "actualTime": "20:55",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -960,8 +946,8 @@
   },
   "ME 572-2025-08-01": {
     "flightNumber": "ME 572",
-    "status": "",
-    "actualTime": "21:00",
+    "status": "تبكير",
+    "actualTime": "20:40",
     "type": "arivl",
     "airlineCode": "ME"
   },
