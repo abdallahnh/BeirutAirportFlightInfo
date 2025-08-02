@@ -36,7 +36,7 @@
   },
   "KU 504-2025-08-02": {
     "flightNumber": "KU 504",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "21:51",
     "type": "dprtr",
     "airlineCode": "KU"
@@ -50,8 +50,8 @@
   },
   "G9 388-2025-08-02": {
     "flightNumber": "G9 388",
-    "status": "",
-    "actualTime": "23:00",
+    "status": "النداء الاخير",
+    "actualTime": "22:24",
     "type": "dprtr",
     "airlineCode": "G9"
   },
@@ -706,13 +706,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 202-2025-08-02": {
-    "flightNumber": "ME 202",
-    "status": "وصلت",
-    "actualTime": "20:27",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 242-2025-08-02": {
     "flightNumber": "ME 242",
     "status": "وصلت",
@@ -733,27 +726,6 @@
     "actualTime": "21:09",
     "type": "arivl",
     "airlineCode": "G9"
-  },
-  "MS 711-2025-08-02": {
-    "flightNumber": "MS 711",
-    "status": "وصلت",
-    "actualTime": "20:31",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
-  "J9 261-2025-08-02": {
-    "flightNumber": "J9 261",
-    "status": "وصلت",
-    "actualTime": "20:21",
-    "type": "arivl",
-    "airlineCode": "J9"
-  },
-  "TK 826-2025-08-02": {
-    "flightNumber": "TK 826",
-    "status": "وصلت",
-    "actualTime": "20:25",
-    "type": "arivl",
-    "airlineCode": "TK"
   },
   "KU 503-2025-08-02": {
     "flightNumber": "KU 503",
@@ -785,8 +757,8 @@
   },
   "SK 2967-2025-08-02": {
     "flightNumber": "SK 2967",
-    "status": "تأخير",
-    "actualTime": "22:20",
+    "status": "وصلت",
+    "actualTime": "22:24",
     "type": "arivl",
     "airlineCode": "SK"
   },
@@ -806,8 +778,8 @@
   },
   "FZ 8239-2025-08-02": {
     "flightNumber": "FZ 8239",
-    "status": "",
-    "actualTime": "22:35",
+    "status": "وصلت",
+    "actualTime": "22:25",
     "type": "arivl",
     "airlineCode": "FZ"
   },
@@ -846,15 +818,15 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 369-2025-08-02": {
-    "flightNumber": "ME 369",
+  "ME 224-2025-08-02": {
+    "flightNumber": "ME 224",
     "status": "",
     "actualTime": "23:40",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 224-2025-08-02": {
-    "flightNumber": "ME 224",
+  "ME 369-2025-08-02": {
+    "flightNumber": "ME 369",
     "status": "",
     "actualTime": "23:40",
     "type": "arivl",
