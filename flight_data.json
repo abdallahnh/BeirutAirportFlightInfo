@@ -1,28 +1,7 @@
 {
-  "ME 304-2025-08-02": {
-    "flightNumber": "ME 304",
-    "status": "غادرت",
-    "actualTime": "07:06",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 201-2025-08-02": {
-    "flightNumber": "ME 201",
-    "status": "غادرت",
-    "actualTime": "07:37",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 265-2025-08-02": {
-    "flightNumber": "ME 265",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "07:51",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 424-2025-08-02": {
     "flightNumber": "ME 424",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "07:58",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -36,14 +15,14 @@
   },
   "ME 241-2025-08-02": {
     "flightNumber": "ME 241",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 831-2025-08-02": {
     "flightNumber": "TK 831",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:10",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -1014,13 +993,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "RJ 407-2025-08-02": {
-    "flightNumber": "RJ 407",
-    "status": "وصلت",
-    "actualTime": "06:29",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "ME 272-2025-08-02": {
     "flightNumber": "ME 272",
     "status": "وصلت",
@@ -1030,8 +1002,8 @@
   },
   "TK 830-2025-08-02": {
     "flightNumber": "TK 830",
-    "status": "",
-    "actualTime": "08:35",
+    "status": "وصلت",
+    "actualTime": "08:16",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -1084,19 +1056,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "MS 709-2025-08-02": {
-    "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "UF 001-2025-08-02": {
     "flightNumber": "UF 001",
     "status": "",
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "UF"
+  },
+  "MS 709-2025-08-02": {
+    "flightNumber": "MS 709",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "MS"
   },
   "IA 131-2025-08-02": {
     "flightNumber": "IA 131",
