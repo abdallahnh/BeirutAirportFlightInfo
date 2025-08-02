@@ -15,36 +15,29 @@
   },
   "VF 544-2025-08-02": {
     "flightNumber": "VF 544",
-    "status": "",
+    "status": "تم اغلاق البوابة",
     "actualTime": "02:00",
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "PC 759-2025-08-02": {
-    "flightNumber": "PC 759",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "02:34",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "LO 144-2025-08-02": {
     "flightNumber": "LO 144",
-    "status": "",
-    "actualTime": "03:25",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "03:17",
     "type": "dprtr",
     "airlineCode": "LO"
   },
   "ET 407-2025-08-02": {
     "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "03:25",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "03:26",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "TK 829-2025-08-02": {
     "flightNumber": "TK 829",
-    "status": "تم فتح البوابة",
-    "actualTime": "03:35",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "03:04",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -57,22 +50,22 @@
   },
   "RO 168-2025-08-02": {
     "flightNumber": "RO 168",
-    "status": "",
+    "status": "تم اغلاق البوابة",
     "actualTime": "04:05",
     "type": "dprtr",
     "airlineCode": "RO"
   },
   "PC 757-2025-08-02": {
     "flightNumber": "PC 757",
-    "status": "",
-    "actualTime": "04:20",
+    "status": "غادرت",
+    "actualTime": "03:49",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "MS 714-2025-08-02": {
     "flightNumber": "MS 714",
-    "status": "",
-    "actualTime": "05:00",
+    "status": "النداء الاخير",
+    "actualTime": "04:12",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -1210,20 +1203,6 @@
     "type": "arivl",
     "airlineCode": "VF"
   },
-  "ME 230-2025-08-02": {
-    "flightNumber": "ME 230",
-    "status": "",
-    "actualTime": "23:25",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "PC 758-2025-08-02": {
-    "flightNumber": "PC 758",
-    "status": "وصلت",
-    "actualTime": "02:13",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "LO 143-2025-08-02": {
     "flightNumber": "LO 143",
     "status": "وصلت",
@@ -1240,8 +1219,8 @@
   },
   "TK 828-2025-08-02": {
     "flightNumber": "TK 828",
-    "status": "",
-    "actualTime": "02:40",
+    "status": "وصلت",
+    "actualTime": "02:58",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -1254,22 +1233,22 @@
   },
   "RO 167-2025-08-02": {
     "flightNumber": "RO 167",
-    "status": "",
-    "actualTime": "03:05",
+    "status": "وصلت",
+    "actualTime": "03:46",
     "type": "arivl",
     "airlineCode": "RO"
   },
   "PC 756-2025-08-02": {
     "flightNumber": "PC 756",
-    "status": "",
-    "actualTime": "03:15",
+    "status": "وصلت",
+    "actualTime": "03:21",
     "type": "arivl",
     "airlineCode": "PC"
   },
   "MS 713-2025-08-02": {
     "flightNumber": "MS 713",
-    "status": "",
-    "actualTime": "03:40",
+    "status": "وصلت",
+    "actualTime": "03:23",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -1760,6 +1739,13 @@
     "flightNumber": "ME 262",
     "status": "",
     "actualTime": "23:05",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 230-2025-08-02": {
+    "flightNumber": "ME 230",
+    "status": "",
+    "actualTime": "23:25",
     "type": "arivl",
     "airlineCode": "ME"
   },
