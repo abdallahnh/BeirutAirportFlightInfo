@@ -1,28 +1,21 @@
 {
-  "ME 364-2025-08-02": {
-    "flightNumber": "ME 364",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "08:51",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 241-2025-08-02": {
     "flightNumber": "ME 241",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "08:47",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 831-2025-08-02": {
     "flightNumber": "TK 831",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:10",
+    "status": "النداء الاخير",
+    "actualTime": "09:10",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "FZ 158-2025-08-02": {
     "flightNumber": "FZ 158",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:45",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -76,13 +69,6 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
-  "MS 710-2025-08-02": {
-    "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "IA 132-2025-08-02": {
     "flightNumber": "IA 132",
     "status": "",
@@ -124,6 +110,13 @@
     "actualTime": "14:00",
     "type": "dprtr",
     "airlineCode": "EY"
+  },
+  "MS 710-2025-08-02": {
+    "flightNumber": "MS 710",
+    "status": "",
+    "actualTime": "14:15",
+    "type": "dprtr",
+    "airlineCode": "MS"
   },
   "ME 223-2025-08-02": {
     "flightNumber": "ME 223",
@@ -173,13 +166,6 @@
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "VF"
-  },
-  "IA 1306-2025-08-02": {
-    "flightNumber": "IA 1306",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
   },
   "ME 312-2025-08-02": {
     "flightNumber": "ME 312",
@@ -1002,8 +988,8 @@
   },
   "FZ 157-2025-08-02": {
     "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "09:45",
+    "status": "وصلت",
+    "actualTime": "09:19",
     "type": "arivl",
     "airlineCode": "FZ"
   },
@@ -1056,13 +1042,6 @@
     "type": "arivl",
     "airlineCode": "UF"
   },
-  "MS 709-2025-08-02": {
-    "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "IA 131-2025-08-02": {
     "flightNumber": "IA 131",
     "status": "",
@@ -1105,6 +1084,13 @@
     "type": "arivl",
     "airlineCode": "EY"
   },
+  "MS 709-2025-08-02": {
+    "flightNumber": "MS 709",
+    "status": "",
+    "actualTime": "13:15",
+    "type": "arivl",
+    "airlineCode": "MS"
+  },
   "ME 266-2025-08-02": {
     "flightNumber": "ME 266",
     "status": "",
@@ -1146,13 +1132,6 @@
     "actualTime": "15:05",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "IA 1305-2025-08-02": {
-    "flightNumber": "IA 1305",
-    "status": "",
-    "actualTime": "15:30",
-    "type": "arivl",
-    "airlineCode": "IA"
   },
   "VF 1043-2025-08-02": {
     "flightNumber": "VF 1043",
