@@ -29,21 +29,21 @@
   },
   "EY 584-2025-08-02": {
     "flightNumber": "EY 584",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "18:20",
     "type": "dprtr",
     "airlineCode": "EY"
   },
   "EK 954-2025-08-02": {
     "flightNumber": "EK 954",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:40",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "QR 427-2025-08-02": {
     "flightNumber": "QR 427",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:00",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -804,26 +804,12 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 264-2025-08-02": {
-    "flightNumber": "ME 264",
-    "status": "وصلت",
-    "actualTime": "16:37",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 1301-2025-08-02": {
     "flightNumber": "IA 1301",
     "status": "وصلت",
     "actualTime": "17:18",
     "type": "arivl",
     "airlineCode": "IA"
-  },
-  "ME 214-2025-08-02": {
-    "flightNumber": "ME 214",
-    "status": "وصلت",
-    "actualTime": "16:46",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 216-2025-08-02": {
     "flightNumber": "ME 216",
@@ -836,13 +822,6 @@
     "flightNumber": "ME 218",
     "status": "وصلت",
     "actualTime": "16:53",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 325-2025-08-02": {
-    "flightNumber": "ME 325",
-    "status": "وصلت",
-    "actualTime": "16:40",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -911,8 +890,8 @@
   },
   "ME 313-2025-08-02": {
     "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "تبكير",
+    "actualTime": "19:30",
     "type": "arivl",
     "airlineCode": "ME"
   },
