@@ -1,24 +1,10 @@
 {
-  "ME 203-2025-08-02": {
-    "flightNumber": "ME 203",
-    "status": "النداء الاخير",
-    "actualTime": "17:06",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "IA 1302-2025-08-02": {
     "flightNumber": "IA 1302",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:30",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "18:15",
     "type": "dprtr",
     "airlineCode": "IA"
-  },
-  "ME 442-2025-08-02": {
-    "flightNumber": "ME 442",
-    "status": "غادرت",
-    "actualTime": "17:42",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "ME 267-2025-08-02": {
     "flightNumber": "ME 267",
@@ -36,22 +22,15 @@
   },
   "ME 402-2025-08-02": {
     "flightNumber": "ME 402",
-    "status": "",
-    "actualTime": "18:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 306-2025-08-02": {
-    "flightNumber": "ME 306",
-    "status": "غادرت",
-    "actualTime": "17:34",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "18:13",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EY 584-2025-08-02": {
     "flightNumber": "EY 584",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:15",
+    "status": "النداء الاخير",
+    "actualTime": "18:20",
     "type": "dprtr",
     "airlineCode": "EY"
   },
@@ -818,27 +797,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "LH 1306-2025-08-02": {
-    "flightNumber": "LH 1306",
-    "status": "وصلت",
-    "actualTime": "16:15",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
-  "ME 244-2025-08-02": {
-    "flightNumber": "ME 244",
-    "status": "وصلت",
-    "actualTime": "16:18",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "IA 139-2025-08-02": {
-    "flightNumber": "IA 139",
-    "status": "وصلت",
-    "actualTime": "16:11",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 248-2025-08-02": {
     "flightNumber": "ME 248",
     "status": "وصلت",
@@ -904,8 +862,8 @@
   },
   "QR 426-2025-08-02": {
     "flightNumber": "QR 426",
-    "status": "",
-    "actualTime": "18:35",
+    "status": "وصلت",
+    "actualTime": "18:27",
     "type": "arivl",
     "airlineCode": "QR"
   },
