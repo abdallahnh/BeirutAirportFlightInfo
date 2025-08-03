@@ -1,21 +1,7 @@
 {
-  "TK 825-2025-08-03": {
-    "flightNumber": "TK 825",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:04",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "IA 138-2025-08-03": {
-    "flightNumber": "IA 138",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:24",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "KU 502-2025-08-03": {
     "flightNumber": "KU 502",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:42",
     "type": "dprtr",
     "airlineCode": "KU"
@@ -64,14 +50,14 @@
   },
   "EK 954-2025-08-03": {
     "flightNumber": "EK 954",
-    "status": "",
-    "actualTime": "19:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:52",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "CY 121-2025-08-03": {
     "flightNumber": "CY 121",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:50",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -293,15 +279,15 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 235-2025-08-04": {
-    "flightNumber": "ME 235",
+  "ME 215-2025-08-04": {
+    "flightNumber": "ME 215",
     "status": "",
     "actualTime": "07:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 215-2025-08-04": {
-    "flightNumber": "ME 215",
+  "ME 235-2025-08-04": {
+    "flightNumber": "ME 235",
     "status": "",
     "actualTime": "07:15",
     "type": "dprtr",
@@ -804,20 +790,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 214-2025-08-03": {
-    "flightNumber": "ME 214",
-    "status": "وصلت",
-    "actualTime": "16:48",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 325-2025-08-03": {
-    "flightNumber": "ME 325",
-    "status": "وصلت",
-    "actualTime": "16:42",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "EK 953-2025-08-03": {
     "flightNumber": "EK 953",
     "status": "وصلت",
@@ -848,15 +820,15 @@
   },
   "ME 264-2025-08-03": {
     "flightNumber": "ME 264",
-    "status": "",
-    "actualTime": "19:05",
+    "status": "وصلت",
+    "actualTime": "18:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "MS 711-2025-08-03": {
     "flightNumber": "MS 711",
     "status": "",
-    "actualTime": "19:10",
+    "actualTime": "18:56",
     "type": "arivl",
     "airlineCode": "MS"
   },
