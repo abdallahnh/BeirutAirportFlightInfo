@@ -27,17 +27,17 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
-  "ME 442-2025-08-03": {
-    "flightNumber": "ME 442",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "17:24",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 267-2025-08-03": {
     "flightNumber": "ME 267",
     "status": "النداء الاخير",
     "actualTime": "17:35",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 442-2025-08-03": {
+    "flightNumber": "ME 442",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "17:24",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -71,7 +71,7 @@
   },
   "TK 827-2025-08-03": {
     "flightNumber": "TK 827",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "22:30",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -92,7 +92,7 @@
   },
   "ME 434-2025-08-03": {
     "flightNumber": "ME 434",
-    "status": "",
+    "status": "النداء الاخير",
     "actualTime": "23:05",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -705,13 +705,6 @@
     "actualTime": "19:30",
     "type": "arivl",
     "airlineCode": "IA"
-  },
-  "G9 408-2025-08-03": {
-    "flightNumber": "G9 408",
-    "status": "وصلت",
-    "actualTime": "20:32",
-    "type": "arivl",
-    "airlineCode": "G9"
   },
   "TK 826-2025-08-03": {
     "flightNumber": "TK 826",
