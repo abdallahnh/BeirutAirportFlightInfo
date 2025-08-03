@@ -15,8 +15,8 @@
   },
   "KU 502-2025-08-03": {
     "flightNumber": "KU 502",
-    "status": "تأخير",
-    "actualTime": "19:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:42",
     "type": "dprtr",
     "airlineCode": "KU"
   },
@@ -59,13 +59,6 @@
     "flightNumber": "ME 281",
     "status": "تم اغلاق البوابة",
     "actualTime": "17:26",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 306-2025-08-03": {
-    "flightNumber": "ME 306",
-    "status": "غادرت",
-    "actualTime": "17:38",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -300,15 +293,15 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 215-2025-08-04": {
-    "flightNumber": "ME 215",
+  "ME 235-2025-08-04": {
+    "flightNumber": "ME 235",
     "status": "",
     "actualTime": "07:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 235-2025-08-04": {
-    "flightNumber": "ME 235",
+  "ME 215-2025-08-04": {
+    "flightNumber": "ME 215",
     "status": "",
     "actualTime": "07:15",
     "type": "dprtr",
@@ -804,38 +797,10 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 248-2025-08-03": {
-    "flightNumber": "ME 248",
-    "status": "وصلت",
-    "actualTime": "16:30",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "UF 003-2025-08-03": {
-    "flightNumber": "UF 003",
-    "status": "وصلت",
-    "actualTime": "16:24",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
-  "IA 1301-2025-08-03": {
-    "flightNumber": "IA 1301",
-    "status": "وصلت",
-    "actualTime": "16:36",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 216-2025-08-03": {
     "flightNumber": "ME 216",
     "status": "وصلت",
     "actualTime": "17:05",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 218-2025-08-03": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "16:38",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -862,15 +827,15 @@
   },
   "QR 426-2025-08-03": {
     "flightNumber": "QR 426",
-    "status": "",
-    "actualTime": "18:35",
+    "status": "وصلت",
+    "actualTime": "18:38",
     "type": "arivl",
     "airlineCode": "QR"
   },
   "CY 120-2025-08-03": {
     "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "18:50",
+    "status": "وصلت",
+    "actualTime": "18:33",
     "type": "arivl",
     "airlineCode": "CY"
   },
