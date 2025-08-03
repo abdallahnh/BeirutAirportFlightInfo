@@ -1,11 +1,4 @@
 {
-  "TK 831-2025-08-03": {
-    "flightNumber": "TK 831",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "09:14",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "IA 134-2025-08-03": {
     "flightNumber": "IA 134",
     "status": "تم اغلاق البوابة",
@@ -20,16 +13,9 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 320-2025-08-03": {
-    "flightNumber": "ME 320",
-    "status": "غادرت",
-    "actualTime": "11:35",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EK 958-2025-08-03": {
     "flightNumber": "EK 958",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:19",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -43,31 +29,17 @@
   },
   "ME 324-2025-08-03": {
     "flightNumber": "ME 324",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:44",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 402-2025-08-03": {
     "flightNumber": "RJ 402",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:28",
     "type": "dprtr",
     "airlineCode": "RJ"
-  },
-  "UF 002-2025-08-03": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "17:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
-  "IA 132-2025-08-03": {
-    "flightNumber": "IA 132",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "11:53",
-    "type": "dprtr",
-    "airlineCode": "IA"
   },
   "G9 386-2025-08-03": {
     "flightNumber": "G9 386",
@@ -75,6 +47,20 @@
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "G9"
+  },
+  "IA 132-2025-08-03": {
+    "flightNumber": "IA 132",
+    "status": "غادرت",
+    "actualTime": "11:53",
+    "type": "dprtr",
+    "airlineCode": "IA"
+  },
+  "UF 002-2025-08-03": {
+    "flightNumber": "UF 002",
+    "status": "",
+    "actualTime": "17:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
   },
   "QR 417-2025-08-03": {
     "flightNumber": "QR 417",
@@ -443,7 +429,7 @@
   "TK 829-2025-08-04": {
     "flightNumber": "TK 829",
     "status": "",
-    "actualTime": "03:35",
+    "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -937,48 +923,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "IA 135-2025-08-03": {
-    "flightNumber": "IA 135",
-    "status": "وصلت",
-    "actualTime": "09:54",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "MS 709-2025-08-03": {
-    "flightNumber": "MS 709",
-    "status": "وصلت",
-    "actualTime": "10:23",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
-  "ME 311-2025-08-03": {
-    "flightNumber": "ME 311",
-    "status": "وصلت",
-    "actualTime": "10:49",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 276-2025-08-03": {
-    "flightNumber": "ME 276",
-    "status": "وصلت",
-    "actualTime": "10:56",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "RJ 401-2025-08-03": {
-    "flightNumber": "RJ 401",
-    "status": "وصلت",
-    "actualTime": "10:52",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
-  "ME 305-2025-08-03": {
-    "flightNumber": "ME 305",
-    "status": "وصلت",
-    "actualTime": "11:29",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 131-2025-08-03": {
     "flightNumber": "IA 131",
     "status": "وصلت",
@@ -995,8 +939,8 @@
   },
   "G9 385-2025-08-03": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "11:50",
+    "status": "وصلت",
+    "actualTime": "12:03",
     "type": "arivl",
     "airlineCode": "G9"
   },
@@ -1469,19 +1413,19 @@
     "type": "arivl",
     "airlineCode": "ET"
   },
+  "TK 828-2025-08-04": {
+    "flightNumber": "TK 828",
+    "status": "",
+    "actualTime": "02:30",
+    "type": "arivl",
+    "airlineCode": "TK"
+  },
   "ME 1403-2025-08-04": {
     "flightNumber": "ME 1403",
     "status": "",
     "actualTime": "02:35",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "TK 828-2025-08-04": {
-    "flightNumber": "TK 828",
-    "status": "",
-    "actualTime": "02:40",
-    "type": "arivl",
-    "airlineCode": "TK"
   },
   "RO 167-2025-08-04": {
     "flightNumber": "RO 167",
