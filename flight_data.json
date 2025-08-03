@@ -22,8 +22,8 @@
   },
   "PC 761-2025-08-04": {
     "flightNumber": "PC 761",
-    "status": "",
-    "actualTime": "03:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "02:55",
     "type": "dprtr",
     "airlineCode": "PC"
   },
@@ -36,7 +36,7 @@
   },
   "TK 829-2025-08-04": {
     "flightNumber": "TK 829",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -1098,20 +1098,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 254-2025-08-04": {
-    "flightNumber": "ME 254",
-    "status": "وصلت",
-    "actualTime": "00:51",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "PC 1826-2025-08-04": {
-    "flightNumber": "PC 1826",
-    "status": "وصلت",
-    "actualTime": "00:47",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "VF 543-2025-08-04": {
     "flightNumber": "VF 543",
     "status": "وصلت",
@@ -1135,8 +1121,8 @@
   },
   "ET 406-2025-08-04": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "02:25",
+    "status": "وصلت",
+    "actualTime": "02:55",
     "type": "arivl",
     "airlineCode": "ET"
   },
