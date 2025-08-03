@@ -1,29 +1,15 @@
 {
-  "IA 134-2025-08-03": {
-    "flightNumber": "IA 134",
+  "ME 324-2025-08-03": {
+    "flightNumber": "ME 324",
     "status": "تم اغلاق البوابة",
-    "actualTime": "10:15",
+    "actualTime": "11:44",
     "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "FZ 158-2025-08-03": {
-    "flightNumber": "FZ 158",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "09:38",
-    "type": "dprtr",
-    "airlineCode": "FZ"
+    "airlineCode": "ME"
   },
   "ME 308-2025-08-03": {
     "flightNumber": "ME 308",
     "status": "تم فتح البوابة",
     "actualTime": "12:15",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 324-2025-08-03": {
-    "flightNumber": "ME 324",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "11:44",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -34,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "UF 002-2025-08-03": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "17:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "G9 386-2025-08-03": {
     "flightNumber": "G9 386",
     "status": "النداء الاخير",
@@ -48,10 +27,17 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
+  "UF 002-2025-08-03": {
+    "flightNumber": "UF 002",
+    "status": "",
+    "actualTime": "17:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
+  },
   "QR 417-2025-08-03": {
     "flightNumber": "QR 417",
-    "status": "تم فتح البوابة",
-    "actualTime": "13:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:46",
     "type": "dprtr",
     "airlineCode": "QR"
   },
