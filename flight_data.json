@@ -1,11 +1,4 @@
 {
-  "FZ 8240-2025-08-04": {
-    "flightNumber": "FZ 8240",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "22:49",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
   "LH 1309-2025-08-05": {
     "flightNumber": "LH 1309",
     "status": "تم اغلاق البوابة",
@@ -15,14 +8,14 @@
   },
   "VF 544-2025-08-05": {
     "flightNumber": "VF 544",
-    "status": "تم فتح البوابة",
-    "actualTime": "02:00",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "02:08",
     "type": "dprtr",
     "airlineCode": "VF"
   },
   "PC 759-2025-08-05": {
     "flightNumber": "PC 759",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -55,8 +48,8 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "ME 364-2025-08-05": {
-    "flightNumber": "ME 364",
+  "ME 271-2025-08-05": {
+    "flightNumber": "ME 271",
     "status": "",
     "actualTime": "06:00",
     "type": "dprtr",
@@ -69,8 +62,8 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 271-2025-08-05": {
-    "flightNumber": "ME 271",
+  "ME 364-2025-08-05": {
+    "flightNumber": "ME 364",
     "status": "",
     "actualTime": "06:00",
     "type": "dprtr",
@@ -1126,34 +1119,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 423-2025-08-04": {
-    "flightNumber": "ME 423",
-    "status": "وصلت",
-    "actualTime": "00:47",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 369-2025-08-04": {
-    "flightNumber": "ME 369",
-    "status": "وصلت",
-    "actualTime": "01:49",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 224-2025-08-04": {
-    "flightNumber": "ME 224",
-    "status": "وصلت",
-    "actualTime": "00:11",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "LH 1308-2025-08-04": {
-    "flightNumber": "LH 1308",
-    "status": "وصلت",
-    "actualTime": "23:59",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "ME 1232-2025-08-05": {
     "flightNumber": "ME 1232",
     "status": "وصلت",
@@ -1191,7 +1156,7 @@
   },
   "PC 758-2025-08-05": {
     "flightNumber": "PC 758",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "02:00",
     "type": "arivl",
     "airlineCode": "PC"
