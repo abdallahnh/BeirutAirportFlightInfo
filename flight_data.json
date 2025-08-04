@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "CY 121-2025-08-04": {
-    "flightNumber": "CY 121",
-    "status": "غادرت",
-    "actualTime": "21:10",
-    "type": "dprtr",
-    "airlineCode": "CY"
-  },
   "TK 827-2025-08-04": {
     "flightNumber": "TK 827",
     "status": "تم فتح البوابة",
@@ -22,14 +15,14 @@
   },
   "FZ 160-2025-08-04": {
     "flightNumber": "FZ 160",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "21:42",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
   "ME 434-2025-08-04": {
     "flightNumber": "ME 434",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "22:50",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -615,47 +608,12 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 242-2025-08-04": {
-    "flightNumber": "ME 242",
-    "status": "وصلت",
-    "actualTime": "20:47",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "J9 261-2025-08-04": {
-    "flightNumber": "J9 261",
-    "status": "وصلت",
-    "actualTime": "20:11",
-    "type": "arivl",
-    "airlineCode": "J9"
-  },
-  "CY 120-2025-08-04": {
-    "flightNumber": "CY 120",
-    "status": "وصلت",
-    "actualTime": "20:39",
-    "type": "arivl",
-    "airlineCode": "CY"
-  },
   "TK 826-2025-08-04": {
     "flightNumber": "TK 826",
     "status": "وصلت",
     "actualTime": "21:35",
     "type": "arivl",
     "airlineCode": "TK"
-  },
-  "ME 323-2025-08-04": {
-    "flightNumber": "ME 323",
-    "status": "وصلت",
-    "actualTime": "20:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "FZ 159-2025-08-04": {
-    "flightNumber": "FZ 159",
-    "status": "وصلت",
-    "actualTime": "20:59",
-    "type": "arivl",
-    "airlineCode": "FZ"
   },
   "ME 307-2025-08-04": {
     "flightNumber": "ME 307",
@@ -673,8 +631,8 @@
   },
   "SK 2827-2025-08-04": {
     "flightNumber": "SK 2827",
-    "status": "",
-    "actualTime": "22:00",
+    "status": "وصلت",
+    "actualTime": "21:59",
     "type": "arivl",
     "airlineCode": "SK"
   },
@@ -687,8 +645,8 @@
   },
   "G9 387-2025-08-04": {
     "flightNumber": "G9 387",
-    "status": "",
-    "actualTime": "22:20",
+    "status": "وصلت",
+    "actualTime": "21:57",
     "type": "arivl",
     "airlineCode": "G9"
   },
