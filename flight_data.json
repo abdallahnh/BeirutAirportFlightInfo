@@ -29,8 +29,8 @@
   },
   "EK 958-2025-08-04": {
     "flightNumber": "EK 958",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:53",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -727,6 +727,20 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "UF 004-2025-08-05": {
+    "flightNumber": "UF 004",
+    "status": "",
+    "actualTime": "17:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
+  },
+  "IA 1302-2025-08-05": {
+    "flightNumber": "IA 1302",
+    "status": "",
+    "actualTime": "17:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
+  },
   "ME 442-2025-08-05": {
     "flightNumber": "ME 442",
     "status": "",
@@ -797,13 +811,6 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "RJ 404-2025-08-05": {
-    "flightNumber": "RJ 404",
-    "status": "",
-    "actualTime": "20:45",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "PC 1825-2025-08-05": {
     "flightNumber": "PC 1825",
     "status": "",
@@ -832,9 +839,16 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
+  "RJ 404-2025-08-05": {
+    "flightNumber": "RJ 404",
+    "status": "",
+    "actualTime": "21:30",
+    "type": "dprtr",
+    "airlineCode": "RJ"
+  },
   "G9 409-2025-08-05": {
     "flightNumber": "G9 409",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "21:40",
     "type": "dprtr",
     "airlineCode": "G9"
@@ -855,14 +869,14 @@
   },
   "VF 546-2025-08-05": {
     "flightNumber": "VF 546",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "VF"
   },
   "SK 2968-2025-08-05": {
     "flightNumber": "SK 2968",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "SK"
@@ -897,8 +911,8 @@
   },
   "MS 709-2025-08-04": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "وصلت",
+    "actualTime": "10:48",
     "type": "arivl",
     "airlineCode": "MS"
   },
