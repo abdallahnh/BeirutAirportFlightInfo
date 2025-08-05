@@ -15,7 +15,7 @@
   },
   "IA 1302-2025-08-05": {
     "flightNumber": "IA 1302",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "17:14",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -50,7 +50,7 @@
   },
   "QR 427-2025-08-05": {
     "flightNumber": "QR 427",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "19:15",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -64,28 +64,28 @@
   },
   "PC 1825-2025-08-05": {
     "flightNumber": "PC 1825",
-    "status": "تم فتح البوابة",
-    "actualTime": "20:45",
+    "status": "النداء الاخير",
+    "actualTime": "20:06",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "ME 261-2025-08-05": {
     "flightNumber": "ME 261",
-    "status": "تم فتح البوابة",
-    "actualTime": "20:50",
+    "status": "النداء الاخير",
+    "actualTime": "20:17",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 430-2025-08-05": {
     "flightNumber": "ME 430",
-    "status": "",
-    "actualTime": "21:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:27",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "J9 262-2025-08-05": {
     "flightNumber": "J9 262",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:20",
     "type": "dprtr",
     "airlineCode": "J9"
@@ -720,13 +720,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "QR 426-2025-08-05": {
-    "flightNumber": "QR 426",
-    "status": "وصلت",
-    "actualTime": "18:10",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "ME 212-2025-08-05": {
     "flightNumber": "ME 212",
     "status": "وصلت",
@@ -771,15 +764,15 @@
   },
   "RJ 403-2025-08-05": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "20:35",
+    "status": "وصلت",
+    "actualTime": "20:13",
     "type": "arivl",
     "airlineCode": "RJ"
   },
   "J9 261-2025-08-05": {
     "flightNumber": "J9 261",
-    "status": "",
-    "actualTime": "20:35",
+    "status": "وصلت",
+    "actualTime": "20:11",
     "type": "arivl",
     "airlineCode": "J9"
   },
