@@ -36,22 +36,22 @@
   },
   "ME 320-2025-08-05": {
     "flightNumber": "ME 320",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:55",
+    "status": "غادرت",
+    "actualTime": "11:26",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 326-2025-08-05": {
     "flightNumber": "ME 326",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:00",
+    "status": "النداء الاخير",
+    "actualTime": "11:23",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2025-08-05": {
     "flightNumber": "EK 958",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:05",
+    "status": "النداء الاخير",
+    "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -64,14 +64,14 @@
   },
   "IA 132-2025-08-05": {
     "flightNumber": "IA 132",
-    "status": "",
-    "actualTime": "12:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:47",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "G9 386-2025-08-05": {
     "flightNumber": "G9 386",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "G9"
@@ -92,7 +92,7 @@
   },
   "QR 417-2025-08-05": {
     "flightNumber": "QR 417",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:05",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -916,13 +916,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "MS 709-2025-08-05": {
-    "flightNumber": "MS 709",
-    "status": "وصلت",
-    "actualTime": "09:51",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "EK 957-2025-08-05": {
     "flightNumber": "EK 957",
     "status": "وصلت",
@@ -960,7 +953,7 @@
   },
   "ME 276-2025-08-05": {
     "flightNumber": "ME 276",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "11:23",
     "type": "arivl",
     "airlineCode": "ME"
@@ -974,8 +967,8 @@
   },
   "QR 416-2025-08-05": {
     "flightNumber": "QR 416",
-    "status": "",
-    "actualTime": "11:35",
+    "status": "وصلت",
+    "actualTime": "11:27",
     "type": "arivl",
     "airlineCode": "QR"
   },
@@ -988,15 +981,15 @@
   },
   "G9 385-2025-08-05": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "11:50",
+    "status": "وصلت",
+    "actualTime": "11:29",
     "type": "arivl",
     "airlineCode": "G9"
   },
   "ME 365-2025-08-05": {
     "flightNumber": "ME 365",
-    "status": "تبكير",
-    "actualTime": "11:40",
+    "status": "وصلت",
+    "actualTime": "11:36",
     "type": "arivl",
     "airlineCode": "ME"
   },
