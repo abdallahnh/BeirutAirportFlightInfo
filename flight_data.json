@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "QR 427-2025-08-06": {
-    "flightNumber": "QR 427",
-    "status": "غادرت",
-    "actualTime": "19:11",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "MS 712-2025-08-06": {
     "flightNumber": "MS 712",
     "status": "النداء الاخير",
@@ -43,15 +36,15 @@
   },
   "PC 1825-2025-08-06": {
     "flightNumber": "PC 1825",
-    "status": "تم فتح البوابة",
+    "status": "غادرت",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "ME 261-2025-08-06": {
     "flightNumber": "ME 261",
-    "status": "",
-    "actualTime": "20:55",
+    "status": "النداء الاخير",
+    "actualTime": "20:19",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -762,13 +755,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "TK 3441-2025-08-06": {
-    "flightNumber": "TK 3441",
-    "status": "وصلت",
-    "actualTime": "18:24",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "MS 711-2025-08-06": {
     "flightNumber": "MS 711",
     "status": "وصلت",
@@ -820,8 +806,8 @@
   },
   "J9 261-2025-08-06": {
     "flightNumber": "J9 261",
-    "status": "",
-    "actualTime": "20:35",
+    "status": "وصلت",
+    "actualTime": "20:22",
     "type": "arivl",
     "airlineCode": "J9"
   },
