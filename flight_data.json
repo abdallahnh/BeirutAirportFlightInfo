@@ -1448,13 +1448,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "RJ 401-2025-08-07": {
-    "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "11:20",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "ME 305-2025-08-07": {
     "flightNumber": "ME 305",
     "status": "",
@@ -1462,12 +1455,12 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "UF 001-2025-08-07": {
-    "flightNumber": "UF 001",
+  "RJ 401-2025-08-07": {
+    "flightNumber": "RJ 401",
     "status": "",
-    "actualTime": "11:30",
+    "actualTime": "11:20",
     "type": "arivl",
-    "airlineCode": "UF"
+    "airlineCode": "RJ"
   },
   "IA 131-2025-08-07": {
     "flightNumber": "IA 131",
@@ -1475,6 +1468,13 @@
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "UF 001-2025-08-07": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "QR 416-2025-08-07": {
     "flightNumber": "QR 416",
@@ -1882,15 +1882,15 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 369-2025-08-07": {
-    "flightNumber": "ME 369",
+  "ME 224-2025-08-07": {
+    "flightNumber": "ME 224",
     "status": "",
     "actualTime": "23:40",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 224-2025-08-07": {
-    "flightNumber": "ME 224",
+  "ME 369-2025-08-07": {
+    "flightNumber": "ME 369",
     "status": "",
     "actualTime": "23:40",
     "type": "arivl",
@@ -1924,19 +1924,19 @@
     "type": "arivl",
     "airlineCode": "VF"
   },
-  "PC 756-2025-08-08": {
-    "flightNumber": "PC 756",
-    "status": "",
-    "actualTime": "01:35",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "FZ 8239-2025-08-08": {
     "flightNumber": "FZ 8239",
     "status": "",
     "actualTime": "01:35",
     "type": "arivl",
     "airlineCode": "FZ"
+  },
+  "PC 756-2025-08-08": {
+    "flightNumber": "PC 756",
+    "status": "",
+    "actualTime": "01:35",
+    "type": "arivl",
+    "airlineCode": "PC"
   },
   "ET 406-2025-08-08": {
     "flightNumber": "ET 406",
