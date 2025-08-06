@@ -15,7 +15,7 @@
   },
   "ME 306-2025-08-06": {
     "flightNumber": "ME 306",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "17:49",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -34,16 +34,9 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "PC 1825-2025-08-06": {
-    "flightNumber": "PC 1825",
-    "status": "غادرت",
-    "actualTime": "20:45",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "ME 261-2025-08-06": {
     "flightNumber": "ME 261",
-    "status": "النداء الاخير",
+    "status": "تم فتح البوابة",
     "actualTime": "20:19",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -57,7 +50,7 @@
   },
   "J9 262-2025-08-06": {
     "flightNumber": "J9 262",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:20",
     "type": "dprtr",
     "airlineCode": "J9"
@@ -813,8 +806,8 @@
   },
   "CY 120-2025-08-06": {
     "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "20:50",
+    "status": "وصلت",
+    "actualTime": "20:45",
     "type": "arivl",
     "airlineCode": "CY"
   },
@@ -827,15 +820,15 @@
   },
   "ME 323-2025-08-06": {
     "flightNumber": "ME 323",
-    "status": "",
-    "actualTime": "21:00",
+    "status": "وصلت",
+    "actualTime": "20:49",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "FZ 159-2025-08-06": {
     "flightNumber": "FZ 159",
-    "status": "",
-    "actualTime": "21:40",
+    "status": "وصلت",
+    "actualTime": "20:54",
     "type": "arivl",
     "airlineCode": "FZ"
   },
