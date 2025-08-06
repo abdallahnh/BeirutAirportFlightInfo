@@ -36,7 +36,7 @@
   },
   "CY 121-2025-08-06": {
     "flightNumber": "CY 121",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "21:03",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -71,8 +71,8 @@
   },
   "PC 1827-2025-08-07": {
     "flightNumber": "PC 1827",
-    "status": "تم فتح البوابة",
-    "actualTime": "01:00",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "00:34",
     "type": "dprtr",
     "airlineCode": "PC"
   },
@@ -85,7 +85,7 @@
   },
   "LH 1309-2025-08-07": {
     "flightNumber": "LH 1309",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "01:50",
     "type": "dprtr",
     "airlineCode": "LH"
@@ -1882,15 +1882,15 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 224-2025-08-07": {
-    "flightNumber": "ME 224",
+  "ME 369-2025-08-07": {
+    "flightNumber": "ME 369",
     "status": "",
     "actualTime": "23:40",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 369-2025-08-07": {
-    "flightNumber": "ME 369",
+  "ME 224-2025-08-07": {
+    "flightNumber": "ME 224",
     "status": "",
     "actualTime": "23:40",
     "type": "arivl",
@@ -1924,19 +1924,19 @@
     "type": "arivl",
     "airlineCode": "VF"
   },
-  "FZ 8239-2025-08-08": {
-    "flightNumber": "FZ 8239",
-    "status": "",
-    "actualTime": "01:35",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "PC 756-2025-08-08": {
     "flightNumber": "PC 756",
     "status": "",
     "actualTime": "01:35",
     "type": "arivl",
     "airlineCode": "PC"
+  },
+  "FZ 8239-2025-08-08": {
+    "flightNumber": "FZ 8239",
+    "status": "",
+    "actualTime": "01:35",
+    "type": "arivl",
+    "airlineCode": "FZ"
   },
   "ET 406-2025-08-08": {
     "flightNumber": "ET 406",
