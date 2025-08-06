@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 304-2025-08-06": {
-    "flightNumber": "ME 304",
-    "status": "النداء الاخير",
-    "actualTime": "07:14",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 424-2025-08-06": {
     "flightNumber": "ME 424",
     "status": "تم اغلاق البوابة",
@@ -27,31 +20,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 364-2025-08-06": {
-    "flightNumber": "ME 364",
-    "status": "النداء الاخير",
-    "actualTime": "08:37",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 251-2025-08-06": {
-    "flightNumber": "ME 251",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "08:38",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 241-2025-08-06": {
     "flightNumber": "ME 241",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "08:42",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 831-2025-08-06": {
     "flightNumber": "TK 831",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:10",
+    "status": "النداء الاخير",
+    "actualTime": "09:15",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -64,7 +43,7 @@
   },
   "FZ 158-2025-08-06": {
     "flightNumber": "FZ 158",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:45",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -181,13 +160,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "ME 322-2025-08-06": {
-    "flightNumber": "ME 322",
-    "status": "",
-    "actualTime": "16:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 257-2025-08-06": {
     "flightNumber": "ME 257",
     "status": "",
@@ -236,6 +208,13 @@
     "actualTime": "16:50",
     "type": "dprtr",
     "airlineCode": "LH"
+  },
+  "ME 322-2025-08-06": {
+    "flightNumber": "ME 322",
+    "status": "",
+    "actualTime": "16:55",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 203-2025-08-06": {
     "flightNumber": "ME 203",
@@ -1044,8 +1023,8 @@
   },
   "FZ 157-2025-08-06": {
     "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "09:45",
+    "status": "وصلت",
+    "actualTime": "09:11",
     "type": "arivl",
     "airlineCode": "FZ"
   },
