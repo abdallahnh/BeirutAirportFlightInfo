@@ -1217,17 +1217,17 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 369-2025-08-07": {
-    "flightNumber": "ME 369",
-    "status": "وصلت",
-    "actualTime": "23:55",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 224-2025-08-07": {
     "flightNumber": "ME 224",
     "status": "وصلت",
     "actualTime": "23:47",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 369-2025-08-07": {
+    "flightNumber": "ME 369",
+    "status": "وصلت",
+    "actualTime": "23:55",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1254,8 +1254,8 @@
   },
   "KU 503-2025-08-08": {
     "flightNumber": "KU 503",
-    "status": "",
-    "actualTime": "00:45",
+    "status": "وصلت",
+    "actualTime": "00:41",
     "type": "arivl",
     "airlineCode": "KU"
   },
