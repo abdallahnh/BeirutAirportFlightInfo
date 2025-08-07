@@ -1,35 +1,28 @@
 {
-  "KU 504-2025-08-08": {
-    "flightNumber": "KU 504",
-    "status": "غادرت",
-    "actualTime": "01:59",
-    "type": "dprtr",
-    "airlineCode": "KU"
-  },
   "VF 544-2025-08-08": {
     "flightNumber": "VF 544",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "02:00",
     "type": "dprtr",
     "airlineCode": "VF"
   },
   "PC 759-2025-08-08": {
     "flightNumber": "PC 759",
-    "status": "تم فتح البوابة",
-    "actualTime": "03:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "02:48",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "ET 407-2025-08-08": {
     "flightNumber": "ET 407",
-    "status": "تم فتح البوابة",
-    "actualTime": "03:05",
+    "status": "النداء الاخير",
+    "actualTime": "02:39",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "TK 829-2025-08-08": {
     "flightNumber": "TK 829",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -1161,13 +1154,6 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "KU 503-2025-08-08": {
-    "flightNumber": "KU 503",
-    "status": "وصلت",
-    "actualTime": "00:41",
-    "type": "arivl",
-    "airlineCode": "KU"
-  },
   "VF 543-2025-08-08": {
     "flightNumber": "VF 543",
     "status": "وصلت",
@@ -1191,8 +1177,8 @@
   },
   "TK 828-2025-08-08": {
     "flightNumber": "TK 828",
-    "status": "",
-    "actualTime": "02:30",
+    "status": "وصلت",
+    "actualTime": "02:35",
     "type": "arivl",
     "airlineCode": "TK"
   },
