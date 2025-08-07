@@ -1,7 +1,7 @@
 {
   "ME 223-2025-08-07": {
     "flightNumber": "ME 223",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -36,14 +36,14 @@
   },
   "TK 3444-2025-08-07": {
     "flightNumber": "TK 3444",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "14:42",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "TK 825-2025-08-07": {
     "flightNumber": "TK 825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -911,8 +911,8 @@
   },
   "TK 824-2025-08-07": {
     "flightNumber": "TK 824",
-    "status": "",
-    "actualTime": "14:40",
+    "status": "وصلت",
+    "actualTime": "14:32",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -1314,13 +1314,6 @@
     "actualTime": "01:35",
     "type": "arivl",
     "airlineCode": "PC"
-  },
-  "FZ 8239-2025-08-08": {
-    "flightNumber": "FZ 8239",
-    "status": "",
-    "actualTime": "01:35",
-    "type": "arivl",
-    "airlineCode": "FZ"
   },
   "ET 406-2025-08-08": {
     "flightNumber": "ET 406",
@@ -1783,6 +1776,13 @@
     "actualTime": "22:25",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "FZ 8239-2025-08-08": {
+    "flightNumber": "FZ 8239",
+    "status": "",
+    "actualTime": "22:35",
+    "type": "arivl",
+    "airlineCode": "FZ"
   },
   "ME 419-2025-08-08": {
     "flightNumber": "ME 419",
