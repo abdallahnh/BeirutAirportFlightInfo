@@ -1,8 +1,8 @@
 {
   "MS 712-2025-08-07": {
     "flightNumber": "MS 712",
-    "status": "تأخير",
-    "actualTime": "21:00",
+    "status": "النداء الاخير",
+    "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -20,30 +20,23 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "PC 1825-2025-08-07": {
-    "flightNumber": "PC 1825",
-    "status": "غادرت",
-    "actualTime": "20:04",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "ME 261-2025-08-07": {
     "flightNumber": "ME 261",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:23",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 430-2025-08-07": {
     "flightNumber": "ME 430",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "20:33",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "G9 409-2025-08-07": {
     "flightNumber": "G9 409",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "20:32",
     "type": "dprtr",
     "airlineCode": "G9"
@@ -717,13 +710,6 @@
     "flightNumber": "IA 135",
     "status": "",
     "actualTime": "15:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "IA 1301-2025-08-07": {
-    "flightNumber": "IA 1301",
-    "status": "وصلت",
-    "actualTime": "18:49",
     "type": "arivl",
     "airlineCode": "IA"
   },
