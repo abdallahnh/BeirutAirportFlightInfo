@@ -43,14 +43,14 @@
   },
   "QR 419-2025-08-09": {
     "flightNumber": "QR 419",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "00:50",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "LH 1309-2025-08-09": {
     "flightNumber": "LH 1309",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "01:23",
     "type": "dprtr",
     "airlineCode": "LH"
@@ -64,7 +64,7 @@
   },
   "IA 1312-2025-08-09": {
     "flightNumber": "IA 1312",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "01:27",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -195,19 +195,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "RJ 408-2025-08-09": {
-    "flightNumber": "RJ 408",
-    "status": "",
-    "actualTime": "07:30",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 426-2025-08-09": {
     "flightNumber": "ME 426",
     "status": "",
     "actualTime": "07:30",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "RJ 408-2025-08-09": {
+    "flightNumber": "RJ 408",
+    "status": "",
+    "actualTime": "07:30",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "ME 310-2025-08-09": {
     "flightNumber": "ME 310",
@@ -930,15 +930,15 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
-  "ME 324-2025-08-10": {
-    "flightNumber": "ME 324",
+  "ME 308-2025-08-10": {
+    "flightNumber": "ME 308",
     "status": "",
     "actualTime": "12:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 308-2025-08-10": {
-    "flightNumber": "ME 308",
+  "ME 324-2025-08-10": {
+    "flightNumber": "ME 324",
     "status": "",
     "actualTime": "12:15",
     "type": "dprtr",
@@ -1300,13 +1300,6 @@
     "actualTime": "23:59",
     "type": "arivl",
     "airlineCode": "PC"
-  },
-  "QR 418-2025-08-09": {
-    "flightNumber": "QR 418",
-    "status": "وصلت",
-    "actualTime": "23:37",
-    "type": "arivl",
-    "airlineCode": "QR"
   },
   "IA 1311-2025-08-09": {
     "flightNumber": "IA 1311",
