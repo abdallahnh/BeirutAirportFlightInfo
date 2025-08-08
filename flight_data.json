@@ -50,29 +50,29 @@
   },
   "LH 1309-2025-08-09": {
     "flightNumber": "LH 1309",
-    "status": "تم فتح البوابة",
-    "actualTime": "01:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:23",
     "type": "dprtr",
     "airlineCode": "LH"
   },
   "VF 544-2025-08-09": {
     "flightNumber": "VF 544",
-    "status": "تم فتح البوابة",
-    "actualTime": "02:00",
+    "status": "النداء الاخير",
+    "actualTime": "01:35",
     "type": "dprtr",
     "airlineCode": "VF"
   },
   "IA 1312-2025-08-09": {
     "flightNumber": "IA 1312",
-    "status": "",
-    "actualTime": "02:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:27",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "ME 575-2025-08-09": {
     "flightNumber": "ME 575",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "النداء الاخير",
+    "actualTime": "01:28",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -1266,20 +1266,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "FZ 8239-2025-08-08": {
-    "flightNumber": "FZ 8239",
-    "status": "وصلت",
-    "actualTime": "23:33",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
-  "ME 419-2025-08-08": {
-    "flightNumber": "ME 419",
-    "status": "وصلت",
-    "actualTime": "23:14",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 423-2025-08-08": {
     "flightNumber": "ME 423",
     "status": "وصلت",
@@ -1291,13 +1277,6 @@
     "flightNumber": "ME 369",
     "status": "وصلت",
     "actualTime": "00:27",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 224-2025-08-08": {
-    "flightNumber": "ME 224",
-    "status": "وصلت",
-    "actualTime": "23:35",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1331,8 +1310,8 @@
   },
   "IA 1311-2025-08-09": {
     "flightNumber": "IA 1311",
-    "status": "",
-    "actualTime": "01:00",
+    "status": "وصلت",
+    "actualTime": "01:17",
     "type": "arivl",
     "airlineCode": "IA"
   },
