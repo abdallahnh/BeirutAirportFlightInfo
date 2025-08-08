@@ -1,25 +1,4 @@
 {
-  "FZ 158-2025-08-08": {
-    "flightNumber": "FZ 158",
-    "status": "غادرت",
-    "actualTime": "09:45",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
-  "MS 710-2025-08-08": {
-    "flightNumber": "MS 710",
-    "status": "غادرت",
-    "actualTime": "11:25",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
-  "ME 320-2025-08-08": {
-    "flightNumber": "ME 320",
-    "status": "النداء الاخير",
-    "actualTime": "11:24",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EK 958-2025-08-08": {
     "flightNumber": "EK 958",
     "status": "تم اغلاق البوابة",
@@ -29,22 +8,22 @@
   },
   "ME 308-2025-08-08": {
     "flightNumber": "ME 308",
-    "status": "",
-    "actualTime": "12:15",
+    "status": "النداء الاخير",
+    "actualTime": "11:52",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 402-2025-08-08": {
     "flightNumber": "RJ 402",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:38",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "IA 132-2025-08-08": {
     "flightNumber": "IA 132",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:30",
+    "status": "النداء الاخير",
+    "actualTime": "12:01",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -930,13 +909,6 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "EK 957-2025-08-08": {
-    "flightNumber": "EK 957",
-    "status": "وصلت",
-    "actualTime": "09:51",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "MS 709-2025-08-08": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -981,8 +953,8 @@
   },
   "G9 385-2025-08-08": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "11:50",
+    "status": "وصلت",
+    "actualTime": "11:51",
     "type": "arivl",
     "airlineCode": "G9"
   },
