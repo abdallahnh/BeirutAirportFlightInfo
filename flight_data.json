@@ -1,18 +1,4 @@
 {
-  "ME 430-2025-08-08": {
-    "flightNumber": "ME 430",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "20:59",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "IA 1328-2025-08-08": {
-    "flightNumber": "IA 1328",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "21:00",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "CY 121-2025-08-08": {
     "flightNumber": "CY 121",
     "status": "تم اغلاق البوابة",
@@ -22,7 +8,7 @@
   },
   "TK 827-2025-08-08": {
     "flightNumber": "TK 827",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "22:08",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -36,8 +22,8 @@
   },
   "SK 2828-2025-08-08": {
     "flightNumber": "SK 2828",
-    "status": "تم فتح البوابة",
-    "actualTime": "23:00",
+    "status": "النداء الاخير",
+    "actualTime": "22:16",
     "type": "dprtr",
     "airlineCode": "SK"
   },
@@ -195,15 +181,15 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 247-2025-08-09": {
-    "flightNumber": "ME 247",
+  "ME 265-2025-08-09": {
+    "flightNumber": "ME 265",
     "status": "",
     "actualTime": "07:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 265-2025-08-09": {
-    "flightNumber": "ME 265",
+  "ME 247-2025-08-09": {
+    "flightNumber": "ME 247",
     "status": "",
     "actualTime": "07:00",
     "type": "dprtr",
@@ -713,13 +699,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "J9 261-2025-08-08": {
-    "flightNumber": "J9 261",
-    "status": "وصلت",
-    "actualTime": "20:11",
-    "type": "arivl",
-    "airlineCode": "J9"
-  },
   "CY 120-2025-08-08": {
     "flightNumber": "CY 120",
     "status": "وصلت",
@@ -912,7 +891,7 @@
   "PC 758-2025-08-09": {
     "flightNumber": "PC 758",
     "status": "",
-    "actualTime": "02:00",
+    "actualTime": "02:05",
     "type": "arivl",
     "airlineCode": "PC"
   },
