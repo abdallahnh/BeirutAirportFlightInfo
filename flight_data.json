@@ -71,7 +71,7 @@
   },
   "RJ 404-2025-08-09": {
     "flightNumber": "RJ 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:20",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -820,8 +820,8 @@
   },
   "IA 139-2025-08-09": {
     "flightNumber": "IA 139",
-    "status": "تأخير",
-    "actualTime": "16:00",
+    "status": "وصلت",
+    "actualTime": "20:01",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -876,8 +876,8 @@
   },
   "RJ 403-2025-08-09": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "20:20",
+    "status": "وصلت",
+    "actualTime": "20:06",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -901,6 +901,13 @@
     "actualTime": "20:30",
     "type": "arivl",
     "airlineCode": "G9"
+  },
+  "J9 261-2025-08-09": {
+    "flightNumber": "J9 261",
+    "status": "",
+    "actualTime": "20:35",
+    "type": "arivl",
+    "airlineCode": "J9"
   },
   "TK 826-2025-08-09": {
     "flightNumber": "TK 826",
