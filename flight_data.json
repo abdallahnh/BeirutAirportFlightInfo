@@ -48,13 +48,6 @@
     "type": "dprtr",
     "airlineCode": "KU"
   },
-  "J9 264-2025-08-09": {
-    "flightNumber": "J9 264",
-    "status": "غادرت",
-    "actualTime": "22:47",
-    "type": "dprtr",
-    "airlineCode": "J9"
-  },
   "FZ 8240-2025-08-09": {
     "flightNumber": "FZ 8240",
     "status": "تم اغلاق البوابة",
@@ -713,19 +706,19 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 2424-2025-08-10": {
-    "flightNumber": "ME 2424",
-    "status": "",
-    "actualTime": "23:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "G9 388-2025-08-10": {
     "flightNumber": "G9 388",
     "status": "",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "G9"
+  },
+  "ME 2424-2025-08-10": {
+    "flightNumber": "ME 2424",
+    "status": "",
+    "actualTime": "23:00",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 434-2025-08-10": {
     "flightNumber": "ME 434",
@@ -806,8 +799,8 @@
   },
   "QR 418-2025-08-10": {
     "flightNumber": "QR 418",
-    "status": "",
-    "actualTime": "00:10",
+    "status": "وصلت",
+    "actualTime": "23:36",
     "type": "arivl",
     "airlineCode": "QR"
   },
