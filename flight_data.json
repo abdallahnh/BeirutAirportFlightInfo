@@ -706,19 +706,19 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "G9 388-2025-08-10": {
-    "flightNumber": "G9 388",
-    "status": "",
-    "actualTime": "23:00",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "ME 2424-2025-08-10": {
     "flightNumber": "ME 2424",
     "status": "",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "G9 388-2025-08-10": {
+    "flightNumber": "G9 388",
+    "status": "",
+    "actualTime": "23:00",
+    "type": "dprtr",
+    "airlineCode": "G9"
   },
   "ME 434-2025-08-10": {
     "flightNumber": "ME 434",
@@ -785,8 +785,8 @@
   },
   "LH 1308-2025-08-09": {
     "flightNumber": "LH 1308",
-    "status": "",
-    "actualTime": "23:55",
+    "status": "وصلت",
+    "actualTime": "23:51",
     "type": "arivl",
     "airlineCode": "LH"
   },
@@ -811,8 +811,8 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 1333-2025-08-10": {
-    "flightNumber": "IA 1333",
+  "IA 1329-2025-08-10": {
+    "flightNumber": "IA 1329",
     "status": "",
     "actualTime": "00:30",
     "type": "arivl",
@@ -824,13 +824,6 @@
     "actualTime": "01:10",
     "type": "arivl",
     "airlineCode": "VF"
-  },
-  "IA 1319-2025-08-10": {
-    "flightNumber": "IA 1319",
-    "status": "",
-    "actualTime": "01:15",
-    "type": "arivl",
-    "airlineCode": "IA"
   },
   "FZ 8239-2025-08-10": {
     "flightNumber": "FZ 8239",
@@ -902,6 +895,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "IA 1319-2025-08-10": {
+    "flightNumber": "IA 1319",
+    "status": "",
+    "actualTime": "03:30",
+    "type": "arivl",
+    "airlineCode": "IA"
+  },
   "LO 145-2025-08-10": {
     "flightNumber": "LO 145",
     "status": "",
@@ -915,6 +915,13 @@
     "actualTime": "03:40",
     "type": "arivl",
     "airlineCode": "MS"
+  },
+  "IA 1333-2025-08-10": {
+    "flightNumber": "IA 1333",
+    "status": "",
+    "actualTime": "04:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "ME 431-2025-08-10": {
     "flightNumber": "ME 431",
@@ -936,6 +943,13 @@
     "actualTime": "05:45",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "IA 1321-2025-08-10": {
+    "flightNumber": "IA 1321",
+    "status": "",
+    "actualTime": "05:45",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "ME 272-2025-08-10": {
     "flightNumber": "ME 272",
