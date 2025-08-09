@@ -29,7 +29,7 @@
   },
   "ME 436-2025-08-09": {
     "flightNumber": "ME 436",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -50,7 +50,7 @@
   },
   "AF 565-2025-08-09": {
     "flightNumber": "AF 565",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "AF"
@@ -902,6 +902,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "ME 236-2025-08-09": {
+    "flightNumber": "ME 236",
+    "status": "وصلت",
+    "actualTime": "14:11",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
   "ME 425-2025-08-09": {
     "flightNumber": "ME 425",
     "status": "وصلت",
@@ -911,15 +918,22 @@
   },
   "AF 564-2025-08-09": {
     "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "وصلت",
+    "actualTime": "14:09",
     "type": "arivl",
     "airlineCode": "AF"
   },
+  "TK 824-2025-08-09": {
+    "flightNumber": "TK 824",
+    "status": "وصلت",
+    "actualTime": "14:02",
+    "type": "arivl",
+    "airlineCode": "TK"
+  },
   "ME 365-2025-08-09": {
     "flightNumber": "ME 365",
-    "status": "تبكير",
-    "actualTime": "14:40",
+    "status": "وصلت",
+    "actualTime": "14:38",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1581,19 +1595,19 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "VF 1043-2025-08-10": {
-    "flightNumber": "VF 1043",
-    "status": "",
-    "actualTime": "15:40",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "LH 1306-2025-08-10": {
     "flightNumber": "LH 1306",
     "status": "",
     "actualTime": "15:40",
     "type": "arivl",
     "airlineCode": "LH"
+  },
+  "VF 1043-2025-08-10": {
+    "flightNumber": "VF 1043",
+    "status": "",
+    "actualTime": "15:40",
+    "type": "arivl",
+    "airlineCode": "VF"
   },
   "ME 309-2025-08-10": {
     "flightNumber": "ME 309",
