@@ -27,38 +27,31 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 271-2025-08-09": {
-    "flightNumber": "ME 271",
-    "status": "غادرت",
-    "actualTime": "07:46",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 424-2025-08-09": {
     "flightNumber": "ME 424",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "08:03",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 364-2025-08-09": {
     "flightNumber": "ME 364",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "08:14",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 251-2025-08-09": {
     "flightNumber": "ME 251",
-    "status": "",
-    "actualTime": "09:10",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "08:31",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 241-2025-08-09": {
     "flightNumber": "ME 241",
-    "status": "تم فتح البوابة",
-    "actualTime": "09:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "08:38",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -1385,19 +1378,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 576-2025-08-09": {
-    "flightNumber": "ME 576",
-    "status": "",
-    "actualTime": "20:30",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "G9 408-2025-08-09": {
     "flightNumber": "G9 408",
     "status": "",
     "actualTime": "20:30",
     "type": "arivl",
     "airlineCode": "G9"
+  },
+  "ME 576-2025-08-09": {
+    "flightNumber": "ME 576",
+    "status": "",
+    "actualTime": "20:30",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "TK 826-2025-08-09": {
     "flightNumber": "TK 826",
