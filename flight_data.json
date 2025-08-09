@@ -64,21 +64,21 @@
   },
   "QR 419-2025-08-10": {
     "flightNumber": "QR 419",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "00:50",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "LH 1309-2025-08-10": {
     "flightNumber": "LH 1309",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "00:51",
     "type": "dprtr",
     "airlineCode": "LH"
   },
   "VF 544-2025-08-10": {
     "flightNumber": "VF 544",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:00",
     "type": "dprtr",
     "airlineCode": "VF"
@@ -142,7 +142,7 @@
   "MS 714-2025-08-10": {
     "flightNumber": "MS 714",
     "status": "",
-    "actualTime": "05:00",
+    "actualTime": "04:45",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -1315,31 +1315,10 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 262-2025-08-09": {
-    "flightNumber": "ME 262",
-    "status": "وصلت",
-    "actualTime": "23:22",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 230-2025-08-09": {
-    "flightNumber": "ME 230",
-    "status": "وصلت",
-    "actualTime": "23:14",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 423-2025-08-09": {
     "flightNumber": "ME 423",
     "status": "وصلت",
     "actualTime": "00:15",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 403-2025-08-09": {
-    "flightNumber": "ME 403",
-    "status": "وصلت",
-    "actualTime": "23:19",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1373,22 +1352,22 @@
   },
   "ME 7256-2025-08-10": {
     "flightNumber": "ME 7256",
-    "status": "",
-    "actualTime": "00:10",
+    "status": "وصلت",
+    "actualTime": "01:02",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "IA 1329-2025-08-10": {
     "flightNumber": "IA 1329",
-    "status": "",
-    "actualTime": "00:30",
+    "status": "وصلت",
+    "actualTime": "01:18",
     "type": "arivl",
     "airlineCode": "IA"
   },
   "VF 543-2025-08-10": {
     "flightNumber": "VF 543",
     "status": "",
-    "actualTime": "01:10",
+    "actualTime": "01:30",
     "type": "arivl",
     "airlineCode": "VF"
   },
