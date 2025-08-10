@@ -1,8 +1,8 @@
 {
   "IA 1324-2025-08-11": {
     "flightNumber": "IA 1324",
-    "status": "",
-    "actualTime": "01:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "02:26",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -15,8 +15,8 @@
   },
   "VF 544-2025-08-11": {
     "flightNumber": "VF 544",
-    "status": "تم فتح البوابة",
-    "actualTime": "02:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "02:21",
     "type": "dprtr",
     "airlineCode": "VF"
   },
@@ -62,19 +62,19 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
+  "IA 1326-2025-08-11": {
+    "flightNumber": "IA 1326",
+    "status": "",
+    "actualTime": "05:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
+  },
   "PC 763-2025-08-11": {
     "flightNumber": "PC 763",
     "status": "",
     "actualTime": "05:55",
     "type": "dprtr",
     "airlineCode": "PC"
-  },
-  "IA 1323-2025-08-11": {
-    "flightNumber": "IA 1323",
-    "status": "",
-    "actualTime": "00:30",
-    "type": "arivl",
-    "airlineCode": "IA"
   },
   "ME 225-2025-08-11": {
     "flightNumber": "ME 225",
@@ -180,13 +180,6 @@
     "actualTime": "08:30",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "IA 1326-2025-08-11": {
-    "flightNumber": "IA 1326",
-    "status": "",
-    "actualTime": "08:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
   },
   "ME 404-2025-08-11": {
     "flightNumber": "ME 404",
@@ -456,6 +449,13 @@
   },
   "IA 1336-2025-08-11": {
     "flightNumber": "IA 1336",
+    "status": "",
+    "actualTime": "19:00",
+    "type": "dprtr",
+    "airlineCode": "IA"
+  },
+  "IA 1308-2025-08-11": {
+    "flightNumber": "IA 1308",
     "status": "",
     "actualTime": "19:00",
     "type": "dprtr",
@@ -1217,6 +1217,13 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
+  "IA 1323-2025-08-11": {
+    "flightNumber": "IA 1323",
+    "status": "وصلت",
+    "actualTime": "02:16",
+    "type": "arivl",
+    "airlineCode": "IA"
+  },
   "ME 224-2025-08-11": {
     "flightNumber": "ME 224",
     "status": "",
@@ -1261,8 +1268,8 @@
   },
   "PC 760-2025-08-11": {
     "flightNumber": "PC 760",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "وصلت",
+    "actualTime": "02:14",
     "type": "arivl",
     "airlineCode": "PC"
   },
@@ -1608,6 +1615,13 @@
     "actualTime": "17:40",
     "type": "arivl",
     "airlineCode": "EK"
+  },
+  "IA 1307-2025-08-11": {
+    "flightNumber": "IA 1307",
+    "status": "",
+    "actualTime": "18:00",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "IA 1339-2025-08-11": {
     "flightNumber": "IA 1339",
