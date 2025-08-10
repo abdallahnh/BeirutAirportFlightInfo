@@ -1,11 +1,4 @@
 {
-  "IA 1338-2025-08-10": {
-    "flightNumber": "IA 1338",
-    "status": "",
-    "actualTime": "21:45",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "TK 827-2025-08-10": {
     "flightNumber": "TK 827",
     "status": "تم اغلاق البوابة",
@@ -15,29 +8,22 @@
   },
   "FZ 160-2025-08-10": {
     "flightNumber": "FZ 160",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "22:41",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
   "ME 2424-2025-08-10": {
     "flightNumber": "ME 2424",
-    "status": "تم فتح البوابة",
-    "actualTime": "23:40",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "23:05",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "G9 388-2025-08-10": {
-    "flightNumber": "G9 388",
-    "status": "غادرت",
-    "actualTime": "22:12",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "ME 434-2025-08-10": {
     "flightNumber": "ME 434",
-    "status": "تم فتح البوابة",
-    "actualTime": "23:05",
+    "status": "غادرت",
+    "actualTime": "23:02",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -50,7 +36,7 @@
   },
   "FZ 8240-2025-08-10": {
     "flightNumber": "FZ 8240",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "22:40",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -741,13 +727,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "TK 826-2025-08-10": {
-    "flightNumber": "TK 826",
-    "status": "وصلت",
-    "actualTime": "21:04",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "FZ 159-2025-08-10": {
     "flightNumber": "FZ 159",
     "status": "وصلت",
@@ -792,8 +771,8 @@
   },
   "ME 254-2025-08-10": {
     "flightNumber": "ME 254",
-    "status": "",
-    "actualTime": "22:45",
+    "status": "وصلت",
+    "actualTime": "23:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -855,8 +834,8 @@
   },
   "ME 262-2025-08-10": {
     "flightNumber": "ME 262",
-    "status": "",
-    "actualTime": "23:45",
+    "status": "وصلت",
+    "actualTime": "23:16",
     "type": "arivl",
     "airlineCode": "ME"
   },
