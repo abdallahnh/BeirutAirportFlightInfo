@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "QR 427-2025-08-11": {
-    "flightNumber": "QR 427",
-    "status": "غادرت",
-    "actualTime": "19:30",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "MS 712-2025-08-11": {
     "flightNumber": "MS 712",
     "status": "تم اغلاق البوابة",
@@ -22,7 +15,7 @@
   },
   "PC 1825-2025-08-11": {
     "flightNumber": "PC 1825",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:26",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -57,7 +50,7 @@
   },
   "J9 262-2025-08-11": {
     "flightNumber": "J9 262",
-    "status": "",
+    "status": "غادرت",
     "actualTime": "21:20",
     "type": "dprtr",
     "airlineCode": "J9"
@@ -71,7 +64,7 @@
   },
   "CY 121-2025-08-11": {
     "flightNumber": "CY 121",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -138,13 +131,6 @@
     "actualTime": "23:35",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "RJ 051-2025-08-11": {
-    "flightNumber": "RJ 051",
-    "status": "",
-    "actualTime": "23:45",
-    "type": "dprtr",
-    "airlineCode": "RJ"
   },
   "IA 1330-2025-08-12": {
     "flightNumber": "IA 1330",
@@ -799,15 +785,15 @@
   },
   "CY 120-2025-08-11": {
     "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "20:50",
+    "status": "وصلت",
+    "actualTime": "20:44",
     "type": "arivl",
     "airlineCode": "CY"
   },
   "TK 826-2025-08-11": {
     "flightNumber": "TK 826",
-    "status": "",
-    "actualTime": "20:55",
+    "status": "وصلت",
+    "actualTime": "20:54",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -821,7 +807,7 @@
   "FZ 159-2025-08-11": {
     "flightNumber": "FZ 159",
     "status": "",
-    "actualTime": "21:40",
+    "actualTime": "20:58",
     "type": "arivl",
     "airlineCode": "FZ"
   },
