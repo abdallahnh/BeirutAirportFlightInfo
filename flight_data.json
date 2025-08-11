@@ -57,28 +57,14 @@
   },
   "IA 1308-2025-08-11": {
     "flightNumber": "IA 1308",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "19:00",
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "IA 1340-2025-08-11": {
-    "flightNumber": "IA 1340",
-    "status": "النداء الاخير",
-    "actualTime": "18:37",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "EK 954-2025-08-11": {
-    "flightNumber": "EK 954",
-    "status": "النداء الاخير",
-    "actualTime": "18:20",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
   "TK 3439-2025-08-11": {
     "flightNumber": "TK 3439",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:00",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -92,21 +78,21 @@
   },
   "MS 712-2025-08-11": {
     "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "20:10",
+    "status": "النداء الاخير",
+    "actualTime": "20:11",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "RJ 404-2025-08-11": {
     "flightNumber": "RJ 404",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "19:53",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "PC 1825-2025-08-11": {
     "flightNumber": "PC 1825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -120,7 +106,7 @@
   },
   "ME 571-2025-08-11": {
     "flightNumber": "ME 571",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -862,15 +848,15 @@
   },
   "PC 1824-2025-08-11": {
     "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "20:11",
     "type": "arivl",
     "airlineCode": "PC"
   },
   "ME 323-2025-08-11": {
     "flightNumber": "ME 323",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "19:54",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -890,8 +876,8 @@
   },
   "J9 261-2025-08-11": {
     "flightNumber": "J9 261",
-    "status": "",
-    "actualTime": "20:35",
+    "status": "وصلت",
+    "actualTime": "20:12",
     "type": "arivl",
     "airlineCode": "J9"
   },
