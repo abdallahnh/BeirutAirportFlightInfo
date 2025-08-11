@@ -41,20 +41,6 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "G9 386-2025-08-11": {
-    "flightNumber": "G9 386",
-    "status": "غادرت",
-    "actualTime": "12:26",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
-  "QR 417-2025-08-11": {
-    "flightNumber": "QR 417",
-    "status": "غادرت",
-    "actualTime": "12:28",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "EY 582-2025-08-11": {
     "flightNumber": "EY 582",
     "status": "تم اغلاق البوابة",
@@ -64,7 +50,7 @@
   },
   "TK 3440-2025-08-11": {
     "flightNumber": "TK 3440",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "14:17",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -92,7 +78,7 @@
   },
   "TK 825-2025-08-11": {
     "flightNumber": "TK 825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -334,6 +320,13 @@
     "actualTime": "22:50",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "SK 2828-2025-08-11": {
+    "flightNumber": "SK 2828",
+    "status": "",
+    "actualTime": "23:00",
+    "type": "dprtr",
+    "airlineCode": "SK"
   },
   "IA 1344-2025-08-11": {
     "flightNumber": "IA 1344",
@@ -1245,8 +1238,8 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "SK 2967-2025-08-11": {
-    "flightNumber": "SK 2967",
+  "SK 2827-2025-08-11": {
+    "flightNumber": "SK 2827",
     "status": "",
     "actualTime": "22:00",
     "type": "arivl",
