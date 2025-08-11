@@ -29,7 +29,7 @@
   },
   "SK 2828-2025-08-11": {
     "flightNumber": "SK 2828",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "23:21",
     "type": "dprtr",
     "airlineCode": "SK"
@@ -57,7 +57,7 @@
   },
   "IA 1330-2025-08-12": {
     "flightNumber": "IA 1330",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "00:30",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -643,13 +643,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 437-2025-08-11": {
-    "flightNumber": "ME 437",
-    "status": "وصلت",
-    "actualTime": "21:42",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "SK 2827-2025-08-11": {
     "flightNumber": "SK 2827",
     "status": "وصلت",
@@ -771,15 +764,15 @@
   },
   "LH 1308-2025-08-11": {
     "flightNumber": "LH 1308",
-    "status": "",
-    "actualTime": "23:55",
+    "status": "وصلت",
+    "actualTime": "23:46",
     "type": "arivl",
     "airlineCode": "LH"
   },
   "ME 429-2025-08-11": {
     "flightNumber": "ME 429",
-    "status": "",
-    "actualTime": "23:59",
+    "status": "وصلت",
+    "actualTime": "23:36",
     "type": "arivl",
     "airlineCode": "ME"
   },
