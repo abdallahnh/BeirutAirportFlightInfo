@@ -36,8 +36,15 @@
   },
   "ET 407-2025-08-12": {
     "flightNumber": "ET 407",
-    "status": "تم فتح البوابة",
-    "actualTime": "03:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "02:33",
+    "type": "dprtr",
+    "airlineCode": "ET"
+  },
+  "ET 417-2025-08-12": {
+    "flightNumber": "ET 417",
+    "status": "",
+    "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "ET"
   },
@@ -47,13 +54,6 @@
     "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "TK"
-  },
-  "ET 417-2025-08-12": {
-    "flightNumber": "ET 417",
-    "status": "",
-    "actualTime": "03:55",
-    "type": "dprtr",
-    "airlineCode": "ET"
   },
   "RO 168-2025-08-12": {
     "flightNumber": "RO 168",
