@@ -43,14 +43,14 @@
   },
   "G9 386-2025-08-11": {
     "flightNumber": "G9 386",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "12:26",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "QR 417-2025-08-11": {
     "flightNumber": "QR 417",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "12:28",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -64,8 +64,8 @@
   },
   "TK 3440-2025-08-11": {
     "flightNumber": "TK 3440",
-    "status": "",
-    "actualTime": "14:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "14:17",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -944,20 +944,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 266-2025-08-11": {
-    "flightNumber": "ME 266",
-    "status": "وصلت",
-    "actualTime": "12:16",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "G9 385-2025-08-11": {
-    "flightNumber": "G9 385",
-    "status": "وصلت",
-    "actualTime": "12:13",
-    "type": "arivl",
-    "airlineCode": "G9"
-  },
   "TK 3438-2025-08-11": {
     "flightNumber": "TK 3438",
     "status": "وصلت",
@@ -967,8 +953,8 @@
   },
   "ME 252-2025-08-11": {
     "flightNumber": "ME 252",
-    "status": "",
-    "actualTime": "13:50",
+    "status": "وصلت",
+    "actualTime": "14:10",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -981,22 +967,22 @@
   },
   "ME 405-2025-08-11": {
     "flightNumber": "ME 405",
-    "status": "",
-    "actualTime": "14:15",
+    "status": "وصلت",
+    "actualTime": "14:01",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "AF 564-2025-08-11": {
     "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "وصلت",
+    "actualTime": "14:09",
     "type": "arivl",
     "airlineCode": "AF"
   },
   "TK 824-2025-08-11": {
     "flightNumber": "TK 824",
-    "status": "",
-    "actualTime": "14:40",
+    "status": "وصلت",
+    "actualTime": "14:06",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -1258,6 +1244,13 @@
     "actualTime": "21:55",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "SK 2967-2025-08-11": {
+    "flightNumber": "SK 2967",
+    "status": "",
+    "actualTime": "22:00",
+    "type": "arivl",
+    "airlineCode": "SK"
   },
   "IA 1343-2025-08-11": {
     "flightNumber": "IA 1343",
