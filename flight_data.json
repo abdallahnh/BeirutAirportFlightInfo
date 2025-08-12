@@ -22,50 +22,50 @@
   },
   "MS 710-2025-08-12": {
     "flightNumber": "MS 710",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:04",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "CY 121-2025-08-12": {
     "flightNumber": "CY 121",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:09",
     "type": "dprtr",
     "airlineCode": "CY"
   },
   "ME 320-2025-08-12": {
     "flightNumber": "ME 320",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "11:24",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2025-08-12": {
     "flightNumber": "EK 958",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:13",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "ME 324-2025-08-12": {
     "flightNumber": "ME 324",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:41",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 304-2025-08-12": {
     "flightNumber": "ME 304",
-    "status": "",
-    "actualTime": "12:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:38",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 402-2025-08-12": {
     "flightNumber": "RJ 402",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:20",
+    "status": "النداء الاخير",
+    "actualTime": "11:39",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -85,14 +85,14 @@
   },
   "G9 386-2025-08-12": {
     "flightNumber": "G9 386",
-    "status": "",
-    "actualTime": "12:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:49",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "ME 229-2025-08-12": {
     "flightNumber": "ME 229",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -387,7 +387,7 @@
   "FZ 8240-2025-08-13": {
     "flightNumber": "FZ 8240",
     "status": "",
-    "actualTime": "02:35",
+    "actualTime": "23:35",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -415,7 +415,7 @@
   "TK 829-2025-08-13": {
     "flightNumber": "TK 829",
     "status": "",
-    "actualTime": "03:35",
+    "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -818,19 +818,19 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
+  "TK 3439-2025-08-13": {
+    "flightNumber": "TK 3439",
+    "status": "",
+    "actualTime": "20:00",
+    "type": "dprtr",
+    "airlineCode": "TK"
+  },
   "MS 712-2025-08-13": {
     "flightNumber": "MS 712",
     "status": "",
     "actualTime": "20:10",
     "type": "dprtr",
     "airlineCode": "MS"
-  },
-  "TK 3439-2025-08-13": {
-    "flightNumber": "TK 3439",
-    "status": "",
-    "actualTime": "20:20",
-    "type": "dprtr",
-    "airlineCode": "TK"
   },
   "QR 427-2025-08-13": {
     "flightNumber": "QR 427",
@@ -901,13 +901,6 @@
     "actualTime": "22:40",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "VF 546-2025-08-13": {
-    "flightNumber": "VF 546",
-    "status": "",
-    "actualTime": "23:00",
-    "type": "dprtr",
-    "airlineCode": "VF"
   },
   "SK 2828-2025-08-13": {
     "flightNumber": "SK 2828",
@@ -986,17 +979,10 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "UF 001-2025-08-12": {
-    "flightNumber": "UF 001",
-    "status": "ألغيت",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 131-2025-08-12": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "وصلت",
+    "actualTime": "11:38",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -1009,8 +995,8 @@
   },
   "G9 385-2025-08-12": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "11:50",
+    "status": "وصلت",
+    "actualTime": "11:32",
     "type": "arivl",
     "airlineCode": "G9"
   },
@@ -1023,8 +1009,8 @@
   },
   "EY 581-2025-08-12": {
     "flightNumber": "EY 581",
-    "status": "",
-    "actualTime": "12:35",
+    "status": "وصلت",
+    "actualTime": "11:46",
     "type": "arivl",
     "airlineCode": "EY"
   },
@@ -1430,7 +1416,7 @@
   "TK 828-2025-08-13": {
     "flightNumber": "TK 828",
     "status": "",
-    "actualTime": "02:40",
+    "actualTime": "02:30",
     "type": "arivl",
     "airlineCode": "TK"
   },
