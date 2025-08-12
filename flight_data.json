@@ -125,19 +125,19 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "PC 759-2025-08-13": {
-    "flightNumber": "PC 759",
-    "status": "",
-    "actualTime": "03:05",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "ET 407-2025-08-13": {
     "flightNumber": "ET 407",
     "status": "",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "ET"
+  },
+  "PC 759-2025-08-13": {
+    "flightNumber": "PC 759",
+    "status": "",
+    "actualTime": "03:05",
+    "type": "dprtr",
+    "airlineCode": "PC"
   },
   "LO 144-2025-08-13": {
     "flightNumber": "LO 144",
@@ -713,13 +713,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "IA 1311-2025-08-12": {
-    "flightNumber": "IA 1311",
-    "status": "وصلت",
-    "actualTime": "20:43",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "FZ 159-2025-08-12": {
     "flightNumber": "FZ 159",
     "status": "وصلت",
@@ -785,8 +778,8 @@
   },
   "ME 262-2025-08-12": {
     "flightNumber": "ME 262",
-    "status": "",
-    "actualTime": "23:05",
+    "status": "وصلت",
+    "actualTime": "22:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
