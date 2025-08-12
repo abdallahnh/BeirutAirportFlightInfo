@@ -29,15 +29,8 @@
   },
   "IA 1332-2025-08-12": {
     "flightNumber": "IA 1332",
-    "status": "النداء الاخير",
-    "actualTime": "21:57",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "IA 1312-2025-08-12": {
-    "flightNumber": "IA 1312",
     "status": "غادرت",
-    "actualTime": "21:33",
+    "actualTime": "21:57",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -50,7 +43,7 @@
   },
   "FZ 160-2025-08-12": {
     "flightNumber": "FZ 160",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "21:36",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -64,21 +57,21 @@
   },
   "G9 388-2025-08-12": {
     "flightNumber": "G9 388",
-    "status": "",
-    "actualTime": "23:00",
+    "status": "النداء الاخير",
+    "actualTime": "22:30",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "ME 434-2025-08-12": {
     "flightNumber": "ME 434",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "22:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "FZ 8240-2025-08-12": {
     "flightNumber": "FZ 8240",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "23:35",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -706,13 +699,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "MS 711-2025-08-12": {
-    "flightNumber": "MS 711",
-    "status": "وصلت",
-    "actualTime": "20:27",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "TK 826-2025-08-12": {
     "flightNumber": "TK 826",
     "status": "وصلت",
@@ -778,8 +764,8 @@
   },
   "FZ 8239-2025-08-12": {
     "flightNumber": "FZ 8239",
-    "status": "",
-    "actualTime": "22:35",
+    "status": "وصلت",
+    "actualTime": "22:30",
     "type": "arivl",
     "airlineCode": "FZ"
   },
