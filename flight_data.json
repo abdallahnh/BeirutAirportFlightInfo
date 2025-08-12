@@ -43,22 +43,22 @@
   },
   "EY 584-2025-08-12": {
     "flightNumber": "EY 584",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "18:35",
     "type": "dprtr",
     "airlineCode": "EY"
   },
   "EK 954-2025-08-12": {
     "flightNumber": "EK 954",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:36",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "QR 427-2025-08-12": {
     "flightNumber": "QR 427",
-    "status": "",
-    "actualTime": "20:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:15",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -152,6 +152,13 @@
     "actualTime": "23:05",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "IA 1346-2025-08-12": {
+    "flightNumber": "IA 1346",
+    "status": "",
+    "actualTime": "23:59",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "QR 419-2025-08-13": {
     "flightNumber": "QR 419",
@@ -762,20 +769,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "EY 583-2025-08-12": {
-    "flightNumber": "EY 583",
-    "status": "وصلت",
-    "actualTime": "17:07",
-    "type": "arivl",
-    "airlineCode": "EY"
-  },
-  "EK 953-2025-08-12": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:21",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "QR 426-2025-08-12": {
     "flightNumber": "QR 426",
     "status": "وصلت",
@@ -785,8 +778,8 @@
   },
   "ME 212-2025-08-12": {
     "flightNumber": "ME 212",
-    "status": "",
-    "actualTime": "18:55",
+    "status": "وصلت",
+    "actualTime": "19:07",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -813,8 +806,8 @@
   },
   "ME 323-2025-08-12": {
     "flightNumber": "ME 323",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "تبكير",
+    "actualTime": "19:40",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -915,6 +908,13 @@
     "actualTime": "22:50",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "IA 1345-2025-08-12": {
+    "flightNumber": "IA 1345",
+    "status": "",
+    "actualTime": "23:00",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "ME 262-2025-08-12": {
     "flightNumber": "ME 262",
