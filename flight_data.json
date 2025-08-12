@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "ME 575-2025-08-13": {
-    "flightNumber": "ME 575",
-    "status": "غادرت",
-    "actualTime": "01:31",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "IA 1326-2025-08-13": {
     "flightNumber": "IA 1326",
     "status": "",
@@ -36,22 +29,22 @@
   },
   "PC 759-2025-08-13": {
     "flightNumber": "PC 759",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "02:30",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "ET 407-2025-08-13": {
     "flightNumber": "ET 407",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "LO 144-2025-08-13": {
     "flightNumber": "LO 144",
-    "status": "تم فتح البوابة",
-    "actualTime": "03:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "02:54",
     "type": "dprtr",
     "airlineCode": "LO"
   },
@@ -71,7 +64,7 @@
   },
   "ET 417-2025-08-13": {
     "flightNumber": "ET 417",
-    "status": "",
+    "status": "تم اغلاق البوابة",
     "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -1324,8 +1317,8 @@
   },
   "IA 1347-2025-08-13": {
     "flightNumber": "IA 1347",
-    "status": "",
-    "actualTime": "02:30",
+    "status": "وصلت",
+    "actualTime": "02:51",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -1338,8 +1331,8 @@
   },
   "RO 167-2025-08-13": {
     "flightNumber": "RO 167",
-    "status": "",
-    "actualTime": "03:05",
+    "status": "وصلت",
+    "actualTime": "02:53",
     "type": "arivl",
     "airlineCode": "RO"
   },
