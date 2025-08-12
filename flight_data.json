@@ -57,14 +57,14 @@
   },
   "IA 1346-2025-08-12": {
     "flightNumber": "IA 1346",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "23:59",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "IA 1314-2025-08-13": {
     "flightNumber": "IA 1314",
-    "status": "الصعود الى الطائرة",
+    "status": "تم فتح البوابة",
     "actualTime": "23:53",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -720,19 +720,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "G9 388-2025-08-13": {
-    "flightNumber": "G9 388",
-    "status": "",
-    "actualTime": "23:00",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "SK 2828-2025-08-13": {
     "flightNumber": "SK 2828",
     "status": "",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "SK"
+  },
+  "G9 388-2025-08-13": {
+    "flightNumber": "G9 388",
+    "status": "",
+    "actualTime": "23:00",
+    "type": "dprtr",
+    "airlineCode": "G9"
   },
   "FZ 8240-2025-08-13": {
     "flightNumber": "FZ 8240",
@@ -1356,13 +1356,6 @@
     "actualTime": "23:14",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "FZ 8239-2025-08-12": {
-    "flightNumber": "FZ 8239",
-    "status": "وصلت",
-    "actualTime": "22:30",
-    "type": "arivl",
-    "airlineCode": "FZ"
   },
   "ME 419-2025-08-12": {
     "flightNumber": "ME 419",
