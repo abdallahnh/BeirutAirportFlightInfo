@@ -1,11 +1,4 @@
 {
-  "ME 424-2025-08-13": {
-    "flightNumber": "ME 424",
-    "status": "غادرت",
-    "actualTime": "08:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 364-2025-08-13": {
     "flightNumber": "ME 364",
     "status": "تأخير",
@@ -13,47 +6,26 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 251-2025-08-13": {
-    "flightNumber": "ME 251",
-    "status": "النداء الاخير",
-    "actualTime": "08:48",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 241-2025-08-13": {
-    "flightNumber": "ME 241",
-    "status": "النداء الاخير",
-    "actualTime": "08:43",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "IA 1310-2025-08-13": {
     "flightNumber": "IA 1310",
-    "status": "تم فتح البوابة",
-    "actualTime": "09:30",
+    "status": "غادرت",
+    "actualTime": "08:59",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "IA 1306-2025-08-13": {
     "flightNumber": "IA 1306",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "10:00",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "TK 831-2025-08-13": {
     "flightNumber": "TK 831",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:10",
+    "status": "النداء الاخير",
+    "actualTime": "09:15",
     "type": "dprtr",
     "airlineCode": "TK"
-  },
-  "FZ 158-2025-08-13": {
-    "flightNumber": "FZ 158",
-    "status": "",
-    "actualTime": "10:45",
-    "type": "dprtr",
-    "airlineCode": "FZ"
   },
   "IA 134-2025-08-13": {
     "flightNumber": "IA 134",
@@ -61,6 +33,13 @@
     "actualTime": "10:45",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "FZ 158-2025-08-13": {
+    "flightNumber": "FZ 158",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:32",
+    "type": "dprtr",
+    "airlineCode": "FZ"
   },
   "MS 710-2025-08-13": {
     "flightNumber": "MS 710",
@@ -139,13 +118,6 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "IA 1312-2025-08-13": {
-    "flightNumber": "IA 1312",
-    "status": "",
-    "actualTime": "13:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "EY 582-2025-08-13": {
     "flightNumber": "EY 582",
     "status": "",
@@ -166,6 +138,13 @@
     "actualTime": "15:00",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "IA 1312-2025-08-13": {
+    "flightNumber": "IA 1312",
+    "status": "",
+    "actualTime": "15:00",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "ME 436-2025-08-13": {
     "flightNumber": "ME 436",
