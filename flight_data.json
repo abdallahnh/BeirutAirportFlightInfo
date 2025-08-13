@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 1312-2025-08-13": {
-    "flightNumber": "IA 1312",
-    "status": "غادرت",
-    "actualTime": "13:55",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "ME 436-2025-08-13": {
     "flightNumber": "ME 436",
     "status": "تأخير",
@@ -57,7 +50,7 @@
   },
   "ME 322-2025-08-13": {
     "flightNumber": "ME 322",
-    "status": "",
+    "status": "غادرت",
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -1030,8 +1023,8 @@
   },
   "ME 405-2025-08-13": {
     "flightNumber": "ME 405",
-    "status": "",
-    "actualTime": "14:15",
+    "status": "وصلت",
+    "actualTime": "14:48",
     "type": "arivl",
     "airlineCode": "ME"
   },
