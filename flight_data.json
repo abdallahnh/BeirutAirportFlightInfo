@@ -43,7 +43,7 @@
   },
   "PC 1825-2025-08-13": {
     "flightNumber": "PC 1825",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:05",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -57,7 +57,7 @@
   },
   "ME 430-2025-08-13": {
     "flightNumber": "ME 430",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "20:29",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -71,8 +71,8 @@
   },
   "RJ 404-2025-08-13": {
     "flightNumber": "RJ 404",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:30",
+    "status": "النداء الاخير",
+    "actualTime": "20:34",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -195,15 +195,15 @@
     "type": "dprtr",
     "airlineCode": "RO"
   },
-  "PC 1823-2025-08-14": {
-    "flightNumber": "PC 1823",
+  "PC 757-2025-08-14": {
+    "flightNumber": "PC 757",
     "status": "",
     "actualTime": "04:20",
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "PC 757-2025-08-14": {
-    "flightNumber": "PC 757",
+  "PC 1823-2025-08-14": {
+    "flightNumber": "PC 1823",
     "status": "",
     "actualTime": "04:20",
     "type": "dprtr",
@@ -818,13 +818,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "QR 426-2025-08-13": {
-    "flightNumber": "QR 426",
-    "status": "وصلت",
-    "actualTime": "18:42",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "MS 711-2025-08-13": {
     "flightNumber": "MS 711",
     "status": "وصلت",
@@ -883,8 +876,8 @@
   },
   "ME 242-2025-08-13": {
     "flightNumber": "ME 242",
-    "status": "",
-    "actualTime": "20:25",
+    "status": "وصلت",
+    "actualTime": "20:41",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -897,22 +890,22 @@
   },
   "RJ 403-2025-08-13": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "20:35",
+    "status": "وصلت",
+    "actualTime": "20:26",
     "type": "arivl",
     "airlineCode": "RJ"
   },
   "J9 261-2025-08-13": {
     "flightNumber": "J9 261",
-    "status": "",
-    "actualTime": "20:35",
+    "status": "وصلت",
+    "actualTime": "20:30",
     "type": "arivl",
     "airlineCode": "J9"
   },
   "CY 120-2025-08-13": {
     "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "20:50",
+    "status": "وصلت",
+    "actualTime": "20:40",
     "type": "arivl",
     "airlineCode": "CY"
   },
