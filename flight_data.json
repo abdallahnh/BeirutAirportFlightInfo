@@ -29,7 +29,7 @@
   },
   "IA 1312-2025-08-13": {
     "flightNumber": "IA 1312",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "13:55",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -50,7 +50,7 @@
   },
   "TK 825-2025-08-13": {
     "flightNumber": "TK 825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -1000,13 +1000,6 @@
     "type": "arivl",
     "airlineCode": "UF"
   },
-  "IA 1327-2025-08-13": {
-    "flightNumber": "IA 1327",
-    "status": "وصلت",
-    "actualTime": "12:31",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "IA 1311-2025-08-13": {
     "flightNumber": "IA 1311",
     "status": "وصلت",
@@ -1044,8 +1037,8 @@
   },
   "AF 564-2025-08-13": {
     "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "وصلت",
+    "actualTime": "14:33",
     "type": "arivl",
     "airlineCode": "AF"
   },
