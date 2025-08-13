@@ -6,23 +6,16 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "IA 1328-2025-08-13": {
-    "flightNumber": "IA 1328",
-    "status": "غادرت",
-    "actualTime": "13:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "EY 582-2025-08-13": {
     "flightNumber": "EY 582",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "13:02",
     "type": "dprtr",
     "airlineCode": "EY"
   },
   "TK 3440-2025-08-13": {
     "flightNumber": "TK 3440",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "14:50",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -1000,33 +993,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 305-2025-08-13": {
-    "flightNumber": "ME 305",
-    "status": "وصلت",
-    "actualTime": "11:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "UF 001-2025-08-13": {
     "flightNumber": "UF 001",
     "status": "",
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "UF"
-  },
-  "IA 1349-2025-08-13": {
-    "flightNumber": "IA 1349",
-    "status": "وصلت",
-    "actualTime": "11:40",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "IA 131-2025-08-13": {
-    "flightNumber": "IA 131",
-    "status": "وصلت",
-    "actualTime": "11:32",
-    "type": "arivl",
-    "airlineCode": "IA"
   },
   "ME 266-2025-08-13": {
     "flightNumber": "ME 266",
@@ -1051,8 +1023,8 @@
   },
   "IA 1311-2025-08-13": {
     "flightNumber": "IA 1311",
-    "status": "",
-    "actualTime": "12:30",
+    "status": "وصلت",
+    "actualTime": "13:37",
     "type": "arivl",
     "airlineCode": "IA"
   },
