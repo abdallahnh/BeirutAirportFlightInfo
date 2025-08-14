@@ -6,16 +6,9 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "QR 427-2025-08-14": {
-    "flightNumber": "QR 427",
-    "status": "غادرت",
-    "actualTime": "19:21",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "TK 3443-2025-08-14": {
     "flightNumber": "TK 3443",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -29,22 +22,22 @@
   },
   "ME 261-2025-08-14": {
     "flightNumber": "ME 261",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "20:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 430-2025-08-14": {
     "flightNumber": "ME 430",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:36",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "G9 409-2025-08-14": {
     "flightNumber": "G9 409",
-    "status": "",
-    "actualTime": "21:10",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:35",
     "type": "dprtr",
     "airlineCode": "G9"
   },
@@ -57,7 +50,7 @@
   },
   "RJ 404-2025-08-14": {
     "flightNumber": "RJ 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:30",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -757,8 +750,8 @@
   },
   "G9 408-2025-08-14": {
     "flightNumber": "G9 408",
-    "status": "",
-    "actualTime": "20:30",
+    "status": "وصلت",
+    "actualTime": "20:23",
     "type": "arivl",
     "airlineCode": "G9"
   },
