@@ -69,16 +69,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EY 584-2025-08-14": {
-    "flightNumber": "EY 584",
-    "status": "النداء الاخير",
-    "actualTime": "19:15",
-    "type": "dprtr",
-    "airlineCode": "EY"
-  },
   "EK 954-2025-08-14": {
     "flightNumber": "EK 954",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:31",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -92,8 +85,8 @@
   },
   "QR 427-2025-08-14": {
     "flightNumber": "QR 427",
-    "status": "",
-    "actualTime": "20:20",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:21",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -146,13 +139,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "KU 504-2025-08-14": {
-    "flightNumber": "KU 504",
-    "status": "",
-    "actualTime": "22:00",
-    "type": "dprtr",
-    "airlineCode": "KU"
-  },
   "TK 833-2025-08-14": {
     "flightNumber": "TK 833",
     "status": "",
@@ -195,13 +181,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "EK 956-2025-08-15": {
-    "flightNumber": "EK 956",
-    "status": "",
-    "actualTime": "01:30",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
   "QR 419-2025-08-15": {
     "flightNumber": "QR 419",
     "status": "",
@@ -222,6 +201,13 @@
     "actualTime": "02:00",
     "type": "dprtr",
     "airlineCode": "VF"
+  },
+  "KU 504-2025-08-15": {
+    "flightNumber": "KU 504",
+    "status": "",
+    "actualTime": "02:00",
+    "type": "dprtr",
+    "airlineCode": "KU"
   },
   "ME 571-2025-08-15": {
     "flightNumber": "ME 571",
@@ -804,34 +790,6 @@
     "type": "arivl",
     "airlineCode": "MS"
   },
-  "UF 003-2025-08-14": {
-    "flightNumber": "UF 003",
-    "status": "وصلت",
-    "actualTime": "17:11",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
-  "ME 218-2025-08-14": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "16:58",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "EY 583-2025-08-14": {
-    "flightNumber": "EY 583",
-    "status": "وصلت",
-    "actualTime": "17:00",
-    "type": "arivl",
-    "airlineCode": "EY"
-  },
-  "EK 953-2025-08-14": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:07",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "QR 426-2025-08-14": {
     "flightNumber": "QR 426",
     "status": "وصلت",
@@ -841,8 +799,8 @@
   },
   "MS 711-2025-08-14": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "18:45",
+    "status": "وصلت",
+    "actualTime": "19:00",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -862,8 +820,8 @@
   },
   "TK 3445-2025-08-14": {
     "flightNumber": "TK 3445",
-    "status": "",
-    "actualTime": "19:45",
+    "status": "وصلت",
+    "actualTime": "19:17",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -901,13 +859,6 @@
     "actualTime": "20:35",
     "type": "arivl",
     "airlineCode": "J9"
-  },
-  "KU 503-2025-08-14": {
-    "flightNumber": "KU 503",
-    "status": "",
-    "actualTime": "20:45",
-    "type": "arivl",
-    "airlineCode": "KU"
   },
   "TK 826-2025-08-14": {
     "flightNumber": "TK 826",
@@ -1069,6 +1020,13 @@
     "actualTime": "00:10",
     "type": "arivl",
     "airlineCode": "QR"
+  },
+  "KU 503-2025-08-15": {
+    "flightNumber": "KU 503",
+    "status": "",
+    "actualTime": "00:45",
+    "type": "arivl",
+    "airlineCode": "KU"
   },
   "VF 543-2025-08-15": {
     "flightNumber": "VF 543",
