@@ -8,22 +8,22 @@
   },
   "TK 831-2025-08-14": {
     "flightNumber": "TK 831",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "09:14",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "FZ 158-2025-08-14": {
     "flightNumber": "FZ 158",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:44",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
   "CY 121-2025-08-14": {
     "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "10:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:46",
     "type": "dprtr",
     "airlineCode": "CY"
   },
@@ -1016,15 +1016,15 @@
   },
   "CY 120-2025-08-14": {
     "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "09:50",
+    "status": "وصلت",
+    "actualTime": "09:41",
     "type": "arivl",
     "airlineCode": "CY"
   },
   "EK 957-2025-08-14": {
     "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "10:05",
+    "status": "وصلت",
+    "actualTime": "09:56",
     "type": "arivl",
     "airlineCode": "EK"
   },
@@ -1147,13 +1147,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "AF 564-2025-08-14": {
-    "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
-    "type": "arivl",
-    "airlineCode": "AF"
-  },
   "AH 4016-2025-08-14": {
     "flightNumber": "AH 4016",
     "status": "",
@@ -1167,6 +1160,13 @@
     "actualTime": "14:20",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "AF 564-2025-08-14": {
+    "flightNumber": "AF 564",
+    "status": "",
+    "actualTime": "14:20",
+    "type": "arivl",
+    "airlineCode": "AF"
   },
   "TK 3442-2025-08-14": {
     "flightNumber": "TK 3442",
