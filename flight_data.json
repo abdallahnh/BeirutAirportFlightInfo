@@ -71,8 +71,8 @@
   },
   "QR 419-2025-08-15": {
     "flightNumber": "QR 419",
-    "status": "تم فتح البوابة",
-    "actualTime": "01:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "00:51",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -92,7 +92,7 @@
   },
   "KU 504-2025-08-15": {
     "flightNumber": "KU 504",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:00",
     "type": "dprtr",
     "airlineCode": "KU"
@@ -944,19 +944,19 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
-  "IA 132-2025-08-16": {
-    "flightNumber": "IA 132",
-    "status": "",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "G9 386-2025-08-16": {
     "flightNumber": "G9 386",
     "status": "",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "G9"
+  },
+  "IA 132-2025-08-16": {
+    "flightNumber": "IA 132",
+    "status": "",
+    "actualTime": "12:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "ME 229-2025-08-16": {
     "flightNumber": "ME 229",
@@ -1237,27 +1237,6 @@
     "actualTime": "23:25",
     "type": "dprtr",
     "airlineCode": "J9"
-  },
-  "FZ 8239-2025-08-14": {
-    "flightNumber": "FZ 8239",
-    "status": "وصلت",
-    "actualTime": "22:51",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
-  "ME 254-2025-08-14": {
-    "flightNumber": "ME 254",
-    "status": "وصلت",
-    "actualTime": "22:46",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 419-2025-08-14": {
-    "flightNumber": "ME 419",
-    "status": "وصلت",
-    "actualTime": "22:53",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 262-2025-08-14": {
     "flightNumber": "ME 262",
