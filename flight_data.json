@@ -1,32 +1,4 @@
 {
-  "ME 217-2025-08-15": {
-    "flightNumber": "ME 217",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "06:44",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 310-2025-08-15": {
-    "flightNumber": "ME 310",
-    "status": "النداء الاخير",
-    "actualTime": "07:07",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 211-2025-08-15": {
-    "flightNumber": "ME 211",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:23",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 404-2025-08-15": {
-    "flightNumber": "ME 404",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "08:08",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 241-2025-08-15": {
     "flightNumber": "ME 241",
     "status": "النداء الاخير",
@@ -50,22 +22,22 @@
   },
   "MS 710-2025-08-15": {
     "flightNumber": "MS 710",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "10:37",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "ME 320-2025-08-15": {
     "flightNumber": "ME 320",
-    "status": "",
-    "actualTime": "11:55",
+    "status": "النداء الاخير",
+    "actualTime": "11:11",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2025-08-15": {
     "flightNumber": "EK 958",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:01",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -78,7 +50,7 @@
   },
   "RJ 402-2025-08-15": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -979,13 +951,6 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "FZ 157-2025-08-15": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "09:13",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "EK 957-2025-08-15": {
     "flightNumber": "EK 957",
     "status": "وصلت",
@@ -1009,8 +974,8 @@
   },
   "RJ 401-2025-08-15": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "11:20",
+    "status": "وصلت",
+    "actualTime": "10:51",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -1037,8 +1002,8 @@
   },
   "QR 416-2025-08-15": {
     "flightNumber": "QR 416",
-    "status": "",
-    "actualTime": "11:35",
+    "status": "وصلت",
+    "actualTime": "11:12",
     "type": "arivl",
     "airlineCode": "QR"
   },
