@@ -8,7 +8,7 @@
   },
   "ME 223-2025-08-15": {
     "flightNumber": "ME 223",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "14:33",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -69,13 +69,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "LH 1307-2025-08-15": {
-    "flightNumber": "LH 1307",
-    "status": "",
-    "actualTime": "16:50",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "ME 263-2025-08-15": {
     "flightNumber": "ME 263",
     "status": "",
@@ -83,10 +76,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "LH 1307-2025-08-15": {
+    "flightNumber": "LH 1307",
+    "status": "",
+    "actualTime": "16:50",
+    "type": "dprtr",
+    "airlineCode": "LH"
+  },
   "ME 418-2025-08-15": {
     "flightNumber": "ME 418",
-    "status": "",
-    "actualTime": "17:00",
+    "status": "تأخير",
+    "actualTime": "18:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -981,8 +981,8 @@
   },
   "ME 365-2025-08-15": {
     "flightNumber": "ME 365",
-    "status": "",
-    "actualTime": "14:50",
+    "status": "وصلت",
+    "actualTime": "14:48",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1086,8 +1086,8 @@
   },
   "ME 218-2025-08-15": {
     "flightNumber": "ME 218",
-    "status": "",
-    "actualTime": "16:50",
+    "status": "تأخير",
+    "actualTime": "17:25",
     "type": "arivl",
     "airlineCode": "ME"
   },
