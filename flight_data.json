@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "RJ 402-2025-08-15": {
-    "flightNumber": "RJ 402",
-    "status": "غادرت",
-    "actualTime": "11:30",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "UF 002-2025-08-15": {
     "flightNumber": "UF 002",
     "status": "ألغيت",
@@ -50,14 +43,14 @@
   },
   "G9 386-2025-08-15": {
     "flightNumber": "G9 386",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:05",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "QR 417-2025-08-15": {
     "flightNumber": "QR 417",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "12:16",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -922,13 +915,6 @@
     "actualTime": "23:25",
     "type": "dprtr",
     "airlineCode": "J9"
-  },
-  "ME 311-2025-08-15": {
-    "flightNumber": "ME 311",
-    "status": "وصلت",
-    "actualTime": "10:30",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "RJ 401-2025-08-15": {
     "flightNumber": "RJ 401",
