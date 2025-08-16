@@ -1,39 +1,4 @@
 {
-  "ME 235-2025-08-16": {
-    "flightNumber": "ME 235",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:43",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 211-2025-08-16": {
-    "flightNumber": "ME 211",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:15",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 201-2025-08-16": {
-    "flightNumber": "ME 201",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:17",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 424-2025-08-16": {
-    "flightNumber": "ME 424",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:50",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "TK 831-2025-08-16": {
-    "flightNumber": "TK 831",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "09:57",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "FZ 158-2025-08-16": {
     "flightNumber": "FZ 158",
     "status": "تم اغلاق البوابة",
@@ -43,36 +8,36 @@
   },
   "MS 710-2025-08-16": {
     "flightNumber": "MS 710",
-    "status": "تأخير",
-    "actualTime": "11:50",
+    "status": "تم فتح البوابة",
+    "actualTime": "11:21",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "ME 304-2025-08-16": {
     "flightNumber": "ME 304",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:50",
+    "status": "النداء الاخير",
+    "actualTime": "11:08",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "CY 121-2025-08-16": {
     "flightNumber": "CY 121",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:50",
+    "status": "النداء الاخير",
+    "actualTime": "11:04",
     "type": "dprtr",
     "airlineCode": "CY"
   },
   "ME 320-2025-08-16": {
     "flightNumber": "ME 320",
-    "status": "",
-    "actualTime": "11:55",
+    "status": "النداء الاخير",
+    "actualTime": "11:11",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2025-08-16": {
     "flightNumber": "EK 958",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:05",
+    "status": "النداء الاخير",
+    "actualTime": "10:56",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -138,6 +103,13 @@
     "actualTime": "15:25",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "IA 1304-2025-08-16": {
+    "flightNumber": "IA 1304",
+    "status": "",
+    "actualTime": "15:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "TK 825-2025-08-16": {
     "flightNumber": "TK 825",
@@ -1000,20 +972,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 830-2025-08-16": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "FZ 157-2025-08-16": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "09:02",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "EK 957-2025-08-16": {
     "flightNumber": "EK 957",
     "status": "وصلت",
@@ -1023,8 +981,8 @@
   },
   "MS 709-2025-08-16": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "10:20",
+    "status": "وصلت",
+    "actualTime": "10:56",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -1058,8 +1016,8 @@
   },
   "RJ 401-2025-08-16": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "11:20",
+    "status": "وصلت",
+    "actualTime": "10:55",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -1072,15 +1030,15 @@
   },
   "IA 131-2025-08-16": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "وصلت",
+    "actualTime": "11:19",
     "type": "arivl",
     "airlineCode": "IA"
   },
   "QR 416-2025-08-16": {
     "flightNumber": "QR 416",
-    "status": "",
-    "actualTime": "11:35",
+    "status": "وصلت",
+    "actualTime": "11:16",
     "type": "arivl",
     "airlineCode": "QR"
   },
@@ -1125,6 +1083,13 @@
     "actualTime": "14:20",
     "type": "arivl",
     "airlineCode": "AF"
+  },
+  "IA 1303-2025-08-16": {
+    "flightNumber": "IA 1303",
+    "status": "",
+    "actualTime": "14:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "TK 824-2025-08-16": {
     "flightNumber": "TK 824",
