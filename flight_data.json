@@ -1,8 +1,8 @@
 {
   "ME 436-2025-08-16": {
     "flightNumber": "ME 436",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "14:45",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -29,7 +29,7 @@
   },
   "TK 825-2025-08-16": {
     "flightNumber": "TK 825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -43,7 +43,7 @@
   },
   "AF 565-2025-08-16": {
     "flightNumber": "AF 565",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "AF"
@@ -1016,15 +1016,15 @@
   },
   "AF 564-2025-08-16": {
     "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "وصلت",
+    "actualTime": "14:46",
     "type": "arivl",
     "airlineCode": "AF"
   },
   "IA 1303-2025-08-16": {
     "flightNumber": "IA 1303",
-    "status": "",
-    "actualTime": "14:30",
+    "status": "وصلت",
+    "actualTime": "14:43",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -1037,8 +1037,8 @@
   },
   "ME 365-2025-08-16": {
     "flightNumber": "ME 365",
-    "status": "",
-    "actualTime": "14:50",
+    "status": "وصلت",
+    "actualTime": "14:40",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1525,6 +1525,13 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
+  "TK 6156-2025-08-17": {
+    "flightNumber": "TK 6156",
+    "status": "",
+    "actualTime": "09:30",
+    "type": "arivl",
+    "airlineCode": "TK"
+  },
   "IA 137-2025-08-17": {
     "flightNumber": "IA 137",
     "status": "",
@@ -1944,6 +1951,13 @@
     "actualTime": "22:20",
     "type": "arivl",
     "airlineCode": "G9"
+  },
+  "FZ 8239-2025-08-17": {
+    "flightNumber": "FZ 8239",
+    "status": "",
+    "actualTime": "22:35",
+    "type": "arivl",
+    "airlineCode": "FZ"
   },
   "ME 254-2025-08-17": {
     "flightNumber": "ME 254",
