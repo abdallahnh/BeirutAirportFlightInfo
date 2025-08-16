@@ -29,7 +29,7 @@
   },
   "ET 407-2025-08-17": {
     "flightNumber": "ET 407",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -321,19 +321,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "UF 002-2025-08-17": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "IA 132-2025-08-17": {
     "flightNumber": "IA 132",
     "status": "",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "UF 002-2025-08-17": {
+    "flightNumber": "UF 002",
+    "status": "",
+    "actualTime": "12:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
   },
   "G9 386-2025-08-17": {
     "flightNumber": "G9 386",
@@ -1252,13 +1252,6 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "ME 429-2025-08-16": {
-    "flightNumber": "ME 429",
-    "status": "وصلت",
-    "actualTime": "00:25",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "VF 543-2025-08-17": {
     "flightNumber": "VF 543",
     "status": "وصلت",
@@ -1282,15 +1275,15 @@
   },
   "PC 758-2025-08-17": {
     "flightNumber": "PC 758",
-    "status": "",
-    "actualTime": "02:00",
+    "status": "وصلت",
+    "actualTime": "02:15",
     "type": "arivl",
     "airlineCode": "PC"
   },
   "ET 406-2025-08-17": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "وصلت",
+    "actualTime": "02:01",
     "type": "arivl",
     "airlineCode": "ET"
   },
