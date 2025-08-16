@@ -1,21 +1,21 @@
 {
   "QR 419-2025-08-17": {
     "flightNumber": "QR 419",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "00:41",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "LH 1309-2025-08-17": {
     "flightNumber": "LH 1309",
-    "status": "تم فتح البوابة",
-    "actualTime": "01:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:13",
     "type": "dprtr",
     "airlineCode": "LH"
   },
   "VF 544-2025-08-17": {
     "flightNumber": "VF 544",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:00",
     "type": "dprtr",
     "airlineCode": "VF"
@@ -321,19 +321,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "UF 002-2025-08-17": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "IA 132-2025-08-17": {
     "flightNumber": "IA 132",
     "status": "",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "UF 002-2025-08-17": {
+    "flightNumber": "UF 002",
+    "status": "",
+    "actualTime": "12:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
   },
   "G9 386-2025-08-17": {
     "flightNumber": "G9 386",
@@ -1252,13 +1252,6 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "ME 419-2025-08-16": {
-    "flightNumber": "ME 419",
-    "status": "وصلت",
-    "actualTime": "23:07",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 429-2025-08-16": {
     "flightNumber": "ME 429",
     "status": "وصلت",
@@ -1268,8 +1261,8 @@
   },
   "VF 543-2025-08-17": {
     "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "01:10",
+    "status": "وصلت",
+    "actualTime": "01:01",
     "type": "arivl",
     "airlineCode": "VF"
   },
