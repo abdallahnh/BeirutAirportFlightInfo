@@ -41,13 +41,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 2424-2025-08-17": {
-    "flightNumber": "ME 2424",
-    "status": "غادرت",
-    "actualTime": "23:46",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "PC 1832-2025-08-18": {
     "flightNumber": "PC 1832",
     "status": "",
@@ -57,7 +50,7 @@
   },
   "QR 419-2025-08-18": {
     "flightNumber": "QR 419",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "01:40",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -1275,8 +1268,8 @@
   },
   "ME 429-2025-08-17": {
     "flightNumber": "ME 429",
-    "status": "",
-    "actualTime": "23:59",
+    "status": "وصلت",
+    "actualTime": "00:26",
     "type": "arivl",
     "airlineCode": "ME"
   },
