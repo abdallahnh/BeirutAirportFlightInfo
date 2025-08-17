@@ -41,13 +41,6 @@
     "type": "dprtr",
     "airlineCode": "LH"
   },
-  "IA 140-2025-08-17": {
-    "flightNumber": "IA 140",
-    "status": "غادرت",
-    "actualTime": "17:22",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "ME 203-2025-08-17": {
     "flightNumber": "ME 203",
     "status": "تم اغلاق البوابة",
@@ -62,20 +55,6 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
-  "ME 442-2025-08-17": {
-    "flightNumber": "ME 442",
-    "status": "غادرت",
-    "actualTime": "17:13",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 368-2025-08-17": {
-    "flightNumber": "ME 368",
-    "status": "غادرت",
-    "actualTime": "17:45",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 281-2025-08-17": {
     "flightNumber": "ME 281",
     "status": "تم اغلاق البوابة",
@@ -83,31 +62,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 436-2025-08-17": {
-    "flightNumber": "ME 436",
-    "status": "النداء الاخير",
-    "actualTime": "17:38",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 402-2025-08-17": {
-    "flightNumber": "ME 402",
-    "status": "النداء الاخير",
-    "actualTime": "17:27",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 306-2025-08-17": {
     "flightNumber": "ME 306",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "17:35",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 253-2025-08-17": {
     "flightNumber": "ME 253",
-    "status": "",
-    "actualTime": "18:35",
+    "status": "النداء الاخير",
+    "actualTime": "18:13",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -825,13 +790,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "UF 003-2025-08-17": {
-    "flightNumber": "UF 003",
-    "status": "وصلت",
-    "actualTime": "16:12",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 1301-2025-08-17": {
     "flightNumber": "IA 1301",
     "status": "وصلت",
@@ -876,15 +834,15 @@
   },
   "QR 426-2025-08-17": {
     "flightNumber": "QR 426",
-    "status": "",
-    "actualTime": "18:35",
+    "status": "وصلت",
+    "actualTime": "18:03",
     "type": "arivl",
     "airlineCode": "QR"
   },
   "KU 501-2025-08-17": {
     "flightNumber": "KU 501",
-    "status": "",
-    "actualTime": "18:45",
+    "status": "وصلت",
+    "actualTime": "18:06",
     "type": "arivl",
     "airlineCode": "KU"
   },
