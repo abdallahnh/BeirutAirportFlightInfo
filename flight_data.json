@@ -1,32 +1,4 @@
 {
-  "ME 231-2025-08-17": {
-    "flightNumber": "ME 231",
-    "status": "غادرت",
-    "actualTime": "06:49",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 304-2025-08-17": {
-    "flightNumber": "ME 304",
-    "status": "غادرت",
-    "actualTime": "07:10",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 310-2025-08-17": {
-    "flightNumber": "ME 310",
-    "status": "غادرت",
-    "actualTime": "07:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 211-2025-08-17": {
-    "flightNumber": "ME 211",
-    "status": "غادرت",
-    "actualTime": "07:29",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 2422-2025-08-17": {
     "flightNumber": "ME 2422",
     "status": "تم اغلاق البوابة",
@@ -34,31 +6,24 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 404-2025-08-17": {
-    "flightNumber": "ME 404",
-    "status": "غادرت",
-    "actualTime": "08:08",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 251-2025-08-17": {
     "flightNumber": "ME 251",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "08:37",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 956-2025-08-17": {
     "flightNumber": "EK 956",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "08:35",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "TK 831-2025-08-17": {
     "flightNumber": "TK 831",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:10",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:02",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -71,7 +36,7 @@
   },
   "FZ 158-2025-08-17": {
     "flightNumber": "FZ 158",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:45",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -1114,8 +1079,8 @@
   },
   "FZ 157-2025-08-17": {
     "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "09:45",
+    "status": "وصلت",
+    "actualTime": "08:57",
     "type": "arivl",
     "airlineCode": "FZ"
   },
