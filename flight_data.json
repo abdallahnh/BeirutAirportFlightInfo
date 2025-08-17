@@ -1,35 +1,21 @@
 {
-  "IA 134-2025-08-17": {
-    "flightNumber": "IA 134",
-    "status": "",
-    "actualTime": "10:45",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "FZ 158-2025-08-17": {
-    "flightNumber": "FZ 158",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "09:26",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
   "MS 710-2025-08-17": {
     "flightNumber": "MS 710",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:06",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "RJ 402-2025-08-17": {
     "flightNumber": "RJ 402",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:29",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "ME 1422-2025-08-17": {
     "flightNumber": "ME 1422",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:13",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -43,8 +29,8 @@
   },
   "IA 1304-2025-08-17": {
     "flightNumber": "IA 1304",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:52",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -57,7 +43,7 @@
   },
   "ME 324-2025-08-17": {
     "flightNumber": "ME 324",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "11:37",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -71,15 +57,15 @@
   },
   "IA 132-2025-08-17": {
     "flightNumber": "IA 132",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "G9 386-2025-08-17": {
     "flightNumber": "G9 386",
-    "status": "",
-    "actualTime": "12:30",
+    "status": "تأخير",
+    "actualTime": "13:30",
     "type": "dprtr",
     "airlineCode": "G9"
   },
@@ -902,19 +888,19 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "PC 1825-2025-08-18": {
-    "flightNumber": "PC 1825",
-    "status": "",
-    "actualTime": "20:45",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "RJ 404-2025-08-18": {
     "flightNumber": "RJ 404",
     "status": "",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "RJ"
+  },
+  "PC 1825-2025-08-18": {
+    "flightNumber": "PC 1825",
+    "status": "",
+    "actualTime": "20:45",
+    "type": "dprtr",
+    "airlineCode": "PC"
   },
   "ME 261-2025-08-18": {
     "flightNumber": "ME 261",
@@ -1007,13 +993,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "IA 135-2025-08-17": {
-    "flightNumber": "IA 135",
-    "status": "وصلت",
-    "actualTime": "09:52",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "EK 957-2025-08-17": {
     "flightNumber": "EK 957",
     "status": "وصلت",
@@ -1079,8 +1058,8 @@
   },
   "QR 416-2025-08-17": {
     "flightNumber": "QR 416",
-    "status": "تأخير",
-    "actualTime": "11:55",
+    "status": "وصلت",
+    "actualTime": "11:44",
     "type": "arivl",
     "airlineCode": "QR"
   },
@@ -1093,15 +1072,15 @@
   },
   "ME 365-2025-08-17": {
     "flightNumber": "ME 365",
-    "status": "",
-    "actualTime": "11:55",
+    "status": "وصلت",
+    "actualTime": "11:49",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "EY 581-2025-08-17": {
     "flightNumber": "EY 581",
-    "status": "",
-    "actualTime": "12:25",
+    "status": "وصلت",
+    "actualTime": "11:47",
     "type": "arivl",
     "airlineCode": "EY"
   },
@@ -1343,15 +1322,15 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "ME 323-2025-08-17": {
-    "flightNumber": "ME 323",
+  "ME 313-2025-08-17": {
+    "flightNumber": "ME 313",
     "status": "",
     "actualTime": "20:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 313-2025-08-17": {
-    "flightNumber": "ME 313",
+  "ME 323-2025-08-17": {
+    "flightNumber": "ME 323",
     "status": "",
     "actualTime": "20:00",
     "type": "arivl",
