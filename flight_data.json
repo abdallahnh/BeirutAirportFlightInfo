@@ -1,18 +1,4 @@
 {
-  "VF 1044-2025-08-18": {
-    "flightNumber": "VF 1044",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:56",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
-  "IA 1302-2025-08-18": {
-    "flightNumber": "IA 1302",
-    "status": "غادرت",
-    "actualTime": "17:29",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "ME 267-2025-08-18": {
     "flightNumber": "ME 267",
     "status": "",
@@ -20,37 +6,16 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 422-2025-08-18": {
-    "flightNumber": "ME 422",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "17:51",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 402-2025-08-18": {
-    "flightNumber": "ME 402",
-    "status": "غادرت",
-    "actualTime": "17:23",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 306-2025-08-18": {
-    "flightNumber": "ME 306",
-    "status": "النداء الاخير",
-    "actualTime": "17:46",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EY 584-2025-08-18": {
     "flightNumber": "EY 584",
-    "status": "",
-    "actualTime": "19:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:07",
     "type": "dprtr",
     "airlineCode": "EY"
   },
   "EK 954-2025-08-18": {
     "flightNumber": "EK 954",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:40",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -215,6 +180,13 @@
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "LO 1144-2025-08-19": {
+    "flightNumber": "LO 1144",
+    "status": "",
+    "actualTime": "03:25",
+    "type": "dprtr",
+    "airlineCode": "LO"
   },
   "ET 407-2025-08-19": {
     "flightNumber": "ET 407",
@@ -783,13 +755,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 258-2025-08-18": {
-    "flightNumber": "ME 258",
-    "status": "وصلت",
-    "actualTime": "16:20",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "EY 583-2025-08-18": {
     "flightNumber": "EY 583",
     "status": "وصلت",
@@ -1042,6 +1007,13 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
+  "LO 1143-2025-08-19": {
+    "flightNumber": "LO 1143",
+    "status": "",
+    "actualTime": "02:15",
+    "type": "arivl",
+    "airlineCode": "LO"
+  },
   "ET 406-2025-08-19": {
     "flightNumber": "ET 406",
     "status": "",
@@ -1055,6 +1027,13 @@
     "actualTime": "02:30",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "ME 1369-2025-08-19": {
+    "flightNumber": "ME 1369",
+    "status": "",
+    "actualTime": "02:55",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "RO 167-2025-08-19": {
     "flightNumber": "RO 167",
