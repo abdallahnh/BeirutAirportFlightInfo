@@ -29,8 +29,8 @@
   },
   "MS 710-2025-08-18": {
     "flightNumber": "MS 710",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:10",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:50",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -43,7 +43,7 @@
   },
   "ME 320-2025-08-18": {
     "flightNumber": "ME 320",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -937,19 +937,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 305-2025-08-18": {
-    "flightNumber": "ME 305",
-    "status": "",
-    "actualTime": "11:20",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "RJ 401-2025-08-18": {
     "flightNumber": "RJ 401",
     "status": "",
     "actualTime": "11:20",
     "type": "arivl",
     "airlineCode": "RJ"
+  },
+  "ME 305-2025-08-18": {
+    "flightNumber": "ME 305",
+    "status": "",
+    "actualTime": "11:20",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "UF 001-2025-08-18": {
     "flightNumber": "UF 001",
