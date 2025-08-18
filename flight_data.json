@@ -34,38 +34,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 364-2025-08-18": {
-    "flightNumber": "ME 364",
-    "status": "غادرت",
-    "actualTime": "08:22",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 251-2025-08-18": {
-    "flightNumber": "ME 251",
-    "status": "غادرت",
-    "actualTime": "08:37",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 241-2025-08-18": {
-    "flightNumber": "ME 241",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "08:40",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2025-08-18": {
     "flightNumber": "TK 831",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:10",
+    "status": "النداء الاخير",
+    "actualTime": "08:56",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "FZ 158-2025-08-18": {
     "flightNumber": "FZ 158",
-    "status": "",
-    "actualTime": "10:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:35",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -75,6 +54,13 @@
     "actualTime": "11:10",
     "type": "dprtr",
     "airlineCode": "MS"
+  },
+  "IA 1310-2025-08-18": {
+    "flightNumber": "IA 1310",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "ME 320-2025-08-18": {
     "flightNumber": "ME 320",
@@ -145,13 +131,6 @@
     "actualTime": "14:00",
     "type": "dprtr",
     "airlineCode": "EY"
-  },
-  "IA 1310-2025-08-18": {
-    "flightNumber": "IA 1310",
-    "status": "",
-    "actualTime": "14:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
   },
   "TK 3440-2025-08-18": {
     "flightNumber": "TK 3440",
@@ -981,15 +960,15 @@
   },
   "FZ 157-2025-08-18": {
     "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "09:45",
+    "status": "وصلت",
+    "actualTime": "09:06",
     "type": "arivl",
     "airlineCode": "FZ"
   },
   "EK 957-2025-08-18": {
     "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "10:05",
+    "status": "وصلت",
+    "actualTime": "09:36",
     "type": "arivl",
     "airlineCode": "EK"
   },
