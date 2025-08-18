@@ -1,35 +1,28 @@
 {
   "EY 584-2025-08-18": {
     "flightNumber": "EY 584",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "18:07",
     "type": "dprtr",
     "airlineCode": "EY"
   },
-  "EK 954-2025-08-18": {
-    "flightNumber": "EK 954",
-    "status": "غادرت",
-    "actualTime": "18:29",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
   "TK 3439-2025-08-18": {
     "flightNumber": "TK 3439",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:00",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "QR 427-2025-08-18": {
     "flightNumber": "QR 427",
-    "status": "",
-    "actualTime": "20:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:51",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "MS 712-2025-08-18": {
     "flightNumber": "MS 712",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "19:29",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -229,6 +222,13 @@
     "actualTime": "06:00",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "PC 755-2025-08-19": {
+    "flightNumber": "PC 755",
+    "status": "",
+    "actualTime": "06:25",
+    "type": "dprtr",
+    "airlineCode": "PC"
   },
   "ME 243-2025-08-19": {
     "flightNumber": "ME 243",
@@ -736,7 +736,7 @@
   },
   "ME 202-2025-08-18": {
     "flightNumber": "ME 202",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "19:37",
     "type": "arivl",
     "airlineCode": "ME"
@@ -757,15 +757,15 @@
   },
   "ME 323-2025-08-18": {
     "flightNumber": "ME 323",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "19:44",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 313-2025-08-18": {
     "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "19:41",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -778,8 +778,8 @@
   },
   "J9 261-2025-08-18": {
     "flightNumber": "J9 261",
-    "status": "",
-    "actualTime": "20:35",
+    "status": "تبكير",
+    "actualTime": "20:10",
     "type": "arivl",
     "airlineCode": "J9"
   },
@@ -936,13 +936,6 @@
     "actualTime": "01:10",
     "type": "arivl",
     "airlineCode": "VF"
-  },
-  "PC 758-2025-08-19": {
-    "flightNumber": "PC 758",
-    "status": "",
-    "actualTime": "02:00",
-    "type": "arivl",
-    "airlineCode": "PC"
   },
   "LO 1143-2025-08-19": {
     "flightNumber": "LO 1143",
