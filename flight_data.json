@@ -57,7 +57,7 @@
   },
   "J9 264-2025-08-18": {
     "flightNumber": "J9 264",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "22:33",
     "type": "dprtr",
     "airlineCode": "J9"
@@ -349,19 +349,19 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "UF 002-2025-08-19": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "IA 132-2025-08-19": {
     "flightNumber": "IA 132",
     "status": "",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "UF 002-2025-08-19": {
+    "flightNumber": "UF 002",
+    "status": "",
+    "actualTime": "12:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
   },
   "G9 386-2025-08-19": {
     "flightNumber": "G9 386",
@@ -643,13 +643,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 268-2025-08-18": {
-    "flightNumber": "ME 268",
-    "status": "وصلت",
-    "actualTime": "22:14",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 419-2025-08-18": {
     "flightNumber": "ME 419",
     "status": "وصلت",
@@ -675,6 +668,13 @@
     "flightNumber": "PC 754",
     "status": "وصلت",
     "actualTime": "23:24",
+    "type": "arivl",
+    "airlineCode": "PC"
+  },
+  "PC 1821-2025-08-18": {
+    "flightNumber": "PC 1821",
+    "status": "",
+    "actualTime": "23:35",
     "type": "arivl",
     "airlineCode": "PC"
   },
