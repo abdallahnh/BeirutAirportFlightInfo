@@ -1,18 +1,4 @@
 {
-  "TK 831-2025-08-18": {
-    "flightNumber": "TK 831",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "08:56",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "FZ 158-2025-08-18": {
-    "flightNumber": "FZ 158",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "09:35",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
   "IA 1310-2025-08-18": {
     "flightNumber": "IA 1310",
     "status": "",
@@ -22,7 +8,7 @@
   },
   "ME 320-2025-08-18": {
     "flightNumber": "ME 320",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "11:18",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -36,7 +22,7 @@
   },
   "RJ 402-2025-08-18": {
     "flightNumber": "RJ 402",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "11:36",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -64,8 +50,8 @@
   },
   "G9 386-2025-08-18": {
     "flightNumber": "G9 386",
-    "status": "",
-    "actualTime": "12:30",
+    "status": "النداء الاخير",
+    "actualTime": "11:44",
     "type": "dprtr",
     "airlineCode": "G9"
   },
@@ -902,19 +888,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 305-2025-08-18": {
-    "flightNumber": "ME 305",
-    "status": "وصلت",
-    "actualTime": "11:24",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "RJ 401-2025-08-18": {
     "flightNumber": "RJ 401",
     "status": "وصلت",
     "actualTime": "11:02",
     "type": "arivl",
     "airlineCode": "RJ"
+  },
+  "ME 305-2025-08-18": {
+    "flightNumber": "ME 305",
+    "status": "وصلت",
+    "actualTime": "11:24",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "UF 001-2025-08-18": {
     "flightNumber": "UF 001",
@@ -932,8 +918,8 @@
   },
   "IA 1309-2025-08-18": {
     "flightNumber": "IA 1309",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "وصلت",
+    "actualTime": "11:38",
     "type": "arivl",
     "airlineCode": "IA"
   },
