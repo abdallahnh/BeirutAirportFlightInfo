@@ -1,18 +1,4 @@
 {
-  "RJ 402-2025-08-18": {
-    "flightNumber": "RJ 402",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "11:36",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
-  "ME 257-2025-08-18": {
-    "flightNumber": "ME 257",
-    "status": "النداء الاخير",
-    "actualTime": "11:59",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EY 582-2025-08-18": {
     "flightNumber": "EY 582",
     "status": "تم اغلاق البوابة",
@@ -29,43 +15,43 @@
   },
   "ME 223-2025-08-18": {
     "flightNumber": "ME 223",
-    "status": "",
-    "actualTime": "15:00",
+    "status": "غادرت",
+    "actualTime": "14:57",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 436-2025-08-18": {
     "flightNumber": "ME 436",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:15",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "14:54",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 418-2025-08-18": {
     "flightNumber": "ME 418",
-    "status": "",
-    "actualTime": "15:25",
+    "status": "غادرت",
+    "actualTime": "14:56",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 322-2025-08-18": {
+    "flightNumber": "ME 322",
+    "status": "النداء الاخير",
+    "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 825-2025-08-18": {
     "flightNumber": "TK 825",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:55",
+    "status": "النداء الاخير",
+    "actualTime": "14:55",
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "ME 322-2025-08-18": {
-    "flightNumber": "ME 322",
-    "status": "",
-    "actualTime": "15:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "AF 565-2025-08-18": {
     "flightNumber": "AF 565",
-    "status": "",
-    "actualTime": "16:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "15:21",
     "type": "dprtr",
     "airlineCode": "AF"
   },
@@ -342,15 +328,15 @@
     "type": "dprtr",
     "airlineCode": "RO"
   },
-  "PC 757-2025-08-19": {
-    "flightNumber": "PC 757",
+  "PC 1823-2025-08-19": {
+    "flightNumber": "PC 1823",
     "status": "",
     "actualTime": "04:20",
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "PC 1823-2025-08-19": {
-    "flightNumber": "PC 1823",
+  "PC 757-2025-08-19": {
+    "flightNumber": "PC 757",
     "status": "",
     "actualTime": "04:20",
     "type": "dprtr",
@@ -846,34 +832,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "TK 3438-2025-08-18": {
-    "flightNumber": "TK 3438",
-    "status": "وصلت",
-    "actualTime": "13:40",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "ME 252-2025-08-18": {
-    "flightNumber": "ME 252",
-    "status": "وصلت",
-    "actualTime": "14:10",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 425-2025-08-18": {
-    "flightNumber": "ME 425",
-    "status": "وصلت",
-    "actualTime": "14:06",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 405-2025-08-18": {
-    "flightNumber": "ME 405",
-    "status": "وصلت",
-    "actualTime": "14:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "AF 564-2025-08-18": {
     "flightNumber": "AF 564",
     "status": "وصلت",
@@ -888,13 +846,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "TK 824-2025-08-18": {
-    "flightNumber": "TK 824",
-    "status": "وصلت",
-    "actualTime": "14:04",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "ME 365-2025-08-18": {
     "flightNumber": "ME 365",
     "status": "وصلت",
@@ -904,15 +855,15 @@
   },
   "ME 427-2025-08-18": {
     "flightNumber": "ME 427",
-    "status": "تأخير",
-    "actualTime": "15:15",
+    "status": "وصلت",
+    "actualTime": "15:12",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "VF 1043-2025-08-18": {
     "flightNumber": "VF 1043",
     "status": "",
-    "actualTime": "15:40",
+    "actualTime": "15:26",
     "type": "arivl",
     "airlineCode": "VF"
   },
@@ -1143,7 +1094,7 @@
   "FZ 8239-2025-08-18": {
     "flightNumber": "FZ 8239",
     "status": "",
-    "actualTime": "22:45",
+    "actualTime": "22:35",
     "type": "arivl",
     "airlineCode": "FZ"
   },
