@@ -29,7 +29,7 @@
   },
   "MS 710-2025-08-18": {
     "flightNumber": "MS 710",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:10",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -50,8 +50,8 @@
   },
   "EK 958-2025-08-18": {
     "flightNumber": "EK 958",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:43",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -932,8 +932,15 @@
   },
   "ME 311-2025-08-18": {
     "flightNumber": "ME 311",
-    "status": "تبكير",
-    "actualTime": "10:35",
+    "status": "وصلت",
+    "actualTime": "10:40",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 305-2025-08-18": {
+    "flightNumber": "ME 305",
+    "status": "",
+    "actualTime": "11:20",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -943,13 +950,6 @@
     "actualTime": "11:20",
     "type": "arivl",
     "airlineCode": "RJ"
-  },
-  "ME 305-2025-08-18": {
-    "flightNumber": "ME 305",
-    "status": "",
-    "actualTime": "11:20",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "UF 001-2025-08-18": {
     "flightNumber": "UF 001",
@@ -1030,8 +1030,8 @@
   },
   "AF 564-2025-08-18": {
     "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "تأخير",
+    "actualTime": "14:40",
     "type": "arivl",
     "airlineCode": "AF"
   },
