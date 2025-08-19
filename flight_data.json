@@ -15,8 +15,8 @@
   },
   "LH 1309-2025-08-20": {
     "flightNumber": "LH 1309",
-    "status": "تم فتح البوابة",
-    "actualTime": "01:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:01",
     "type": "dprtr",
     "airlineCode": "LH"
   },
@@ -29,7 +29,7 @@
   },
   "ME 575-2025-08-20": {
     "flightNumber": "ME 575",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -124,13 +124,6 @@
     "actualTime": "06:15",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "PC 755-2025-08-20": {
-    "flightNumber": "PC 755",
-    "status": "",
-    "actualTime": "06:25",
-    "type": "dprtr",
-    "airlineCode": "PC"
   },
   "ME 225-2025-08-20": {
     "flightNumber": "ME 225",
@@ -1324,7 +1317,7 @@
   },
   "ME 1431-2025-08-20": {
     "flightNumber": "ME 1431",
-    "status": "تبكير",
+    "status": "وصلت",
     "actualTime": "00:57",
     "type": "arivl",
     "airlineCode": "ME"
