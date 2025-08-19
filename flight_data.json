@@ -1,39 +1,4 @@
 {
-  "ET 407-2025-08-19": {
-    "flightNumber": "ET 407",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:45",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "TK 829-2025-08-19": {
-    "flightNumber": "TK 829",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:00",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "RO 168-2025-08-19": {
-    "flightNumber": "RO 168",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:20",
-    "type": "dprtr",
-    "airlineCode": "RO"
-  },
-  "LO 1146-2025-08-19": {
-    "flightNumber": "LO 1146",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "04:40",
-    "type": "dprtr",
-    "airlineCode": "LO"
-  },
-  "ME 275-2025-08-19": {
-    "flightNumber": "ME 275",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "05:25",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 217-2025-08-19": {
     "flightNumber": "ME 217",
     "status": "النداء الاخير",
@@ -50,22 +15,22 @@
   },
   "IA 1316-2025-08-19": {
     "flightNumber": "IA 1316",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "09:46",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "FZ 158-2025-08-19": {
     "flightNumber": "FZ 158",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "09:43",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
   "IA 136-2025-08-19": {
     "flightNumber": "IA 136",
-    "status": "",
-    "actualTime": "11:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:17",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -867,19 +832,19 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "QR 427-2025-08-20": {
-    "flightNumber": "QR 427",
-    "status": "",
-    "actualTime": "20:20",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "TK 3439-2025-08-20": {
     "flightNumber": "TK 3439",
     "status": "",
     "actualTime": "20:20",
     "type": "dprtr",
     "airlineCode": "TK"
+  },
+  "QR 427-2025-08-20": {
+    "flightNumber": "QR 427",
+    "status": "",
+    "actualTime": "20:20",
+    "type": "dprtr",
+    "airlineCode": "QR"
   },
   "RJ 404-2025-08-20": {
     "flightNumber": "RJ 404",
@@ -986,13 +951,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "TK 830-2025-08-19": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:21",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "IA 135-2025-08-19": {
     "flightNumber": "IA 135",
     "status": "",
@@ -1016,15 +974,15 @@
   },
   "EK 957-2025-08-19": {
     "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "10:05",
+    "status": "وصلت",
+    "actualTime": "10:07",
     "type": "arivl",
     "airlineCode": "EK"
   },
   "MS 709-2025-08-19": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "وصلت",
+    "actualTime": "10:21",
     "type": "arivl",
     "airlineCode": "MS"
   },
