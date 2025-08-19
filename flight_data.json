@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "SK 2968-2025-08-19": {
-    "flightNumber": "SK 2968",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "22:30",
-    "type": "dprtr",
-    "airlineCode": "SK"
-  },
   "G9 388-2025-08-19": {
     "flightNumber": "G9 388",
     "status": "النداء الاخير",
@@ -27,17 +20,10 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "ME 434-2025-08-19": {
-    "flightNumber": "ME 434",
-    "status": "غادرت",
-    "actualTime": "22:24",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "FZ 8240-2025-08-19": {
     "flightNumber": "FZ 8240",
-    "status": "تم فتح البوابة",
-    "actualTime": "23:35",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "22:51",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -96,13 +82,6 @@
     "actualTime": "03:25",
     "type": "dprtr",
     "airlineCode": "LO"
-  },
-  "IA 1330-2025-08-20": {
-    "flightNumber": "IA 1330",
-    "status": "",
-    "actualTime": "03:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
   },
   "TK 829-2025-08-20": {
     "flightNumber": "TK 829",
@@ -750,7 +729,7 @@
   },
   "ME 262-2025-08-19": {
     "flightNumber": "ME 262",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "22:52",
     "type": "arivl",
     "airlineCode": "ME"
@@ -758,7 +737,7 @@
   "ME 230-2025-08-19": {
     "flightNumber": "ME 230",
     "status": "",
-    "actualTime": "23:25",
+    "actualTime": "23:19",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -772,7 +751,7 @@
   "IA 1307-2025-08-19": {
     "flightNumber": "IA 1307",
     "status": "",
-    "actualTime": "23:30",
+    "actualTime": "23:14",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -873,13 +852,6 @@
     "actualTime": "02:40",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "IA 1329-2025-08-20": {
-    "flightNumber": "IA 1329",
-    "status": "",
-    "actualTime": "02:45",
-    "type": "arivl",
-    "airlineCode": "IA"
   },
   "ET 416-2025-08-20": {
     "flightNumber": "ET 416",
