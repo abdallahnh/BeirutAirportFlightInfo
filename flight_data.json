@@ -8,7 +8,7 @@
   },
   "FZ 160-2025-08-19": {
     "flightNumber": "FZ 160",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "21:46",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -22,15 +22,15 @@
   },
   "G9 388-2025-08-19": {
     "flightNumber": "G9 388",
-    "status": "تم فتح البوابة",
-    "actualTime": "23:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "22:21",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "ME 434-2025-08-19": {
     "flightNumber": "ME 434",
-    "status": "تم فتح البوابة",
-    "actualTime": "23:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "22:24",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -132,13 +132,6 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "LO 146-2025-08-20": {
-    "flightNumber": "LO 146",
-    "status": "",
-    "actualTime": "04:40",
-    "type": "dprtr",
-    "airlineCode": "LO"
-  },
   "MS 714-2025-08-20": {
     "flightNumber": "MS 714",
     "status": "",
@@ -174,10 +167,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 225-2025-08-20": {
-    "flightNumber": "ME 225",
+  "ME 265-2025-08-20": {
+    "flightNumber": "ME 265",
     "status": "",
-    "actualTime": "06:30",
+    "actualTime": "06:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -187,6 +180,13 @@
     "actualTime": "06:25",
     "type": "dprtr",
     "airlineCode": "PC"
+  },
+  "ME 225-2025-08-20": {
+    "flightNumber": "ME 225",
+    "status": "",
+    "actualTime": "06:30",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "IA 1334-2025-08-20": {
     "flightNumber": "IA 1334",
@@ -729,15 +729,15 @@
   },
   "ME 268-2025-08-19": {
     "flightNumber": "ME 268",
-    "status": "",
-    "actualTime": "22:25",
+    "status": "وصلت",
+    "actualTime": "22:18",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "FZ 8239-2025-08-19": {
     "flightNumber": "FZ 8239",
-    "status": "",
-    "actualTime": "22:45",
+    "status": "وصلت",
+    "actualTime": "22:23",
     "type": "arivl",
     "airlineCode": "FZ"
   },
