@@ -29,7 +29,7 @@
   },
   "IA 1312-2025-08-20": {
     "flightNumber": "IA 1312",
-    "status": "",
+    "status": "Ferry Flt.",
     "actualTime": "01:00",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -169,7 +169,7 @@
   },
   "IA 1334-2025-08-20": {
     "flightNumber": "IA 1334",
-    "status": "",
+    "status": "Ferry Flt.",
     "actualTime": "06:30",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -678,13 +678,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 437-2025-08-19": {
-    "flightNumber": "ME 437",
-    "status": "وصلت",
-    "actualTime": "21:34",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "SK 2827-2025-08-19": {
     "flightNumber": "SK 2827",
     "status": "وصلت",
@@ -743,7 +736,7 @@
   },
   "ME 222-2025-08-19": {
     "flightNumber": "ME 222",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "23:35",
     "type": "arivl",
     "airlineCode": "ME"
@@ -771,8 +764,8 @@
   },
   "ME 369-2025-08-19": {
     "flightNumber": "ME 369",
-    "status": "",
-    "actualTime": "23:40",
+    "status": "تأخير",
+    "actualTime": "01:25",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -785,7 +778,7 @@
   },
   "ME 429-2025-08-19": {
     "flightNumber": "ME 429",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "23:40",
     "type": "arivl",
     "airlineCode": "ME"
@@ -799,7 +792,7 @@
   },
   "QR 418-2025-08-20": {
     "flightNumber": "QR 418",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "23:33",
     "type": "arivl",
     "airlineCode": "QR"
