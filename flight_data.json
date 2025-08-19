@@ -29,14 +29,14 @@
   },
   "IA 136-2025-08-19": {
     "flightNumber": "IA 136",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "10:17",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "MS 710-2025-08-19": {
     "flightNumber": "MS 710",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -636,13 +636,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "UF 002-2025-08-20": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "IA 132-2025-08-20": {
     "flightNumber": "IA 132",
     "status": "",
@@ -988,7 +981,7 @@
   },
   "ME 272-2025-08-19": {
     "flightNumber": "ME 272",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "10:41",
     "type": "arivl",
     "airlineCode": "ME"
