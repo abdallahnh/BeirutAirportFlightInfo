@@ -1259,24 +1259,10 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "IA 1327-2025-08-21": {
-    "flightNumber": "IA 1327",
-    "status": "وصلت",
-    "actualTime": "00:53",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 429-2025-08-21": {
     "flightNumber": "ME 429",
     "status": "",
     "actualTime": "23:59",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 307-2025-08-21": {
-    "flightNumber": "ME 307",
-    "status": "",
-    "actualTime": "21:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1303,8 +1289,8 @@
   },
   "ET 416-2025-08-21": {
     "flightNumber": "ET 416",
-    "status": "",
-    "actualTime": "03:00",
+    "status": "وصلت",
+    "actualTime": "02:58",
     "type": "arivl",
     "airlineCode": "ET"
   },
@@ -1800,6 +1786,13 @@
   },
   "ME 323-2025-08-21": {
     "flightNumber": "ME 323",
+    "status": "",
+    "actualTime": "21:50",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 307-2025-08-21": {
+    "flightNumber": "ME 307",
     "status": "",
     "actualTime": "21:50",
     "type": "arivl",
