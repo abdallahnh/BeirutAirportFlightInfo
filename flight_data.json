@@ -50,7 +50,7 @@
   },
   "IA 1326-2025-08-21": {
     "flightNumber": "IA 1326",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "01:22",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -64,14 +64,14 @@
   },
   "PC 1827-2025-08-21": {
     "flightNumber": "PC 1827",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "01:07",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "LH 1309-2025-08-21": {
     "flightNumber": "LH 1309",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "01:03",
     "type": "dprtr",
     "airlineCode": "LH"
@@ -1315,13 +1315,6 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "ME 423-2025-08-20": {
-    "flightNumber": "ME 423",
-    "status": "وصلت",
-    "actualTime": "23:40",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 403-2025-08-20": {
     "flightNumber": "ME 403",
     "status": "وصلت",
@@ -1356,13 +1349,6 @@
     "actualTime": "23:52",
     "type": "arivl",
     "airlineCode": "IA"
-  },
-  "QR 418-2025-08-21": {
-    "flightNumber": "QR 418",
-    "status": "وصلت",
-    "actualTime": "23:33",
-    "type": "arivl",
-    "airlineCode": "QR"
   },
   "ME 1431-2025-08-21": {
     "flightNumber": "ME 1431",
