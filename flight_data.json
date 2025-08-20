@@ -48,26 +48,12 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "IA 1326-2025-08-21": {
-    "flightNumber": "IA 1326",
-    "status": "غادرت",
-    "actualTime": "01:22",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "QR 419-2025-08-21": {
     "flightNumber": "QR 419",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "00:37",
     "type": "dprtr",
     "airlineCode": "QR"
-  },
-  "PC 1827-2025-08-21": {
-    "flightNumber": "PC 1827",
-    "status": "غادرت",
-    "actualTime": "01:07",
-    "type": "dprtr",
-    "airlineCode": "PC"
   },
   "LH 1309-2025-08-21": {
     "flightNumber": "LH 1309",
@@ -1308,20 +1294,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "PC 754-2025-08-20": {
-    "flightNumber": "PC 754",
-    "status": "وصلت",
-    "actualTime": "23:48",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "ME 403-2025-08-20": {
-    "flightNumber": "ME 403",
-    "status": "وصلت",
-    "actualTime": "23:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 369-2025-08-20": {
     "flightNumber": "ME 369",
     "status": "وصلت",
@@ -1342,20 +1314,6 @@
     "actualTime": "23:56",
     "type": "arivl",
     "airlineCode": "LH"
-  },
-  "IA 1317-2025-08-20": {
-    "flightNumber": "IA 1317",
-    "status": "وصلت",
-    "actualTime": "23:52",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "ME 1431-2025-08-21": {
-    "flightNumber": "ME 1431",
-    "status": "",
-    "actualTime": "20:20",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "IA 1327-2025-08-21": {
     "flightNumber": "IA 1327",
@@ -1394,15 +1352,15 @@
   },
   "ET 406-2025-08-21": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "وصلت",
+    "actualTime": "01:46",
     "type": "arivl",
     "airlineCode": "ET"
   },
   "ME 1268-2025-08-21": {
     "flightNumber": "ME 1268",
-    "status": "",
-    "actualTime": "02:20",
+    "status": "وصلت",
+    "actualTime": "01:52",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1851,6 +1809,13 @@
     "flightNumber": "ME 313",
     "status": "",
     "actualTime": "20:00",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 1431-2025-08-21": {
+    "flightNumber": "ME 1431",
+    "status": "",
+    "actualTime": "20:20",
     "type": "arivl",
     "airlineCode": "ME"
   },
