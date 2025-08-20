@@ -71,15 +71,15 @@
   },
   "QR 417-2025-08-20": {
     "flightNumber": "QR 417",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "EY 582-2025-08-20": {
     "flightNumber": "EY 582",
-    "status": "تم فتح البوابة",
-    "actualTime": "14:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "13:23",
     "type": "dprtr",
     "airlineCode": "EY"
   },
@@ -1007,40 +1007,12 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 266-2025-08-20": {
-    "flightNumber": "ME 266",
-    "status": "وصلت",
-    "actualTime": "10:57",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 305-2025-08-20": {
-    "flightNumber": "ME 305",
-    "status": "وصلت",
-    "actualTime": "11:21",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 131-2025-08-20": {
     "flightNumber": "IA 131",
     "status": "وصلت",
     "actualTime": "11:31",
     "type": "arivl",
     "airlineCode": "IA"
-  },
-  "QR 416-2025-08-20": {
-    "flightNumber": "QR 416",
-    "status": "وصلت",
-    "actualTime": "11:18",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
-  "G9 385-2025-08-20": {
-    "flightNumber": "G9 385",
-    "status": "وصلت",
-    "actualTime": "11:25",
-    "type": "arivl",
-    "airlineCode": "G9"
   },
   "EY 581-2025-08-20": {
     "flightNumber": "EY 581",
@@ -1065,22 +1037,22 @@
   },
   "ME 252-2025-08-20": {
     "flightNumber": "ME 252",
-    "status": "",
-    "actualTime": "13:50",
+    "status": "تأخير",
+    "actualTime": "14:10",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 425-2025-08-20": {
     "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
+    "status": "تبكير",
+    "actualTime": "14:10",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 405-2025-08-20": {
     "flightNumber": "ME 405",
-    "status": "",
-    "actualTime": "14:15",
+    "status": "تبكير",
+    "actualTime": "13:45",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1100,8 +1072,8 @@
   },
   "ME 1429-2025-08-20": {
     "flightNumber": "ME 1429",
-    "status": "",
-    "actualTime": "14:45",
+    "status": "تأخير",
+    "actualTime": "14:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1114,8 +1086,8 @@
   },
   "ME 427-2025-08-20": {
     "flightNumber": "ME 427",
-    "status": "",
-    "actualTime": "15:05",
+    "status": "تأخير",
+    "actualTime": "15:20",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1142,8 +1114,8 @@
   },
   "ME 236-2025-08-20": {
     "flightNumber": "ME 236",
-    "status": "",
-    "actualTime": "15:45",
+    "status": "تأخير",
+    "actualTime": "15:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1156,15 +1128,15 @@
   },
   "ME 226-2025-08-20": {
     "flightNumber": "ME 226",
-    "status": "",
-    "actualTime": "15:50",
+    "status": "تبكير",
+    "actualTime": "15:40",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 212-2025-08-20": {
     "flightNumber": "ME 212",
-    "status": "",
-    "actualTime": "16:10",
+    "status": "تأخير",
+    "actualTime": "16:35",
     "type": "arivl",
     "airlineCode": "ME"
   },
