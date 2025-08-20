@@ -15,35 +15,35 @@
   },
   "EY 584-2025-08-20": {
     "flightNumber": "EY 584",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "18:17",
     "type": "dprtr",
     "airlineCode": "EY"
   },
   "EK 954-2025-08-20": {
     "flightNumber": "EK 954",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:37",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "TK 3439-2025-08-20": {
     "flightNumber": "TK 3439",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:00",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "QR 427-2025-08-20": {
     "flightNumber": "QR 427",
-    "status": "تم فتح البوابة",
-    "actualTime": "20:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:06",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "MS 712-2025-08-20": {
     "flightNumber": "MS 712",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:10",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -111,19 +111,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 827-2025-08-20": {
-    "flightNumber": "TK 827",
-    "status": "",
-    "actualTime": "21:50",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "CY 121-2025-08-20": {
     "flightNumber": "CY 121",
     "status": "",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
+  },
+  "TK 827-2025-08-20": {
+    "flightNumber": "TK 827",
+    "status": "",
+    "actualTime": "22:25",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "FZ 160-2025-08-20": {
     "flightNumber": "FZ 160",
@@ -818,20 +818,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 218-2025-08-20": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "16:55",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 214-2025-08-20": {
-    "flightNumber": "ME 214",
-    "status": "وصلت",
-    "actualTime": "17:04",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 216-2025-08-20": {
     "flightNumber": "ME 216",
     "status": "وصلت",
@@ -862,8 +848,8 @@
   },
   "MS 711-2025-08-20": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "19:10",
+    "status": "وصلت",
+    "actualTime": "19:06",
     "type": "arivl",
     "airlineCode": "MS"
   },
