@@ -76,23 +76,16 @@
     "type": "dprtr",
     "airlineCode": "EY"
   },
-  "TK 3440-2025-08-20": {
-    "flightNumber": "TK 3440",
-    "status": "غادرت",
-    "actualTime": "14:11",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "ME 223-2025-08-20": {
     "flightNumber": "ME 223",
-    "status": "",
-    "actualTime": "15:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "14:48",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 436-2025-08-20": {
     "flightNumber": "ME 436",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "14:43",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -106,8 +99,8 @@
   },
   "TK 825-2025-08-20": {
     "flightNumber": "TK 825",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "14:54",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -853,13 +846,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "RJ 404-2025-08-21": {
-    "flightNumber": "RJ 404",
-    "status": "",
-    "actualTime": "20:45",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "PC 1825-2025-08-21": {
     "flightNumber": "PC 1825",
     "status": "",
@@ -870,7 +856,7 @@
   "ME 261-2025-08-21": {
     "flightNumber": "ME 261",
     "status": "",
-    "actualTime": "20:50",
+    "actualTime": "20:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -916,6 +902,13 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
+  "RJ 404-2025-08-21": {
+    "flightNumber": "RJ 404",
+    "status": "",
+    "actualTime": "22:30",
+    "type": "dprtr",
+    "airlineCode": "RJ"
+  },
   "FZ 160-2025-08-21": {
     "flightNumber": "FZ 160",
     "status": "",
@@ -925,7 +918,7 @@
   },
   "SK 2968-2025-08-21": {
     "flightNumber": "SK 2968",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "SK"
@@ -950,13 +943,6 @@
     "actualTime": "23:25",
     "type": "dprtr",
     "airlineCode": "J9"
-  },
-  "ME 1422-2025-08-21": {
-    "flightNumber": "ME 1422",
-    "status": "",
-    "actualTime": "23:40",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "FZ 8240-2025-08-21": {
     "flightNumber": "FZ 8240",
