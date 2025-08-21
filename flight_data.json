@@ -132,19 +132,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 1314-2025-08-22": {
-    "flightNumber": "IA 1314",
-    "status": "",
-    "actualTime": "07:00",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "ME 247-2025-08-22": {
     "flightNumber": "ME 247",
     "status": "",
     "actualTime": "07:00",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "IA 1314-2025-08-22": {
+    "flightNumber": "IA 1314",
+    "status": "",
+    "actualTime": "07:00",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "ME 1428-2025-08-22": {
     "flightNumber": "ME 1428",
@@ -1318,14 +1318,14 @@
   "ME 224-2025-08-21": {
     "flightNumber": "ME 224",
     "status": "وصلت",
-    "actualTime": "00:12",
+    "actualTime": "00:13",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 248-2025-08-21": {
     "flightNumber": "ME 248",
-    "status": "",
-    "actualTime": "23:55",
+    "status": "وصلت",
+    "actualTime": "00:25",
     "type": "arivl",
     "airlineCode": "ME"
   },
