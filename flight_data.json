@@ -36,22 +36,22 @@
   },
   "EK 954-2025-08-21": {
     "flightNumber": "EK 954",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "18:48",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "QR 427-2025-08-21": {
     "flightNumber": "QR 427",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "19:08",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "MS 712-2025-08-21": {
     "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "20:10",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:50",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -64,7 +64,7 @@
   },
   "TK 3443-2025-08-21": {
     "flightNumber": "TK 3443",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -832,13 +832,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "EK 953-2025-08-21": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:25",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "IA 1307-2025-08-21": {
     "flightNumber": "IA 1307",
     "status": "وصلت",
@@ -862,15 +855,15 @@
   },
   "MS 711-2025-08-21": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "19:10",
+    "status": "وصلت",
+    "actualTime": "19:22",
     "type": "arivl",
     "airlineCode": "MS"
   },
   "ME 202-2025-08-21": {
     "flightNumber": "ME 202",
-    "status": "",
-    "actualTime": "19:35",
+    "status": "وصلت",
+    "actualTime": "19:36",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -890,15 +883,15 @@
   },
   "ME 313-2025-08-21": {
     "flightNumber": "ME 313",
-    "status": "تبكير",
-    "actualTime": "19:30",
+    "status": "وصلت",
+    "actualTime": "19:29",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 1431-2025-08-21": {
     "flightNumber": "ME 1431",
-    "status": "",
-    "actualTime": "20:20",
+    "status": "وصلت",
+    "actualTime": "19:39",
     "type": "arivl",
     "airlineCode": "ME"
   },
