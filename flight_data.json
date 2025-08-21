@@ -1,15 +1,15 @@
 {
   "ME 247-2025-08-21": {
     "flightNumber": "ME 247",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "14:35",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 223-2025-08-21": {
     "flightNumber": "ME 223",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "14:29",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -36,7 +36,7 @@
   },
   "TK 3444-2025-08-21": {
     "flightNumber": "TK 3444",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:35",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -265,13 +265,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "KU 504-2025-08-21": {
-    "flightNumber": "KU 504",
-    "status": "",
-    "actualTime": "22:00",
-    "type": "dprtr",
-    "airlineCode": "KU"
-  },
   "TK 833-2025-08-21": {
     "flightNumber": "TK 833",
     "status": "",
@@ -320,6 +313,13 @@
     "actualTime": "23:05",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "KU 504-2025-08-21": {
+    "flightNumber": "KU 504",
+    "status": "",
+    "actualTime": "23:10",
+    "type": "dprtr",
+    "airlineCode": "KU"
   },
   "J9 264-2025-08-21": {
     "flightNumber": "J9 264",
@@ -946,8 +946,8 @@
   },
   "AF 564-2025-08-21": {
     "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "وصلت",
+    "actualTime": "14:24",
     "type": "arivl",
     "airlineCode": "AF"
   },
@@ -1161,13 +1161,6 @@
     "type": "arivl",
     "airlineCode": "J9"
   },
-  "KU 503-2025-08-21": {
-    "flightNumber": "KU 503",
-    "status": "",
-    "actualTime": "20:45",
-    "type": "arivl",
-    "airlineCode": "KU"
-  },
   "TK 826-2025-08-21": {
     "flightNumber": "TK 826",
     "status": "",
@@ -1216,6 +1209,13 @@
     "actualTime": "21:55",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "KU 503-2025-08-21": {
+    "flightNumber": "KU 503",
+    "status": "",
+    "actualTime": "21:55",
+    "type": "arivl",
+    "airlineCode": "KU"
   },
   "SK 2967-2025-08-21": {
     "flightNumber": "SK 2967",
