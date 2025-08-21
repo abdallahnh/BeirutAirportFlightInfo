@@ -41,16 +41,9 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "MS 712-2025-08-21": {
-    "flightNumber": "MS 712",
-    "status": "غادرت",
-    "actualTime": "19:50",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "ME 402-2025-08-21": {
     "flightNumber": "ME 402",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:19",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -71,7 +64,7 @@
   },
   "ME 261-2025-08-21": {
     "flightNumber": "ME 261",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -825,13 +818,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 212-2025-08-21": {
-    "flightNumber": "ME 212",
-    "status": "وصلت",
-    "actualTime": "18:50",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "MS 711-2025-08-21": {
     "flightNumber": "MS 711",
     "status": "وصلت",
@@ -876,8 +862,8 @@
   },
   "G9 408-2025-08-21": {
     "flightNumber": "G9 408",
-    "status": "",
-    "actualTime": "20:30",
+    "status": "وصلت",
+    "actualTime": "20:07",
     "type": "arivl",
     "airlineCode": "G9"
   },
