@@ -1,32 +1,4 @@
 {
-  "TK 825-2025-08-21": {
-    "flightNumber": "TK 825",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:01",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "ME 428-2025-08-21": {
-    "flightNumber": "ME 428",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:46",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "VF 1044-2025-08-21": {
-    "flightNumber": "VF 1044",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:56",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
-  "ME 312-2025-08-21": {
-    "flightNumber": "ME 312",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "16:14",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "LH 1307-2025-08-21": {
     "flightNumber": "LH 1307",
     "status": "تم اغلاق البوابة",
@@ -57,14 +29,14 @@
   },
   "ME 422-2025-08-21": {
     "flightNumber": "ME 422",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "18:07",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EY 584-2025-08-21": {
     "flightNumber": "EY 584",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "19:15",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -78,8 +50,8 @@
   },
   "EK 954-2025-08-21": {
     "flightNumber": "EK 954",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:48",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -888,13 +860,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "ME 214-2025-08-21": {
-    "flightNumber": "ME 214",
-    "status": "وصلت",
-    "actualTime": "16:43",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 218-2025-08-21": {
     "flightNumber": "ME 218",
     "status": "وصلت",
@@ -908,13 +873,6 @@
     "actualTime": "16:59",
     "type": "arivl",
     "airlineCode": "RJ"
-  },
-  "EY 583-2025-08-21": {
-    "flightNumber": "EY 583",
-    "status": "وصلت",
-    "actualTime": "16:37",
-    "type": "arivl",
-    "airlineCode": "EY"
   },
   "EK 953-2025-08-21": {
     "flightNumber": "EK 953",
@@ -940,7 +898,7 @@
   "ME 212-2025-08-21": {
     "flightNumber": "ME 212",
     "status": "",
-    "actualTime": "18:55",
+    "actualTime": "18:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
