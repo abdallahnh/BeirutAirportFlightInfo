@@ -22,15 +22,8 @@
   },
   "ME 265-2025-08-21": {
     "flightNumber": "ME 265",
-    "status": "النداء الاخير",
-    "actualTime": "07:54",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 271-2025-08-21": {
-    "flightNumber": "ME 271",
     "status": "غادرت",
-    "actualTime": "07:52",
+    "actualTime": "07:54",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -43,7 +36,7 @@
   },
   "ME 404-2025-08-21": {
     "flightNumber": "ME 404",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "08:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -57,7 +50,7 @@
   },
   "ME 251-2025-08-21": {
     "flightNumber": "ME 251",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "08:26",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -125,6 +118,13 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
+  "G9 386-2025-08-21": {
+    "flightNumber": "G9 386",
+    "status": "",
+    "actualTime": "12:30",
+    "type": "dprtr",
+    "airlineCode": "G9"
+  },
   "UF 002-2025-08-21": {
     "flightNumber": "UF 002",
     "status": "",
@@ -138,13 +138,6 @@
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "IA"
-  },
-  "G9 386-2025-08-21": {
-    "flightNumber": "G9 386",
-    "status": "",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "G9"
   },
   "ME 1430-2025-08-21": {
     "flightNumber": "ME 1430",
@@ -1154,19 +1147,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 305-2025-08-21": {
-    "flightNumber": "ME 305",
-    "status": "",
-    "actualTime": "11:20",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "RJ 401-2025-08-21": {
     "flightNumber": "RJ 401",
     "status": "",
     "actualTime": "11:20",
     "type": "arivl",
     "airlineCode": "RJ"
+  },
+  "ME 305-2025-08-21": {
+    "flightNumber": "ME 305",
+    "status": "",
+    "actualTime": "11:20",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "IA 131-2025-08-21": {
     "flightNumber": "IA 131",
@@ -1188,13 +1181,6 @@
     "actualTime": "11:35",
     "type": "arivl",
     "airlineCode": "QR"
-  },
-  "LH 8354-2025-08-21": {
-    "flightNumber": "LH 8354",
-    "status": "",
-    "actualTime": "11:40",
-    "type": "arivl",
-    "airlineCode": "LH"
   },
   "G9 385-2025-08-21": {
     "flightNumber": "G9 385",
