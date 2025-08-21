@@ -8,28 +8,28 @@
   },
   "FZ 158-2025-08-21": {
     "flightNumber": "FZ 158",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "09:52",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
   "CY 121-2025-08-21": {
     "flightNumber": "CY 121",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "10:07",
     "type": "dprtr",
     "airlineCode": "CY"
   },
   "MS 710-2025-08-21": {
     "flightNumber": "MS 710",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:15",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "ME 263-2025-08-21": {
     "flightNumber": "ME 263",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:10",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -453,13 +453,6 @@
     "actualTime": "23:59",
     "type": "dprtr",
     "airlineCode": "IA"
-  },
-  "EK 956-2025-08-22": {
-    "flightNumber": "EK 956",
-    "status": "",
-    "actualTime": "01:30",
-    "type": "dprtr",
-    "airlineCode": "EK"
   },
   "QR 419-2025-08-22": {
     "flightNumber": "QR 419",
@@ -1051,7 +1044,7 @@
   },
   "ME 272-2025-08-21": {
     "flightNumber": "ME 272",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "10:35",
     "type": "arivl",
     "airlineCode": "ME"
