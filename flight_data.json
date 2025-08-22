@@ -8,7 +8,7 @@
   },
   "CY 121-2025-08-22": {
     "flightNumber": "CY 121",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "21:07",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -22,7 +22,7 @@
   },
   "FZ 160-2025-08-22": {
     "flightNumber": "FZ 160",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "21:39",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -111,19 +111,19 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "ET 407-2025-08-23": {
-    "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "03:05",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "LO 144-2025-08-23": {
     "flightNumber": "LO 144",
     "status": "",
     "actualTime": "03:25",
     "type": "dprtr",
     "airlineCode": "LO"
+  },
+  "ET 407-2025-08-23": {
+    "flightNumber": "ET 407",
+    "status": "",
+    "actualTime": "03:25",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "TK 829-2025-08-23": {
     "flightNumber": "TK 829",
@@ -743,8 +743,8 @@
   },
   "TK 826-2025-08-22": {
     "flightNumber": "TK 826",
-    "status": "تأخير",
-    "actualTime": "21:40",
+    "status": "وصلت",
+    "actualTime": "21:47",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -755,13 +755,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 1305-2025-08-22": {
-    "flightNumber": "IA 1305",
-    "status": "وصلت",
-    "actualTime": "21:40",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 323-2025-08-22": {
     "flightNumber": "ME 323",
     "status": "وصلت",
@@ -769,10 +762,17 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "IA 1305-2025-08-22": {
+    "flightNumber": "IA 1305",
+    "status": "وصلت",
+    "actualTime": "21:40",
+    "type": "arivl",
+    "airlineCode": "IA"
+  },
   "FZ 159-2025-08-22": {
     "flightNumber": "FZ 159",
     "status": "وصلت",
-    "actualTime": "20:56",
+    "actualTime": "21:40",
     "type": "arivl",
     "airlineCode": "FZ"
   },
@@ -799,8 +799,8 @@
   },
   "SK 2827-2025-08-22": {
     "flightNumber": "SK 2827",
-    "status": "",
-    "actualTime": "22:00",
+    "status": "وصلت",
+    "actualTime": "21:47",
     "type": "arivl",
     "airlineCode": "SK"
   },
