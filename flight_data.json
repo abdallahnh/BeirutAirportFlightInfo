@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 263-2025-08-22": {
-    "flightNumber": "ME 263",
-    "status": "النداء الاخير",
-    "actualTime": "11:05",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 320-2025-08-22": {
     "flightNumber": "ME 320",
     "status": "النداء الاخير",
@@ -50,7 +43,7 @@
   },
   "EK 958-2025-08-22": {
     "flightNumber": "EK 958",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "11:03",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -64,8 +57,8 @@
   },
   "RJ 402-2025-08-22": {
     "flightNumber": "RJ 402",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:20",
+    "status": "النداء الاخير",
+    "actualTime": "11:35",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -937,19 +930,19 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "G9 388-2025-08-23": {
-    "flightNumber": "G9 388",
-    "status": "",
-    "actualTime": "23:00",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "SK 2968-2025-08-23": {
     "flightNumber": "SK 2968",
     "status": "",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "SK"
+  },
+  "G9 388-2025-08-23": {
+    "flightNumber": "G9 388",
+    "status": "",
+    "actualTime": "23:00",
+    "type": "dprtr",
+    "airlineCode": "G9"
   },
   "ME 434-2025-08-23": {
     "flightNumber": "ME 434",
@@ -1051,8 +1044,8 @@
   },
   "G9 385-2025-08-22": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "11:50",
+    "status": "وصلت",
+    "actualTime": "11:41",
     "type": "arivl",
     "airlineCode": "G9"
   },
@@ -1065,8 +1058,8 @@
   },
   "EY 581-2025-08-22": {
     "flightNumber": "EY 581",
-    "status": "",
-    "actualTime": "12:35",
+    "status": "وصلت",
+    "actualTime": "11:40",
     "type": "arivl",
     "airlineCode": "EY"
   },
