@@ -27,16 +27,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "RJ 402-2025-08-23": {
-    "flightNumber": "RJ 402",
-    "status": "النداء الاخير",
-    "actualTime": "11:42",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "IA 132-2025-08-23": {
     "flightNumber": "IA 132",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "12:05",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -50,8 +43,8 @@
   },
   "QR 417-2025-08-23": {
     "flightNumber": "QR 417",
-    "status": "",
-    "actualTime": "13:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:17",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -992,20 +985,6 @@
     "actualTime": "23:45",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "MS 709-2025-08-23": {
-    "flightNumber": "MS 709",
-    "status": "وصلت",
-    "actualTime": "10:17",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
-  "ME 272-2025-08-23": {
-    "flightNumber": "ME 272",
-    "status": "وصلت",
-    "actualTime": "10:24",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "CY 120-2025-08-23": {
     "flightNumber": "CY 120",
