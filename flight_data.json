@@ -34,26 +34,12 @@
     "type": "dprtr",
     "airlineCode": "ET"
   },
-  "MS 712-2025-08-23": {
-    "flightNumber": "MS 712",
-    "status": "غادرت",
-    "actualTime": "20:26",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "IA 1308-2025-08-23": {
     "flightNumber": "IA 1308",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "20:51",
     "type": "dprtr",
     "airlineCode": "IA"
-  },
-  "PC 1825-2025-08-23": {
-    "flightNumber": "PC 1825",
-    "status": "غادرت",
-    "actualTime": "20:29",
-    "type": "dprtr",
-    "airlineCode": "PC"
   },
   "ME 261-2025-08-23": {
     "flightNumber": "ME 261",
@@ -62,30 +48,16 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 430-2025-08-23": {
-    "flightNumber": "ME 430",
-    "status": "غادرت",
-    "actualTime": "20:17",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "RJ 404-2025-08-23": {
-    "flightNumber": "RJ 404",
-    "status": "غادرت",
-    "actualTime": "20:01",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "G9 409-2025-08-23": {
     "flightNumber": "G9 409",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:13",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "ME 442-2025-08-23": {
     "flightNumber": "ME 442",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "20:41",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -99,15 +71,15 @@
   },
   "ME 416-2025-08-23": {
     "flightNumber": "ME 416",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "20:49",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 827-2025-08-23": {
     "flightNumber": "TK 827",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "21:08",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -120,7 +92,7 @@
   },
   "FZ 160-2025-08-23": {
     "flightNumber": "FZ 160",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "22:40",
     "type": "dprtr",
     "airlineCode": "FZ"
