@@ -50,15 +50,15 @@
   },
   "ME 436-2025-08-23": {
     "flightNumber": "ME 436",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "14:32",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 1426-2025-08-23": {
     "flightNumber": "ME 1426",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:20",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "14:47",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -71,7 +71,7 @@
   },
   "TK 825-2025-08-23": {
     "flightNumber": "TK 825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -440,6 +440,13 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
+  "ME 364-2025-08-24": {
+    "flightNumber": "ME 364",
+    "status": "",
+    "actualTime": "06:00",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "ME 275-2025-08-24": {
     "flightNumber": "ME 275",
     "status": "",
@@ -545,13 +552,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 364-2025-08-24": {
-    "flightNumber": "ME 364",
-    "status": "",
-    "actualTime": "08:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 251-2025-08-24": {
     "flightNumber": "ME 251",
     "status": "",
@@ -580,26 +580,19 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
+  "MS 710-2025-08-24": {
+    "flightNumber": "MS 710",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "dprtr",
+    "airlineCode": "MS"
+  },
   "ME 320-2025-08-24": {
     "flightNumber": "ME 320",
     "status": "",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "ME 326-2025-08-24": {
-    "flightNumber": "ME 326",
-    "status": "",
-    "actualTime": "12:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "MS 710-2025-08-24": {
-    "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "12:05",
-    "type": "dprtr",
-    "airlineCode": "MS"
   },
   "EK 958-2025-08-24": {
     "flightNumber": "EK 958",
