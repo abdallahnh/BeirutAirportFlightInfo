@@ -1,11 +1,4 @@
 {
-  "QR 419-2025-08-24": {
-    "flightNumber": "QR 419",
-    "status": "غادرت",
-    "actualTime": "00:46",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "VF 544-2025-08-24": {
     "flightNumber": "VF 544",
     "status": "تم اغلاق البوابة",
@@ -22,7 +15,7 @@
   },
   "ET 407-2025-08-24": {
     "flightNumber": "ET 407",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "02:31",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -36,7 +29,7 @@
   },
   "TK 829-2025-08-24": {
     "flightNumber": "TK 829",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -727,18 +720,18 @@
     "type": "dprtr",
     "airlineCode": "ET"
   },
-  "PC 761-2025-08-25": {
-    "flightNumber": "PC 761",
-    "status": "",
-    "actualTime": "03:15",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "PC 1833-2025-08-25": {
     "flightNumber": "PC 1833",
     "status": "",
     "actualTime": "04:50",
     "type": "arivl",
+    "airlineCode": "PC"
+  },
+  "PC 761-2025-08-25": {
+    "flightNumber": "PC 761",
+    "status": "",
+    "actualTime": "03:15",
+    "type": "dprtr",
     "airlineCode": "PC"
   },
   "TK 829-2025-08-25": {
