@@ -195,19 +195,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "RJ 408-2025-08-24": {
+    "flightNumber": "RJ 408",
+    "status": "",
+    "actualTime": "07:30",
+    "type": "dprtr",
+    "airlineCode": "RJ"
+  },
   "ME 426-2025-08-24": {
     "flightNumber": "ME 426",
     "status": "",
     "actualTime": "07:30",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "RJ 408-2025-08-24": {
-    "flightNumber": "RJ 408",
-    "status": "",
-    "actualTime": "07:35",
-    "type": "dprtr",
-    "airlineCode": "RJ"
   },
   "ME 310-2025-08-24": {
     "flightNumber": "ME 310",
@@ -1315,13 +1315,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 224-2025-08-23": {
-    "flightNumber": "ME 224",
-    "status": "وصلت",
-    "actualTime": "23:39",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 423-2025-08-23": {
     "flightNumber": "ME 423",
     "status": "وصلت",
@@ -1343,13 +1336,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "QR 418-2025-08-24": {
-    "flightNumber": "QR 418",
-    "status": "وصلت",
-    "actualTime": "23:34",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "ME 369-2025-08-24": {
     "flightNumber": "ME 369",
     "status": "",
@@ -1359,8 +1345,8 @@
   },
   "VF 543-2025-08-24": {
     "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "01:10",
+    "status": "وصلت",
+    "actualTime": "01:37",
     "type": "arivl",
     "airlineCode": "VF"
   },
