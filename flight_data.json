@@ -1,25 +1,4 @@
 {
-  "ME 217-2025-08-23": {
-    "flightNumber": "ME 217",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:52",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 213-2025-08-23": {
-    "flightNumber": "ME 213",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:54",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 304-2025-08-23": {
-    "flightNumber": "ME 304",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:11",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2025-08-23": {
     "flightNumber": "TK 831",
     "status": "تم اغلاق البوابة",
@@ -965,19 +944,19 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "RJ 404-2025-08-24": {
-    "flightNumber": "RJ 404",
-    "status": "",
-    "actualTime": "20:45",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "PC 1825-2025-08-24": {
     "flightNumber": "PC 1825",
     "status": "",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "PC"
+  },
+  "RJ 404-2025-08-24": {
+    "flightNumber": "RJ 404",
+    "status": "",
+    "actualTime": "20:45",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "ME 261-2025-08-24": {
     "flightNumber": "ME 261",
@@ -1049,13 +1028,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "TK 830-2025-08-23": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:16",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "FZ 157-2025-08-23": {
     "flightNumber": "FZ 157",
     "status": "وصلت",
@@ -1065,8 +1037,8 @@
   },
   "IA 1313-2025-08-23": {
     "flightNumber": "IA 1313",
-    "status": "",
-    "actualTime": "10:00",
+    "status": "وصلت",
+    "actualTime": "09:56",
     "type": "arivl",
     "airlineCode": "IA"
   },
