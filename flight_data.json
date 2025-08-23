@@ -1,24 +1,17 @@
 {
   "ME 406-2025-08-23": {
     "flightNumber": "ME 406",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "17:19",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 203-2025-08-23": {
     "flightNumber": "ME 203",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "17:32",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "IA 1302-2025-08-23": {
-    "flightNumber": "IA 1302",
-    "status": "غادرت",
-    "actualTime": "17:10",
-    "type": "dprtr",
-    "airlineCode": "IA"
   },
   "ME 267-2025-08-23": {
     "flightNumber": "ME 267",
@@ -43,14 +36,14 @@
   },
   "ME 368-2025-08-23": {
     "flightNumber": "ME 368",
-    "status": "تم فتح البوابة",
-    "actualTime": "18:30",
+    "status": "النداء الاخير",
+    "actualTime": "17:47",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EY 584-2025-08-23": {
     "flightNumber": "EY 584",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:15",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -909,20 +902,6 @@
     "type": "arivl",
     "airlineCode": "LH"
   },
-  "ME 321-2025-08-23": {
-    "flightNumber": "ME 321",
-    "status": "وصلت",
-    "actualTime": "15:50",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "IA 139-2025-08-23": {
-    "flightNumber": "IA 139",
-    "status": "وصلت",
-    "actualTime": "15:47",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 244-2025-08-23": {
     "flightNumber": "ME 244",
     "status": "وصلت",
@@ -1056,19 +1035,19 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "ME 313-2025-08-23": {
-    "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "20:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 1824-2025-08-23": {
     "flightNumber": "PC 1824",
     "status": "",
     "actualTime": "20:00",
     "type": "arivl",
     "airlineCode": "PC"
+  },
+  "ME 313-2025-08-23": {
+    "flightNumber": "ME 313",
+    "status": "",
+    "actualTime": "20:00",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "ME 576-2025-08-23": {
     "flightNumber": "ME 576",
