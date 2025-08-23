@@ -50,21 +50,21 @@
   },
   "ME 436-2025-08-23": {
     "flightNumber": "ME 436",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 1426-2025-08-23": {
     "flightNumber": "ME 1426",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 229-2025-08-23": {
     "flightNumber": "ME 229",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:30",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -85,7 +85,7 @@
   },
   "AF 565-2025-08-23": {
     "flightNumber": "AF 565",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "AF"
@@ -363,13 +363,6 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
-  "EK 956-2025-08-24": {
-    "flightNumber": "EK 956",
-    "status": "",
-    "actualTime": "01:30",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
   "QR 419-2025-08-24": {
     "flightNumber": "QR 419",
     "status": "",
@@ -572,6 +565,13 @@
     "actualTime": "09:10",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "EK 956-2025-08-24": {
+    "flightNumber": "EK 956",
+    "status": "",
+    "actualTime": "09:30",
+    "type": "dprtr",
+    "airlineCode": "EK"
   },
   "TK 831-2025-08-24": {
     "flightNumber": "TK 831",
@@ -988,7 +988,7 @@
   },
   "ME 425-2025-08-23": {
     "flightNumber": "ME 425",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "14:10",
     "type": "arivl",
     "airlineCode": "ME"
