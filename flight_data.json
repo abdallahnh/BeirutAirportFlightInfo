@@ -71,15 +71,15 @@
   },
   "EK 956-2025-08-24": {
     "flightNumber": "EK 956",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "08:27",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "TK 831-2025-08-24": {
     "flightNumber": "TK 831",
-    "status": "",
-    "actualTime": "10:10",
+    "status": "النداء الاخير",
+    "actualTime": "09:09",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -1098,27 +1098,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "EK 955-2025-08-24": {
-    "flightNumber": "EK 955",
-    "status": "",
-    "actualTime": "23:50",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
-  "ME 272-2025-08-24": {
-    "flightNumber": "ME 272",
-    "status": "وصلت",
-    "actualTime": "07:55",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "TK 830-2025-08-24": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:10",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "IA 137-2025-08-24": {
     "flightNumber": "IA 137",
     "status": "",
@@ -1128,8 +1107,8 @@
   },
   "FZ 157-2025-08-24": {
     "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "09:45",
+    "status": "وصلت",
+    "actualTime": "09:05",
     "type": "arivl",
     "airlineCode": "FZ"
   },
@@ -1143,7 +1122,7 @@
   "EK 957-2025-08-24": {
     "flightNumber": "EK 957",
     "status": "",
-    "actualTime": "10:05",
+    "actualTime": "09:35",
     "type": "arivl",
     "airlineCode": "EK"
   },
@@ -1622,6 +1601,13 @@
     "actualTime": "23:45",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "EK 955-2025-08-24": {
+    "flightNumber": "EK 955",
+    "status": "",
+    "actualTime": "23:50",
+    "type": "arivl",
+    "airlineCode": "EK"
   },
   "LH 1308-2025-08-24": {
     "flightNumber": "LH 1308",
