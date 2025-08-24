@@ -85,14 +85,14 @@
   },
   "IA 134-2025-08-24": {
     "flightNumber": "IA 134",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:21",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "FZ 158-2025-08-24": {
     "flightNumber": "FZ 158",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "09:50",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -1128,15 +1128,15 @@
   },
   "MS 709-2025-08-24": {
     "flightNumber": "MS 709",
-    "status": "تبكير",
-    "actualTime": "10:15",
+    "status": "وصلت",
+    "actualTime": "10:20",
     "type": "arivl",
     "airlineCode": "MS"
   },
   "ME 1425-2025-08-24": {
     "flightNumber": "ME 1425",
-    "status": "",
-    "actualTime": "10:45",
+    "status": "وصلت",
+    "actualTime": "10:24",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1146,13 +1146,6 @@
     "actualTime": "11:00",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "IA 1303-2025-08-24": {
-    "flightNumber": "IA 1303",
-    "status": "",
-    "actualTime": "11:00",
-    "type": "arivl",
-    "airlineCode": "IA"
   },
   "ME 276-2025-08-24": {
     "flightNumber": "ME 276",
