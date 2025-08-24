@@ -1,53 +1,4 @@
 {
-  "VF 544-2025-08-24": {
-    "flightNumber": "VF 544",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:05",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
-  "PC 759-2025-08-24": {
-    "flightNumber": "PC 759",
-    "status": "تم فتح البوابة",
-    "actualTime": "03:05",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
-  "ET 407-2025-08-24": {
-    "flightNumber": "ET 407",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:31",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "TK 829-2025-08-24": {
-    "flightNumber": "TK 829",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:55",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "ET 417-2025-08-24": {
-    "flightNumber": "ET 417",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:20",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "RO 168-2025-08-24": {
-    "flightNumber": "RO 168",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "04:23",
-    "type": "dprtr",
-    "airlineCode": "RO"
-  },
-  "LO 146-2025-08-24": {
-    "flightNumber": "LO 146",
-    "status": "غادرت",
-    "actualTime": "04:23",
-    "type": "dprtr",
-    "airlineCode": "LO"
-  },
   "MS 714-2025-08-24": {
     "flightNumber": "MS 714",
     "status": "النداء الاخير",
@@ -55,38 +6,24 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "ME 364-2025-08-24": {
-    "flightNumber": "ME 364",
-    "status": "",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 275-2025-08-24": {
-    "flightNumber": "ME 275",
-    "status": "",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 271-2025-08-24": {
     "flightNumber": "ME 271",
-    "status": "",
-    "actualTime": "06:00",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "05:23",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 225-2025-08-24": {
     "flightNumber": "ME 225",
-    "status": "",
-    "actualTime": "06:30",
+    "status": "غادرت",
+    "actualTime": "05:54",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 247-2025-08-24": {
     "flightNumber": "ME 247",
-    "status": "",
-    "actualTime": "07:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:27",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -113,7 +50,7 @@
   },
   "RJ 408-2025-08-24": {
     "flightNumber": "RJ 408",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:30",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -134,7 +71,7 @@
   },
   "ME 213-2025-08-24": {
     "flightNumber": "ME 213",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -1231,48 +1168,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "RO 167-2025-08-24": {
-    "flightNumber": "RO 167",
-    "status": "وصلت",
-    "actualTime": "04:01",
-    "type": "arivl",
-    "airlineCode": "RO"
-  },
-  "PC 756-2025-08-24": {
-    "flightNumber": "PC 756",
-    "status": "وصلت",
-    "actualTime": "03:10",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "ME 1403-2025-08-24": {
-    "flightNumber": "ME 1403",
-    "status": "وصلت",
-    "actualTime": "03:19",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "LO 145-2025-08-24": {
-    "flightNumber": "LO 145",
-    "status": "وصلت",
-    "actualTime": "03:42",
-    "type": "arivl",
-    "airlineCode": "LO"
-  },
-  "MS 713-2025-08-24": {
-    "flightNumber": "MS 713",
-    "status": "وصلت",
-    "actualTime": "04:24",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
-  "ME 431-2025-08-24": {
-    "flightNumber": "ME 431",
-    "status": "وصلت",
-    "actualTime": "04:13",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 204-2025-08-24": {
     "flightNumber": "ME 204",
     "status": "وصلت",
@@ -1289,15 +1184,15 @@
   },
   "ME 435-2025-08-24": {
     "flightNumber": "ME 435",
-    "status": "",
-    "actualTime": "05:45",
+    "status": "وصلت",
+    "actualTime": "05:41",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "RJ 407-2025-08-24": {
     "flightNumber": "RJ 407",
-    "status": "",
-    "actualTime": "06:25",
+    "status": "وصلت",
+    "actualTime": "06:01",
     "type": "arivl",
     "airlineCode": "RJ"
   },
