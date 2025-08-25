@@ -43,7 +43,7 @@
   },
   "EY 582-2025-08-25": {
     "flightNumber": "EY 582",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "13:20",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -345,8 +345,8 @@
   "PC 1823-2025-08-26": {
     "flightNumber": "PC 1823",
     "status": "",
-    "actualTime": "00:35",
-    "type": "dprtr",
+    "actualTime": "05:20",
+    "type": "arivl",
     "airlineCode": "PC"
   },
   "QR 419-2025-08-26": {
@@ -930,13 +930,6 @@
     "type": "arivl",
     "airlineCode": "MS"
   },
-  "ME 305-2025-08-25": {
-    "flightNumber": "ME 305",
-    "status": "وصلت",
-    "actualTime": "11:49",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 266-2025-08-25": {
     "flightNumber": "ME 266",
     "status": "وصلت",
@@ -967,8 +960,8 @@
   },
   "ME 405-2025-08-25": {
     "flightNumber": "ME 405",
-    "status": "",
-    "actualTime": "14:15",
+    "status": "وصلت",
+    "actualTime": "13:49",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1346,7 +1339,7 @@
   "ME 222-2025-08-26": {
     "flightNumber": "ME 222",
     "status": "",
-    "actualTime": "01:25",
+    "actualTime": "23:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1567,6 +1560,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "TK 6020-2025-08-26": {
+    "flightNumber": "TK 6020",
+    "status": "",
+    "actualTime": "14:00",
+    "type": "arivl",
+    "airlineCode": "TK"
+  },
   "ME 425-2025-08-26": {
     "flightNumber": "ME 425",
     "status": "",
@@ -1599,6 +1599,13 @@
     "flightNumber": "ME 365",
     "status": "",
     "actualTime": "14:50",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 574-2025-08-26": {
+    "flightNumber": "ME 574",
+    "status": "",
+    "actualTime": "15:05",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1695,7 +1702,7 @@
   },
   "ME 325-2025-08-26": {
     "flightNumber": "ME 325",
-    "status": "ألغيت",
+    "status": "",
     "actualTime": "17:05",
     "type": "arivl",
     "airlineCode": "ME"
