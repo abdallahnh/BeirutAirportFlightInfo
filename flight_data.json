@@ -1,35 +1,21 @@
 {
-  "FZ 8240-2025-08-25": {
-    "flightNumber": "FZ 8240",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "22:42",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
-  "ME 573-2025-08-26": {
-    "flightNumber": "ME 573",
-    "status": "غادرت",
-    "actualTime": "23:22",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "PC 1822-2025-08-26": {
     "flightNumber": "PC 1822",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "00:13",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "QR 419-2025-08-26": {
     "flightNumber": "QR 419",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "01:40",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "LH 1309-2025-08-26": {
     "flightNumber": "LH 1309",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "01:50",
     "type": "dprtr",
     "airlineCode": "LH"
@@ -1189,13 +1175,6 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "ME 268-2025-08-25": {
-    "flightNumber": "ME 268",
-    "status": "وصلت",
-    "actualTime": "22:29",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 419-2025-08-25": {
     "flightNumber": "ME 419",
     "status": "وصلت",
@@ -1345,8 +1324,8 @@
   },
   "ME 204-2025-08-26": {
     "flightNumber": "ME 204",
-    "status": "",
-    "actualTime": "04:45",
+    "status": "تبكير",
+    "actualTime": "04:20",
     "type": "arivl",
     "airlineCode": "ME"
   },
