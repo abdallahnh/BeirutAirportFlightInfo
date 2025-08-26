@@ -20,23 +20,16 @@
     "type": "dprtr",
     "airlineCode": "EY"
   },
-  "EK 954-2025-08-26": {
-    "flightNumber": "EK 954",
-    "status": "غادرت",
-    "actualTime": "18:25",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
   "MS 712-2025-08-26": {
     "flightNumber": "MS 712",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "19:41",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "QR 427-2025-08-26": {
     "flightNumber": "QR 427",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "19:22",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -57,7 +50,7 @@
   },
   "ME 430-2025-08-26": {
     "flightNumber": "ME 430",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -736,8 +729,8 @@
   },
   "PC 1824-2025-08-26": {
     "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "19:46",
     "type": "arivl",
     "airlineCode": "PC"
   },
