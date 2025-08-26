@@ -1,11 +1,4 @@
 {
-  "MS 712-2025-08-26": {
-    "flightNumber": "MS 712",
-    "status": "غادرت",
-    "actualTime": "19:41",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "PC 1825-2025-08-26": {
     "flightNumber": "PC 1825",
     "status": "غادرت",
@@ -22,15 +15,15 @@
   },
   "ME 430-2025-08-26": {
     "flightNumber": "ME 430",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "20:30",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 442-2025-08-26": {
     "flightNumber": "ME 442",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:15",
+    "status": "النداء الاخير",
+    "actualTime": "20:38",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -43,7 +36,7 @@
   },
   "RJ 404-2025-08-26": {
     "flightNumber": "RJ 404",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "20:33",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -708,8 +701,8 @@
   },
   "RJ 403-2025-08-26": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "20:35",
+    "status": "وصلت",
+    "actualTime": "20:05",
     "type": "arivl",
     "airlineCode": "RJ"
   },
