@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 426-2025-08-26": {
-    "flightNumber": "ME 426",
-    "status": "غادرت",
-    "actualTime": "06:56",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "RJ 408-2025-08-26": {
     "flightNumber": "RJ 408",
     "status": "تم اغلاق البوابة",
@@ -43,36 +36,36 @@
   },
   "ME 211-2025-08-26": {
     "flightNumber": "ME 211",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "07:22",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 201-2025-08-26": {
     "flightNumber": "ME 201",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "07:28",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 271-2025-08-26": {
     "flightNumber": "ME 271",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:49",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 424-2025-08-26": {
     "flightNumber": "ME 424",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:30",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 404-2025-08-26": {
     "flightNumber": "ME 404",
-    "status": "",
-    "actualTime": "08:40",
+    "status": "تم فتح البوابة",
+    "actualTime": "07:48",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -1035,13 +1028,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "RJ 407-2025-08-26": {
-    "flightNumber": "RJ 407",
-    "status": "وصلت",
-    "actualTime": "05:41",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "TK 830-2025-08-26": {
     "flightNumber": "TK 830",
     "status": "",
@@ -1063,19 +1049,19 @@
     "type": "arivl",
     "airlineCode": "FZ"
   },
-  "RJ 401-2025-08-26": {
-    "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "10:05",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "EK 957-2025-08-26": {
     "flightNumber": "EK 957",
     "status": "",
     "actualTime": "10:05",
     "type": "arivl",
     "airlineCode": "EK"
+  },
+  "RJ 401-2025-08-26": {
+    "flightNumber": "RJ 401",
+    "status": "",
+    "actualTime": "10:05",
+    "type": "arivl",
+    "airlineCode": "RJ"
   },
   "MS 709-2025-08-26": {
     "flightNumber": "MS 709",
