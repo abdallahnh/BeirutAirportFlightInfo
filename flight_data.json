@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "ME 257-2025-08-27": {
-    "flightNumber": "ME 257",
-    "status": "غادرت",
-    "actualTime": "15:24",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "AF 565-2025-08-27": {
     "flightNumber": "AF 565",
     "status": "تم اغلاق البوابة",
@@ -55,17 +48,10 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "ME 312-2025-08-27": {
-    "flightNumber": "ME 312",
-    "status": "النداء الاخير",
-    "actualTime": "16:34",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "LH 1307-2025-08-27": {
     "flightNumber": "LH 1307",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:05",
     "type": "dprtr",
     "airlineCode": "LH"
   },
@@ -78,8 +64,8 @@
   },
   "IA 1302-2025-08-27": {
     "flightNumber": "IA 1302",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:09",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -92,8 +78,8 @@
   },
   "ME 368-2025-08-27": {
     "flightNumber": "ME 368",
-    "status": "",
-    "actualTime": "17:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:10",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -888,20 +874,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 133-2025-08-27": {
-    "flightNumber": "IA 133",
-    "status": "وصلت",
-    "actualTime": "14:50",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "ME 1429-2025-08-27": {
-    "flightNumber": "ME 1429",
-    "status": "وصلت",
-    "actualTime": "15:05",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "VF 1043-2025-08-27": {
     "flightNumber": "VF 1043",
     "status": "وصلت",
@@ -967,15 +939,15 @@
   },
   "ME 218-2025-08-27": {
     "flightNumber": "ME 218",
-    "status": "",
-    "actualTime": "16:50",
+    "status": "وصلت",
+    "actualTime": "16:56",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "EY 583-2025-08-27": {
     "flightNumber": "EY 583",
-    "status": "",
-    "actualTime": "17:40",
+    "status": "وصلت",
+    "actualTime": "16:54",
     "type": "arivl",
     "airlineCode": "EY"
   },
