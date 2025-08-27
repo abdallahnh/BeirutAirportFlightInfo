@@ -48,16 +48,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "J9 262-2025-08-27": {
-    "flightNumber": "J9 262",
-    "status": "النداء الاخير",
-    "actualTime": "20:56",
-    "type": "dprtr",
-    "airlineCode": "J9"
-  },
   "RJ 404-2025-08-27": {
     "flightNumber": "RJ 404",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "21:02",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -78,8 +71,8 @@
   },
   "FZ 160-2025-08-27": {
     "flightNumber": "FZ 160",
-    "status": "",
-    "actualTime": "22:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "21:38",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -783,13 +776,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 313-2025-08-27": {
-    "flightNumber": "ME 313",
-    "status": "وصلت",
-    "actualTime": "19:40",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 258-2025-08-27": {
     "flightNumber": "ME 258",
     "status": "وصلت",
@@ -863,7 +849,7 @@
   "SK 2827-2025-08-27": {
     "flightNumber": "SK 2827",
     "status": "",
-    "actualTime": "22:00",
+    "actualTime": "21:42",
     "type": "arivl",
     "airlineCode": "SK"
   },
