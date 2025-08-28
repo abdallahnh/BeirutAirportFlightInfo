@@ -1,11 +1,4 @@
 {
-  "MS 710-2025-08-28": {
-    "flightNumber": "MS 710",
-    "status": "غادرت",
-    "actualTime": "11:02",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "ME 263-2025-08-28": {
     "flightNumber": "ME 263",
     "status": "النداء الاخير",
@@ -13,66 +6,59 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 364-2025-08-28": {
-    "flightNumber": "ME 364",
-    "status": "غادرت",
-    "actualTime": "11:10",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 320-2025-08-28": {
     "flightNumber": "ME 320",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:16",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2025-08-28": {
     "flightNumber": "EK 958",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "10:57",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "ME 324-2025-08-28": {
     "flightNumber": "ME 324",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:54",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 308-2025-08-28": {
     "flightNumber": "ME 308",
-    "status": "",
+    "status": "النداء الاخير",
     "actualTime": "12:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 402-2025-08-28": {
     "flightNumber": "RJ 402",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "11:46",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "UF 002-2025-08-28": {
     "flightNumber": "UF 002",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "10:41",
     "type": "dprtr",
     "airlineCode": "UF"
   },
   "IA 132-2025-08-28": {
     "flightNumber": "IA 132",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "G9 386-2025-08-28": {
     "flightNumber": "G9 386",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:30",
+    "status": "النداء الاخير",
+    "actualTime": "12:01",
     "type": "dprtr",
     "airlineCode": "G9"
   },
@@ -92,8 +78,8 @@
   },
   "QR 417-2025-08-28": {
     "flightNumber": "QR 417",
-    "status": "تم فتح البوابة",
-    "actualTime": "13:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:01",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -174,19 +160,19 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "ME 281-2025-08-28": {
-    "flightNumber": "ME 281",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "IA 136-2025-08-28": {
     "flightNumber": "IA 136",
     "status": "",
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "ME 281-2025-08-28": {
+    "flightNumber": "ME 281",
+    "status": "",
+    "actualTime": "16:30",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 312-2025-08-28": {
     "flightNumber": "ME 312",
@@ -867,6 +853,20 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "KU 504-2025-08-29": {
+    "flightNumber": "KU 504",
+    "status": "",
+    "actualTime": "18:55",
+    "type": "dprtr",
+    "airlineCode": "KU"
+  },
+  "KU 1504-2025-08-29": {
+    "flightNumber": "KU 1504",
+    "status": "",
+    "actualTime": "18:55",
+    "type": "dprtr",
+    "airlineCode": "KU"
+  },
   "ME 263-2025-08-29": {
     "flightNumber": "ME 263",
     "status": "",
@@ -1392,13 +1392,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "KU 503-2025-08-28": {
-    "flightNumber": "KU 503",
-    "status": "",
-    "actualTime": "21:55",
-    "type": "arivl",
-    "airlineCode": "KU"
-  },
   "G9 387-2025-08-28": {
     "flightNumber": "G9 387",
     "status": "",
@@ -1406,19 +1399,19 @@
     "type": "arivl",
     "airlineCode": "G9"
   },
-  "ME 268-2025-08-28": {
-    "flightNumber": "ME 268",
-    "status": "",
-    "actualTime": "22:25",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "J9 263-2025-08-28": {
     "flightNumber": "J9 263",
     "status": "",
     "actualTime": "22:25",
     "type": "arivl",
     "airlineCode": "J9"
+  },
+  "ME 268-2025-08-28": {
+    "flightNumber": "ME 268",
+    "status": "",
+    "actualTime": "22:25",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "FZ 8239-2025-08-28": {
     "flightNumber": "FZ 8239",
@@ -1433,6 +1426,13 @@
     "actualTime": "22:50",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "KU 503-2025-08-28": {
+    "flightNumber": "KU 503",
+    "status": "",
+    "actualTime": "22:55",
+    "type": "arivl",
+    "airlineCode": "KU"
   },
   "ME 262-2025-08-28": {
     "flightNumber": "ME 262",
@@ -1853,6 +1853,13 @@
     "actualTime": "16:50",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "KU 1503-2025-08-29": {
+    "flightNumber": "KU 1503",
+    "status": "",
+    "actualTime": "17:25",
+    "type": "arivl",
+    "airlineCode": "KU"
   },
   "EY 583-2025-08-29": {
     "flightNumber": "EY 583",
