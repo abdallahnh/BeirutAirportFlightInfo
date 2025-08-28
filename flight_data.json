@@ -29,14 +29,14 @@
   },
   "ME 404-2025-08-28": {
     "flightNumber": "ME 404",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "08:07",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 251-2025-08-28": {
     "flightNumber": "ME 251",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "08:32",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -888,19 +888,19 @@
     "type": "dprtr",
     "airlineCode": "LH"
   },
-  "ME 7255-2025-08-29": {
-    "flightNumber": "ME 7255",
-    "status": "",
-    "actualTime": "17:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "UF 004-2025-08-29": {
     "flightNumber": "UF 004",
     "status": "",
     "actualTime": "17:30",
     "type": "dprtr",
     "airlineCode": "UF"
+  },
+  "ME 7255-2025-08-29": {
+    "flightNumber": "ME 7255",
+    "status": "",
+    "actualTime": "17:30",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 267-2025-08-29": {
     "flightNumber": "ME 267",
@@ -1266,15 +1266,15 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "ME 232-2025-08-28": {
-    "flightNumber": "ME 232",
+  "ME 427-2025-08-28": {
+    "flightNumber": "ME 427",
     "status": "",
     "actualTime": "15:05",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 427-2025-08-28": {
-    "flightNumber": "ME 427",
+  "ME 232-2025-08-28": {
+    "flightNumber": "ME 232",
     "status": "",
     "actualTime": "15:05",
     "type": "arivl",
@@ -1546,19 +1546,19 @@
     "type": "arivl",
     "airlineCode": "G9"
   },
-  "J9 263-2025-08-28": {
-    "flightNumber": "J9 263",
-    "status": "",
-    "actualTime": "22:25",
-    "type": "arivl",
-    "airlineCode": "J9"
-  },
   "ME 268-2025-08-28": {
     "flightNumber": "ME 268",
     "status": "",
     "actualTime": "22:25",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "J9 263-2025-08-28": {
+    "flightNumber": "J9 263",
+    "status": "",
+    "actualTime": "22:25",
+    "type": "arivl",
+    "airlineCode": "J9"
   },
   "FZ 8239-2025-08-28": {
     "flightNumber": "FZ 8239",
