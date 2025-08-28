@@ -6,19 +6,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "VF 1044-2025-08-28": {
-    "flightNumber": "VF 1044",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:57",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
   "ME 281-2025-08-28": {
     "flightNumber": "ME 281",
     "status": "النداء الاخير",
     "actualTime": "16:36",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "VF 1044-2025-08-28": {
+    "flightNumber": "VF 1044",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "15:57",
+    "type": "dprtr",
+    "airlineCode": "VF"
   },
   "IA 140-2025-08-28": {
     "flightNumber": "IA 140",
@@ -92,7 +92,7 @@
   },
   "TK 3443-2025-08-28": {
     "flightNumber": "TK 3443",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -811,13 +811,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 365-2025-08-28": {
-    "flightNumber": "ME 365",
-    "status": "وصلت",
-    "actualTime": "17:47",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "EK 953-2025-08-28": {
     "flightNumber": "EK 953",
     "status": "وصلت",
@@ -848,8 +841,8 @@
   },
   "MS 711-2025-08-28": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "19:10",
+    "status": "وصلت",
+    "actualTime": "19:48",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -876,14 +869,14 @@
   },
   "ME 323-2025-08-28": {
     "flightNumber": "ME 323",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "19:43",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 313-2025-08-28": {
     "flightNumber": "ME 313",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "19:35",
     "type": "arivl",
     "airlineCode": "ME"
