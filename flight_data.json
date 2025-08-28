@@ -64,28 +64,21 @@
   },
   "PC 755-2025-08-28": {
     "flightNumber": "PC 755",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "05:46",
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "ME 243-2025-08-28": {
-    "flightNumber": "ME 243",
-    "status": "غادرت",
-    "actualTime": "05:51",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 247-2025-08-28": {
     "flightNumber": "ME 247",
-    "status": "",
-    "actualTime": "07:00",
+    "status": "النداء الاخير",
+    "actualTime": "06:31",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 231-2025-08-28": {
     "flightNumber": "ME 231",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -99,22 +92,22 @@
   },
   "ME 426-2025-08-28": {
     "flightNumber": "ME 426",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:30",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 213-2025-08-28": {
     "flightNumber": "ME 213",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:30",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 408-2025-08-28": {
     "flightNumber": "RJ 408",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:45",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -183,6 +176,13 @@
   },
   "TK 831-2025-08-28": {
     "flightNumber": "TK 831",
+    "status": "",
+    "actualTime": "10:10",
+    "type": "dprtr",
+    "airlineCode": "TK"
+  },
+  "TK 6891-2025-08-28": {
+    "flightNumber": "TK 6891",
     "status": "",
     "actualTime": "10:10",
     "type": "dprtr",
@@ -1189,20 +1189,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 431-2025-08-28": {
-    "flightNumber": "ME 431",
-    "status": "وصلت",
-    "actualTime": "04:34",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 204-2025-08-28": {
-    "flightNumber": "ME 204",
-    "status": "وصلت",
-    "actualTime": "04:25",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 1822-2025-08-28": {
     "flightNumber": "PC 1822",
     "status": "وصلت",
@@ -1226,6 +1212,13 @@
   },
   "TK 830-2025-08-28": {
     "flightNumber": "TK 830",
+    "status": "",
+    "actualTime": "08:35",
+    "type": "arivl",
+    "airlineCode": "TK"
+  },
+  "TK 6890-2025-08-28": {
+    "flightNumber": "TK 6890",
     "status": "",
     "actualTime": "08:35",
     "type": "arivl",
