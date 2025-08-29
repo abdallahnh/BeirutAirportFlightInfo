@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 424-2025-08-29": {
-    "flightNumber": "ME 424",
-    "status": "غادرت",
-    "actualTime": "07:48",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 404-2025-08-29": {
     "flightNumber": "ME 404",
     "status": "غادرت",
@@ -22,7 +15,7 @@
   },
   "ME 364-2025-08-29": {
     "flightNumber": "ME 364",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "08:19",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -43,7 +36,7 @@
   },
   "TK 831-2025-08-29": {
     "flightNumber": "TK 831",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:10",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -188,19 +181,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 215-2025-08-29": {
-    "flightNumber": "ME 215",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "VF 1044-2025-08-29": {
     "flightNumber": "VF 1044",
     "status": "",
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "VF"
+  },
+  "ME 215-2025-08-29": {
+    "flightNumber": "ME 215",
+    "status": "",
+    "actualTime": "16:30",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 312-2025-08-29": {
     "flightNumber": "ME 312",
@@ -1020,13 +1013,6 @@
     "actualTime": "23:45",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "ME 1431-2025-08-29": {
-    "flightNumber": "ME 1431",
-    "status": "وصلت",
-    "actualTime": "06:43",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "TK 830-2025-08-29": {
     "flightNumber": "TK 830",
