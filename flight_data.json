@@ -15,7 +15,7 @@
   },
   "ME 263-2025-08-29": {
     "flightNumber": "ME 263",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:08",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -43,14 +43,14 @@
   },
   "RJ 402-2025-08-29": {
     "flightNumber": "RJ 402",
-    "status": "",
-    "actualTime": "12:20",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:39",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "IA 132-2025-08-29": {
     "flightNumber": "IA 132",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -958,20 +958,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "TK 6048-2025-08-29": {
-    "flightNumber": "TK 6048",
-    "status": "وصلت",
-    "actualTime": "09:42",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "EK 957-2025-08-29": {
-    "flightNumber": "EK 957",
-    "status": "وصلت",
-    "actualTime": "09:37",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "MS 709-2025-08-29": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -1002,8 +988,8 @@
   },
   "ME 305-2025-08-29": {
     "flightNumber": "ME 305",
-    "status": "",
-    "actualTime": "11:20",
+    "status": "وصلت",
+    "actualTime": "11:36",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1037,8 +1023,8 @@
   },
   "G9 385-2025-08-29": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "11:50",
+    "status": "وصلت",
+    "actualTime": "11:32",
     "type": "arivl",
     "airlineCode": "G9"
   },
