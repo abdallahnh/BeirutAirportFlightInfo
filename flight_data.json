@@ -125,17 +125,17 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "ME 223-2025-08-29": {
-    "flightNumber": "ME 223",
-    "status": "",
-    "actualTime": "15:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 322-2025-08-29": {
     "flightNumber": "ME 322",
     "status": "",
     "actualTime": "17:55",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 223-2025-08-29": {
+    "flightNumber": "ME 223",
+    "status": "",
+    "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -1030,15 +1030,15 @@
   },
   "ME 272-2025-08-29": {
     "flightNumber": "ME 272",
-    "status": "",
-    "actualTime": "10:35",
+    "status": "وصلت",
+    "actualTime": "10:15",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 311-2025-08-29": {
     "flightNumber": "ME 311",
-    "status": "",
-    "actualTime": "11:00",
+    "status": "وصلت",
+    "actualTime": "10:25",
     "type": "arivl",
     "airlineCode": "ME"
   },
