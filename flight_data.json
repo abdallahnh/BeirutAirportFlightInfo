@@ -34,26 +34,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "G9 409-2025-08-30": {
-    "flightNumber": "G9 409",
-    "status": "غادرت",
-    "actualTime": "20:34",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "ME 442-2025-08-30": {
     "flightNumber": "ME 442",
     "status": "تم اغلاق البوابة",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "J9 262-2025-08-30": {
-    "flightNumber": "J9 262",
-    "status": "غادرت",
-    "actualTime": "20:42",
-    "type": "dprtr",
-    "airlineCode": "J9"
   },
   "TK 827-2025-08-30": {
     "flightNumber": "TK 827",
@@ -64,7 +50,7 @@
   },
   "FZ 160-2025-08-30": {
     "flightNumber": "FZ 160",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "22:40",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -83,13 +69,6 @@
     "type": "dprtr",
     "airlineCode": "SK"
   },
-  "G9 388-2025-08-30": {
-    "flightNumber": "G9 388",
-    "status": "غادرت",
-    "actualTime": "23:00",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "PC 765-2025-08-30": {
     "flightNumber": "PC 765",
     "status": "",
@@ -103,6 +82,13 @@
     "actualTime": "23:05",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "G9 388-2025-08-30": {
+    "flightNumber": "G9 388",
+    "status": "",
+    "actualTime": "23:05",
+    "type": "dprtr",
+    "airlineCode": "G9"
   },
   "J9 264-2025-08-30": {
     "flightNumber": "J9 264",
