@@ -1,31 +1,10 @@
 {
-  "CY 121-2025-08-30": {
-    "flightNumber": "CY 121",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "10:59",
-    "type": "dprtr",
-    "airlineCode": "CY"
-  },
-  "ME 324-2025-08-30": {
-    "flightNumber": "ME 324",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "12:02",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "QR 417-2025-08-30": {
     "flightNumber": "QR 417",
     "status": "تم اغلاق البوابة",
     "actualTime": "12:19",
     "type": "dprtr",
     "airlineCode": "QR"
-  },
-  "EY 582-2025-08-30": {
-    "flightNumber": "EY 582",
-    "status": "غادرت",
-    "actualTime": "12:57",
-    "type": "dprtr",
-    "airlineCode": "EY"
   },
   "ME 223-2025-08-30": {
     "flightNumber": "ME 223",
@@ -36,7 +15,7 @@
   },
   "ME 436-2025-08-30": {
     "flightNumber": "ME 436",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -461,6 +440,13 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
+  "ME 310-2025-08-31": {
+    "flightNumber": "ME 310",
+    "status": "",
+    "actualTime": "07:40",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "ME 213-2025-08-31": {
     "flightNumber": "ME 213",
     "status": "",
@@ -472,13 +458,6 @@
     "flightNumber": "ME 304",
     "status": "",
     "actualTime": "07:45",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 310-2025-08-31": {
-    "flightNumber": "ME 310",
-    "status": "",
-    "actualTime": "07:50",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -944,19 +923,19 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "G9 388-2025-08-31": {
-    "flightNumber": "G9 388",
-    "status": "",
-    "actualTime": "23:00",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "ME 2424-2025-08-31": {
     "flightNumber": "ME 2424",
     "status": "",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "G9 388-2025-08-31": {
+    "flightNumber": "G9 388",
+    "status": "",
+    "actualTime": "23:00",
+    "type": "dprtr",
+    "airlineCode": "G9"
   },
   "ME 434-2025-08-31": {
     "flightNumber": "ME 434",
@@ -996,7 +975,7 @@
   "TK 824-2025-08-30": {
     "flightNumber": "TK 824",
     "status": "",
-    "actualTime": "14:20",
+    "actualTime": "14:09",
     "type": "arivl",
     "airlineCode": "TK"
   },
