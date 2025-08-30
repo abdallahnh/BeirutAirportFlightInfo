@@ -8,14 +8,14 @@
   },
   "AF 565-2025-08-30": {
     "flightNumber": "AF 565",
-    "status": "تأخير",
-    "actualTime": "16:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:36",
     "type": "dprtr",
     "airlineCode": "AF"
   },
   "ME 428-2025-08-30": {
     "flightNumber": "ME 428",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "16:18",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -36,14 +36,14 @@
   },
   "ME 312-2025-08-30": {
     "flightNumber": "ME 312",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:32",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 406-2025-08-30": {
     "flightNumber": "RJ 406",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "15:58",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -57,7 +57,7 @@
   },
   "IA 140-2025-08-30": {
     "flightNumber": "IA 140",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "17:00",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -106,7 +106,7 @@
   },
   "ME 422-2025-08-30": {
     "flightNumber": "ME 422",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:50",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -1023,15 +1023,15 @@
   },
   "IA 1301-2025-08-30": {
     "flightNumber": "IA 1301",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "16:33",
     "type": "arivl",
     "airlineCode": "IA"
   },
   "ME 214-2025-08-30": {
     "flightNumber": "ME 214",
-    "status": "",
-    "actualTime": "16:35",
+    "status": "وصلت",
+    "actualTime": "16:41",
     "type": "arivl",
     "airlineCode": "ME"
   },
