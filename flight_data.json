@@ -36,31 +36,10 @@
   },
   "ME 324-2025-08-30": {
     "flightNumber": "ME 324",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:02",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "RJ 402-2025-08-30": {
-    "flightNumber": "RJ 402",
-    "status": "غادرت",
-    "actualTime": "11:40",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
-  "UF 002-2025-08-30": {
-    "flightNumber": "UF 002",
-    "status": "غادرت",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
-  "IA 132-2025-08-30": {
-    "flightNumber": "IA 132",
-    "status": "غادرت",
-    "actualTime": "11:52",
-    "type": "dprtr",
-    "airlineCode": "IA"
   },
   "G9 386-2025-08-30": {
     "flightNumber": "G9 386",
@@ -78,14 +57,14 @@
   },
   "QR 417-2025-08-30": {
     "flightNumber": "QR 417",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "12:19",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "EY 582-2025-08-30": {
     "flightNumber": "EY 582",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "14:00",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -986,13 +965,6 @@
     "type": "arivl",
     "airlineCode": "CY"
   },
-  "ME 311-2025-08-30": {
-    "flightNumber": "ME 311",
-    "status": "وصلت",
-    "actualTime": "10:30",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "RJ 401-2025-08-30": {
     "flightNumber": "RJ 401",
     "status": "وصلت",
@@ -1105,19 +1077,19 @@
     "type": "arivl",
     "airlineCode": "LH"
   },
-  "ME 236-2025-08-30": {
-    "flightNumber": "ME 236",
-    "status": "",
-    "actualTime": "15:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "RJ 405-2025-08-30": {
     "flightNumber": "RJ 405",
     "status": "",
     "actualTime": "15:45",
     "type": "arivl",
     "airlineCode": "RJ"
+  },
+  "ME 236-2025-08-30": {
+    "flightNumber": "ME 236",
+    "status": "",
+    "actualTime": "15:45",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "ME 226-2025-08-30": {
     "flightNumber": "ME 226",
