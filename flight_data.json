@@ -13,24 +13,10 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "ME 281-2025-08-31": {
-    "flightNumber": "ME 281",
-    "status": "غادرت",
-    "actualTime": "17:37",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 253-2025-08-31": {
     "flightNumber": "ME 253",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:26",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 306-2025-08-31": {
-    "flightNumber": "ME 306",
-    "status": "غادرت",
-    "actualTime": "17:42",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -43,14 +29,14 @@
   },
   "CY 121-2025-08-31": {
     "flightNumber": "CY 121",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:50",
     "type": "dprtr",
     "airlineCode": "CY"
   },
   "QR 427-2025-08-31": {
     "flightNumber": "QR 427",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:05",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -720,13 +706,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "UF 003-2025-08-31": {
-    "flightNumber": "UF 003",
-    "status": "وصلت",
-    "actualTime": "16:43",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "ME 264-2025-08-31": {
     "flightNumber": "ME 264",
     "status": "وصلت",
@@ -745,13 +724,6 @@
     "flightNumber": "ME 214",
     "status": "وصلت",
     "actualTime": "16:49",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 325-2025-08-31": {
-    "flightNumber": "ME 325",
-    "status": "وصلت",
-    "actualTime": "16:45",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -778,7 +750,7 @@
   },
   "CY 120-2025-08-31": {
     "flightNumber": "CY 120",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "18:37",
     "type": "arivl",
     "airlineCode": "CY"
