@@ -36,7 +36,7 @@
   },
   "TK 831-2025-08-31": {
     "flightNumber": "TK 831",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "08:53",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -50,8 +50,8 @@
   },
   "FZ 158-2025-08-31": {
     "flightNumber": "FZ 158",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:46",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -181,19 +181,19 @@
     "type": "dprtr",
     "airlineCode": "AH"
   },
-  "ME 322-2025-08-31": {
-    "flightNumber": "ME 322",
-    "status": "",
-    "actualTime": "15:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 825-2025-08-31": {
     "flightNumber": "TK 825",
     "status": "",
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "TK"
+  },
+  "ME 322-2025-08-31": {
+    "flightNumber": "ME 322",
+    "status": "",
+    "actualTime": "15:55",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "AF 565-2025-08-31": {
     "flightNumber": "AF 565",
@@ -209,12 +209,12 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "KU 502-2025-08-31": {
-    "flightNumber": "KU 502",
+  "ME 428-2025-08-31": {
+    "flightNumber": "ME 428",
     "status": "",
     "actualTime": "16:25",
     "type": "dprtr",
-    "airlineCode": "KU"
+    "airlineCode": "ME"
   },
   "ME 418-2025-08-31": {
     "flightNumber": "ME 418",
@@ -223,12 +223,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 428-2025-08-31": {
-    "flightNumber": "ME 428",
+  "KU 502-2025-08-31": {
+    "flightNumber": "KU 502",
     "status": "",
     "actualTime": "16:25",
     "type": "dprtr",
-    "airlineCode": "ME"
+    "airlineCode": "KU"
   },
   "VF 1044-2025-08-31": {
     "flightNumber": "VF 1044",
@@ -1016,8 +1016,8 @@
   },
   "IA 137-2025-08-31": {
     "flightNumber": "IA 137",
-    "status": "",
-    "actualTime": "09:45",
+    "status": "وصلت",
+    "actualTime": "09:42",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -1044,7 +1044,7 @@
   },
   "EK 957-2025-08-31": {
     "flightNumber": "EK 957",
-    "status": "تبكير",
+    "status": "وصلت",
     "actualTime": "09:35",
     "type": "arivl",
     "airlineCode": "EK"
