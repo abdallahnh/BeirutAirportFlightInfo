@@ -1,25 +1,4 @@
 {
-  "FZ 8240-2025-08-31": {
-    "flightNumber": "FZ 8240",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "22:58",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
-  "QR 419-2025-09-01": {
-    "flightNumber": "QR 419",
-    "status": "غادرت",
-    "actualTime": "01:02",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
-  "PC 1827-2025-09-01": {
-    "flightNumber": "PC 1827",
-    "status": "غادرت",
-    "actualTime": "01:15",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "VF 544-2025-09-01": {
     "flightNumber": "VF 544",
     "status": "تم اغلاق البوابة",
@@ -29,8 +8,8 @@
   },
   "ET 407-2025-09-01": {
     "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "03:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "02:22",
     "type": "dprtr",
     "airlineCode": "ET"
   },
@@ -1084,20 +1063,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 369-2025-08-31": {
-    "flightNumber": "ME 369",
-    "status": "وصلت",
-    "actualTime": "00:10",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 419-2025-08-31": {
-    "flightNumber": "ME 419",
-    "status": "وصلت",
-    "actualTime": "23:55",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 1826-2025-09-01": {
     "flightNumber": "PC 1826",
     "status": "وصلت",
@@ -1121,8 +1086,8 @@
   },
   "PC 760-2025-09-01": {
     "flightNumber": "PC 760",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "وصلت",
+    "actualTime": "02:10",
     "type": "arivl",
     "airlineCode": "PC"
   },
