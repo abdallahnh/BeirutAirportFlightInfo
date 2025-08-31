@@ -57,22 +57,22 @@
   },
   "MS 710-2025-08-31": {
     "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "11:00",
+    "status": "النداء الاخير",
+    "actualTime": "10:52",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "IA 136-2025-08-31": {
     "flightNumber": "IA 136",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "10:43",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "ME 263-2025-08-31": {
     "flightNumber": "ME 263",
-    "status": "",
-    "actualTime": "11:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:11",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -85,8 +85,8 @@
   },
   "ME 320-2025-08-31": {
     "flightNumber": "ME 320",
-    "status": "",
-    "actualTime": "11:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:10",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -113,7 +113,7 @@
   },
   "RJ 402-2025-08-31": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -1014,13 +1014,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "FZ 157-2025-08-31": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "09:04",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "MS 709-2025-08-31": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -1065,8 +1058,8 @@
   },
   "ME 276-2025-08-31": {
     "flightNumber": "ME 276",
-    "status": "",
-    "actualTime": "11:10",
+    "status": "وصلت",
+    "actualTime": "11:05",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1079,8 +1072,8 @@
   },
   "RJ 401-2025-08-31": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "11:25",
+    "status": "وصلت",
+    "actualTime": "11:00",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -1093,8 +1086,8 @@
   },
   "IA 131-2025-08-31": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "وصلت",
+    "actualTime": "11:12",
     "type": "arivl",
     "airlineCode": "IA"
   },
