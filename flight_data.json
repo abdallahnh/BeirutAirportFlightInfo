@@ -15,7 +15,7 @@
   },
   "ET 407-2025-09-02": {
     "flightNumber": "ET 407",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "02:28",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -43,7 +43,7 @@
   },
   "PC 757-2025-09-02": {
     "flightNumber": "PC 757",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "04:20",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -153,15 +153,15 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 271-2025-09-02": {
-    "flightNumber": "ME 271",
+  "ME 265-2025-09-02": {
+    "flightNumber": "ME 265",
     "status": "",
     "actualTime": "08:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 265-2025-09-02": {
-    "flightNumber": "ME 265",
+  "ME 271-2025-09-02": {
+    "flightNumber": "ME 271",
     "status": "",
     "actualTime": "08:25",
     "type": "dprtr",
@@ -1107,8 +1107,8 @@
   },
   "RO 167-2025-09-02": {
     "flightNumber": "RO 167",
-    "status": "",
-    "actualTime": "03:05",
+    "status": "وصلت",
+    "actualTime": "02:55",
     "type": "arivl",
     "airlineCode": "RO"
   },
