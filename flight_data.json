@@ -43,7 +43,7 @@
   },
   "TK 827-2025-09-01": {
     "flightNumber": "TK 827",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "21:46",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -64,7 +64,7 @@
   },
   "SK 2828-2025-09-01": {
     "flightNumber": "SK 2828",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "SK"
@@ -615,13 +615,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 202-2025-09-01": {
-    "flightNumber": "ME 202",
-    "status": "وصلت",
-    "actualTime": "20:04",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 1824-2025-09-01": {
     "flightNumber": "PC 1824",
     "status": "وصلت",
@@ -635,13 +628,6 @@
     "actualTime": "21:02",
     "type": "arivl",
     "airlineCode": "IA"
-  },
-  "ME 242-2025-09-01": {
-    "flightNumber": "ME 242",
-    "status": "وصلت",
-    "actualTime": "20:12",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "J9 261-2025-09-01": {
     "flightNumber": "J9 261",
@@ -687,8 +673,8 @@
   },
   "ME 437-2025-09-01": {
     "flightNumber": "ME 437",
-    "status": "",
-    "actualTime": "21:55",
+    "status": "وصلت",
+    "actualTime": "22:02",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -708,8 +694,8 @@
   },
   "ME 268-2025-09-01": {
     "flightNumber": "ME 268",
-    "status": "",
-    "actualTime": "22:25",
+    "status": "وصلت",
+    "actualTime": "22:17",
     "type": "arivl",
     "airlineCode": "ME"
   },
