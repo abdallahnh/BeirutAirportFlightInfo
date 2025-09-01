@@ -22,21 +22,21 @@
   },
   "QR 419-2025-09-02": {
     "flightNumber": "QR 419",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "00:49",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "LH 1309-2025-09-02": {
     "flightNumber": "LH 1309",
-    "status": "تم فتح البوابة",
-    "actualTime": "01:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:12",
     "type": "dprtr",
     "airlineCode": "LH"
   },
   "VF 544-2025-09-02": {
     "flightNumber": "VF 544",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:00",
     "type": "dprtr",
     "airlineCode": "VF"
@@ -1112,20 +1112,6 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "ME 262-2025-09-01": {
-    "flightNumber": "ME 262",
-    "status": "وصلت",
-    "actualTime": "23:06",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 232-2025-09-01": {
-    "flightNumber": "ME 232",
-    "status": "وصلت",
-    "actualTime": "22:59",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 230-2025-09-01": {
     "flightNumber": "ME 230",
     "status": "وصلت",
@@ -1198,8 +1184,8 @@
   },
   "VF 543-2025-09-02": {
     "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "01:10",
+    "status": "وصلت",
+    "actualTime": "01:03",
     "type": "arivl",
     "airlineCode": "VF"
   },
