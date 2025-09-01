@@ -1,60 +1,4 @@
 {
-  "TK 825-2025-09-01": {
-    "flightNumber": "TK 825",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:01",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "AF 565-2025-09-01": {
-    "flightNumber": "AF 565",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:10",
-    "type": "dprtr",
-    "airlineCode": "AF"
-  },
-  "VF 1044-2025-09-01": {
-    "flightNumber": "VF 1044",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:44",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
-  "LH 1307-2025-09-01": {
-    "flightNumber": "LH 1307",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "16:40",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
-  "UF 006-2025-09-01": {
-    "flightNumber": "UF 006",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:00",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
-  "IA 1302-2025-09-01": {
-    "flightNumber": "IA 1302",
-    "status": "النداء الاخير",
-    "actualTime": "17:46",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "ME 267-2025-09-01": {
-    "flightNumber": "ME 267",
-    "status": "غادرت",
-    "actualTime": "17:04",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 203-2025-09-01": {
-    "flightNumber": "ME 203",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "17:25",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 306-2025-09-01": {
     "flightNumber": "ME 306",
     "status": "تم اغلاق البوابة",
@@ -76,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "MS 712-2025-09-01": {
-    "flightNumber": "MS 712",
-    "status": "غادرت",
-    "actualTime": "19:48",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "RJ 404-2025-09-01": {
     "flightNumber": "RJ 404",
     "status": "النداء الاخير",
@@ -99,7 +36,7 @@
   },
   "ME 261-2025-09-01": {
     "flightNumber": "ME 261",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "20:24",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -785,8 +722,8 @@
   },
   "CY 120-2025-09-01": {
     "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "20:50",
+    "status": "وصلت",
+    "actualTime": "20:37",
     "type": "arivl",
     "airlineCode": "CY"
   },
