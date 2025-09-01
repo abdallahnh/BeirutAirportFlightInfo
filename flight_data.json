@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
-  "TK 3439-2025-09-01": {
-    "flightNumber": "TK 3439",
-    "status": "غادرت",
-    "actualTime": "20:45",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "RJ 404-2025-09-01": {
     "flightNumber": "RJ 404",
     "status": "تم اغلاق البوابة",
@@ -29,7 +22,7 @@
   },
   "PC 1825-2025-09-01": {
     "flightNumber": "PC 1825",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "21:09",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -50,7 +43,7 @@
   },
   "CY 121-2025-09-01": {
     "flightNumber": "CY 121",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:57",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -64,8 +57,8 @@
   },
   "FZ 160-2025-09-01": {
     "flightNumber": "FZ 160",
-    "status": "",
-    "actualTime": "22:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "21:41",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -642,20 +635,6 @@
     "actualTime": "20:49",
     "type": "arivl",
     "airlineCode": "PC"
-  },
-  "ME 323-2025-09-01": {
-    "flightNumber": "ME 323",
-    "status": "وصلت",
-    "actualTime": "19:38",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 313-2025-09-01": {
-    "flightNumber": "ME 313",
-    "status": "وصلت",
-    "actualTime": "19:42",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "IA 1305-2025-09-01": {
     "flightNumber": "IA 1305",
