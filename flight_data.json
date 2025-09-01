@@ -71,7 +71,7 @@
   },
   "TK 3440-2025-09-01": {
     "flightNumber": "TK 3440",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "14:03",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -209,6 +209,13 @@
     "type": "dprtr",
     "airlineCode": "EY"
   },
+  "IA 1306-2025-09-01": {
+    "flightNumber": "IA 1306",
+    "status": "",
+    "actualTime": "19:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
+  },
   "EK 954-2025-09-01": {
     "flightNumber": "EK 954",
     "status": "",
@@ -264,6 +271,13 @@
     "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "IA 1310-2025-09-01": {
+    "flightNumber": "IA 1310",
+    "status": "",
+    "actualTime": "21:15",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "J9 262-2025-09-01": {
     "flightNumber": "J9 262",
@@ -890,15 +904,15 @@
   },
   "AF 564-2025-09-01": {
     "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "وصلت",
+    "actualTime": "14:21",
     "type": "arivl",
     "airlineCode": "AF"
   },
   "TK 824-2025-09-01": {
     "flightNumber": "TK 824",
-    "status": "",
-    "actualTime": "14:40",
+    "status": "وصلت",
+    "actualTime": "14:11",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -1014,6 +1028,13 @@
     "type": "arivl",
     "airlineCode": "EK"
   },
+  "IA 1305-2025-09-01": {
+    "flightNumber": "IA 1305",
+    "status": "",
+    "actualTime": "18:30",
+    "type": "arivl",
+    "airlineCode": "IA"
+  },
   "QR 426-2025-09-01": {
     "flightNumber": "QR 426",
     "status": "",
@@ -1076,6 +1097,13 @@
     "actualTime": "20:00",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "IA 1309-2025-09-01": {
+    "flightNumber": "IA 1309",
+    "status": "",
+    "actualTime": "20:15",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "ME 242-2025-09-01": {
     "flightNumber": "ME 242",
