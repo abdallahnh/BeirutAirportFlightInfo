@@ -15,14 +15,14 @@
   },
   "TK 3439-2025-09-01": {
     "flightNumber": "TK 3439",
-    "status": "تم فتح البوابة",
-    "actualTime": "20:00",
+    "status": "النداء الاخير",
+    "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "RJ 404-2025-09-01": {
     "flightNumber": "RJ 404",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "19:42",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -36,7 +36,7 @@
   },
   "ME 261-2025-09-01": {
     "flightNumber": "ME 261",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:24",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -64,7 +64,7 @@
   },
   "CY 121-2025-09-01": {
     "flightNumber": "CY 121",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -650,13 +650,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "TK 3441-2025-09-01": {
-    "flightNumber": "TK 3441",
-    "status": "وصلت",
-    "actualTime": "18:42",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "MS 711-2025-09-01": {
     "flightNumber": "MS 711",
     "status": "وصلت",
@@ -680,8 +673,8 @@
   },
   "PC 1824-2025-09-01": {
     "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "20:49",
     "type": "arivl",
     "airlineCode": "PC"
   },
