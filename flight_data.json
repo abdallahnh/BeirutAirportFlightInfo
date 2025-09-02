@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EK 954-2025-09-02": {
-    "flightNumber": "EK 954",
-    "status": "غادرت",
-    "actualTime": "18:26",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
   "MS 712-2025-09-02": {
     "flightNumber": "MS 712",
     "status": "تم اغلاق البوابة",
@@ -48,51 +41,37 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "PC 1825-2025-09-02": {
-    "flightNumber": "PC 1825",
-    "status": "غادرت",
-    "actualTime": "20:07",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
-  "ME 261-2025-09-02": {
-    "flightNumber": "ME 261",
-    "status": "غادرت",
-    "actualTime": "20:18",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 430-2025-09-02": {
     "flightNumber": "ME 430",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "20:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "J9 262-2025-09-02": {
     "flightNumber": "J9 262",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "20:46",
     "type": "dprtr",
     "airlineCode": "J9"
   },
   "RJ 404-2025-09-02": {
     "flightNumber": "RJ 404",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:30",
+    "status": "النداء الاخير",
+    "actualTime": "20:54",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "TK 827-2025-09-02": {
     "flightNumber": "TK 827",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "22:25",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "FZ 160-2025-09-02": {
     "flightNumber": "FZ 160",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "22:40",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -692,13 +671,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "MS 711-2025-09-02": {
-    "flightNumber": "MS 711",
-    "status": "وصلت",
-    "actualTime": "18:51",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "ME 202-2025-09-02": {
     "flightNumber": "ME 202",
     "status": "وصلت",
@@ -750,8 +722,8 @@
   },
   "TK 826-2025-09-02": {
     "flightNumber": "TK 826",
-    "status": "",
-    "actualTime": "20:55",
+    "status": "وصلت",
+    "actualTime": "20:57",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -764,8 +736,8 @@
   },
   "FZ 159-2025-09-02": {
     "flightNumber": "FZ 159",
-    "status": "",
-    "actualTime": "21:40",
+    "status": "وصلت",
+    "actualTime": "21:05",
     "type": "arivl",
     "airlineCode": "FZ"
   },
@@ -792,8 +764,8 @@
   },
   "ME 419-2025-09-02": {
     "flightNumber": "ME 419",
-    "status": "",
-    "actualTime": "22:50",
+    "status": "تبكير",
+    "actualTime": "22:30",
     "type": "arivl",
     "airlineCode": "ME"
   },
