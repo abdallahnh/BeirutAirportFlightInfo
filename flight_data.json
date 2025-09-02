@@ -1,39 +1,4 @@
 {
-  "ET 407-2025-09-02": {
-    "flightNumber": "ET 407",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:28",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "ET 417-2025-09-02": {
-    "flightNumber": "ET 417",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:34",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "RO 168-2025-09-02": {
-    "flightNumber": "RO 168",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:15",
-    "type": "dprtr",
-    "airlineCode": "RO"
-  },
-  "PC 757-2025-09-02": {
-    "flightNumber": "PC 757",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:28",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
-  "ME 275-2025-09-02": {
-    "flightNumber": "ME 275",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "05:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "PC 755-2025-09-02": {
     "flightNumber": "PC 755",
     "status": "تم اغلاق البوابة",
@@ -41,23 +6,16 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "ME 247-2025-09-02": {
-    "flightNumber": "ME 247",
-    "status": "النداء الاخير",
-    "actualTime": "06:18",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 215-2025-09-02": {
     "flightNumber": "ME 215",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "06:35",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 581-2025-09-02": {
     "flightNumber": "ME 581",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "06:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -71,43 +29,43 @@
   },
   "ME 217-2025-09-02": {
     "flightNumber": "ME 217",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "06:43",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 577-2025-09-02": {
     "flightNumber": "ME 577",
-    "status": "",
-    "actualTime": "07:25",
+    "status": "النداء الاخير",
+    "actualTime": "06:59",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 426-2025-09-02": {
     "flightNumber": "ME 426",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:30",
+    "status": "النداء الاخير",
+    "actualTime": "06:59",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 408-2025-09-02": {
     "flightNumber": "RJ 408",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "06:51",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "ME 310-2025-09-02": {
     "flightNumber": "ME 310",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:40",
+    "status": "النداء الاخير",
+    "actualTime": "07:01",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 211-2025-09-02": {
     "flightNumber": "ME 211",
-    "status": "",
-    "actualTime": "07:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:26",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -127,7 +85,7 @@
   },
   "ME 265-2025-09-02": {
     "flightNumber": "ME 265",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:25",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -944,19 +902,19 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "TK 3439-2025-09-03": {
-    "flightNumber": "TK 3439",
-    "status": "",
-    "actualTime": "20:20",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "QR 427-2025-09-03": {
     "flightNumber": "QR 427",
     "status": "",
     "actualTime": "20:20",
     "type": "dprtr",
     "airlineCode": "QR"
+  },
+  "TK 3439-2025-09-03": {
+    "flightNumber": "TK 3439",
+    "status": "",
+    "actualTime": "20:20",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "RJ 404-2025-09-03": {
     "flightNumber": "RJ 404",
@@ -1041,13 +999,6 @@
     "actualTime": "23:40",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "PC 1823-2025-09-02": {
-    "flightNumber": "PC 1823",
-    "status": "وصلت",
-    "actualTime": "05:13",
-    "type": "arivl",
-    "airlineCode": "PC"
   },
   "ME 435-2025-09-02": {
     "flightNumber": "ME 435",
