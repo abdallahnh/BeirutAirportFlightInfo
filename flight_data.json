@@ -90,19 +90,19 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "ET 407-2025-09-03": {
-    "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "03:05",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "PC 759-2025-09-03": {
     "flightNumber": "PC 759",
     "status": "",
     "actualTime": "02:00",
     "type": "arivl",
     "airlineCode": "PC"
+  },
+  "ET 407-2025-09-03": {
+    "flightNumber": "ET 407",
+    "status": "",
+    "actualTime": "03:05",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "LO 144-2025-09-03": {
     "flightNumber": "LO 144",
@@ -650,13 +650,6 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "ME 582-2025-09-02": {
-    "flightNumber": "ME 582",
-    "status": "وصلت",
-    "actualTime": "21:28",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 307-2025-09-02": {
     "flightNumber": "ME 307",
     "status": "وصلت",
@@ -743,8 +736,8 @@
   },
   "QR 418-2025-09-03": {
     "flightNumber": "QR 418",
-    "status": "",
-    "actualTime": "00:10",
+    "status": "وصلت",
+    "actualTime": "23:40",
     "type": "arivl",
     "airlineCode": "QR"
   },
