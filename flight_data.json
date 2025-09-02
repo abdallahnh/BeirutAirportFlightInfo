@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "UF 002-2025-09-02": {
-    "flightNumber": "UF 002",
-    "status": "غادرت",
-    "actualTime": "11:46",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "ME 229-2025-09-02": {
     "flightNumber": "ME 229",
     "status": "تم اغلاق البوابة",
@@ -839,13 +832,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 232-2025-09-02": {
-    "flightNumber": "ME 232",
-    "status": "",
-    "actualTime": "15:05",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 427-2025-09-02": {
     "flightNumber": "ME 427",
     "status": "",
@@ -853,12 +839,12 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "VF 1043-2025-09-02": {
-    "flightNumber": "VF 1043",
+  "ME 232-2025-09-02": {
+    "flightNumber": "ME 232",
     "status": "",
-    "actualTime": "15:40",
+    "actualTime": "15:05",
     "type": "arivl",
-    "airlineCode": "VF"
+    "airlineCode": "ME"
   },
   "LH 1306-2025-09-02": {
     "flightNumber": "LH 1306",
@@ -866,6 +852,13 @@
     "actualTime": "15:40",
     "type": "arivl",
     "airlineCode": "LH"
+  },
+  "VF 1043-2025-09-02": {
+    "flightNumber": "VF 1043",
+    "status": "",
+    "actualTime": "15:40",
+    "type": "arivl",
+    "airlineCode": "VF"
   },
   "ME 305-2025-09-02": {
     "flightNumber": "ME 305",
