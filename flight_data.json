@@ -69,13 +69,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "QR 419-2025-09-03": {
-    "flightNumber": "QR 419",
-    "status": "غادرت",
-    "actualTime": "00:56",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "LH 1309-2025-09-03": {
     "flightNumber": "LH 1309",
     "status": "غادرت",
@@ -85,7 +78,7 @@
   },
   "VF 544-2025-09-03": {
     "flightNumber": "VF 544",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "01:30",
     "type": "dprtr",
     "airlineCode": "VF"
@@ -1282,8 +1275,8 @@
   },
   "ET 406-2025-09-03": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "وصلت",
+    "actualTime": "01:44",
     "type": "arivl",
     "airlineCode": "ET"
   },
