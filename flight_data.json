@@ -43,21 +43,21 @@
   },
   "ME 436-2025-09-02": {
     "flightNumber": "ME 436",
-    "status": "",
-    "actualTime": "15:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "14:58",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 418-2025-09-02": {
     "flightNumber": "ME 418",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:25",
+    "status": "النداء الاخير",
+    "actualTime": "14:49",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 825-2025-09-02": {
     "flightNumber": "TK 825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -71,8 +71,8 @@
   },
   "AF 565-2025-09-02": {
     "flightNumber": "AF 565",
-    "status": "",
-    "actualTime": "16:00",
+    "status": "تأخير",
+    "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "AF"
   },
@@ -846,19 +846,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "LH 1306-2025-09-02": {
-    "flightNumber": "LH 1306",
-    "status": "",
-    "actualTime": "15:40",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "VF 1043-2025-09-02": {
     "flightNumber": "VF 1043",
     "status": "",
     "actualTime": "15:40",
     "type": "arivl",
     "airlineCode": "VF"
+  },
+  "LH 1306-2025-09-02": {
+    "flightNumber": "LH 1306",
+    "status": "",
+    "actualTime": "15:40",
+    "type": "arivl",
+    "airlineCode": "LH"
   },
   "ME 305-2025-09-02": {
     "flightNumber": "ME 305",
