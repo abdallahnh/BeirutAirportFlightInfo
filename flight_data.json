@@ -78,7 +78,7 @@
   },
   "LH 1309-2025-09-03": {
     "flightNumber": "LH 1309",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "01:50",
     "type": "dprtr",
     "airlineCode": "LH"
@@ -90,19 +90,19 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "ET 407-2025-09-03": {
-    "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "03:05",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "PC 759-2025-09-03": {
     "flightNumber": "PC 759",
     "status": "",
     "actualTime": "02:00",
     "type": "arivl",
     "airlineCode": "PC"
+  },
+  "ET 407-2025-09-03": {
+    "flightNumber": "ET 407",
+    "status": "",
+    "actualTime": "03:05",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "LO 144-2025-09-03": {
     "flightNumber": "LO 144",
@@ -111,19 +111,19 @@
     "type": "dprtr",
     "airlineCode": "LO"
   },
-  "ET 417-2025-09-03": {
-    "flightNumber": "ET 417",
-    "status": "",
-    "actualTime": "03:55",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "TK 829-2025-09-03": {
     "flightNumber": "TK 829",
     "status": "",
     "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "TK"
+  },
+  "ET 417-2025-09-03": {
+    "flightNumber": "ET 417",
+    "status": "",
+    "actualTime": "03:55",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "RO 168-2025-09-03": {
     "flightNumber": "RO 168",
@@ -1245,13 +1245,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 419-2025-09-02": {
-    "flightNumber": "ME 419",
-    "status": "وصلت",
-    "actualTime": "22:32",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 262-2025-09-02": {
     "flightNumber": "ME 262",
     "status": "وصلت",
@@ -1303,8 +1296,8 @@
   },
   "ME 429-2025-09-02": {
     "flightNumber": "ME 429",
-    "status": "",
-    "actualTime": "23:59",
+    "status": "وصلت",
+    "actualTime": "00:29",
     "type": "arivl",
     "airlineCode": "ME"
   },
