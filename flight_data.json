@@ -20,30 +20,9 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "PC 1825-2025-09-03": {
-    "flightNumber": "PC 1825",
-    "status": "غادرت",
-    "actualTime": "20:08",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
-  "ME 261-2025-09-03": {
-    "flightNumber": "ME 261",
-    "status": "النداء الاخير",
-    "actualTime": "20:24",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 430-2025-09-03": {
-    "flightNumber": "ME 430",
-    "status": "النداء الاخير",
-    "actualTime": "20:33",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "RJ 404-2025-09-03": {
     "flightNumber": "RJ 404",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "20:43",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -57,8 +36,8 @@
   },
   "CY 121-2025-09-03": {
     "flightNumber": "CY 121",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:50",
+    "status": "النداء الاخير",
+    "actualTime": "20:49",
     "type": "dprtr",
     "airlineCode": "CY"
   },
@@ -734,27 +713,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 212-2025-09-03": {
-    "flightNumber": "ME 212",
-    "status": "وصلت",
-    "actualTime": "19:08",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "MS 711-2025-09-03": {
-    "flightNumber": "MS 711",
-    "status": "وصلت",
-    "actualTime": "19:22",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
-  "ME 202-2025-09-03": {
-    "flightNumber": "ME 202",
-    "status": "",
-    "actualTime": "19:35",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 1824-2025-09-03": {
     "flightNumber": "PC 1824",
     "status": "وصلت",
@@ -766,13 +724,6 @@
     "flightNumber": "ME 323",
     "status": "وصلت",
     "actualTime": "19:50",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 313-2025-09-03": {
-    "flightNumber": "ME 313",
-    "status": "وصلت",
-    "actualTime": "19:40",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -813,8 +764,8 @@
   },
   "TK 826-2025-09-03": {
     "flightNumber": "TK 826",
-    "status": "",
-    "actualTime": "20:55",
+    "status": "وصلت",
+    "actualTime": "21:05",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -822,6 +773,13 @@
     "flightNumber": "ME 576",
     "status": "وصلت",
     "actualTime": "20:33",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 202-2025-09-03": {
+    "flightNumber": "ME 202",
+    "status": "",
+    "actualTime": "21:30",
     "type": "arivl",
     "airlineCode": "ME"
   },
