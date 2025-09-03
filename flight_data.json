@@ -8,7 +8,7 @@
   },
   "ME 573-2025-09-04": {
     "flightNumber": "ME 573",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "23:29",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -650,20 +650,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "SK 2827-2025-09-03": {
-    "flightNumber": "SK 2827",
-    "status": "وصلت",
-    "actualTime": "21:54",
-    "type": "arivl",
-    "airlineCode": "SK"
-  },
-  "PC 764-2025-09-03": {
-    "flightNumber": "PC 764",
-    "status": "وصلت",
-    "actualTime": "22:38",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "ME 268-2025-09-03": {
     "flightNumber": "ME 268",
     "status": "وصلت",
@@ -677,13 +663,6 @@
     "actualTime": "23:19",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "PC 756-2025-09-03": {
-    "flightNumber": "PC 756",
-    "status": "",
-    "actualTime": "23:05",
-    "type": "arivl",
-    "airlineCode": "PC"
   },
   "ME 262-2025-09-03": {
     "flightNumber": "ME 262",
@@ -722,15 +701,15 @@
   },
   "ME 369-2025-09-03": {
     "flightNumber": "ME 369",
-    "status": "",
-    "actualTime": "23:40",
+    "status": "وصلت",
+    "actualTime": "23:32",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 224-2025-09-03": {
     "flightNumber": "ME 224",
-    "status": "",
-    "actualTime": "23:40",
+    "status": "وصلت",
+    "actualTime": "23:42",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -789,6 +768,13 @@
     "actualTime": "03:05",
     "type": "arivl",
     "airlineCode": "RO"
+  },
+  "PC 756-2025-09-04": {
+    "flightNumber": "PC 756",
+    "status": "",
+    "actualTime": "03:20",
+    "type": "arivl",
+    "airlineCode": "PC"
   },
   "IA 1303-2025-09-04": {
     "flightNumber": "IA 1303",
