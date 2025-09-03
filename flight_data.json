@@ -43,7 +43,7 @@
   },
   "MS 710-2025-09-03": {
     "flightNumber": "MS 710",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "10:46",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -57,14 +57,14 @@
   },
   "EK 958-2025-09-03": {
     "flightNumber": "EK 958",
-    "status": "",
-    "actualTime": "12:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:53",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "ME 308-2025-09-03": {
     "flightNumber": "ME 308",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -78,8 +78,8 @@
   },
   "UF 002-2025-09-03": {
     "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "12:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:08",
     "type": "dprtr",
     "airlineCode": "UF"
   },
@@ -321,19 +321,19 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "TK 827-2025-09-03": {
-    "flightNumber": "TK 827",
-    "status": "",
-    "actualTime": "21:50",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "CY 121-2025-09-03": {
     "flightNumber": "CY 121",
     "status": "",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
+  },
+  "TK 827-2025-09-03": {
+    "flightNumber": "TK 827",
+    "status": "",
+    "actualTime": "21:50",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "FZ 160-2025-09-03": {
     "flightNumber": "FZ 160",
@@ -965,13 +965,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "FZ 157-2025-09-03": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "09:05",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "EK 957-2025-09-03": {
     "flightNumber": "EK 957",
     "status": "وصلت",
@@ -1016,22 +1009,22 @@
   },
   "UF 001-2025-09-03": {
     "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "وصلت",
+    "actualTime": "10:56",
     "type": "arivl",
     "airlineCode": "UF"
   },
   "IA 131-2025-09-03": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "وصلت",
+    "actualTime": "11:20",
     "type": "arivl",
     "airlineCode": "IA"
   },
   "QR 416-2025-09-03": {
     "flightNumber": "QR 416",
-    "status": "",
-    "actualTime": "11:35",
+    "status": "وصلت",
+    "actualTime": "11:08",
     "type": "arivl",
     "airlineCode": "QR"
   },
