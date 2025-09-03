@@ -1,14 +1,14 @@
 {
   "QR 419-2025-09-04": {
     "flightNumber": "QR 419",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "00:59",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "PC 1827-2025-09-04": {
     "flightNumber": "PC 1827",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "01:05",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -22,7 +22,7 @@
   },
   "VF 544-2025-09-04": {
     "flightNumber": "VF 544",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "01:27",
     "type": "dprtr",
     "airlineCode": "VF"
@@ -1179,13 +1179,6 @@
     "flightNumber": "ME 423",
     "status": "وصلت",
     "actualTime": "23:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 369-2025-09-03": {
-    "flightNumber": "ME 369",
-    "status": "وصلت",
-    "actualTime": "23:32",
     "type": "arivl",
     "airlineCode": "ME"
   },
