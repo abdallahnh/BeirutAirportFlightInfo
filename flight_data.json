@@ -1,11 +1,4 @@
 {
-  "LH 1309-2025-09-04": {
-    "flightNumber": "LH 1309",
-    "status": "غادرت",
-    "actualTime": "01:14",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "VF 544-2025-09-04": {
     "flightNumber": "VF 544",
     "status": "تم اغلاق البوابة",
@@ -15,7 +8,7 @@
   },
   "ET 407-2025-09-04": {
     "flightNumber": "ET 407",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -1161,13 +1154,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "LH 1308-2025-09-03": {
-    "flightNumber": "LH 1308",
-    "status": "وصلت",
-    "actualTime": "00:17",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "PC 1826-2025-09-04": {
     "flightNumber": "PC 1826",
     "status": "وصلت",
@@ -1483,15 +1469,15 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 321-2025-09-04": {
-    "flightNumber": "ME 321",
+  "ME 244-2025-09-04": {
+    "flightNumber": "ME 244",
     "status": "",
     "actualTime": "16:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 244-2025-09-04": {
-    "flightNumber": "ME 244",
+  "ME 321-2025-09-04": {
+    "flightNumber": "ME 321",
     "status": "",
     "actualTime": "16:00",
     "type": "arivl",
