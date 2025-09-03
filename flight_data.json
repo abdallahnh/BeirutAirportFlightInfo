@@ -1,15 +1,15 @@
 {
   "QR 419-2025-09-04": {
     "flightNumber": "QR 419",
-    "status": "تم فتح البوابة",
-    "actualTime": "01:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "00:59",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "PC 1827-2025-09-04": {
     "flightNumber": "PC 1827",
-    "status": "",
-    "actualTime": "01:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:05",
     "type": "dprtr",
     "airlineCode": "PC"
   },
@@ -22,7 +22,7 @@
   },
   "VF 544-2025-09-04": {
     "flightNumber": "VF 544",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:00",
     "type": "dprtr",
     "airlineCode": "VF"
@@ -1182,13 +1182,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 262-2025-09-03": {
-    "flightNumber": "ME 262",
-    "status": "وصلت",
-    "actualTime": "23:10",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 230-2025-09-03": {
     "flightNumber": "ME 230",
     "status": "وصلت",
@@ -1254,8 +1247,8 @@
   },
   "VF 543-2025-09-04": {
     "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "01:10",
+    "status": "وصلت",
+    "actualTime": "01:02",
     "type": "arivl",
     "airlineCode": "VF"
   },
