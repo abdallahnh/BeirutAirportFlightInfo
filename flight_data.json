@@ -48,44 +48,37 @@
     "type": "dprtr",
     "airlineCode": "CY"
   },
-  "MS 710-2025-09-04": {
-    "flightNumber": "MS 710",
-    "status": "غادرت",
-    "actualTime": "10:50",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "ME 263-2025-09-04": {
     "flightNumber": "ME 263",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "11:12",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 364-2025-09-04": {
     "flightNumber": "ME 364",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:14",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 320-2025-09-04": {
     "flightNumber": "ME 320",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "11:14",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 326-2025-09-04": {
     "flightNumber": "ME 326",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "11:18",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2025-09-04": {
     "flightNumber": "EK 958",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "11:13",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -99,15 +92,15 @@
   },
   "ME 308-2025-09-04": {
     "flightNumber": "ME 308",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 402-2025-09-04": {
     "flightNumber": "RJ 402",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:20",
+    "status": "النداء الاخير",
+    "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -134,7 +127,7 @@
   },
   "QR 417-2025-09-04": {
     "flightNumber": "QR 417",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:05",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -174,17 +167,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 825-2025-09-04": {
-    "flightNumber": "TK 825",
+  "TK 3444-2025-09-04": {
+    "flightNumber": "TK 3444",
     "status": "",
     "actualTime": "15:35",
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "TK 3444-2025-09-04": {
-    "flightNumber": "TK 3444",
+  "TK 825-2025-09-04": {
+    "flightNumber": "TK 825",
     "status": "",
-    "actualTime": "15:35",
+    "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -208,13 +201,6 @@
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "VF"
-  },
-  "IA 136-2025-09-04": {
-    "flightNumber": "IA 136",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
   },
   "ME 312-2025-09-04": {
     "flightNumber": "ME 312",
@@ -986,20 +972,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "FZ 157-2025-09-04": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "09:26",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
-  "CY 120-2025-09-04": {
-    "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "10:50",
-    "type": "arivl",
-    "airlineCode": "CY"
-  },
   "EK 957-2025-09-04": {
     "flightNumber": "EK 957",
     "status": "وصلت",
@@ -1020,6 +992,13 @@
     "actualTime": "10:22",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "CY 120-2025-09-04": {
+    "flightNumber": "CY 120",
+    "status": "",
+    "actualTime": "10:50",
+    "type": "arivl",
+    "airlineCode": "CY"
   },
   "ME 311-2025-09-04": {
     "flightNumber": "ME 311",
@@ -1051,8 +1030,8 @@
   },
   "IA 131-2025-09-04": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "وصلت",
+    "actualTime": "11:20",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -1153,13 +1132,6 @@
     "actualTime": "15:05",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "IA 135-2025-09-04": {
-    "flightNumber": "IA 135",
-    "status": "",
-    "actualTime": "15:30",
-    "type": "arivl",
-    "airlineCode": "IA"
   },
   "VF 1043-2025-09-04": {
     "flightNumber": "VF 1043",
