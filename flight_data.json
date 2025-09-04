@@ -1,31 +1,10 @@
 {
-  "RJ 406-2025-09-04": {
-    "flightNumber": "RJ 406",
-    "status": "غادرت",
-    "actualTime": "17:08",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
-  "UF 004-2025-09-04": {
-    "flightNumber": "UF 004",
-    "status": "غادرت",
-    "actualTime": "18:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "EY 584-2025-09-04": {
     "flightNumber": "EY 584",
     "status": "تم اغلاق البوابة",
     "actualTime": "18:30",
     "type": "dprtr",
     "airlineCode": "EY"
-  },
-  "EK 954-2025-09-04": {
-    "flightNumber": "EK 954",
-    "status": "غادرت",
-    "actualTime": "18:55",
-    "type": "dprtr",
-    "airlineCode": "EK"
   },
   "QR 427-2025-09-04": {
     "flightNumber": "QR 427",
@@ -43,8 +22,8 @@
   },
   "TK 3443-2025-09-04": {
     "flightNumber": "TK 3443",
-    "status": "تم فتح البوابة",
-    "actualTime": "20:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:57",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -57,7 +36,7 @@
   },
   "ME 261-2025-09-04": {
     "flightNumber": "ME 261",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -706,13 +685,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "UF 003-2025-09-04": {
-    "flightNumber": "UF 003",
-    "status": "وصلت",
-    "actualTime": "17:53",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "QR 426-2025-09-04": {
     "flightNumber": "QR 426",
     "status": "وصلت",
@@ -736,7 +708,7 @@
   },
   "ME 202-2025-09-04": {
     "flightNumber": "ME 202",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "19:47",
     "type": "arivl",
     "airlineCode": "ME"
@@ -750,8 +722,8 @@
   },
   "PC 1824-2025-09-04": {
     "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "19:57",
     "type": "arivl",
     "airlineCode": "PC"
   },
