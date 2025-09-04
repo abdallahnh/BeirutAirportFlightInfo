@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 265-2025-09-04": {
-    "flightNumber": "ME 265",
-    "status": "غادرت",
-    "actualTime": "07:52",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 424-2025-09-04": {
     "flightNumber": "ME 424",
     "status": "غادرت",
@@ -36,15 +29,15 @@
   },
   "ME 404-2025-09-04": {
     "flightNumber": "ME 404",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "08:05",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 251-2025-09-04": {
     "flightNumber": "ME 251",
-    "status": "تم فتح البوابة",
-    "actualTime": "09:10",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "08:38",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -321,19 +314,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 253-2025-09-04": {
-    "flightNumber": "ME 253",
-    "status": "",
-    "actualTime": "18:05",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "RJ 406-2025-09-04": {
     "flightNumber": "RJ 406",
     "status": "",
     "actualTime": "18:05",
     "type": "dprtr",
     "airlineCode": "RJ"
+  },
+  "ME 253-2025-09-04": {
+    "flightNumber": "ME 253",
+    "status": "",
+    "actualTime": "18:05",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 306-2025-09-04": {
     "flightNumber": "ME 306",
@@ -1252,19 +1245,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 264-2025-09-04": {
-    "flightNumber": "ME 264",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 1301-2025-09-04": {
     "flightNumber": "IA 1301",
     "status": "",
     "actualTime": "16:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "ME 264-2025-09-04": {
+    "flightNumber": "ME 264",
+    "status": "",
+    "actualTime": "16:30",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "ME 214-2025-09-04": {
     "flightNumber": "ME 214",
