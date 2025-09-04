@@ -55,13 +55,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EK 958-2025-09-04": {
-    "flightNumber": "EK 958",
-    "status": "غادرت",
-    "actualTime": "11:13",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
   "ME 324-2025-09-04": {
     "flightNumber": "ME 324",
     "status": "",
@@ -69,23 +62,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 308-2025-09-04": {
-    "flightNumber": "ME 308",
-    "status": "غادرت",
-    "actualTime": "11:54",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "RJ 402-2025-09-04": {
-    "flightNumber": "RJ 402",
-    "status": "غادرت",
-    "actualTime": "11:30",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "IA 132-2025-09-04": {
     "flightNumber": "IA 132",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:00",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -106,7 +85,7 @@
   },
   "QR 417-2025-09-04": {
     "flightNumber": "QR 417",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "12:19",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -895,19 +874,19 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "CY 121-2025-09-05": {
-    "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "21:50",
-    "type": "dprtr",
-    "airlineCode": "CY"
-  },
   "TK 827-2025-09-05": {
     "flightNumber": "TK 827",
     "status": "",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "TK"
+  },
+  "CY 121-2025-09-05": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "21:50",
+    "type": "dprtr",
+    "airlineCode": "CY"
   },
   "FZ 160-2025-09-05": {
     "flightNumber": "FZ 160",
@@ -951,13 +930,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 311-2025-09-04": {
-    "flightNumber": "ME 311",
-    "status": "وصلت",
-    "actualTime": "10:35",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 276-2025-09-04": {
     "flightNumber": "ME 276",
     "status": "وصلت",
@@ -995,8 +967,8 @@
   },
   "LH 8354-2025-09-04": {
     "flightNumber": "LH 8354",
-    "status": "",
-    "actualTime": "11:40",
+    "status": "وصلت",
+    "actualTime": "12:24",
     "type": "arivl",
     "airlineCode": "LH"
   },
