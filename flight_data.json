@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 424-2025-09-04": {
-    "flightNumber": "ME 424",
-    "status": "غادرت",
-    "actualTime": "07:49",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 404-2025-09-04": {
     "flightNumber": "ME 404",
     "status": "تم اغلاق البوابة",
@@ -36,7 +29,7 @@
   },
   "ME 251-2025-09-04": {
     "flightNumber": "ME 251",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "08:38",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -1245,19 +1238,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 1301-2025-09-04": {
-    "flightNumber": "IA 1301",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 264-2025-09-04": {
     "flightNumber": "ME 264",
     "status": "",
     "actualTime": "16:30",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "IA 1301-2025-09-04": {
+    "flightNumber": "IA 1301",
+    "status": "",
+    "actualTime": "16:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "ME 214-2025-09-04": {
     "flightNumber": "ME 214",
