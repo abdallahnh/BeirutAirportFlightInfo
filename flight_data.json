@@ -29,7 +29,7 @@
   },
   "IA 1304-2025-09-04": {
     "flightNumber": "IA 1304",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "22:03",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -50,7 +50,7 @@
   },
   "KU 504-2025-09-04": {
     "flightNumber": "KU 504",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "21:58",
     "type": "dprtr",
     "airlineCode": "KU"
@@ -64,14 +64,14 @@
   },
   "PC 765-2025-09-04": {
     "flightNumber": "PC 765",
-    "status": "",
-    "actualTime": "23:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "22:24",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "ME 434-2025-09-04": {
     "flightNumber": "ME 434",
-    "status": "",
+    "status": "النداء الاخير",
     "actualTime": "23:05",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -722,8 +722,8 @@
   },
   "ME 268-2025-09-04": {
     "flightNumber": "ME 268",
-    "status": "",
-    "actualTime": "22:25",
+    "status": "وصلت",
+    "actualTime": "22:22",
     "type": "arivl",
     "airlineCode": "ME"
   },
