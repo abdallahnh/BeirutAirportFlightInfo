@@ -34,13 +34,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 312-2025-09-05": {
-    "flightNumber": "ME 312",
-    "status": "غادرت",
-    "actualTime": "16:17",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "LH 1307-2025-09-05": {
     "flightNumber": "LH 1307",
     "status": "تم فتح البوابة",
@@ -71,8 +64,8 @@
   },
   "ME 326-2025-09-05": {
     "flightNumber": "ME 326",
-    "status": "",
-    "actualTime": "17:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -99,7 +92,7 @@
   },
   "ME 402-2025-09-05": {
     "flightNumber": "ME 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "18:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -142,7 +135,7 @@
   "MS 712-2025-09-05": {
     "flightNumber": "MS 712",
     "status": "",
-    "actualTime": "20:10",
+    "actualTime": "20:25",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -947,7 +940,7 @@
   "MS 711-2025-09-05": {
     "flightNumber": "MS 711",
     "status": "",
-    "actualTime": "19:10",
+    "actualTime": "19:20",
     "type": "arivl",
     "airlineCode": "MS"
   },
