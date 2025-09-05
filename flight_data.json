@@ -48,16 +48,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EY 584-2025-09-05": {
-    "flightNumber": "EY 584",
-    "status": "النداء الاخير",
-    "actualTime": "18:25",
-    "type": "dprtr",
-    "airlineCode": "EY"
-  },
   "EK 954-2025-09-05": {
     "flightNumber": "EK 954",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:36",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -71,14 +64,14 @@
   },
   "QR 427-2025-09-05": {
     "flightNumber": "QR 427",
-    "status": "تم فتح البوابة",
-    "actualTime": "20:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:21",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "MS 712-2025-09-05": {
     "flightNumber": "MS 712",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:25",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -139,19 +132,19 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "G9 388-2025-09-05": {
-    "flightNumber": "G9 388",
-    "status": "",
-    "actualTime": "23:00",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "SK 2828-2025-09-05": {
     "flightNumber": "SK 2828",
     "status": "",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "SK"
+  },
+  "G9 388-2025-09-05": {
+    "flightNumber": "G9 388",
+    "status": "",
+    "actualTime": "23:00",
+    "type": "dprtr",
+    "airlineCode": "G9"
   },
   "PC 765-2025-09-05": {
     "flightNumber": "PC 765",
@@ -755,13 +748,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 218-2025-09-05": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "17:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 365-2025-09-05": {
     "flightNumber": "ME 365",
     "status": "وصلت",
@@ -775,13 +761,6 @@
     "actualTime": "17:40",
     "type": "arivl",
     "airlineCode": "EY"
-  },
-  "EK 953-2025-09-05": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:18",
-    "type": "arivl",
-    "airlineCode": "EK"
   },
   "QR 426-2025-09-05": {
     "flightNumber": "QR 426",
@@ -799,8 +778,8 @@
   },
   "MS 711-2025-09-05": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "19:20",
+    "status": "وصلت",
+    "actualTime": "19:09",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -813,8 +792,8 @@
   },
   "RJ 403-2025-09-05": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "19:40",
+    "status": "وصلت",
+    "actualTime": "19:02",
     "type": "arivl",
     "airlineCode": "RJ"
   },
