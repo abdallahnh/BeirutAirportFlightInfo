@@ -1,18 +1,4 @@
 {
-  "ME 213-2025-09-05": {
-    "flightNumber": "ME 213",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:57",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "RJ 408-2025-09-05": {
-    "flightNumber": "RJ 408",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:45",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 310-2025-09-05": {
     "flightNumber": "ME 310",
     "status": "تم اغلاق البوابة",
@@ -27,24 +13,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 251-2025-09-05": {
-    "flightNumber": "ME 251",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "08:36",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 241-2025-09-05": {
     "flightNumber": "ME 241",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "08:35",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 831-2025-09-05": {
     "flightNumber": "TK 831",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:05",
+    "status": "النداء الاخير",
+    "actualTime": "09:11",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -946,15 +925,15 @@
   },
   "FZ 157-2025-09-05": {
     "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "09:45",
+    "status": "وصلت",
+    "actualTime": "09:31",
     "type": "arivl",
     "airlineCode": "FZ"
   },
   "EK 957-2025-09-05": {
     "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "10:05",
+    "status": "وصلت",
+    "actualTime": "09:32",
     "type": "arivl",
     "airlineCode": "EK"
   },
@@ -1161,19 +1140,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 365-2025-09-05": {
-    "flightNumber": "ME 365",
-    "status": "",
-    "actualTime": "17:40",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "EY 583-2025-09-05": {
     "flightNumber": "EY 583",
     "status": "",
     "actualTime": "17:40",
     "type": "arivl",
     "airlineCode": "EY"
+  },
+  "ME 365-2025-09-05": {
+    "flightNumber": "ME 365",
+    "status": "",
+    "actualTime": "17:40",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "EK 953-2025-09-05": {
     "flightNumber": "EK 953",
