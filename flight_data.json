@@ -29,7 +29,7 @@
   },
   "FZ 158-2025-09-05": {
     "flightNumber": "FZ 158",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "09:55",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -909,13 +909,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 830-2025-09-05": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:18",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "FZ 157-2025-09-05": {
     "flightNumber": "FZ 157",
     "status": "وصلت",
@@ -939,15 +932,15 @@
   },
   "ME 272-2025-09-05": {
     "flightNumber": "ME 272",
-    "status": "",
-    "actualTime": "10:35",
+    "status": "وصلت",
+    "actualTime": "10:20",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 311-2025-09-05": {
     "flightNumber": "ME 311",
-    "status": "",
-    "actualTime": "11:00",
+    "status": "وصلت",
+    "actualTime": "10:24",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1560,6 +1553,13 @@
     "type": "arivl",
     "airlineCode": "G9"
   },
+  "ET 3406-2025-09-06": {
+    "flightNumber": "ET 3406",
+    "status": "",
+    "actualTime": "12:00",
+    "type": "arivl",
+    "airlineCode": "ET"
+  },
   "EY 581-2025-09-06": {
     "flightNumber": "EY 581",
     "status": "",
@@ -1811,13 +1811,6 @@
     "actualTime": "21:55",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "VF 545-2025-09-06": {
-    "flightNumber": "VF 545",
-    "status": "",
-    "actualTime": "22:10",
-    "type": "arivl",
-    "airlineCode": "VF"
   },
   "ME 268-2025-09-06": {
     "flightNumber": "ME 268",
