@@ -27,20 +27,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "LH 1307-2025-09-05": {
-    "flightNumber": "LH 1307",
-    "status": "غادرت",
-    "actualTime": "17:11",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
-  "ME 203-2025-09-05": {
-    "flightNumber": "ME 203",
-    "status": "غادرت",
-    "actualTime": "17:17",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "UF 004-2025-09-05": {
     "flightNumber": "UF 004",
     "status": "النداء الاخير",
@@ -55,24 +41,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 368-2025-09-05": {
-    "flightNumber": "ME 368",
-    "status": "غادرت",
-    "actualTime": "17:06",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 402-2025-09-05": {
     "flightNumber": "ME 402",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "17:49",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 306-2025-09-05": {
     "flightNumber": "ME 306",
-    "status": "تم فتح البوابة",
-    "actualTime": "18:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:10",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -85,7 +64,7 @@
   },
   "EK 954-2025-09-05": {
     "flightNumber": "EK 954",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:40",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -790,20 +769,6 @@
     "type": "arivl",
     "airlineCode": "LH"
   },
-  "ME 321-2025-09-05": {
-    "flightNumber": "ME 321",
-    "status": "وصلت",
-    "actualTime": "16:10",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 248-2025-09-05": {
-    "flightNumber": "ME 248",
-    "status": "وصلت",
-    "actualTime": "16:12",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "UF 003-2025-09-05": {
     "flightNumber": "UF 003",
     "status": "وصلت",
@@ -862,8 +827,8 @@
   },
   "QR 426-2025-09-05": {
     "flightNumber": "QR 426",
-    "status": "",
-    "actualTime": "18:35",
+    "status": "وصلت",
+    "actualTime": "17:57",
     "type": "arivl",
     "airlineCode": "QR"
   },
