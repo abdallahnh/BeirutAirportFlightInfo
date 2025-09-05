@@ -1,46 +1,4 @@
 {
-  "AF 565-2025-09-05": {
-    "flightNumber": "AF 565",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:18",
-    "type": "dprtr",
-    "airlineCode": "AF"
-  },
-  "ME 428-2025-09-05": {
-    "flightNumber": "ME 428",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "16:05",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "VF 1044-2025-09-05": {
-    "flightNumber": "VF 1044",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
-  "ME 215-2025-09-05": {
-    "flightNumber": "ME 215",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "16:07",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "UF 004-2025-09-05": {
-    "flightNumber": "UF 004",
-    "status": "النداء الاخير",
-    "actualTime": "16:57",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
-  "ME 326-2025-09-05": {
-    "flightNumber": "ME 326",
-    "status": "النداء الاخير",
-    "actualTime": "16:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 306-2025-09-05": {
     "flightNumber": "ME 306",
     "status": "تم اغلاق البوابة",
@@ -50,7 +8,7 @@
   },
   "EK 954-2025-09-05": {
     "flightNumber": "EK 954",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "18:36",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -64,14 +22,14 @@
   },
   "QR 427-2025-09-05": {
     "flightNumber": "QR 427",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "19:21",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "MS 712-2025-09-05": {
     "flightNumber": "MS 712",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "20:25",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -748,13 +706,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 365-2025-09-05": {
-    "flightNumber": "ME 365",
-    "status": "وصلت",
-    "actualTime": "17:27",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "EY 583-2025-09-05": {
     "flightNumber": "EY 583",
     "status": "",
@@ -813,8 +764,8 @@
   },
   "ME 313-2025-09-05": {
     "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "19:34",
     "type": "arivl",
     "airlineCode": "ME"
   },
