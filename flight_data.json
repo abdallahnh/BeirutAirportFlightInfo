@@ -22,21 +22,21 @@
   },
   "MS 710-2025-09-05": {
     "flightNumber": "MS 710",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:07",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "ME 263-2025-09-05": {
     "flightNumber": "ME 263",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:02",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 364-2025-09-05": {
     "flightNumber": "ME 364",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:02",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -50,29 +50,29 @@
   },
   "EK 958-2025-09-05": {
     "flightNumber": "EK 958",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "10:55",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "ME 308-2025-09-05": {
     "flightNumber": "ME 308",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 402-2025-09-05": {
     "flightNumber": "RJ 402",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:20",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:42",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "UF 002-2025-09-05": {
     "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "12:30",
+    "status": "النداء الاخير",
+    "actualTime": "11:38",
     "type": "dprtr",
     "airlineCode": "UF"
   },
@@ -895,20 +895,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "FZ 157-2025-09-05": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "09:31",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
-  "EK 957-2025-09-05": {
-    "flightNumber": "EK 957",
-    "status": "وصلت",
-    "actualTime": "09:32",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "MS 709-2025-09-05": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -974,8 +960,8 @@
   },
   "EY 581-2025-09-05": {
     "flightNumber": "EY 581",
-    "status": "تبكير",
-    "actualTime": "11:45",
+    "status": "وصلت",
+    "actualTime": "11:39",
     "type": "arivl",
     "airlineCode": "EY"
   },
