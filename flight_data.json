@@ -43,7 +43,7 @@
   },
   "CY 121-2025-09-05": {
     "flightNumber": "CY 121",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "21:09",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -685,26 +685,12 @@
     "type": "arivl",
     "airlineCode": "EY"
   },
-  "ME 202-2025-09-05": {
-    "flightNumber": "ME 202",
-    "status": "وصلت",
-    "actualTime": "19:57",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 1824-2025-09-05": {
     "flightNumber": "PC 1824",
     "status": "وصلت",
     "actualTime": "21:14",
     "type": "arivl",
     "airlineCode": "PC"
-  },
-  "ME 323-2025-09-05": {
-    "flightNumber": "ME 323",
-    "status": "وصلت",
-    "actualTime": "19:51",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "TK 826-2025-09-05": {
     "flightNumber": "TK 826",
@@ -750,15 +736,15 @@
   },
   "ME 307-2025-09-05": {
     "flightNumber": "ME 307",
-    "status": "",
-    "actualTime": "21:50",
+    "status": "وصلت",
+    "actualTime": "21:53",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 437-2025-09-05": {
     "flightNumber": "ME 437",
     "status": "",
-    "actualTime": "21:55",
+    "actualTime": "22:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -771,7 +757,7 @@
   },
   "SK 2827-2025-09-05": {
     "flightNumber": "SK 2827",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "21:49",
     "type": "arivl",
     "airlineCode": "SK"
@@ -1042,19 +1028,19 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "UF 001-2025-09-06": {
-    "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 131-2025-09-06": {
     "flightNumber": "IA 131",
     "status": "",
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "UF 001-2025-09-06": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "QR 416-2025-09-06": {
     "flightNumber": "QR 416",
