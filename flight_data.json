@@ -8,7 +8,7 @@
   },
   "EY 582-2025-09-05": {
     "flightNumber": "EY 582",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "13:25",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -370,10 +370,24 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
+  "ME 243-2025-09-06": {
+    "flightNumber": "ME 243",
+    "status": "",
+    "actualTime": "06:25",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "ME 225-2025-09-06": {
     "flightNumber": "ME 225",
     "status": "",
     "actualTime": "06:30",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 247-2025-09-06": {
+    "flightNumber": "ME 247",
+    "status": "",
+    "actualTime": "07:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -447,6 +461,13 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "ME 265-2025-09-06": {
+    "flightNumber": "ME 265",
+    "status": "",
+    "actualTime": "08:25",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "ME 424-2025-09-06": {
     "flightNumber": "ME 424",
     "status": "",
@@ -489,6 +510,13 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
+  "MS 710-2025-09-06": {
+    "flightNumber": "MS 710",
+    "status": "",
+    "actualTime": "11:20",
+    "type": "dprtr",
+    "airlineCode": "MS"
+  },
   "CY 121-2025-09-06": {
     "flightNumber": "CY 121",
     "status": "",
@@ -502,13 +530,6 @@
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "MS 710-2025-09-06": {
-    "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "12:05",
-    "type": "dprtr",
-    "airlineCode": "MS"
   },
   "EK 958-2025-09-06": {
     "flightNumber": "EK 958",
@@ -797,13 +818,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "G9 385-2025-09-05": {
-    "flightNumber": "G9 385",
-    "status": "وصلت",
-    "actualTime": "11:51",
-    "type": "arivl",
-    "airlineCode": "G9"
-  },
   "ME 266-2025-09-05": {
     "flightNumber": "ME 266",
     "status": "وصلت",
@@ -827,8 +841,8 @@
   },
   "ME 405-2025-09-05": {
     "flightNumber": "ME 405",
-    "status": "تبكير",
-    "actualTime": "13:55",
+    "status": "وصلت",
+    "actualTime": "13:54",
     "type": "arivl",
     "airlineCode": "ME"
   },
