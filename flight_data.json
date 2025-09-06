@@ -41,19 +41,19 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "PC 759-2025-09-07": {
-    "flightNumber": "PC 759",
-    "status": "",
-    "actualTime": "03:05",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "ET 407-2025-09-07": {
     "flightNumber": "ET 407",
     "status": "",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "ET"
+  },
+  "PC 759-2025-09-07": {
+    "flightNumber": "PC 759",
+    "status": "",
+    "actualTime": "03:05",
+    "type": "dprtr",
+    "airlineCode": "PC"
   },
   "TK 829-2025-09-07": {
     "flightNumber": "TK 829",
@@ -622,24 +622,10 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "ME 307-2025-09-06": {
-    "flightNumber": "ME 307",
-    "status": "وصلت",
-    "actualTime": "21:43",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "PC 764-2025-09-06": {
-    "flightNumber": "PC 764",
-    "status": "وصلت",
-    "actualTime": "21:47",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "ME 268-2025-09-06": {
     "flightNumber": "ME 268",
-    "status": "تأخير",
-    "actualTime": "23:40",
+    "status": "وصلت",
+    "actualTime": "23:44",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -673,7 +659,7 @@
   },
   "ME 423-2025-09-06": {
     "flightNumber": "ME 423",
-    "status": "تأخير",
+    "status": "وصلت",
     "actualTime": "23:50",
     "type": "arivl",
     "airlineCode": "ME"
@@ -694,15 +680,15 @@
   },
   "LH 1308-2025-09-06": {
     "flightNumber": "LH 1308",
-    "status": "",
-    "actualTime": "23:55",
+    "status": "وصلت",
+    "actualTime": "23:51",
     "type": "arivl",
     "airlineCode": "LH"
   },
   "ME 429-2025-09-06": {
     "flightNumber": "ME 429",
-    "status": "",
-    "actualTime": "23:59",
+    "status": "وصلت",
+    "actualTime": "23:46",
     "type": "arivl",
     "airlineCode": "ME"
   },
