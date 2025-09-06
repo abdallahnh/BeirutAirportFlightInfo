@@ -29,7 +29,7 @@
   },
   "EY 582-2025-09-06": {
     "flightNumber": "EY 582",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "13:06",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -562,8 +562,8 @@
   "RJ 402-2025-09-07": {
     "flightNumber": "RJ 402",
     "status": "",
-    "actualTime": "12:20",
-    "type": "dprtr",
+    "actualTime": "11:20",
+    "type": "arivl",
     "airlineCode": "RJ"
   },
   "UF 002-2025-09-07": {
@@ -923,26 +923,12 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "IA 131-2025-09-06": {
-    "flightNumber": "IA 131",
-    "status": "وصلت",
-    "actualTime": "11:29",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ET 3406-2025-09-06": {
     "flightNumber": "ET 3406",
     "status": "",
     "actualTime": "12:00",
     "type": "arivl",
     "airlineCode": "ET"
-  },
-  "EY 581-2025-09-06": {
-    "flightNumber": "EY 581",
-    "status": "وصلت",
-    "actualTime": "11:39",
-    "type": "arivl",
-    "airlineCode": "EY"
   },
   "ME 266-2025-09-06": {
     "flightNumber": "ME 266",
@@ -953,8 +939,8 @@
   },
   "ME 252-2025-09-06": {
     "flightNumber": "ME 252",
-    "status": "",
-    "actualTime": "13:50",
+    "status": "وصلت",
+    "actualTime": "13:40",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1462,6 +1448,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "IA 1303-2025-09-07": {
+    "flightNumber": "IA 1303",
+    "status": "",
+    "actualTime": "11:00",
+    "type": "arivl",
+    "airlineCode": "IA"
+  },
   "MS 709-2025-09-07": {
     "flightNumber": "MS 709",
     "status": "",
@@ -1605,7 +1598,7 @@
   "KU 501-2025-09-07": {
     "flightNumber": "KU 501",
     "status": "",
-    "actualTime": "15:25",
+    "actualTime": "18:25",
     "type": "arivl",
     "airlineCode": "KU"
   },
@@ -1770,6 +1763,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "G9 408-2025-09-07": {
+    "flightNumber": "G9 408",
+    "status": "",
+    "actualTime": "20:30",
+    "type": "arivl",
+    "airlineCode": "G9"
+  },
   "RJ 403-2025-09-07": {
     "flightNumber": "RJ 403",
     "status": "",
@@ -1790,6 +1790,13 @@
     "actualTime": "20:55",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "UF 005-2025-09-07": {
+    "flightNumber": "UF 005",
+    "status": "",
+    "actualTime": "21:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "FZ 159-2025-09-07": {
     "flightNumber": "FZ 159",
