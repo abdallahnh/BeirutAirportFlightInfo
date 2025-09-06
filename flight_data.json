@@ -6,17 +6,10 @@
     "type": "dprtr",
     "airlineCode": "EY"
   },
-  "ME 223-2025-09-06": {
-    "flightNumber": "ME 223",
-    "status": "غادرت",
-    "actualTime": "14:24",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 418-2025-09-06": {
     "flightNumber": "ME 418",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "14:59",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -29,15 +22,15 @@
   },
   "ME 322-2025-09-06": {
     "flightNumber": "ME 322",
-    "status": "",
-    "actualTime": "15:55",
+    "status": "النداء الاخير",
+    "actualTime": "15:10",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "AF 565-2025-09-06": {
     "flightNumber": "AF 565",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "15:05",
     "type": "dprtr",
     "airlineCode": "AF"
   },
@@ -874,13 +867,6 @@
     "type": "arivl",
     "airlineCode": "ET"
   },
-  "ME 266-2025-09-06": {
-    "flightNumber": "ME 266",
-    "status": "وصلت",
-    "actualTime": "13:05",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 252-2025-09-06": {
     "flightNumber": "ME 252",
     "status": "وصلت",
@@ -939,8 +925,8 @@
   },
   "RJ 405-2025-09-06": {
     "flightNumber": "RJ 405",
-    "status": "",
-    "actualTime": "15:45",
+    "status": "وصلت",
+    "actualTime": "15:09",
     "type": "arivl",
     "airlineCode": "RJ"
   },
