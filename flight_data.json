@@ -15,8 +15,8 @@
   },
   "MS 710-2025-09-06": {
     "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "11:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:52",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -29,14 +29,14 @@
   },
   "CY 121-2025-09-06": {
     "flightNumber": "CY 121",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "CY"
   },
   "ME 320-2025-09-06": {
     "flightNumber": "ME 320",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -76,19 +76,19 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
-  "G9 386-2025-09-06": {
-    "flightNumber": "G9 386",
-    "status": "",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "IA 132-2025-09-06": {
     "flightNumber": "IA 132",
     "status": "",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "G9 386-2025-09-06": {
+    "flightNumber": "G9 386",
+    "status": "",
+    "actualTime": "12:30",
+    "type": "dprtr",
+    "airlineCode": "G9"
   },
   "ME 229-2025-09-06": {
     "flightNumber": "ME 229",
@@ -968,7 +968,7 @@
   "ME 305-2025-09-06": {
     "flightNumber": "ME 305",
     "status": "",
-    "actualTime": "11:20",
+    "actualTime": "11:01",
     "type": "arivl",
     "airlineCode": "ME"
   },
