@@ -1,14 +1,14 @@
 {
   "TK 831-2025-09-06": {
     "flightNumber": "TK 831",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "09:16",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "FZ 158-2025-09-06": {
     "flightNumber": "FZ 158",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "09:49",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -50,7 +50,7 @@
   },
   "EK 958-2025-09-06": {
     "flightNumber": "EK 958",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:05",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -440,19 +440,19 @@
     "type": "dprtr",
     "airlineCode": "LO"
   },
-  "MS 714-2025-09-07": {
-    "flightNumber": "MS 714",
-    "status": "",
-    "actualTime": "05:00",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "ME 2422-2025-09-07": {
     "flightNumber": "ME 2422",
     "status": "",
     "actualTime": "05:00",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "MS 714-2025-09-07": {
+    "flightNumber": "MS 714",
+    "status": "",
+    "actualTime": "05:00",
+    "type": "dprtr",
+    "airlineCode": "MS"
   },
   "ME 275-2025-09-07": {
     "flightNumber": "ME 275",
@@ -939,8 +939,8 @@
   },
   "MS 709-2025-09-06": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "10:05",
+    "status": "وصلت",
+    "actualTime": "10:15",
     "type": "arivl",
     "airlineCode": "MS"
   },
