@@ -22,14 +22,14 @@
   },
   "EK 958-2025-09-06": {
     "flightNumber": "EK 958",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:23",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "ME 324-2025-09-06": {
     "flightNumber": "ME 324",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:42",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -71,7 +71,7 @@
   },
   "QR 417-2025-09-06": {
     "flightNumber": "QR 417",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "12:19",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -414,13 +414,27 @@
   },
   "ME 2422-2025-09-07": {
     "flightNumber": "ME 2422",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "05:00",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 364-2025-09-07": {
+    "flightNumber": "ME 364",
+    "status": "",
+    "actualTime": "05:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 275-2025-09-07": {
     "flightNumber": "ME 275",
+    "status": "",
+    "actualTime": "06:00",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 231-2025-09-07": {
+    "flightNumber": "ME 231",
     "status": "",
     "actualTime": "06:00",
     "type": "dprtr",
@@ -433,10 +447,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 231-2025-09-07": {
-    "flightNumber": "ME 231",
+  "ME 304-2025-09-07": {
+    "flightNumber": "ME 304",
     "status": "",
-    "actualTime": "07:20",
+    "actualTime": "07:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -461,24 +475,17 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "ME 213-2025-09-07": {
-    "flightNumber": "ME 213",
+  "ME 310-2025-09-07": {
+    "flightNumber": "ME 310",
     "status": "",
     "actualTime": "07:40",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 304-2025-09-07": {
-    "flightNumber": "ME 304",
+  "ME 213-2025-09-07": {
+    "flightNumber": "ME 213",
     "status": "",
-    "actualTime": "07:45",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 310-2025-09-07": {
-    "flightNumber": "ME 310",
-    "status": "",
-    "actualTime": "07:50",
+    "actualTime": "07:40",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -510,16 +517,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 364-2025-09-07": {
-    "flightNumber": "ME 364",
-    "status": "",
-    "actualTime": "08:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 251-2025-09-07": {
     "flightNumber": "ME 251",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "09:10",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -527,9 +527,16 @@
   "TK 831-2025-09-07": {
     "flightNumber": "TK 831",
     "status": "",
-    "actualTime": "10:10",
+    "actualTime": "10:05",
     "type": "dprtr",
     "airlineCode": "TK"
+  },
+  "MS 710-2025-09-07": {
+    "flightNumber": "MS 710",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "dprtr",
+    "airlineCode": "MS"
   },
   "ME 320-2025-09-07": {
     "flightNumber": "ME 320",
@@ -545,13 +552,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "MS 710-2025-09-07": {
-    "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "12:05",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "EK 958-2025-09-07": {
     "flightNumber": "EK 958",
     "status": "",
@@ -561,13 +561,6 @@
   },
   "ME 324-2025-09-07": {
     "flightNumber": "ME 324",
-    "status": "",
-    "actualTime": "12:15",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 308-2025-09-07": {
-    "flightNumber": "ME 308",
     "status": "",
     "actualTime": "12:15",
     "type": "dprtr",
@@ -593,6 +586,13 @@
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "G9"
+  },
+  "ME 308-2025-09-07": {
+    "flightNumber": "ME 308",
+    "status": "",
+    "actualTime": "13:00",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 229-2025-09-07": {
     "flightNumber": "ME 229",
@@ -894,13 +894,6 @@
     "actualTime": "10:40",
     "type": "arivl",
     "airlineCode": "CY"
-  },
-  "ME 311-2025-09-06": {
-    "flightNumber": "ME 311",
-    "status": "وصلت",
-    "actualTime": "10:33",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "IA 1303-2025-09-06": {
     "flightNumber": "IA 1303",
