@@ -50,22 +50,22 @@
   },
   "PC 755-2025-09-06": {
     "flightNumber": "PC 755",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "05:22",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "ME 243-2025-09-06": {
     "flightNumber": "ME 243",
-    "status": "تم فتح البوابة",
-    "actualTime": "06:25",
+    "status": "النداء الاخير",
+    "actualTime": "05:49",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 225-2025-09-06": {
     "flightNumber": "ME 225",
-    "status": "تم فتح البوابة",
-    "actualTime": "06:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:07",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -78,7 +78,7 @@
   },
   "ME 215-2025-09-06": {
     "flightNumber": "ME 215",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:05",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -1098,13 +1098,6 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "ET 416-2025-09-06": {
-    "flightNumber": "ET 416",
-    "status": "وصلت",
-    "actualTime": "03:37",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
   "PC 756-2025-09-06": {
     "flightNumber": "PC 756",
     "status": "وصلت",
@@ -1142,8 +1135,8 @@
   },
   "RJ 407-2025-09-06": {
     "flightNumber": "RJ 407",
-    "status": "",
-    "actualTime": "06:30",
+    "status": "وصلت",
+    "actualTime": "06:03",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -1364,19 +1357,19 @@
     "type": "arivl",
     "airlineCode": "UF"
   },
-  "IA 1301-2025-09-06": {
-    "flightNumber": "IA 1301",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 264-2025-09-06": {
     "flightNumber": "ME 264",
     "status": "",
     "actualTime": "16:30",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "IA 1301-2025-09-06": {
+    "flightNumber": "IA 1301",
+    "status": "",
+    "actualTime": "16:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "ME 214-2025-09-06": {
     "flightNumber": "ME 214",
