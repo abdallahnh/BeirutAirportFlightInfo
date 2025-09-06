@@ -1,39 +1,4 @@
 {
-  "EY 582-2025-09-06": {
-    "flightNumber": "EY 582",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "13:06",
-    "type": "dprtr",
-    "airlineCode": "EY"
-  },
-  "ME 418-2025-09-06": {
-    "flightNumber": "ME 418",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "14:59",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "TK 825-2025-09-06": {
-    "flightNumber": "TK 825",
-    "status": "تأخير",
-    "actualTime": "16:40",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "AF 565-2025-09-06": {
-    "flightNumber": "AF 565",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:05",
-    "type": "dprtr",
-    "airlineCode": "AF"
-  },
-  "ME 428-2025-09-06": {
-    "flightNumber": "ME 428",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:50",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "VF 1044-2025-09-06": {
     "flightNumber": "VF 1044",
     "status": "تم اغلاق البوابة",
@@ -43,7 +8,7 @@
   },
   "ME 312-2025-09-06": {
     "flightNumber": "ME 312",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -64,15 +29,15 @@
   },
   "UF 004-2025-09-06": {
     "flightNumber": "UF 004",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:30",
+    "status": "النداء الاخير",
+    "actualTime": "17:07",
     "type": "dprtr",
     "airlineCode": "UF"
   },
   "IA 1302-2025-09-06": {
     "flightNumber": "IA 1302",
-    "status": "",
-    "actualTime": "17:30",
+    "status": "النداء الاخير",
+    "actualTime": "17:06",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -92,28 +57,28 @@
   },
   "ME 368-2025-09-06": {
     "flightNumber": "ME 368",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:06",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 422-2025-09-06": {
     "flightNumber": "ME 422",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:50",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 402-2025-09-06": {
     "flightNumber": "ME 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "18:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 436-2025-09-06": {
     "flightNumber": "ME 436",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "18:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -860,13 +825,6 @@
     "type": "arivl",
     "airlineCode": "LH"
   },
-  "RJ 405-2025-09-06": {
-    "flightNumber": "RJ 405",
-    "status": "وصلت",
-    "actualTime": "15:09",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "ME 236-2025-09-06": {
     "flightNumber": "ME 236",
     "status": "وصلت",
@@ -918,15 +876,15 @@
   },
   "ME 264-2025-09-06": {
     "flightNumber": "ME 264",
-    "status": "",
-    "actualTime": "16:30",
+    "status": "وصلت",
+    "actualTime": "16:59",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "IA 1301-2025-09-06": {
     "flightNumber": "IA 1301",
-    "status": "",
-    "actualTime": "16:30",
+    "status": "وصلت",
+    "actualTime": "16:47",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -939,22 +897,22 @@
   },
   "ME 216-2025-09-06": {
     "flightNumber": "ME 216",
-    "status": "",
-    "actualTime": "16:45",
+    "status": "وصلت",
+    "actualTime": "16:55",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 218-2025-09-06": {
     "flightNumber": "ME 218",
-    "status": "",
-    "actualTime": "16:50",
+    "status": "وصلت",
+    "actualTime": "16:55",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 325-2025-09-06": {
     "flightNumber": "ME 325",
-    "status": "",
-    "actualTime": "17:05",
+    "status": "وصلت",
+    "actualTime": "16:53",
     "type": "arivl",
     "airlineCode": "ME"
   },
