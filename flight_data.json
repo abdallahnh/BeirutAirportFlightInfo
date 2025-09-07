@@ -20,45 +20,38 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "IA 136-2025-09-07": {
-    "flightNumber": "IA 136",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "10:54",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "MS 710-2025-09-07": {
     "flightNumber": "MS 710",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "10:53",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "ME 263-2025-09-07": {
     "flightNumber": "ME 263",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:45",
+    "status": "النداء الاخير",
+    "actualTime": "11:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 320-2025-09-07": {
     "flightNumber": "ME 320",
-    "status": "",
-    "actualTime": "11:55",
+    "status": "النداء الاخير",
+    "actualTime": "11:11",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 326-2025-09-07": {
     "flightNumber": "ME 326",
-    "status": "",
-    "actualTime": "12:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:24",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2025-09-07": {
     "flightNumber": "EK 958",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:03",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -187,6 +180,13 @@
     "actualTime": "16:40",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "TK 2905-2025-09-07": {
+    "flightNumber": "TK 2905",
+    "status": "",
+    "actualTime": "16:50",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "LH 1307-2025-09-07": {
     "flightNumber": "LH 1307",
@@ -953,7 +953,7 @@
   },
   "ME 305-2025-09-07": {
     "flightNumber": "ME 305",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "10:59",
     "type": "arivl",
     "airlineCode": "ME"
@@ -995,8 +995,8 @@
   },
   "QR 416-2025-09-07": {
     "flightNumber": "QR 416",
-    "status": "",
-    "actualTime": "11:35",
+    "status": "وصلت",
+    "actualTime": "11:24",
     "type": "arivl",
     "airlineCode": "QR"
   },
@@ -1010,7 +1010,7 @@
   "G9 385-2025-09-07": {
     "flightNumber": "G9 385",
     "status": "",
-    "actualTime": "11:50",
+    "actualTime": "11:29",
     "type": "arivl",
     "airlineCode": "G9"
   },
@@ -1097,6 +1097,13 @@
     "actualTime": "15:40",
     "type": "arivl",
     "airlineCode": "LH"
+  },
+  "TK 2904-2025-09-07": {
+    "flightNumber": "TK 2904",
+    "status": "",
+    "actualTime": "15:50",
+    "type": "arivl",
+    "airlineCode": "TK"
   },
   "ME 321-2025-09-07": {
     "flightNumber": "ME 321",
