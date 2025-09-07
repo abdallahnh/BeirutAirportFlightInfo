@@ -92,21 +92,21 @@
   },
   "CY 121-2025-09-07": {
     "flightNumber": "CY 121",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "18:58",
     "type": "dprtr",
     "airlineCode": "CY"
   },
   "IA 1302-2025-09-07": {
     "flightNumber": "IA 1302",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "تأخير",
+    "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "QR 427-2025-09-07": {
     "flightNumber": "QR 427",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "19:12",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -222,6 +222,13 @@
     "actualTime": "02:00",
     "type": "dprtr",
     "airlineCode": "VF"
+  },
+  "IA 1306-2025-09-08": {
+    "flightNumber": "IA 1306",
+    "status": "",
+    "actualTime": "02:00",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "ME 571-2025-09-08": {
     "flightNumber": "ME 571",
@@ -790,13 +797,6 @@
     "type": "arivl",
     "airlineCode": "EY"
   },
-  "EK 953-2025-09-07": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:28",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "KU 501-2025-09-07": {
     "flightNumber": "KU 501",
     "status": "وصلت",
@@ -820,8 +820,8 @@
   },
   "ME 212-2025-09-07": {
     "flightNumber": "ME 212",
-    "status": "",
-    "actualTime": "18:55",
+    "status": "وصلت",
+    "actualTime": "19:20",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -834,7 +834,7 @@
   },
   "ME 202-2025-09-07": {
     "flightNumber": "ME 202",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "19:35",
     "type": "arivl",
     "airlineCode": "ME"
@@ -1041,6 +1041,13 @@
     "actualTime": "01:10",
     "type": "arivl",
     "airlineCode": "VF"
+  },
+  "IA 1305-2025-09-08": {
+    "flightNumber": "IA 1305",
+    "status": "",
+    "actualTime": "01:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "PC 760-2025-09-08": {
     "flightNumber": "PC 760",
