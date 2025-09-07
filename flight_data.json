@@ -78,22 +78,22 @@
   },
   "KU 502-2025-09-07": {
     "flightNumber": "KU 502",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "18:21",
     "type": "dprtr",
     "airlineCode": "KU"
   },
   "EK 954-2025-09-07": {
     "flightNumber": "EK 954",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:43",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "CY 121-2025-09-07": {
     "flightNumber": "CY 121",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:50",
+    "status": "النداء الاخير",
+    "actualTime": "18:58",
     "type": "dprtr",
     "airlineCode": "CY"
   },
@@ -106,14 +106,14 @@
   },
   "QR 427-2025-09-07": {
     "flightNumber": "QR 427",
-    "status": "تم فتح البوابة",
-    "actualTime": "20:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:12",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "MS 712-2025-09-07": {
     "flightNumber": "MS 712",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:10",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -776,40 +776,12 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "UF 003-2025-09-07": {
-    "flightNumber": "UF 003",
-    "status": "وصلت",
-    "actualTime": "16:52",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
-  "ME 264-2025-09-07": {
-    "flightNumber": "ME 264",
-    "status": "وصلت",
-    "actualTime": "16:56",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 1301-2025-09-07": {
     "flightNumber": "IA 1301",
     "status": "تأخير",
     "actualTime": "19:00",
     "type": "arivl",
     "airlineCode": "IA"
-  },
-  "ME 216-2025-09-07": {
-    "flightNumber": "ME 216",
-    "status": "وصلت",
-    "actualTime": "17:11",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 218-2025-09-07": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "17:00",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "EY 583-2025-09-07": {
     "flightNumber": "EY 583",
@@ -855,8 +827,8 @@
   },
   "MS 711-2025-09-07": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "19:10",
+    "status": "وصلت",
+    "actualTime": "19:06",
     "type": "arivl",
     "airlineCode": "MS"
   },
