@@ -69,13 +69,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 253-2025-09-07": {
-    "flightNumber": "ME 253",
-    "status": "غادرت",
-    "actualTime": "17:51",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 306-2025-09-07": {
     "flightNumber": "ME 306",
     "status": "النداء الاخير",
@@ -85,7 +78,7 @@
   },
   "KU 502-2025-09-07": {
     "flightNumber": "KU 502",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:21",
     "type": "dprtr",
     "airlineCode": "KU"
@@ -99,7 +92,7 @@
   },
   "CY 121-2025-09-07": {
     "flightNumber": "CY 121",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:50",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -832,13 +825,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 325-2025-09-07": {
-    "flightNumber": "ME 325",
-    "status": "وصلت",
-    "actualTime": "16:38",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "EY 583-2025-09-07": {
     "flightNumber": "EY 583",
     "status": "ألغيت",
@@ -869,8 +855,8 @@
   },
   "CY 120-2025-09-07": {
     "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "18:50",
+    "status": "وصلت",
+    "actualTime": "18:37",
     "type": "arivl",
     "airlineCode": "CY"
   },
