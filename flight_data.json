@@ -139,13 +139,6 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "PC 1832-2025-09-08": {
-    "flightNumber": "PC 1832",
-    "status": "غادرت",
-    "actualTime": "23:52",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "QR 419-2025-09-08": {
     "flightNumber": "QR 419",
     "status": "",
@@ -412,19 +405,19 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
-  "RJ 402-2025-09-08": {
-    "flightNumber": "RJ 402",
-    "status": "",
-    "actualTime": "12:20",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 257-2025-09-08": {
     "flightNumber": "ME 257",
     "status": "",
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "RJ 402-2025-09-08": {
+    "flightNumber": "RJ 402",
+    "status": "",
+    "actualTime": "12:20",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "UF 002-2025-09-08": {
     "flightNumber": "UF 002",
@@ -1345,8 +1338,8 @@
   },
   "PC 1826-2025-09-08": {
     "flightNumber": "PC 1826",
-    "status": "",
-    "actualTime": "00:45",
+    "status": "وصلت",
+    "actualTime": "00:32",
     "type": "arivl",
     "airlineCode": "PC"
   },
