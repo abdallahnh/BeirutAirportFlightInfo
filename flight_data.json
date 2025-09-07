@@ -22,15 +22,15 @@
   },
   "ME 223-2025-09-07": {
     "flightNumber": "ME 223",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "14:37",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 436-2025-09-07": {
     "flightNumber": "ME 436",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "14:38",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -911,7 +911,7 @@
   },
   "ME 425-2025-09-07": {
     "flightNumber": "ME 425",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "14:27",
     "type": "arivl",
     "airlineCode": "ME"
@@ -1486,7 +1486,7 @@
   "EY 581-2025-09-08": {
     "flightNumber": "EY 581",
     "status": "",
-    "actualTime": "12:35",
+    "actualTime": "12:25",
     "type": "arivl",
     "airlineCode": "EY"
   },
@@ -1497,19 +1497,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 252-2025-09-08": {
-    "flightNumber": "ME 252",
-    "status": "",
-    "actualTime": "13:30",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "TK 3438-2025-09-08": {
     "flightNumber": "TK 3438",
     "status": "",
     "actualTime": "13:50",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "ME 252-2025-09-08": {
+    "flightNumber": "ME 252",
+    "status": "",
+    "actualTime": "13:50",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "ME 425-2025-09-08": {
     "flightNumber": "ME 425",
@@ -1553,6 +1553,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "ME 236-2025-09-08": {
+    "flightNumber": "ME 236",
+    "status": "",
+    "actualTime": "15:10",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
   "VF 1043-2025-09-08": {
     "flightNumber": "VF 1043",
     "status": "",
@@ -1566,13 +1573,6 @@
     "actualTime": "15:40",
     "type": "arivl",
     "airlineCode": "LH"
-  },
-  "ME 236-2025-09-08": {
-    "flightNumber": "ME 236",
-    "status": "",
-    "actualTime": "15:45",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 321-2025-09-08": {
     "flightNumber": "ME 321",
@@ -1647,7 +1647,7 @@
   "QR 426-2025-09-08": {
     "flightNumber": "QR 426",
     "status": "",
-    "actualTime": "18:50",
+    "actualTime": "18:35",
     "type": "arivl",
     "airlineCode": "QR"
   },
