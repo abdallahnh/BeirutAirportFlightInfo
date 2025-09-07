@@ -148,8 +148,8 @@
   },
   "PC 1827-2025-09-08": {
     "flightNumber": "PC 1827",
-    "status": "تم فتح البوابة",
-    "actualTime": "01:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "00:40",
     "type": "dprtr",
     "airlineCode": "PC"
   },
@@ -405,19 +405,19 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
-  "ME 257-2025-09-08": {
-    "flightNumber": "ME 257",
-    "status": "",
-    "actualTime": "12:20",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "RJ 402-2025-09-08": {
     "flightNumber": "RJ 402",
     "status": "",
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "RJ"
+  },
+  "ME 257-2025-09-08": {
+    "flightNumber": "ME 257",
+    "status": "",
+    "actualTime": "12:20",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "UF 002-2025-09-08": {
     "flightNumber": "UF 002",
@@ -1231,24 +1231,10 @@
     "type": "arivl",
     "airlineCode": "EY"
   },
-  "ME 268-2025-09-07": {
-    "flightNumber": "ME 268",
-    "status": "وصلت",
-    "actualTime": "22:39",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 254-2025-09-07": {
     "flightNumber": "ME 254",
     "status": "وصلت",
     "actualTime": "23:03",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 419-2025-09-07": {
-    "flightNumber": "ME 419",
-    "status": "وصلت",
-    "actualTime": "22:41",
     "type": "arivl",
     "airlineCode": "ME"
   },
