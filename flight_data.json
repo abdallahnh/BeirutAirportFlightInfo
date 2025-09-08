@@ -13,30 +13,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "RJ 402-2025-09-08": {
-    "flightNumber": "RJ 402",
-    "status": "غادرت",
-    "actualTime": "11:39",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
-  "ME 257-2025-09-08": {
-    "flightNumber": "ME 257",
-    "status": "غادرت",
-    "actualTime": "12:20",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "UF 002-2025-09-08": {
-    "flightNumber": "UF 002",
-    "status": "غادرت",
-    "actualTime": "11:50",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "IA 132-2025-09-08": {
     "flightNumber": "IA 132",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "12:02",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -566,12 +545,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "UF 002-2025-09-09": {
-    "flightNumber": "UF 002",
+  "G9 386-2025-09-09": {
+    "flightNumber": "G9 386",
     "status": "",
     "actualTime": "12:30",
     "type": "dprtr",
-    "airlineCode": "UF"
+    "airlineCode": "G9"
   },
   "IA 132-2025-09-09": {
     "flightNumber": "IA 132",
@@ -580,12 +559,12 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "G9 386-2025-09-09": {
-    "flightNumber": "G9 386",
+  "UF 002-2025-09-09": {
+    "flightNumber": "UF 002",
     "status": "",
     "actualTime": "12:30",
     "type": "dprtr",
-    "airlineCode": "G9"
+    "airlineCode": "UF"
   },
   "ME 229-2025-09-09": {
     "flightNumber": "ME 229",
@@ -825,20 +804,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "MS 709-2025-09-08": {
-    "flightNumber": "MS 709",
-    "status": "وصلت",
-    "actualTime": "10:38",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
-  "ME 311-2025-09-08": {
-    "flightNumber": "ME 311",
-    "status": "وصلت",
-    "actualTime": "10:34",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "RJ 401-2025-09-08": {
     "flightNumber": "RJ 401",
     "status": "وصلت",
@@ -958,19 +923,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "VF 1043-2025-09-08": {
-    "flightNumber": "VF 1043",
-    "status": "",
-    "actualTime": "15:40",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "LH 1306-2025-09-08": {
     "flightNumber": "LH 1306",
     "status": "",
     "actualTime": "15:40",
     "type": "arivl",
     "airlineCode": "LH"
+  },
+  "VF 1043-2025-09-08": {
+    "flightNumber": "VF 1043",
+    "status": "",
+    "actualTime": "15:40",
+    "type": "arivl",
+    "airlineCode": "VF"
   },
   "ME 226-2025-09-08": {
     "flightNumber": "ME 226",
