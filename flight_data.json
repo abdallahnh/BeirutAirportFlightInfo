@@ -1,7 +1,7 @@
 {
   "VF 544-2025-09-08": {
     "flightNumber": "VF 544",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "02:00",
     "type": "dprtr",
     "airlineCode": "VF"
@@ -20,30 +20,23 @@
     "type": "dprtr",
     "airlineCode": "ET"
   },
-  "PC 761-2025-09-08": {
-    "flightNumber": "PC 761",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "02:51",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "TK 829-2025-09-08": {
     "flightNumber": "TK 829",
-    "status": "تم فتح البوابة",
-    "actualTime": "03:35",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "03:11",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "ET 417-2025-09-08": {
     "flightNumber": "ET 417",
-    "status": "",
-    "actualTime": "03:55",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "03:31",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "RO 168-2025-09-08": {
     "flightNumber": "RO 168",
-    "status": "",
+    "status": "تم اغلاق البوابة",
     "actualTime": "04:05",
     "type": "dprtr",
     "airlineCode": "RO"
@@ -1042,34 +1035,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "VF 543-2025-09-08": {
-    "flightNumber": "VF 543",
-    "status": "وصلت",
-    "actualTime": "02:07",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
-  "IA 1305-2025-09-08": {
-    "flightNumber": "IA 1305",
-    "status": "وصلت",
-    "actualTime": "01:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "PC 760-2025-09-08": {
-    "flightNumber": "PC 760",
-    "status": "وصلت",
-    "actualTime": "02:11",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "ET 406-2025-09-08": {
-    "flightNumber": "ET 406",
-    "status": "وصلت",
-    "actualTime": "01:57",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
   "TK 828-2025-09-08": {
     "flightNumber": "TK 828",
     "status": "وصلت",
@@ -1079,22 +1044,22 @@
   },
   "ET 416-2025-09-08": {
     "flightNumber": "ET 416",
-    "status": "",
-    "actualTime": "03:00",
+    "status": "وصلت",
+    "actualTime": "03:05",
     "type": "arivl",
     "airlineCode": "ET"
   },
   "RO 167-2025-09-08": {
     "flightNumber": "RO 167",
-    "status": "",
-    "actualTime": "03:05",
+    "status": "وصلت",
+    "actualTime": "03:03",
     "type": "arivl",
     "airlineCode": "RO"
   },
   "MS 713-2025-09-08": {
     "flightNumber": "MS 713",
-    "status": "",
-    "actualTime": "03:40",
+    "status": "وصلت",
+    "actualTime": "03:43",
     "type": "arivl",
     "airlineCode": "MS"
   },
