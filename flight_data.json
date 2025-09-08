@@ -34,16 +34,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 306-2025-09-08": {
-    "flightNumber": "ME 306",
-    "status": "غادرت",
-    "actualTime": "17:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EY 584-2025-09-08": {
     "flightNumber": "EY 584",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "17:59",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -678,13 +671,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 258-2025-09-08": {
-    "flightNumber": "ME 258",
-    "status": "وصلت",
-    "actualTime": "16:36",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "EY 583-2025-09-08": {
     "flightNumber": "EY 583",
     "status": "وصلت",
@@ -701,8 +687,8 @@
   },
   "QR 426-2025-09-08": {
     "flightNumber": "QR 426",
-    "status": "",
-    "actualTime": "18:35",
+    "status": "وصلت",
+    "actualTime": "18:41",
     "type": "arivl",
     "airlineCode": "QR"
   },
@@ -715,8 +701,8 @@
   },
   "TK 3441-2025-09-08": {
     "flightNumber": "TK 3441",
-    "status": "",
-    "actualTime": "19:00",
+    "status": "وصلت",
+    "actualTime": "18:40",
     "type": "arivl",
     "airlineCode": "TK"
   },
