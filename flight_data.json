@@ -83,13 +83,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "SK 2828-2025-09-08": {
-    "flightNumber": "SK 2828",
-    "status": "غادرت",
-    "actualTime": "22:26",
-    "type": "dprtr",
-    "airlineCode": "SK"
-  },
   "G9 388-2025-09-08": {
     "flightNumber": "G9 388",
     "status": "ألغيت",
@@ -97,16 +90,9 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "ME 434-2025-09-08": {
-    "flightNumber": "ME 434",
-    "status": "غادرت",
-    "actualTime": "22:28",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ET 8802-2025-09-08": {
     "flightNumber": "ET 8802",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "22:03",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -608,20 +594,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 826-2025-09-08": {
-    "flightNumber": "TK 826",
-    "status": "وصلت",
-    "actualTime": "21:11",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "FZ 159-2025-09-08": {
-    "flightNumber": "FZ 159",
-    "status": "وصلت",
-    "actualTime": "21:02",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "ME 307-2025-09-08": {
     "flightNumber": "ME 307",
     "status": "وصلت",
@@ -680,22 +652,22 @@
   },
   "ME 262-2025-09-08": {
     "flightNumber": "ME 262",
-    "status": "",
-    "actualTime": "23:05",
+    "status": "وصلت",
+    "actualTime": "23:08",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 403-2025-09-08": {
     "flightNumber": "ME 403",
     "status": "",
-    "actualTime": "23:25",
+    "actualTime": "23:19",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 230-2025-09-08": {
     "flightNumber": "ME 230",
-    "status": "",
-    "actualTime": "23:25",
+    "status": "وصلت",
+    "actualTime": "23:14",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -723,7 +695,7 @@
   "ME 224-2025-09-08": {
     "flightNumber": "ME 224",
     "status": "",
-    "actualTime": "23:40",
+    "actualTime": "23:21",
     "type": "arivl",
     "airlineCode": "ME"
   },
