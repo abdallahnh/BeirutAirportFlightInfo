@@ -22,17 +22,10 @@
   },
   "ME 324-2025-09-09": {
     "flightNumber": "ME 324",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:47",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "RJ 402-2025-09-09": {
-    "flightNumber": "RJ 402",
-    "status": "غادرت",
-    "actualTime": "11:34",
-    "type": "dprtr",
-    "airlineCode": "RJ"
   },
   "UF 002-2025-09-09": {
     "flightNumber": "UF 002",
@@ -43,14 +36,14 @@
   },
   "IA 132-2025-09-09": {
     "flightNumber": "IA 132",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "12:17",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "G9 386-2025-09-09": {
     "flightNumber": "G9 386",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:06",
     "type": "dprtr",
     "airlineCode": "G9"
@@ -64,7 +57,7 @@
   },
   "QR 417-2025-09-09": {
     "flightNumber": "QR 417",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "12:23",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -93,7 +86,7 @@
   "TK 825-2025-09-09": {
     "flightNumber": "TK 825",
     "status": "",
-    "actualTime": "15:35",
+    "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -853,20 +846,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "CY 120-2025-09-09": {
-    "flightNumber": "CY 120",
-    "status": "وصلت",
-    "actualTime": "10:31",
-    "type": "arivl",
-    "airlineCode": "CY"
-  },
-  "ME 311-2025-09-09": {
-    "flightNumber": "ME 311",
-    "status": "وصلت",
-    "actualTime": "10:28",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 276-2025-09-09": {
     "flightNumber": "ME 276",
     "status": "وصلت",
@@ -1520,6 +1499,13 @@
   },
   "ME 309-2025-09-10": {
     "flightNumber": "ME 309",
+    "status": "",
+    "actualTime": "15:50",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 226-2025-09-10": {
+    "flightNumber": "ME 226",
     "status": "",
     "actualTime": "15:50",
     "type": "arivl",
