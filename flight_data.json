@@ -1,11 +1,4 @@
 {
-  "QR 419-2025-09-10": {
-    "flightNumber": "QR 419",
-    "status": "غادرت",
-    "actualTime": "00:45",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "LH 1309-2025-09-10": {
     "flightNumber": "LH 1309",
     "status": "تم اغلاق البوابة",
@@ -15,7 +8,7 @@
   },
   "VF 544-2025-09-10": {
     "flightNumber": "VF 544",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "02:00",
     "type": "dprtr",
     "airlineCode": "VF"
@@ -43,8 +36,8 @@
   },
   "LO 144-2025-09-10": {
     "flightNumber": "LO 144",
-    "status": "",
-    "actualTime": "03:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:42",
     "type": "dprtr",
     "airlineCode": "LO"
   },
