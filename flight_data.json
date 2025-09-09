@@ -20,24 +20,17 @@
     "type": "dprtr",
     "airlineCode": "AF"
   },
-  "ME 428-2025-09-09": {
-    "flightNumber": "ME 428",
-    "status": "النداء الاخير",
-    "actualTime": "15:45",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 312-2025-09-09": {
     "flightNumber": "ME 312",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "16:05",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "LH 1307-2025-09-09": {
     "flightNumber": "LH 1307",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:38",
     "type": "dprtr",
     "airlineCode": "LH"
   },
@@ -50,7 +43,7 @@
   },
   "UF 004-2025-09-09": {
     "flightNumber": "UF 004",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:30",
     "type": "dprtr",
     "airlineCode": "UF"
@@ -71,7 +64,7 @@
   },
   "ME 267-2025-09-09": {
     "flightNumber": "ME 267",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:35",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -85,14 +78,14 @@
   },
   "ME 368-2025-09-09": {
     "flightNumber": "ME 368",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:45",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 422-2025-09-09": {
     "flightNumber": "ME 422",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:50",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -762,20 +755,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 425-2025-09-09": {
-    "flightNumber": "ME 425",
-    "status": "وصلت",
-    "actualTime": "14:22",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 365-2025-09-09": {
-    "flightNumber": "ME 365",
-    "status": "وصلت",
-    "actualTime": "14:40",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 427-2025-09-09": {
     "flightNumber": "ME 427",
     "status": "وصلت",
@@ -806,8 +785,8 @@
   },
   "IA 139-2025-09-09": {
     "flightNumber": "IA 139",
-    "status": "",
-    "actualTime": "16:00",
+    "status": "تأخير",
+    "actualTime": "17:15",
     "type": "arivl",
     "airlineCode": "IA"
   },
