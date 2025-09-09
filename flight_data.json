@@ -15,21 +15,21 @@
   },
   "MS 710-2025-09-09": {
     "flightNumber": "MS 710",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "10:27",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "EK 958-2025-09-09": {
     "flightNumber": "EK 958",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:01",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "CY 121-2025-09-09": {
     "flightNumber": "CY 121",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "10:49",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -43,14 +43,14 @@
   },
   "ME 304-2025-09-09": {
     "flightNumber": "ME 304",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 402-2025-09-09": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -860,13 +860,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "FZ 157-2025-09-09": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "09:09",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "MS 709-2025-09-09": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -897,15 +890,15 @@
   },
   "ME 276-2025-09-09": {
     "flightNumber": "ME 276",
-    "status": "",
-    "actualTime": "11:10",
+    "status": "وصلت",
+    "actualTime": "10:59",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "RJ 401-2025-09-09": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "11:25",
+    "status": "وصلت",
+    "actualTime": "10:55",
     "type": "arivl",
     "airlineCode": "RJ"
   },
