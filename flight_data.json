@@ -22,7 +22,7 @@
   },
   "ET 407-2025-09-11": {
     "flightNumber": "ET 407",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -874,19 +874,19 @@
     "type": "dprtr",
     "airlineCode": "LH"
   },
-  "UF 004-2025-09-12": {
-    "flightNumber": "UF 004",
-    "status": "",
-    "actualTime": "17:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "ME 7255-2025-09-12": {
     "flightNumber": "ME 7255",
     "status": "",
     "actualTime": "17:30",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "UF 004-2025-09-12": {
+    "flightNumber": "UF 004",
+    "status": "",
+    "actualTime": "17:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
   },
   "ME 267-2025-09-12": {
     "flightNumber": "ME 267",
@@ -1079,8 +1079,8 @@
   },
   "ET 406-2025-09-11": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "وصلت",
+    "actualTime": "02:27",
     "type": "arivl",
     "airlineCode": "ET"
   },
