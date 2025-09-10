@@ -29,7 +29,7 @@
   },
   "ME 430-2025-09-10": {
     "flightNumber": "ME 430",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:21",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -43,8 +43,8 @@
   },
   "RJ 404-2025-09-10": {
     "flightNumber": "RJ 404",
-    "status": "",
-    "actualTime": "21:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:37",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -75,13 +75,6 @@
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "SK"
-  },
-  "PC 765-2025-09-10": {
-    "flightNumber": "PC 765",
-    "status": "",
-    "actualTime": "23:05",
-    "type": "dprtr",
-    "airlineCode": "PC"
   },
   "ME 434-2025-09-10": {
     "flightNumber": "ME 434",
@@ -180,6 +173,13 @@
     "actualTime": "06:00",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "PC 755-2025-09-11": {
+    "flightNumber": "PC 755",
+    "status": "",
+    "actualTime": "18:25",
+    "type": "dprtr",
+    "airlineCode": "PC"
   },
   "ME 231-2025-09-11": {
     "flightNumber": "ME 231",
@@ -544,13 +544,6 @@
     "actualTime": "18:15",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "PC 755-2025-09-11": {
-    "flightNumber": "PC 755",
-    "status": "",
-    "actualTime": "18:25",
-    "type": "dprtr",
-    "airlineCode": "PC"
   },
   "EY 584-2025-09-11": {
     "flightNumber": "EY 584",
