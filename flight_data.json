@@ -57,14 +57,14 @@
   },
   "IA 134-2025-09-10": {
     "flightNumber": "IA 134",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:45",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "MS 710-2025-09-10": {
     "flightNumber": "MS 710",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:15",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -930,17 +930,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 830-2025-09-10": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:11",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "IA 137-2025-09-10": {
     "flightNumber": "IA 137",
-    "status": "",
-    "actualTime": "09:45",
+    "status": "وصلت",
+    "actualTime": "10:02",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -953,8 +946,8 @@
   },
   "MS 709-2025-09-10": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "10:15",
+    "status": "وصلت",
+    "actualTime": "10:09",
     "type": "arivl",
     "airlineCode": "MS"
   },
