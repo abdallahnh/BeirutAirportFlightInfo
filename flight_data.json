@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
-  "G9 386-2025-09-10": {
-    "flightNumber": "G9 386",
-    "status": "غادرت",
-    "actualTime": "11:55",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "QR 417-2025-09-10": {
     "flightNumber": "QR 417",
     "status": "النداء الاخير",
@@ -43,7 +36,7 @@
   },
   "EY 582-2025-09-10": {
     "flightNumber": "EY 582",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "14:00",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -692,6 +685,13 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "RJ 406-2025-09-11": {
+    "flightNumber": "RJ 406",
+    "status": "",
+    "actualTime": "18:05",
+    "type": "dprtr",
+    "airlineCode": "RJ"
+  },
   "ME 253-2025-09-11": {
     "flightNumber": "ME 253",
     "status": "",
@@ -803,6 +803,13 @@
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "G9"
+  },
+  "PC 765-2025-09-11": {
+    "flightNumber": "PC 765",
+    "status": "",
+    "actualTime": "23:05",
+    "type": "dprtr",
+    "airlineCode": "PC"
   },
   "ME 305-2025-09-10": {
     "flightNumber": "ME 305",
