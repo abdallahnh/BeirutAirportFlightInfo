@@ -71,7 +71,7 @@
   },
   "FZ 158-2025-09-11": {
     "flightNumber": "FZ 158",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:45",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -83,19 +83,19 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "ME 263-2025-09-11": {
-    "flightNumber": "ME 263",
-    "status": "",
-    "actualTime": "11:40",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EK 958-2025-09-11": {
     "flightNumber": "EK 958",
     "status": "",
     "actualTime": "11:40",
     "type": "dprtr",
     "airlineCode": "EK"
+  },
+  "ME 263-2025-09-11": {
+    "flightNumber": "ME 263",
+    "status": "",
+    "actualTime": "11:40",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 320-2025-09-11": {
     "flightNumber": "ME 320",
@@ -967,8 +967,8 @@
   },
   "EK 957-2025-09-11": {
     "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "10:05",
+    "status": "وصلت",
+    "actualTime": "09:50",
     "type": "arivl",
     "airlineCode": "EK"
   },
