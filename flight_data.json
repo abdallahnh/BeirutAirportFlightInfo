@@ -50,28 +50,28 @@
   },
   "ME 217-2025-09-11": {
     "flightNumber": "ME 217",
-    "status": "",
-    "actualTime": "07:20",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:51",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 426-2025-09-11": {
     "flightNumber": "ME 426",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:43",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 408-2025-09-11": {
     "flightNumber": "RJ 408",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:38",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "ME 310-2025-09-11": {
     "flightNumber": "ME 310",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -85,7 +85,7 @@
   },
   "ME 211-2025-09-11": {
     "flightNumber": "ME 211",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -135,7 +135,7 @@
   "TK 831-2025-09-11": {
     "flightNumber": "TK 831",
     "status": "",
-    "actualTime": "10:10",
+    "actualTime": "10:05",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -149,7 +149,7 @@
   "MS 710-2025-09-11": {
     "flightNumber": "MS 710",
     "status": "",
-    "actualTime": "11:30",
+    "actualTime": "11:15",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -159,13 +159,6 @@
     "actualTime": "11:40",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "CY 121-2025-09-11": {
-    "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "11:50",
-    "type": "dprtr",
-    "airlineCode": "CY"
   },
   "ME 320-2025-09-11": {
     "flightNumber": "ME 320",
@@ -243,6 +236,13 @@
     "actualTime": "13:05",
     "type": "dprtr",
     "airlineCode": "QR"
+  },
+  "CY 121-2025-09-11": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "13:35",
+    "type": "dprtr",
+    "airlineCode": "CY"
   },
   "ME 436-2025-09-11": {
     "flightNumber": "ME 436",
@@ -1084,13 +1084,6 @@
     "type": "arivl",
     "airlineCode": "MS"
   },
-  "CY 120-2025-09-11": {
-    "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "10:50",
-    "type": "arivl",
-    "airlineCode": "CY"
-  },
   "ME 311-2025-09-11": {
     "flightNumber": "ME 311",
     "status": "",
@@ -1153,6 +1146,13 @@
     "actualTime": "11:50",
     "type": "arivl",
     "airlineCode": "G9"
+  },
+  "CY 120-2025-09-11": {
+    "flightNumber": "CY 120",
+    "status": "",
+    "actualTime": "12:35",
+    "type": "arivl",
+    "airlineCode": "CY"
   },
   "ME 266-2025-09-11": {
     "flightNumber": "ME 266",
