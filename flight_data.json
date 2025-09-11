@@ -22,7 +22,7 @@
   },
   "MS 712-2025-09-11": {
     "flightNumber": "MS 712",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "20:12",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -36,7 +36,7 @@
   },
   "ME 261-2025-09-11": {
     "flightNumber": "ME 261",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "20:12",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -50,17 +50,10 @@
   },
   "J9 262-2025-09-11": {
     "flightNumber": "J9 262",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:20",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:38",
     "type": "dprtr",
     "airlineCode": "J9"
-  },
-  "TK 833-2025-09-11": {
-    "flightNumber": "TK 833",
-    "status": "",
-    "actualTime": "21:50",
-    "type": "dprtr",
-    "airlineCode": "TK"
   },
   "IA 1304-2025-09-11": {
     "flightNumber": "IA 1304",
@@ -68,6 +61,13 @@
     "actualTime": "22:00",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "TK 833-2025-09-11": {
+    "flightNumber": "TK 833",
+    "status": "",
+    "actualTime": "22:25",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "RJ 404-2025-09-11": {
     "flightNumber": "RJ 404",
@@ -701,8 +701,8 @@
   },
   "TK 826-2025-09-11": {
     "flightNumber": "TK 826",
-    "status": "",
-    "actualTime": "20:55",
+    "status": "وصلت",
+    "actualTime": "20:33",
     "type": "arivl",
     "airlineCode": "TK"
   },
