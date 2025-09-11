@@ -50,7 +50,7 @@
   },
   "ME 442-2025-09-11": {
     "flightNumber": "ME 442",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:03",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -69,13 +69,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 306-2025-09-11": {
-    "flightNumber": "ME 306",
-    "status": "غادرت",
-    "actualTime": "17:41",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "PC 755-2025-09-11": {
     "flightNumber": "PC 755",
     "status": "ألغيت",
@@ -85,8 +78,8 @@
   },
   "EY 584-2025-09-11": {
     "flightNumber": "EY 584",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:15",
+    "status": "النداء الاخير",
+    "actualTime": "18:18",
     "type": "dprtr",
     "airlineCode": "EY"
   },
@@ -139,6 +132,13 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
+  "RJ 404-2025-09-11": {
+    "flightNumber": "RJ 404",
+    "status": "",
+    "actualTime": "21:30",
+    "type": "dprtr",
+    "airlineCode": "RJ"
+  },
   "TK 827-2025-09-11": {
     "flightNumber": "TK 827",
     "status": "",
@@ -152,13 +152,6 @@
     "actualTime": "22:00",
     "type": "dprtr",
     "airlineCode": "IA"
-  },
-  "RJ 404-2025-09-11": {
-    "flightNumber": "RJ 404",
-    "status": "",
-    "actualTime": "22:35",
-    "type": "dprtr",
-    "airlineCode": "RJ"
   },
   "KU 504-2025-09-11": {
     "flightNumber": "KU 504",
@@ -806,8 +799,8 @@
   },
   "QR 426-2025-09-11": {
     "flightNumber": "QR 426",
-    "status": "",
-    "actualTime": "18:35",
+    "status": "وصلت",
+    "actualTime": "18:14",
     "type": "arivl",
     "airlineCode": "QR"
   },
