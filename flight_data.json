@@ -1,46 +1,4 @@
 {
-  "ET 8802-2025-09-11": {
-    "flightNumber": "ET 8802",
-    "status": "",
-    "actualTime": "15:30",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "AF 565-2025-09-11": {
-    "flightNumber": "AF 565",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "14:58",
-    "type": "dprtr",
-    "airlineCode": "AF"
-  },
-  "ME 428-2025-09-11": {
-    "flightNumber": "ME 428",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:54",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "IA 136-2025-09-11": {
-    "flightNumber": "IA 136",
-    "status": "ألغيت",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "ME 312-2025-09-11": {
-    "flightNumber": "ME 312",
-    "status": "النداء الاخير",
-    "actualTime": "16:32",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "LH 1307-2025-09-11": {
-    "flightNumber": "LH 1307",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "16:59",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "IA 140-2025-09-11": {
     "flightNumber": "IA 140",
     "status": "",
@@ -69,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "PC 755-2025-09-11": {
-    "flightNumber": "PC 755",
-    "status": "ألغيت",
-    "actualTime": "18:25",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "EY 584-2025-09-11": {
     "flightNumber": "EY 584",
     "status": "تم اغلاق البوابة",
@@ -85,14 +36,14 @@
   },
   "EK 954-2025-09-11": {
     "flightNumber": "EK 954",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "18:42",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "QR 427-2025-09-11": {
     "flightNumber": "QR 427",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "19:12",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -727,20 +678,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "PC 1832-2025-09-11": {
-    "flightNumber": "PC 1832",
-    "status": "",
-    "actualTime": "17:25",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "EK 953-2025-09-11": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:40",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "QR 426-2025-09-11": {
     "flightNumber": "QR 426",
     "status": "وصلت",
@@ -757,8 +694,8 @@
   },
   "MS 711-2025-09-11": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "19:10",
+    "status": "وصلت",
+    "actualTime": "19:38",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -785,8 +722,8 @@
   },
   "ME 313-2025-09-11": {
     "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "19:33",
     "type": "arivl",
     "airlineCode": "ME"
   },
