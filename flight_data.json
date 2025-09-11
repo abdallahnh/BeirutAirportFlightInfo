@@ -41,13 +41,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 265-2025-09-11": {
-    "flightNumber": "ME 265",
-    "status": "غادرت",
-    "actualTime": "08:25",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 424-2025-09-11": {
     "flightNumber": "ME 424",
     "status": "الصعود الى الطائرة",
@@ -57,7 +50,7 @@
   },
   "ME 404-2025-09-11": {
     "flightNumber": "ME 404",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "08:11",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -78,7 +71,7 @@
   },
   "TK 831-2025-09-11": {
     "flightNumber": "TK 831",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:05",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -1028,19 +1021,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 131-2025-09-11": {
-    "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "UF 001-2025-09-11": {
     "flightNumber": "UF 001",
     "status": "",
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "UF"
+  },
+  "IA 131-2025-09-11": {
+    "flightNumber": "IA 131",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "QR 416-2025-09-11": {
     "flightNumber": "QR 416",
