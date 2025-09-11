@@ -57,15 +57,15 @@
   },
   "ME 251-2025-09-11": {
     "flightNumber": "ME 251",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "08:28",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 831-2025-09-11": {
     "flightNumber": "TK 831",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:05",
+    "status": "النداء الاخير",
+    "actualTime": "09:09",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -958,17 +958,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 830-2025-09-11": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:12",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "FZ 157-2025-09-11": {
     "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "09:45",
+    "status": "وصلت",
+    "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "FZ"
   },
@@ -1035,13 +1028,6 @@
     "type": "arivl",
     "airlineCode": "QR"
   },
-  "LH 8354-2025-09-11": {
-    "flightNumber": "LH 8354",
-    "status": "",
-    "actualTime": "11:40",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "G9 385-2025-09-11": {
     "flightNumber": "G9 385",
     "status": "",
@@ -1062,13 +1048,6 @@
     "actualTime": "13:15",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "ET 8801-2025-09-11": {
-    "flightNumber": "ET 8801",
-    "status": "",
-    "actualTime": "22:50",
-    "type": "arivl",
-    "airlineCode": "ET"
   },
   "ME 252-2025-09-11": {
     "flightNumber": "ME 252",
