@@ -20,38 +20,24 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 404-2025-09-12": {
-    "flightNumber": "ME 404",
-    "status": "غادرت",
-    "actualTime": "08:04",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 364-2025-09-12": {
-    "flightNumber": "ME 364",
-    "status": "غادرت",
-    "actualTime": "08:18",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 251-2025-09-12": {
     "flightNumber": "ME 251",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "08:31",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 241-2025-09-12": {
     "flightNumber": "ME 241",
-    "status": "",
+    "status": "غادرت",
     "actualTime": "09:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 831-2025-09-12": {
     "flightNumber": "TK 831",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:05",
+    "status": "النداء الاخير",
+    "actualTime": "08:59",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -1014,13 +1000,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 425-2025-09-12": {
-    "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 405-2025-09-12": {
     "flightNumber": "ME 405",
     "status": "",
@@ -1028,12 +1007,12 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "TK 824-2025-09-12": {
-    "flightNumber": "TK 824",
+  "ME 425-2025-09-12": {
+    "flightNumber": "ME 425",
     "status": "",
-    "actualTime": "14:20",
+    "actualTime": "14:15",
     "type": "arivl",
-    "airlineCode": "TK"
+    "airlineCode": "ME"
   },
   "AF 564-2025-09-12": {
     "flightNumber": "AF 564",
@@ -1041,6 +1020,13 @@
     "actualTime": "14:20",
     "type": "arivl",
     "airlineCode": "AF"
+  },
+  "TK 824-2025-09-12": {
+    "flightNumber": "TK 824",
+    "status": "",
+    "actualTime": "14:20",
+    "type": "arivl",
+    "airlineCode": "TK"
   },
   "ME 365-2025-09-12": {
     "flightNumber": "ME 365",
