@@ -1,14 +1,7 @@
 {
-  "J9 262-2025-09-12": {
-    "flightNumber": "J9 262",
-    "status": "غادرت",
-    "actualTime": "20:55",
-    "type": "dprtr",
-    "airlineCode": "J9"
-  },
   "TK 827-2025-09-12": {
     "flightNumber": "TK 827",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "21:30",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -29,7 +22,7 @@
   },
   "FZ 160-2025-09-12": {
     "flightNumber": "FZ 160",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "22:40",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -680,8 +673,8 @@
   },
   "UF 005-2025-09-12": {
     "flightNumber": "UF 005",
-    "status": "",
-    "actualTime": "21:30",
+    "status": "وصلت",
+    "actualTime": "21:47",
     "type": "arivl",
     "airlineCode": "UF"
   },
@@ -706,19 +699,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "PC 764-2025-09-12": {
-    "flightNumber": "PC 764",
-    "status": "",
-    "actualTime": "22:00",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "SK 2827-2025-09-12": {
     "flightNumber": "SK 2827",
-    "status": "",
-    "actualTime": "22:00",
+    "status": "وصلت",
+    "actualTime": "21:48",
     "type": "arivl",
     "airlineCode": "SK"
+  },
+  "PC 764-2025-09-12": {
+    "flightNumber": "PC 764",
+    "status": "وصلت",
+    "actualTime": "21:50",
+    "type": "arivl",
+    "airlineCode": "PC"
   },
   "G9 387-2025-09-12": {
     "flightNumber": "G9 387",
