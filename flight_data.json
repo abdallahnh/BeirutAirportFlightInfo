@@ -20,23 +20,16 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "ME 575-2025-09-13": {
-    "flightNumber": "ME 575",
-    "status": "غادرت",
-    "actualTime": "01:29",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ET 407-2025-09-13": {
     "flightNumber": "ET 407",
-    "status": "تم فتح البوابة",
-    "actualTime": "03:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "02:22",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "LO 144-2025-09-13": {
     "flightNumber": "LO 144",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "03:25",
     "type": "dprtr",
     "airlineCode": "LO"
@@ -1142,8 +1135,8 @@
   },
   "TK 828-2025-09-13": {
     "flightNumber": "TK 828",
-    "status": "",
-    "actualTime": "02:40",
+    "status": "وصلت",
+    "actualTime": "02:21",
     "type": "arivl",
     "airlineCode": "TK"
   },
