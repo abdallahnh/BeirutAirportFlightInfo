@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "ME 229-2025-09-12": {
-    "flightNumber": "ME 229",
-    "status": "غادرت",
-    "actualTime": "12:23",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "QR 417-2025-09-12": {
     "flightNumber": "QR 417",
     "status": "تم اغلاق البوابة",
@@ -43,7 +36,7 @@
   },
   "EY 582-2025-09-12": {
     "flightNumber": "EY 582",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "13:07",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -139,19 +132,19 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
-  "ME 7255-2025-09-12": {
-    "flightNumber": "ME 7255",
-    "status": "",
-    "actualTime": "17:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "IA 1302-2025-09-12": {
     "flightNumber": "IA 1302",
     "status": "",
     "actualTime": "17:30",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "ME 7255-2025-09-12": {
+    "flightNumber": "ME 7255",
+    "status": "",
+    "actualTime": "17:30",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 368-2025-09-12": {
     "flightNumber": "ME 368",
@@ -881,34 +874,6 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "ME 305-2025-09-12": {
-    "flightNumber": "ME 305",
-    "status": "وصلت",
-    "actualTime": "11:24",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "UF 001-2025-09-12": {
-    "flightNumber": "UF 001",
-    "status": "وصلت",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
-  "IA 131-2025-09-12": {
-    "flightNumber": "IA 131",
-    "status": "وصلت",
-    "actualTime": "11:21",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "QR 416-2025-09-12": {
-    "flightNumber": "QR 416",
-    "status": "وصلت",
-    "actualTime": "11:16",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "G9 385-2025-09-12": {
     "flightNumber": "G9 385",
     "status": "وصلت",
@@ -986,19 +951,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "LH 1306-2025-09-12": {
-    "flightNumber": "LH 1306",
-    "status": "",
-    "actualTime": "15:40",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "VF 1043-2025-09-12": {
     "flightNumber": "VF 1043",
     "status": "",
     "actualTime": "15:40",
     "type": "arivl",
     "airlineCode": "VF"
+  },
+  "LH 1306-2025-09-12": {
+    "flightNumber": "LH 1306",
+    "status": "",
+    "actualTime": "15:40",
+    "type": "arivl",
+    "airlineCode": "LH"
   },
   "ME 309-2025-09-12": {
     "flightNumber": "ME 309",
