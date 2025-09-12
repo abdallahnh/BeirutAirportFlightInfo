@@ -36,14 +36,14 @@
   },
   "ME 223-2025-09-12": {
     "flightNumber": "ME 223",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "14:42",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 436-2025-09-12": {
     "flightNumber": "ME 436",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "15:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -57,7 +57,7 @@
   },
   "TK 825-2025-09-12": {
     "flightNumber": "TK 825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -118,19 +118,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 7255-2025-09-12": {
-    "flightNumber": "ME 7255",
-    "status": "",
-    "actualTime": "17:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "UF 004-2025-09-12": {
     "flightNumber": "UF 004",
     "status": "",
     "actualTime": "17:30",
     "type": "dprtr",
     "airlineCode": "UF"
+  },
+  "ME 7255-2025-09-12": {
+    "flightNumber": "ME 7255",
+    "status": "",
+    "actualTime": "17:30",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "IA 1302-2025-09-12": {
     "flightNumber": "IA 1302",
@@ -904,8 +904,8 @@
   },
   "AF 564-2025-09-12": {
     "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "وصلت",
+    "actualTime": "14:32",
     "type": "arivl",
     "airlineCode": "AF"
   },
