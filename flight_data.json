@@ -27,37 +27,30 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "ME 322-2025-09-12": {
-    "flightNumber": "ME 322",
-    "status": "النداء الاخير",
-    "actualTime": "15:16",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "AF 565-2025-09-12": {
     "flightNumber": "AF 565",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:30",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "15:42",
     "type": "dprtr",
     "airlineCode": "AF"
   },
   "ME 428-2025-09-12": {
     "flightNumber": "ME 428",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "15:47",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "VF 1044-2025-09-12": {
     "flightNumber": "VF 1044",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:30",
+    "status": "النداء الاخير",
+    "actualTime": "15:59",
     "type": "dprtr",
     "airlineCode": "VF"
   },
   "ME 312-2025-09-12": {
     "flightNumber": "ME 312",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "16:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -825,34 +818,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 252-2025-09-12": {
-    "flightNumber": "ME 252",
-    "status": "وصلت",
-    "actualTime": "14:02",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 425-2025-09-12": {
-    "flightNumber": "ME 425",
-    "status": "وصلت",
-    "actualTime": "14:03",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 405-2025-09-12": {
-    "flightNumber": "ME 405",
-    "status": "وصلت",
-    "actualTime": "13:59",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "TK 824-2025-09-12": {
-    "flightNumber": "TK 824",
-    "status": "وصلت",
-    "actualTime": "14:08",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "AF 564-2025-09-12": {
     "flightNumber": "AF 564",
     "status": "وصلت",
@@ -890,8 +855,8 @@
   },
   "LH 1306-2025-09-12": {
     "flightNumber": "LH 1306",
-    "status": "",
-    "actualTime": "15:40",
+    "status": "وصلت",
+    "actualTime": "15:44",
     "type": "arivl",
     "airlineCode": "LH"
   },
