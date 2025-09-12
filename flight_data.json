@@ -1,11 +1,4 @@
 {
-  "UF 004-2025-09-12": {
-    "flightNumber": "UF 004",
-    "status": "غادرت",
-    "actualTime": "16:42",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "IA 1302-2025-09-12": {
     "flightNumber": "IA 1302",
     "status": "الصعود الى الطائرة",
@@ -22,8 +15,8 @@
   },
   "PC 1825-2025-09-12": {
     "flightNumber": "PC 1825",
-    "status": "",
-    "actualTime": "20:45",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "PC"
   },
@@ -34,38 +27,24 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 430-2025-09-12": {
-    "flightNumber": "ME 430",
-    "status": "النداء الاخير",
-    "actualTime": "20:36",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 267-2025-09-12": {
-    "flightNumber": "ME 267",
-    "status": "غادرت",
-    "actualTime": "20:21",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "J9 262-2025-09-12": {
     "flightNumber": "J9 262",
-    "status": "",
-    "actualTime": "21:20",
+    "status": "النداء الاخير",
+    "actualTime": "20:55",
     "type": "dprtr",
     "airlineCode": "J9"
   },
   "TK 827-2025-09-12": {
     "flightNumber": "TK 827",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "CY 121-2025-09-12": {
     "flightNumber": "CY 121",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:50",
+    "status": "النداء الاخير",
+    "actualTime": "21:20",
     "type": "dprtr",
     "airlineCode": "CY"
   },
@@ -125,19 +104,19 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "PC 1827-2025-09-13": {
-    "flightNumber": "PC 1827",
-    "status": "",
-    "actualTime": "01:50",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "LH 1309-2025-09-13": {
     "flightNumber": "LH 1309",
     "status": "",
     "actualTime": "01:50",
     "type": "dprtr",
     "airlineCode": "LH"
+  },
+  "PC 1827-2025-09-13": {
+    "flightNumber": "PC 1827",
+    "status": "",
+    "actualTime": "01:50",
+    "type": "dprtr",
+    "airlineCode": "PC"
   },
   "VF 544-2025-09-13": {
     "flightNumber": "VF 544",
@@ -692,15 +671,15 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "ME 323-2025-09-12": {
-    "flightNumber": "ME 323",
+  "ME 313-2025-09-12": {
+    "flightNumber": "ME 313",
     "status": "",
     "actualTime": "20:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 313-2025-09-12": {
-    "flightNumber": "ME 313",
+  "ME 323-2025-09-12": {
+    "flightNumber": "ME 323",
     "status": "",
     "actualTime": "20:00",
     "type": "arivl",
