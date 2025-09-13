@@ -48,17 +48,17 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "ME 267-2025-09-13": {
-    "flightNumber": "ME 267",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "17:06",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 442-2025-09-13": {
     "flightNumber": "ME 442",
     "status": "النداء الاخير",
     "actualTime": "17:35",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 267-2025-09-13": {
+    "flightNumber": "ME 267",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "17:06",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -106,28 +106,28 @@
   },
   "J9 262-2025-09-13": {
     "flightNumber": "J9 262",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "J9"
   },
   "MS 712-2025-09-13": {
     "flightNumber": "MS 712",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "21:02",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "TK 827-2025-09-13": {
     "flightNumber": "TK 827",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:50",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "FZ 160-2025-09-13": {
     "flightNumber": "FZ 160",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "22:40",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -727,13 +727,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 313-2025-09-13": {
-    "flightNumber": "ME 313",
-    "status": "وصلت",
-    "actualTime": "19:32",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 242-2025-09-13": {
     "flightNumber": "ME 242",
     "status": "وصلت",
@@ -785,8 +778,8 @@
   },
   "ME 307-2025-09-13": {
     "flightNumber": "ME 307",
-    "status": "",
-    "actualTime": "21:50",
+    "status": "وصلت",
+    "actualTime": "21:34",
     "type": "arivl",
     "airlineCode": "ME"
   },
