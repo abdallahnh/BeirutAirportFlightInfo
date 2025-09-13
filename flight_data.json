@@ -36,8 +36,8 @@
   },
   "IA 1304-2025-09-13": {
     "flightNumber": "IA 1304",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:56",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -57,8 +57,8 @@
   },
   "CY 121-2025-09-13": {
     "flightNumber": "CY 121",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:53",
     "type": "dprtr",
     "airlineCode": "CY"
   },
@@ -85,7 +85,7 @@
   },
   "RJ 402-2025-09-13": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -960,8 +960,8 @@
   },
   "RJ 401-2025-09-13": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "11:20",
+    "status": "وصلت",
+    "actualTime": "10:51",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -972,19 +972,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "UF 001-2025-09-13": {
-    "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 131-2025-09-13": {
     "flightNumber": "IA 131",
     "status": "",
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "UF 001-2025-09-13": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "QR 416-2025-09-13": {
     "flightNumber": "QR 416",
