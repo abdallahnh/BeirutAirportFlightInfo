@@ -34,26 +34,12 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "MS 710-2025-09-13": {
-    "flightNumber": "MS 710",
-    "status": "غادرت",
-    "actualTime": "11:06",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "CY 121-2025-09-13": {
     "flightNumber": "CY 121",
     "status": "تم اغلاق البوابة",
     "actualTime": "10:53",
     "type": "dprtr",
     "airlineCode": "CY"
-  },
-  "ME 320-2025-09-13": {
-    "flightNumber": "ME 320",
-    "status": "غادرت",
-    "actualTime": "11:18",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "EK 958-2025-09-13": {
     "flightNumber": "EK 958",
@@ -64,14 +50,14 @@
   },
   "ME 324-2025-09-13": {
     "flightNumber": "ME 324",
-    "status": "",
-    "actualTime": "12:15",
+    "status": "النداء الاخير",
+    "actualTime": "12:11",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 402-2025-09-13": {
     "flightNumber": "RJ 402",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:25",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -85,8 +71,8 @@
   },
   "IA 132-2025-09-13": {
     "flightNumber": "IA 132",
-    "status": "",
-    "actualTime": "12:30",
+    "status": "النداء الاخير",
+    "actualTime": "12:00",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -113,8 +99,8 @@
   },
   "QR 417-2025-09-13": {
     "flightNumber": "QR 417",
-    "status": "",
-    "actualTime": "13:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:09",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -895,13 +881,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 1303-2025-09-13": {
-    "flightNumber": "IA 1303",
-    "status": "وصلت",
-    "actualTime": "10:11",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "MS 709-2025-09-13": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -960,8 +939,8 @@
   },
   "G9 385-2025-09-13": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "11:50",
+    "status": "وصلت",
+    "actualTime": "12:16",
     "type": "arivl",
     "airlineCode": "G9"
   },
