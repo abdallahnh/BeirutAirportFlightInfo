@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 424-2025-09-13": {
-    "flightNumber": "ME 424",
-    "status": "غادرت",
-    "actualTime": "07:27",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 364-2025-09-13": {
     "flightNumber": "ME 364",
     "status": "تم اغلاق البوابة",
@@ -27,24 +20,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 251-2025-09-13": {
-    "flightNumber": "ME 251",
-    "status": "النداء الاخير",
-    "actualTime": "09:10",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 241-2025-09-13": {
     "flightNumber": "ME 241",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "08:38",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 831-2025-09-13": {
     "flightNumber": "TK 831",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:08",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -946,8 +932,8 @@
   },
   "FZ 157-2025-09-13": {
     "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "09:45",
+    "status": "وصلت",
+    "actualTime": "09:09",
     "type": "arivl",
     "airlineCode": "FZ"
   },
@@ -986,13 +972,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 305-2025-09-13": {
-    "flightNumber": "ME 305",
-    "status": "",
-    "actualTime": "11:20",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "RJ 401-2025-09-13": {
     "flightNumber": "RJ 401",
     "status": "",
@@ -1000,12 +979,12 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "IA 131-2025-09-13": {
-    "flightNumber": "IA 131",
+  "ME 305-2025-09-13": {
+    "flightNumber": "ME 305",
     "status": "",
-    "actualTime": "11:30",
+    "actualTime": "11:20",
     "type": "arivl",
-    "airlineCode": "IA"
+    "airlineCode": "ME"
   },
   "UF 001-2025-09-13": {
     "flightNumber": "UF 001",
@@ -1013,6 +992,13 @@
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "UF"
+  },
+  "IA 131-2025-09-13": {
+    "flightNumber": "IA 131",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "QR 416-2025-09-13": {
     "flightNumber": "QR 416",
@@ -1030,8 +1016,8 @@
   },
   "ET 3406-2025-09-13": {
     "flightNumber": "ET 3406",
-    "status": "",
-    "actualTime": "12:00",
+    "status": "وصلت",
+    "actualTime": "09:07",
     "type": "arivl",
     "airlineCode": "ET"
   },
