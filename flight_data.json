@@ -90,16 +90,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 213-2025-09-13": {
-    "flightNumber": "ME 213",
-    "status": "غادرت",
-    "actualTime": "06:50",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 426-2025-09-13": {
     "flightNumber": "ME 426",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "06:59",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -113,14 +106,14 @@
   },
   "ME 304-2025-09-13": {
     "flightNumber": "ME 304",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "07:01",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 211-2025-09-13": {
     "flightNumber": "ME 211",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "07:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -134,8 +127,8 @@
   },
   "ME 201-2025-09-13": {
     "flightNumber": "ME 201",
-    "status": "",
-    "actualTime": "08:10",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:41",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -1063,20 +1056,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 435-2025-09-13": {
-    "flightNumber": "ME 435",
-    "status": "وصلت",
-    "actualTime": "05:43",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "RJ 407-2025-09-13": {
-    "flightNumber": "RJ 407",
-    "status": "وصلت",
-    "actualTime": "05:43",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "TK 830-2025-09-13": {
     "flightNumber": "TK 830",
     "status": "",
@@ -1133,19 +1112,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 305-2025-09-13": {
-    "flightNumber": "ME 305",
-    "status": "",
-    "actualTime": "11:20",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "RJ 401-2025-09-13": {
     "flightNumber": "RJ 401",
     "status": "",
     "actualTime": "11:20",
     "type": "arivl",
     "airlineCode": "RJ"
+  },
+  "ME 305-2025-09-13": {
+    "flightNumber": "ME 305",
+    "status": "",
+    "actualTime": "11:20",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "UF 001-2025-09-13": {
     "flightNumber": "UF 001",
