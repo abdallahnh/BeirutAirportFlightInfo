@@ -29,7 +29,7 @@
   },
   "LH 1307-2025-09-13": {
     "flightNumber": "LH 1307",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "16:28",
     "type": "dprtr",
     "airlineCode": "LH"
@@ -43,10 +43,17 @@
   },
   "ME 203-2025-09-13": {
     "flightNumber": "ME 203",
-    "status": "",
-    "actualTime": "17:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:03",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "UF 004-2025-09-13": {
+    "flightNumber": "UF 004",
+    "status": "النداء الاخير",
+    "actualTime": "16:57",
+    "type": "dprtr",
+    "airlineCode": "UF"
   },
   "IA 1302-2025-09-13": {
     "flightNumber": "IA 1302",
@@ -55,20 +62,6 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "UF 004-2025-09-13": {
-    "flightNumber": "UF 004",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
-  "ME 267-2025-09-13": {
-    "flightNumber": "ME 267",
-    "status": "",
-    "actualTime": "17:35",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 442-2025-09-13": {
     "flightNumber": "ME 442",
     "status": "تم فتح البوابة",
@@ -76,9 +69,16 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "ME 267-2025-09-13": {
+    "flightNumber": "ME 267",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:06",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "ME 368-2025-09-13": {
     "flightNumber": "ME 368",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:45",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -755,13 +755,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 236-2025-09-13": {
-    "flightNumber": "ME 236",
-    "status": "وصلت",
-    "actualTime": "15:09",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "LH 1306-2025-09-13": {
     "flightNumber": "LH 1306",
     "status": "وصلت",
@@ -841,7 +834,7 @@
   },
   "ME 218-2025-09-13": {
     "flightNumber": "ME 218",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "16:57",
     "type": "arivl",
     "airlineCode": "ME"
