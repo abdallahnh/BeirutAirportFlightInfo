@@ -127,15 +127,15 @@
   },
   "KU 504-2025-09-13": {
     "flightNumber": "KU 504",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "21:52",
     "type": "dprtr",
     "airlineCode": "KU"
   },
   "ME 434-2025-09-13": {
     "flightNumber": "ME 434",
-    "status": "تم فتح البوابة",
-    "actualTime": "23:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "22:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -699,26 +699,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 242-2025-09-13": {
-    "flightNumber": "ME 242",
-    "status": "وصلت",
-    "actualTime": "20:21",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "MS 711-2025-09-13": {
     "flightNumber": "MS 711",
     "status": "وصلت",
     "actualTime": "20:34",
     "type": "arivl",
     "airlineCode": "MS"
-  },
-  "J9 261-2025-09-13": {
-    "flightNumber": "J9 261",
-    "status": "وصلت",
-    "actualTime": "20:25",
-    "type": "arivl",
-    "airlineCode": "J9"
   },
   "KU 503-2025-09-13": {
     "flightNumber": "KU 503",
@@ -751,14 +737,14 @@
   "ME 268-2025-09-13": {
     "flightNumber": "ME 268",
     "status": "تأخير",
-    "actualTime": "22:35",
+    "actualTime": "22:36",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ET 8801-2025-09-13": {
     "flightNumber": "ET 8801",
-    "status": "",
-    "actualTime": "22:40",
+    "status": "وصلت",
+    "actualTime": "22:25",
     "type": "arivl",
     "airlineCode": "ET"
   },
