@@ -22,17 +22,10 @@
   },
   "UF 002-2025-09-14": {
     "flightNumber": "UF 002",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:28",
     "type": "dprtr",
     "airlineCode": "UF"
-  },
-  "IA 132-2025-09-14": {
-    "flightNumber": "IA 132",
-    "status": "غادرت",
-    "actualTime": "12:06",
-    "type": "dprtr",
-    "airlineCode": "IA"
   },
   "G9 386-2025-09-14": {
     "flightNumber": "G9 386",
@@ -43,14 +36,14 @@
   },
   "ME 229-2025-09-14": {
     "flightNumber": "ME 229",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "12:23",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "QR 417-2025-09-14": {
     "flightNumber": "QR 417",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "12:22",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -1385,6 +1378,13 @@
     "type": "arivl",
     "airlineCode": "MS"
   },
+  "ME 252-2025-09-15": {
+    "flightNumber": "ME 252",
+    "status": "",
+    "actualTime": "10:55",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
   "ME 311-2025-09-15": {
     "flightNumber": "ME 311",
     "status": "",
@@ -1441,13 +1441,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 252-2025-09-15": {
-    "flightNumber": "ME 252",
-    "status": "",
-    "actualTime": "13:30",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 425-2025-09-15": {
     "flightNumber": "ME 425",
     "status": "",
@@ -1490,6 +1483,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "ME 236-2025-09-15": {
+    "flightNumber": "ME 236",
+    "status": "",
+    "actualTime": "15:10",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
   "VF 1043-2025-09-15": {
     "flightNumber": "VF 1043",
     "status": "",
@@ -1503,13 +1503,6 @@
     "actualTime": "15:40",
     "type": "arivl",
     "airlineCode": "LH"
-  },
-  "ME 236-2025-09-15": {
-    "flightNumber": "ME 236",
-    "status": "",
-    "actualTime": "15:45",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 321-2025-09-15": {
     "flightNumber": "ME 321",
