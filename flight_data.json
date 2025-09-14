@@ -92,14 +92,14 @@
   },
   "VF 544-2025-09-15": {
     "flightNumber": "VF 544",
-    "status": "",
-    "actualTime": "02:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:57",
     "type": "dprtr",
     "airlineCode": "VF"
   },
   "ME 571-2025-09-15": {
     "flightNumber": "ME 571",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "01:32",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -1063,13 +1063,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 224-2025-09-14": {
-    "flightNumber": "ME 224",
-    "status": "وصلت",
-    "actualTime": "23:50",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 1826-2025-09-15": {
     "flightNumber": "PC 1826",
     "status": "وصلت",
@@ -1093,8 +1086,8 @@
   },
   "ET 406-2025-09-15": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "وصلت",
+    "actualTime": "01:54",
     "type": "arivl",
     "airlineCode": "ET"
   },
