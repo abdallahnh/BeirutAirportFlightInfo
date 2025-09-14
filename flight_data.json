@@ -64,14 +64,14 @@
   },
   "UF 004-2025-09-14": {
     "flightNumber": "UF 004",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "17:02",
     "type": "dprtr",
     "airlineCode": "UF"
   },
   "IA 1302-2025-09-14": {
     "flightNumber": "IA 1302",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "17:30",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -85,7 +85,7 @@
   },
   "ME 267-2025-09-14": {
     "flightNumber": "ME 267",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "17:01",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -99,15 +99,15 @@
   },
   "ME 422-2025-09-14": {
     "flightNumber": "ME 422",
-    "status": "",
-    "actualTime": "17:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:16",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 402-2025-09-14": {
     "flightNumber": "ME 402",
-    "status": "",
-    "actualTime": "18:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:21",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -755,13 +755,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "VF 1043-2025-09-14": {
-    "flightNumber": "VF 1043",
-    "status": "وصلت",
-    "actualTime": "15:16",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "LH 1306-2025-09-14": {
     "flightNumber": "LH 1306",
     "status": "وصلت",
@@ -841,8 +834,8 @@
   },
   "EK 953-2025-09-14": {
     "flightNumber": "EK 953",
-    "status": "تبكير",
-    "actualTime": "17:20",
+    "status": "وصلت",
+    "actualTime": "17:19",
     "type": "arivl",
     "airlineCode": "EK"
   },
