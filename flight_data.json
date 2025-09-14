@@ -636,13 +636,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "VF 1044-2025-09-15": {
-    "flightNumber": "VF 1044",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
   "ME 312-2025-09-15": {
     "flightNumber": "ME 312",
     "status": "",
@@ -790,13 +783,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "VF 546-2025-09-15": {
-    "flightNumber": "VF 546",
-    "status": "",
-    "actualTime": "23:00",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
   "SK 2828-2025-09-15": {
     "flightNumber": "SK 2828",
     "status": "",
@@ -831,13 +817,6 @@
     "actualTime": "11:31",
     "type": "arivl",
     "airlineCode": "QR"
-  },
-  "G9 385-2025-09-14": {
-    "flightNumber": "G9 385",
-    "status": "وصلت",
-    "actualTime": "11:29",
-    "type": "arivl",
-    "airlineCode": "G9"
   },
   "ME 266-2025-09-14": {
     "flightNumber": "ME 266",
@@ -1592,6 +1571,13 @@
     "flightNumber": "ME 313",
     "status": "",
     "actualTime": "20:00",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 242-2025-09-15": {
+    "flightNumber": "ME 242",
+    "status": "",
+    "actualTime": "20:25",
     "type": "arivl",
     "airlineCode": "ME"
   },
