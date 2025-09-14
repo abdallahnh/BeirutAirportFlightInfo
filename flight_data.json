@@ -62,23 +62,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 253-2025-09-14": {
-    "flightNumber": "ME 253",
-    "status": "غادرت",
-    "actualTime": "17:42",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 306-2025-09-14": {
-    "flightNumber": "ME 306",
-    "status": "غادرت",
-    "actualTime": "17:32",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EK 954-2025-09-14": {
     "flightNumber": "EK 954",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:40",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -135,7 +121,7 @@
   "RJ 404-2025-09-14": {
     "flightNumber": "RJ 404",
     "status": "",
-    "actualTime": "21:35",
+    "actualTime": "21:30",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -685,20 +671,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "IA 139-2025-09-14": {
-    "flightNumber": "IA 139",
-    "status": "وصلت",
-    "actualTime": "16:22",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "ME 248-2025-09-14": {
-    "flightNumber": "ME 248",
-    "status": "وصلت",
-    "actualTime": "16:20",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "UF 003-2025-09-14": {
     "flightNumber": "UF 003",
     "status": "وصلت",
@@ -757,8 +729,8 @@
   },
   "CY 120-2025-09-14": {
     "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "18:50",
+    "status": "وصلت",
+    "actualTime": "18:24",
     "type": "arivl",
     "airlineCode": "CY"
   },
