@@ -6,17 +6,17 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "ME 267-2025-09-14": {
-    "flightNumber": "ME 267",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "17:01",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 442-2025-09-14": {
     "flightNumber": "ME 442",
     "status": "",
     "actualTime": "17:35",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 267-2025-09-14": {
+    "flightNumber": "ME 267",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "17:01",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -34,13 +34,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EK 954-2025-09-14": {
-    "flightNumber": "EK 954",
-    "status": "غادرت",
-    "actualTime": "18:33",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
   "CY 121-2025-09-14": {
     "flightNumber": "CY 121",
     "status": "تم اغلاق البوابة",
@@ -57,7 +50,7 @@
   },
   "MS 712-2025-09-14": {
     "flightNumber": "MS 712",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "19:30",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -687,7 +680,7 @@
   },
   "ME 323-2025-09-14": {
     "flightNumber": "ME 323",
-    "status": "تبكير",
+    "status": "وصلت",
     "actualTime": "19:50",
     "type": "arivl",
     "airlineCode": "ME"
@@ -702,7 +695,7 @@
   "RJ 403-2025-09-14": {
     "flightNumber": "RJ 403",
     "status": "",
-    "actualTime": "20:35",
+    "actualTime": "19:56",
     "type": "arivl",
     "airlineCode": "RJ"
   },
