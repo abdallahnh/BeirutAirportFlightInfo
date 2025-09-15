@@ -8,14 +8,14 @@
   },
   "QR 419-2025-09-16": {
     "flightNumber": "QR 419",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "00:51",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "LH 1309-2025-09-16": {
     "flightNumber": "LH 1309",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "00:52",
     "type": "dprtr",
     "airlineCode": "LH"
@@ -41,19 +41,19 @@
     "type": "dprtr",
     "airlineCode": "ET"
   },
-  "ET 417-2025-09-16": {
-    "flightNumber": "ET 417",
-    "status": "",
-    "actualTime": "03:55",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "TK 829-2025-09-16": {
     "flightNumber": "TK 829",
     "status": "",
     "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "TK"
+  },
+  "ET 417-2025-09-16": {
+    "flightNumber": "ET 417",
+    "status": "",
+    "actualTime": "03:55",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "PC 757-2025-09-16": {
     "flightNumber": "PC 757",
@@ -90,15 +90,15 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 217-2025-09-16": {
-    "flightNumber": "ME 217",
+  "ME 231-2025-09-16": {
+    "flightNumber": "ME 231",
     "status": "",
     "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 231-2025-09-16": {
-    "flightNumber": "ME 231",
+  "ME 217-2025-09-16": {
+    "flightNumber": "ME 217",
     "status": "",
     "actualTime": "07:20",
     "type": "dprtr",
@@ -1037,8 +1037,8 @@
   },
   "VF 543-2025-09-16": {
     "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "01:10",
+    "status": "وصلت",
+    "actualTime": "01:13",
     "type": "arivl",
     "airlineCode": "VF"
   },
