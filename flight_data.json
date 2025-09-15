@@ -13,23 +13,16 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "ME 575-2025-09-16": {
-    "flightNumber": "ME 575",
-    "status": "غادرت",
-    "actualTime": "01:34",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ET 407-2025-09-16": {
     "flightNumber": "ET 407",
-    "status": "تم فتح البوابة",
-    "actualTime": "03:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "02:23",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "TK 829-2025-09-16": {
     "flightNumber": "TK 829",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -909,19 +902,19 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "RJ 404-2025-09-17": {
-    "flightNumber": "RJ 404",
-    "status": "",
-    "actualTime": "20:45",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "PC 1825-2025-09-17": {
     "flightNumber": "PC 1825",
     "status": "",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "PC"
+  },
+  "RJ 404-2025-09-17": {
+    "flightNumber": "RJ 404",
+    "status": "",
+    "actualTime": "20:45",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "ME 261-2025-09-17": {
     "flightNumber": "ME 261",
