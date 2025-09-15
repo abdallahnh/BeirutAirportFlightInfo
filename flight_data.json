@@ -1,22 +1,15 @@
 {
   "ME 436-2025-09-15": {
     "flightNumber": "ME 436",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "14:51",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 418-2025-09-15": {
-    "flightNumber": "ME 418",
-    "status": "",
-    "actualTime": "15:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 825-2025-09-15": {
     "flightNumber": "TK 825",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:55",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "15:00",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -29,8 +22,8 @@
   },
   "AF 565-2025-09-15": {
     "flightNumber": "AF 565",
-    "status": "",
-    "actualTime": "16:00",
+    "status": "تأخير",
+    "actualTime": "16:20",
     "type": "dprtr",
     "airlineCode": "AF"
   },
@@ -706,13 +699,6 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "ME 266-2025-09-15": {
-    "flightNumber": "ME 266",
-    "status": "وصلت",
-    "actualTime": "13:21",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 425-2025-09-15": {
     "flightNumber": "ME 425",
     "status": "وصلت",
@@ -729,8 +715,8 @@
   },
   "AF 564-2025-09-15": {
     "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "وصلت",
+    "actualTime": "15:09",
     "type": "arivl",
     "airlineCode": "AF"
   },
@@ -750,15 +736,15 @@
   },
   "ME 427-2025-09-15": {
     "flightNumber": "ME 427",
-    "status": "",
-    "actualTime": "15:05",
+    "status": "وصلت",
+    "actualTime": "15:01",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 236-2025-09-15": {
     "flightNumber": "ME 236",
-    "status": "",
-    "actualTime": "15:10",
+    "status": "وصلت",
+    "actualTime": "15:15",
     "type": "arivl",
     "airlineCode": "ME"
   },
