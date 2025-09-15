@@ -1,14 +1,14 @@
 {
   "ET 8802-2025-09-16": {
     "flightNumber": "ET 8802",
-    "status": "تم فتح البوابة",
-    "actualTime": "00:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "00:33",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "QR 419-2025-09-16": {
     "flightNumber": "QR 419",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "01:40",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -41,19 +41,19 @@
     "type": "dprtr",
     "airlineCode": "ET"
   },
-  "ET 417-2025-09-16": {
-    "flightNumber": "ET 417",
-    "status": "",
-    "actualTime": "03:55",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "TK 829-2025-09-16": {
     "flightNumber": "TK 829",
     "status": "",
     "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "TK"
+  },
+  "ET 417-2025-09-16": {
+    "flightNumber": "ET 417",
+    "status": "",
+    "actualTime": "03:55",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "PC 757-2025-09-16": {
     "flightNumber": "PC 757",
@@ -90,13 +90,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 217-2025-09-16": {
-    "flightNumber": "ME 217",
-    "status": "",
-    "actualTime": "07:20",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 231-2025-09-16": {
     "flightNumber": "ME 231",
     "status": "",
@@ -104,10 +97,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 426-2025-09-16": {
-    "flightNumber": "ME 426",
+  "ME 217-2025-09-16": {
+    "flightNumber": "ME 217",
     "status": "",
-    "actualTime": "07:30",
+    "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -117,6 +110,13 @@
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "UF"
+  },
+  "ME 426-2025-09-16": {
+    "flightNumber": "ME 426",
+    "status": "",
+    "actualTime": "07:30",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "RJ 408-2025-09-16": {
     "flightNumber": "RJ 408",
