@@ -22,14 +22,14 @@
   },
   "RJ 404-2025-09-15": {
     "flightNumber": "RJ 404",
-    "status": "تم فتح البوابة",
-    "actualTime": "20:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:50",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "PC 1825-2025-09-15": {
     "flightNumber": "PC 1825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -629,19 +629,19 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "PC 1824-2025-09-15": {
-    "flightNumber": "PC 1824",
-    "status": "وصلت",
-    "actualTime": "19:45",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "ME 323-2025-09-15": {
     "flightNumber": "ME 323",
     "status": "",
     "actualTime": "20:00",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "PC 1824-2025-09-15": {
+    "flightNumber": "PC 1824",
+    "status": "وصلت",
+    "actualTime": "19:45",
+    "type": "arivl",
+    "airlineCode": "PC"
   },
   "ME 313-2025-09-15": {
     "flightNumber": "ME 313",
