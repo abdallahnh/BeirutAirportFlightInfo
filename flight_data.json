@@ -64,22 +64,22 @@
   },
   "MS 712-2025-09-16": {
     "flightNumber": "MS 712",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:05",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "PC 1825-2025-09-16": {
     "flightNumber": "PC 1825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "ME 261-2025-09-16": {
     "flightNumber": "ME 261",
-    "status": "",
-    "actualTime": "20:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:29",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -131,13 +131,6 @@
     "actualTime": "01:50",
     "type": "dprtr",
     "airlineCode": "LH"
-  },
-  "VF 544-2025-09-17": {
-    "flightNumber": "VF 544",
-    "status": "ألغيت",
-    "actualTime": "02:00",
-    "type": "dprtr",
-    "airlineCode": "VF"
   },
   "PC 759-2025-09-17": {
     "flightNumber": "PC 759",
@@ -624,8 +617,8 @@
   },
   "PC 1824-2025-09-16": {
     "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "20:29",
     "type": "arivl",
     "airlineCode": "PC"
   },
@@ -734,13 +727,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 443-2025-09-16": {
-    "flightNumber": "ME 443",
-    "status": "",
-    "actualTime": "23:30",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 423-2025-09-16": {
     "flightNumber": "ME 423",
     "status": "",
@@ -775,13 +761,6 @@
     "actualTime": "00:10",
     "type": "arivl",
     "airlineCode": "QR"
-  },
-  "VF 543-2025-09-17": {
-    "flightNumber": "VF 543",
-    "status": "ألغيت",
-    "actualTime": "01:10",
-    "type": "arivl",
-    "airlineCode": "VF"
   },
   "PC 758-2025-09-17": {
     "flightNumber": "PC 758",
@@ -838,6 +817,13 @@
     "actualTime": "03:30",
     "type": "arivl",
     "airlineCode": "MS"
+  },
+  "ME 443-2025-09-17": {
+    "flightNumber": "ME 443",
+    "status": "",
+    "actualTime": "04:00",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "PC 1828-2025-09-17": {
     "flightNumber": "PC 1828",
