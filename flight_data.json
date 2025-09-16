@@ -64,15 +64,15 @@
   },
   "QR 427-2025-09-16": {
     "flightNumber": "QR 427",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "19:24",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "MS 712-2025-09-16": {
     "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "20:10",
+    "status": "تأخير",
+    "actualTime": "20:30",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -608,13 +608,6 @@
     "type": "dprtr",
     "airlineCode": "SK"
   },
-  "EK 953-2025-09-16": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:35",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "QR 426-2025-09-16": {
     "flightNumber": "QR 426",
     "status": "وصلت",
@@ -631,15 +624,15 @@
   },
   "MS 711-2025-09-16": {
     "flightNumber": "MS 711",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "19:35",
     "type": "arivl",
     "airlineCode": "MS"
   },
   "ME 202-2025-09-16": {
     "flightNumber": "ME 202",
-    "status": "",
-    "actualTime": "19:35",
+    "status": "وصلت",
+    "actualTime": "19:36",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -653,7 +646,7 @@
   "ME 323-2025-09-16": {
     "flightNumber": "ME 323",
     "status": "",
-    "actualTime": "20:00",
+    "actualTime": "19:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
