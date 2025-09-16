@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "IA 136-2025-09-16": {
-    "flightNumber": "IA 136",
-    "status": "غادرت",
-    "actualTime": "09:49",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "FZ 158-2025-09-16": {
     "flightNumber": "FZ 158",
     "status": "تم اغلاق البوابة",
@@ -29,14 +22,14 @@
   },
   "CY 121-2025-09-16": {
     "flightNumber": "CY 121",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "10:52",
     "type": "dprtr",
     "airlineCode": "CY"
   },
   "EK 958-2025-09-16": {
     "flightNumber": "EK 958",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "11:16",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -50,21 +43,21 @@
   },
   "ME 304-2025-09-16": {
     "flightNumber": "ME 304",
-    "status": "",
-    "actualTime": "12:15",
+    "status": "النداء الاخير",
+    "actualTime": "11:36",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 402-2025-09-16": {
     "flightNumber": "RJ 402",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:20",
+    "status": "النداء الاخير",
+    "actualTime": "11:39",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "UF 004-2025-09-16": {
     "flightNumber": "UF 004",
-    "status": "",
+    "status": "النداء الاخير",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "UF"
@@ -85,7 +78,7 @@
   },
   "ME 229-2025-09-16": {
     "flightNumber": "ME 229",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -825,26 +818,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "FZ 157-2025-09-16": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "09:29",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "MS 709-2025-09-16": {
     "flightNumber": "MS 709",
     "status": "وصلت",
     "actualTime": "09:56",
     "type": "arivl",
     "airlineCode": "MS"
-  },
-  "EK 957-2025-09-16": {
-    "flightNumber": "EK 957",
-    "status": "وصلت",
-    "actualTime": "09:40",
-    "type": "arivl",
-    "airlineCode": "EK"
   },
   "CY 120-2025-09-16": {
     "flightNumber": "CY 120",
@@ -883,8 +862,8 @@
   },
   "IA 131-2025-09-16": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "وصلت",
+    "actualTime": "11:37",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -897,8 +876,8 @@
   },
   "G9 385-2025-09-16": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "11:50",
+    "status": "وصلت",
+    "actualTime": "11:33",
     "type": "arivl",
     "airlineCode": "G9"
   },
