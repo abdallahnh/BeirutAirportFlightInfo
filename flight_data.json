@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "AF"
   },
-  "ME 428-2025-09-16": {
-    "flightNumber": "ME 428",
-    "status": "غادرت",
-    "actualTime": "15:45",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 312-2025-09-16": {
     "flightNumber": "ME 312",
     "status": "تم اغلاق البوابة",
@@ -43,7 +36,7 @@
   },
   "LH 1307-2025-09-16": {
     "flightNumber": "LH 1307",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "16:33",
     "type": "dprtr",
     "airlineCode": "LH"
@@ -55,19 +48,19 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "UF 006-2025-09-16": {
-    "flightNumber": "UF 006",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "16:45",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "IA 1302-2025-09-16": {
     "flightNumber": "IA 1302",
     "status": "",
     "actualTime": "17:30",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "UF 006-2025-09-16": {
+    "flightNumber": "UF 006",
+    "status": "غادرت",
+    "actualTime": "16:45",
+    "type": "dprtr",
+    "airlineCode": "UF"
   },
   "ME 442-2025-09-16": {
     "flightNumber": "ME 442",
@@ -76,17 +69,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 267-2025-09-16": {
-    "flightNumber": "ME 267",
-    "status": "",
-    "actualTime": "17:35",
+  "ME 203-2025-09-16": {
+    "flightNumber": "ME 203",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:59",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 203-2025-09-16": {
-    "flightNumber": "ME 203",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:35",
+  "ME 267-2025-09-16": {
+    "flightNumber": "ME 267",
+    "status": "النداء الاخير",
+    "actualTime": "16:56",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -684,13 +677,6 @@
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "SK"
-  },
-  "ME 232-2025-09-16": {
-    "flightNumber": "ME 232",
-    "status": "وصلت",
-    "actualTime": "15:09",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "LH 1306-2025-09-16": {
     "flightNumber": "LH 1306",
