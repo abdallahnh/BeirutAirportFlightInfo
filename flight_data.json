@@ -15,7 +15,7 @@
   },
   "IA 136-2025-09-16": {
     "flightNumber": "IA 136",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "09:49",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -27,24 +27,17 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "MS 710-2025-09-16": {
-    "flightNumber": "MS 710",
-    "status": "النداء الاخير",
-    "actualTime": "10:27",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "CY 121-2025-09-16": {
     "flightNumber": "CY 121",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "10:52",
     "type": "dprtr",
     "airlineCode": "CY"
   },
   "EK 958-2025-09-16": {
     "flightNumber": "EK 958",
-    "status": "",
-    "actualTime": "12:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:16",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -64,7 +57,7 @@
   },
   "RJ 402-2025-09-16": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -832,13 +825,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 135-2025-09-16": {
-    "flightNumber": "IA 135",
-    "status": "وصلت",
-    "actualTime": "09:11",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "FZ 157-2025-09-16": {
     "flightNumber": "FZ 157",
     "status": "وصلت",
@@ -876,22 +862,22 @@
   },
   "ME 276-2025-09-16": {
     "flightNumber": "ME 276",
-    "status": "",
-    "actualTime": "11:10",
+    "status": "وصلت",
+    "actualTime": "11:21",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "RJ 401-2025-09-16": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "11:20",
+    "status": "وصلت",
+    "actualTime": "11:05",
     "type": "arivl",
     "airlineCode": "RJ"
   },
   "UF 001-2025-09-16": {
     "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "وصلت",
+    "actualTime": "11:17",
     "type": "arivl",
     "airlineCode": "UF"
   },
@@ -904,8 +890,8 @@
   },
   "QR 416-2025-09-16": {
     "flightNumber": "QR 416",
-    "status": "",
-    "actualTime": "11:35",
+    "status": "وصلت",
+    "actualTime": "11:11",
     "type": "arivl",
     "airlineCode": "QR"
   },
