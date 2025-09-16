@@ -1,7 +1,7 @@
 {
   "QR 419-2025-09-17": {
     "flightNumber": "QR 419",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "00:46",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -15,14 +15,14 @@
   },
   "ET 407-2025-09-17": {
     "flightNumber": "ET 407",
-    "status": "تم فتح البوابة",
-    "actualTime": "03:05",
+    "status": "النداء الاخير",
+    "actualTime": "02:31",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "LO 144-2025-09-17": {
     "flightNumber": "LO 144",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "03:25",
     "type": "dprtr",
     "airlineCode": "LO"
@@ -930,19 +930,19 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "PC 1825-2025-09-18": {
-    "flightNumber": "PC 1825",
-    "status": "",
-    "actualTime": "20:45",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "RJ 404-2025-09-18": {
     "flightNumber": "RJ 404",
     "status": "",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "RJ"
+  },
+  "PC 1825-2025-09-18": {
+    "flightNumber": "PC 1825",
+    "status": "",
+    "actualTime": "20:45",
+    "type": "dprtr",
+    "airlineCode": "PC"
   },
   "ME 261-2025-09-18": {
     "flightNumber": "ME 261",
@@ -1002,8 +1002,8 @@
   },
   "PC 758-2025-09-17": {
     "flightNumber": "PC 758",
-    "status": "",
-    "actualTime": "02:00",
+    "status": "وصلت",
+    "actualTime": "02:34",
     "type": "arivl",
     "airlineCode": "PC"
   },
@@ -1058,8 +1058,8 @@
   },
   "ME 443-2025-09-17": {
     "flightNumber": "ME 443",
-    "status": "",
-    "actualTime": "04:00",
+    "status": "وصلت",
+    "actualTime": "02:30",
     "type": "arivl",
     "airlineCode": "ME"
   },
