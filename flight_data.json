@@ -2,7 +2,7 @@
   "UF 002-2025-09-16": {
     "flightNumber": "UF 002",
     "status": "",
-    "actualTime": "12:30",
+    "actualTime": "07:30",
     "type": "dprtr",
     "airlineCode": "UF"
   },
@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "TK 831-2025-09-16": {
-    "flightNumber": "TK 831",
-    "status": "غادرت",
-    "actualTime": "10:05",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "IA 136-2025-09-16": {
     "flightNumber": "IA 136",
     "status": "الصعود الى الطائرة",
@@ -29,14 +22,14 @@
   },
   "FZ 158-2025-09-16": {
     "flightNumber": "FZ 158",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "09:52",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
   "MS 710-2025-09-16": {
     "flightNumber": "MS 710",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:00",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -75,6 +68,13 @@
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "RJ"
+  },
+  "UF 004-2025-09-16": {
+    "flightNumber": "UF 004",
+    "status": "",
+    "actualTime": "12:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
   },
   "IA 132-2025-09-16": {
     "flightNumber": "IA 132",
@@ -855,8 +855,8 @@
   },
   "MS 709-2025-09-16": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "10:00",
+    "status": "وصلت",
+    "actualTime": "09:56",
     "type": "arivl",
     "airlineCode": "MS"
   },
