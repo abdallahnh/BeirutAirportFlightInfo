@@ -1,22 +1,15 @@
 {
-  "TK 831-2025-09-17": {
-    "flightNumber": "TK 831",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "09:14",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "EK 958-2025-09-17": {
     "flightNumber": "EK 958",
     "status": "تأخير",
-    "actualTime": "13:55",
+    "actualTime": "14:15",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "ME 308-2025-09-17": {
     "flightNumber": "ME 308",
-    "status": "تم فتح البوابة",
-    "actualTime": "13:15",
+    "status": "النداء الاخير",
+    "actualTime": "12:59",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -36,15 +29,15 @@
   },
   "QR 417-2025-09-17": {
     "flightNumber": "QR 417",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:34",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "EY 582-2025-09-17": {
     "flightNumber": "EY 582",
-    "status": "",
-    "actualTime": "14:00",
+    "status": "النداء الاخير",
+    "actualTime": "12:55",
     "type": "dprtr",
     "airlineCode": "EY"
   },
@@ -552,6 +545,13 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "AH 4017-2025-09-18": {
+    "flightNumber": "AH 4017",
+    "status": "",
+    "actualTime": "15:20",
+    "type": "dprtr",
+    "airlineCode": "AH"
+  },
   "ME 418-2025-09-18": {
     "flightNumber": "ME 418",
     "status": "",
@@ -778,8 +778,8 @@
   },
   "EK 957-2025-09-17": {
     "flightNumber": "EK 957",
-    "status": "تأخير",
-    "actualTime": "13:00",
+    "status": "وصلت",
+    "actualTime": "13:10",
     "type": "arivl",
     "airlineCode": "EK"
   },
@@ -787,13 +787,6 @@
     "flightNumber": "ME 305",
     "status": "وصلت",
     "actualTime": "12:18",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 266-2025-09-17": {
-    "flightNumber": "ME 266",
-    "status": "وصلت",
-    "actualTime": "11:02",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1363,6 +1356,13 @@
     "actualTime": "14:15",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "AH 4016-2025-09-18": {
+    "flightNumber": "AH 4016",
+    "status": "",
+    "actualTime": "14:20",
+    "type": "arivl",
+    "airlineCode": "AH"
   },
   "AF 564-2025-09-18": {
     "flightNumber": "AF 564",
