@@ -20,6 +20,13 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "G9 386-2025-09-17": {
+    "flightNumber": "G9 386",
+    "status": "غادرت",
+    "actualTime": "12:03",
+    "type": "dprtr",
+    "airlineCode": "G9"
+  },
   "UF 002-2025-09-17": {
     "flightNumber": "UF 002",
     "status": "الصعود الى الطائرة",
@@ -27,31 +34,17 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
-  "IA 132-2025-09-17": {
-    "flightNumber": "IA 132",
-    "status": "غادرت",
-    "actualTime": "11:59",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "G9 386-2025-09-17": {
-    "flightNumber": "G9 386",
-    "status": "النداء الاخير",
-    "actualTime": "12:03",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "ME 229-2025-09-17": {
     "flightNumber": "ME 229",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:23",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "QR 417-2025-09-17": {
     "flightNumber": "QR 417",
-    "status": "",
-    "actualTime": "13:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:34",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -855,8 +848,8 @@
   },
   "ME 425-2025-09-17": {
     "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
+    "status": "تأخير",
+    "actualTime": "14:30",
     "type": "arivl",
     "airlineCode": "ME"
   },
