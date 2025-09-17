@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 134-2025-09-17": {
-    "flightNumber": "IA 134",
-    "status": "غادرت",
-    "actualTime": "10:45",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "EK 958-2025-09-17": {
     "flightNumber": "EK 958",
     "status": "تأخير",
@@ -57,7 +50,7 @@
   },
   "ME 229-2025-09-17": {
     "flightNumber": "ME 229",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -482,6 +475,13 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
+  "ME 263-2025-09-18": {
+    "flightNumber": "ME 263",
+    "status": "",
+    "actualTime": "11:40",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "CY 121-2025-09-18": {
     "flightNumber": "CY 121",
     "status": "",
@@ -544,6 +544,13 @@
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "G9"
+  },
+  "LH 8355-2025-09-18": {
+    "flightNumber": "LH 8355",
+    "status": "",
+    "actualTime": "11:40",
+    "type": "arivl",
+    "airlineCode": "LH"
   },
   "ME 229-2025-09-18": {
     "flightNumber": "ME 229",
@@ -848,8 +855,8 @@
   },
   "EY 581-2025-09-17": {
     "flightNumber": "EY 581",
-    "status": "",
-    "actualTime": "12:35",
+    "status": "وصلت",
+    "actualTime": "11:49",
     "type": "arivl",
     "airlineCode": "EY"
   },
@@ -874,19 +881,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "TK 824-2025-09-17": {
-    "flightNumber": "TK 824",
-    "status": "",
-    "actualTime": "14:20",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "AF 564-2025-09-17": {
     "flightNumber": "AF 564",
     "status": "",
     "actualTime": "14:20",
     "type": "arivl",
     "airlineCode": "AF"
+  },
+  "TK 824-2025-09-17": {
+    "flightNumber": "TK 824",
+    "status": "",
+    "actualTime": "14:20",
+    "type": "arivl",
+    "airlineCode": "TK"
   },
   "ME 365-2025-09-17": {
     "flightNumber": "ME 365",
@@ -916,13 +923,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "VF 1043-2025-09-17": {
-    "flightNumber": "VF 1043",
-    "status": "",
-    "actualTime": "15:40",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "LH 1306-2025-09-17": {
     "flightNumber": "LH 1306",
     "status": "",
@@ -930,15 +930,22 @@
     "type": "arivl",
     "airlineCode": "LH"
   },
-  "ME 309-2025-09-17": {
-    "flightNumber": "ME 309",
+  "VF 1043-2025-09-17": {
+    "flightNumber": "VF 1043",
+    "status": "",
+    "actualTime": "15:40",
+    "type": "arivl",
+    "airlineCode": "VF"
+  },
+  "ME 226-2025-09-17": {
+    "flightNumber": "ME 226",
     "status": "",
     "actualTime": "15:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 226-2025-09-17": {
-    "flightNumber": "ME 226",
+  "ME 309-2025-09-17": {
+    "flightNumber": "ME 309",
     "status": "",
     "actualTime": "15:50",
     "type": "arivl",
@@ -1014,12 +1021,12 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "PC 1824-2025-09-17": {
-    "flightNumber": "PC 1824",
+  "ME 313-2025-09-17": {
+    "flightNumber": "ME 313",
     "status": "",
     "actualTime": "20:00",
     "type": "arivl",
-    "airlineCode": "PC"
+    "airlineCode": "ME"
   },
   "ME 323-2025-09-17": {
     "flightNumber": "ME 323",
@@ -1028,12 +1035,12 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 313-2025-09-17": {
-    "flightNumber": "ME 313",
+  "PC 1824-2025-09-17": {
+    "flightNumber": "PC 1824",
     "status": "",
     "actualTime": "20:00",
     "type": "arivl",
-    "airlineCode": "ME"
+    "airlineCode": "PC"
   },
   "ME 242-2025-09-17": {
     "flightNumber": "ME 242",
@@ -1042,19 +1049,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "RJ 403-2025-09-17": {
-    "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "20:35",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "J9 261-2025-09-17": {
     "flightNumber": "J9 261",
     "status": "",
     "actualTime": "20:35",
     "type": "arivl",
     "airlineCode": "J9"
+  },
+  "RJ 403-2025-09-17": {
+    "flightNumber": "RJ 403",
+    "status": "",
+    "actualTime": "20:35",
+    "type": "arivl",
+    "airlineCode": "RJ"
   },
   "CY 120-2025-09-17": {
     "flightNumber": "CY 120",
@@ -1342,13 +1349,6 @@
     "actualTime": "11:35",
     "type": "arivl",
     "airlineCode": "QR"
-  },
-  "LH 8355-2025-09-18": {
-    "flightNumber": "LH 8355",
-    "status": "",
-    "actualTime": "11:40",
-    "type": "arivl",
-    "airlineCode": "LH"
   },
   "G9 385-2025-09-18": {
     "flightNumber": "G9 385",
