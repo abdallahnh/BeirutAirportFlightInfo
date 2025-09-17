@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "AF"
   },
-  "ME 428-2025-09-17": {
-    "flightNumber": "ME 428",
-    "status": "غادرت",
-    "actualTime": "16:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "VF 1044-2025-09-17": {
     "flightNumber": "VF 1044",
     "status": "تم اغلاق البوابة",
@@ -36,14 +29,14 @@
   },
   "ME 312-2025-09-17": {
     "flightNumber": "ME 312",
-    "status": "تم اغلاق البوابة",
+    "status": "غادرت",
     "actualTime": "16:04",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 418-2025-09-17": {
     "flightNumber": "ME 418",
-    "status": "تم فتح البوابة",
+    "status": "الصعود الى الطائرة",
     "actualTime": "16:45",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -64,7 +57,7 @@
   },
   "IA 1302-2025-09-17": {
     "flightNumber": "IA 1302",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:30",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -85,7 +78,7 @@
   },
   "ME 422-2025-09-17": {
     "flightNumber": "ME 422",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:50",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -720,13 +713,6 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "ME 365-2025-09-17": {
-    "flightNumber": "ME 365",
-    "status": "وصلت",
-    "actualTime": "14:40",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 427-2025-09-17": {
     "flightNumber": "ME 427",
     "status": "وصلت",
@@ -765,7 +751,7 @@
   "ME 309-2025-09-17": {
     "flightNumber": "ME 309",
     "status": "",
-    "actualTime": "15:50",
+    "actualTime": "16:49",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -792,7 +778,7 @@
   },
   "ME 214-2025-09-17": {
     "flightNumber": "ME 214",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "16:35",
     "type": "arivl",
     "airlineCode": "ME"
