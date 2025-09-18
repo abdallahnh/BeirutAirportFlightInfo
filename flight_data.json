@@ -55,16 +55,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "PC 755-2025-09-18": {
-    "flightNumber": "PC 755",
-    "status": "غادرت",
-    "actualTime": "05:26",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "ME 231-2025-09-18": {
     "flightNumber": "ME 231",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -85,14 +78,14 @@
   },
   "RJ 408-2025-09-18": {
     "flightNumber": "RJ 408",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:41",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "ME 310-2025-09-18": {
     "flightNumber": "ME 310",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -156,7 +149,7 @@
   "TK 831-2025-09-18": {
     "flightNumber": "TK 831",
     "status": "",
-    "actualTime": "10:10",
+    "actualTime": "10:05",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -923,19 +916,19 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "RJ 404-2025-09-19": {
-    "flightNumber": "RJ 404",
-    "status": "",
-    "actualTime": "20:45",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "PC 1825-2025-09-19": {
     "flightNumber": "PC 1825",
     "status": "",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "PC"
+  },
+  "RJ 404-2025-09-19": {
+    "flightNumber": "RJ 404",
+    "status": "",
+    "actualTime": "20:45",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "ME 261-2025-09-19": {
     "flightNumber": "ME 261",
@@ -1012,13 +1005,6 @@
     "status": "",
     "actualTime": "23:40",
     "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 204-2025-09-18": {
-    "flightNumber": "ME 204",
-    "status": "وصلت",
-    "actualTime": "04:24",
-    "type": "arivl",
     "airlineCode": "ME"
   },
   "PC 1823-2025-09-18": {
