@@ -36,14 +36,14 @@
   },
   "PC 1825-2025-09-19": {
     "flightNumber": "PC 1825",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:02",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "ME 261-2025-09-19": {
     "flightNumber": "ME 261",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "20:07",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -629,13 +629,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "QR 426-2025-09-19": {
-    "flightNumber": "QR 426",
-    "status": "وصلت",
-    "actualTime": "18:11",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "ME 212-2025-09-19": {
     "flightNumber": "ME 212",
     "status": "وصلت",
@@ -687,7 +680,7 @@
   },
   "ME 242-2025-09-19": {
     "flightNumber": "ME 242",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "20:25",
     "type": "arivl",
     "airlineCode": "ME"
