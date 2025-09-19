@@ -1,32 +1,4 @@
 {
-  "J9 262-2025-09-19": {
-    "flightNumber": "J9 262",
-    "status": "غادرت",
-    "actualTime": "21:05",
-    "type": "dprtr",
-    "airlineCode": "J9"
-  },
-  "TK 827-2025-09-19": {
-    "flightNumber": "TK 827",
-    "status": "غادرت",
-    "actualTime": "21:50",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "CY 121-2025-09-19": {
-    "flightNumber": "CY 121",
-    "status": "غادرت",
-    "actualTime": "20:59",
-    "type": "dprtr",
-    "airlineCode": "CY"
-  },
-  "FZ 160-2025-09-19": {
-    "flightNumber": "FZ 160",
-    "status": "غادرت",
-    "actualTime": "22:25",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
   "PC 1822-2025-09-20": {
     "flightNumber": "PC 1822",
     "status": "",
@@ -36,22 +8,22 @@
   },
   "QR 419-2025-09-20": {
     "flightNumber": "QR 419",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "00:47",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "PC 1827-2025-09-20": {
     "flightNumber": "PC 1827",
-    "status": "تم فتح البوابة",
-    "actualTime": "01:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:01",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "LH 1309-2025-09-20": {
     "flightNumber": "LH 1309",
-    "status": "",
-    "actualTime": "01:50",
+    "status": "النداء الاخير",
+    "actualTime": "00:56",
     "type": "dprtr",
     "airlineCode": "LH"
   },
@@ -1077,24 +1049,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 262-2025-09-19": {
-    "flightNumber": "ME 262",
-    "status": "وصلت",
-    "actualTime": "22:58",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 230-2025-09-19": {
-    "flightNumber": "ME 230",
-    "status": "وصلت",
-    "actualTime": "23:09",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 754-2025-09-19": {
     "flightNumber": "PC 754",
-    "status": "تأخير",
-    "actualTime": "00:50",
+    "status": "وصلت",
+    "actualTime": "00:55",
     "type": "arivl",
     "airlineCode": "PC"
   },
@@ -1149,8 +1107,8 @@
   },
   "VF 543-2025-09-20": {
     "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "01:10",
+    "status": "وصلت",
+    "actualTime": "01:06",
     "type": "arivl",
     "airlineCode": "VF"
   },
@@ -1350,19 +1308,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "VF 1043-2025-09-20": {
-    "flightNumber": "VF 1043",
-    "status": "ألغيت",
-    "actualTime": "15:40",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "LH 1306-2025-09-20": {
     "flightNumber": "LH 1306",
     "status": "",
     "actualTime": "15:40",
     "type": "arivl",
     "airlineCode": "LH"
+  },
+  "VF 1043-2025-09-20": {
+    "flightNumber": "VF 1043",
+    "status": "ألغيت",
+    "actualTime": "15:40",
+    "type": "arivl",
+    "airlineCode": "VF"
   },
   "RJ 405-2025-09-20": {
     "flightNumber": "RJ 405",
