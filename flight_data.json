@@ -1,25 +1,4 @@
 {
-  "ME 402-2025-09-19": {
-    "flightNumber": "ME 402",
-    "status": "تم فتح البوابة",
-    "actualTime": "18:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "QR 427-2025-09-19": {
-    "flightNumber": "QR 427",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "19:13",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
-  "MS 712-2025-09-19": {
-    "flightNumber": "MS 712",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "19:28",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "J9 262-2025-09-19": {
     "flightNumber": "J9 262",
     "status": "تم اغلاق البوابة",
@@ -1098,13 +1077,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 419-2025-09-19": {
-    "flightNumber": "ME 419",
-    "status": "وصلت",
-    "actualTime": "22:37",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 262-2025-09-19": {
     "flightNumber": "ME 262",
     "status": "وصلت",
@@ -1170,7 +1142,7 @@
   },
   "PC 1826-2025-09-20": {
     "flightNumber": "PC 1826",
-    "status": "تبكير",
+    "status": "وصلت",
     "actualTime": "00:30",
     "type": "arivl",
     "airlineCode": "PC"
@@ -1226,8 +1198,8 @@
   },
   "ME 204-2025-09-20": {
     "flightNumber": "ME 204",
-    "status": "",
-    "actualTime": "04:45",
+    "status": "تبكير",
+    "actualTime": "04:20",
     "type": "arivl",
     "airlineCode": "ME"
   },
