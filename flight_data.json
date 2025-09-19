@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "ME 312-2025-09-19": {
-    "flightNumber": "ME 312",
-    "status": "غادرت",
-    "actualTime": "16:12",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "LH 1307-2025-09-19": {
     "flightNumber": "LH 1307",
     "status": "",
@@ -43,21 +36,21 @@
   },
   "ME 203-2025-09-19": {
     "flightNumber": "ME 203",
-    "status": "",
-    "actualTime": "17:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:56",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "UF 004-2025-09-19": {
     "flightNumber": "UF 004",
-    "status": "",
-    "actualTime": "17:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:48",
     "type": "dprtr",
     "airlineCode": "UF"
   },
   "IA 1302-2025-09-19": {
     "flightNumber": "IA 1302",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:30",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -792,8 +785,8 @@
   },
   "IA 1301-2025-09-19": {
     "flightNumber": "IA 1301",
-    "status": "",
-    "actualTime": "16:30",
+    "status": "وصلت",
+    "actualTime": "16:55",
     "type": "arivl",
     "airlineCode": "IA"
   },
