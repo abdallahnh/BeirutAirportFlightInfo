@@ -43,7 +43,7 @@
   },
   "ME 368-2025-09-19": {
     "flightNumber": "ME 368",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "18:05",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -55,23 +55,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 326-2025-09-19": {
-    "flightNumber": "ME 326",
-    "status": "غادرت",
-    "actualTime": "18:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 306-2025-09-19": {
-    "flightNumber": "ME 306",
-    "status": "غادرت",
-    "actualTime": "17:37",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EK 954-2025-09-19": {
     "flightNumber": "EK 954",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:40",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -692,13 +678,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "LH 1306-2025-09-19": {
-    "flightNumber": "LH 1306",
-    "status": "وصلت",
-    "actualTime": "16:21",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "ME 248-2025-09-19": {
     "flightNumber": "ME 248",
     "status": "وصلت",
@@ -1104,6 +1083,13 @@
     "actualTime": "11:50",
     "type": "arivl",
     "airlineCode": "G9"
+  },
+  "ET 3406-2025-09-20": {
+    "flightNumber": "ET 3406",
+    "status": "",
+    "actualTime": "12:00",
+    "type": "arivl",
+    "airlineCode": "ET"
   },
   "ME 266-2025-09-20": {
     "flightNumber": "ME 266",
