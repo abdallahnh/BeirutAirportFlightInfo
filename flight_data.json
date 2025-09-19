@@ -1,18 +1,4 @@
 {
-  "PC 1822-2025-09-20": {
-    "flightNumber": "PC 1822",
-    "status": "",
-    "actualTime": "05:20",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "PC 1827-2025-09-20": {
-    "flightNumber": "PC 1827",
-    "status": "غادرت",
-    "actualTime": "01:01",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "VF 544-2025-09-20": {
     "flightNumber": "VF 544",
     "status": "تم اغلاق البوابة",
@@ -1035,27 +1021,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "PC 754-2025-09-19": {
-    "flightNumber": "PC 754",
-    "status": "وصلت",
-    "actualTime": "00:55",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "ME 369-2025-09-19": {
-    "flightNumber": "ME 369",
-    "status": "وصلت",
-    "actualTime": "23:56",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 429-2025-09-19": {
-    "flightNumber": "ME 429",
-    "status": "وصلت",
-    "actualTime": "00:03",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 1826-2025-09-20": {
     "flightNumber": "PC 1826",
     "status": "وصلت",
@@ -1072,8 +1037,8 @@
   },
   "LO 143-2025-09-20": {
     "flightNumber": "LO 143",
-    "status": "",
-    "actualTime": "02:15",
+    "status": "وصلت",
+    "actualTime": "02:03",
     "type": "arivl",
     "airlineCode": "LO"
   },
@@ -1118,6 +1083,13 @@
     "actualTime": "04:20",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "PC 1822-2025-09-20": {
+    "flightNumber": "PC 1822",
+    "status": "",
+    "actualTime": "05:20",
+    "type": "arivl",
+    "airlineCode": "PC"
   },
   "RJ 407-2025-09-20": {
     "flightNumber": "RJ 407",
