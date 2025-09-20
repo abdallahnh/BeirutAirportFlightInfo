@@ -6,20 +6,6 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "ME 225-2025-09-20": {
-    "flightNumber": "ME 225",
-    "status": "غادرت",
-    "actualTime": "05:21",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 235-2025-09-20": {
-    "flightNumber": "ME 235",
-    "status": "غادرت",
-    "actualTime": "06:03",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 247-2025-09-20": {
     "flightNumber": "ME 247",
     "status": "الصعود الى الطائرة",
@@ -36,28 +22,28 @@
   },
   "ME 304-2025-09-20": {
     "flightNumber": "ME 304",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "06:31",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 217-2025-09-20": {
     "flightNumber": "ME 217",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:20",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:45",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 213-2025-09-20": {
     "flightNumber": "ME 213",
-    "status": "",
-    "actualTime": "07:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:42",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 426-2025-09-20": {
     "flightNumber": "ME 426",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:30",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -71,7 +57,7 @@
   },
   "ME 211-2025-09-20": {
     "flightNumber": "ME 211",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -206,7 +192,7 @@
     "flightNumber": "ME 264",
     "status": "",
     "actualTime": "14:35",
-    "type": "dprtr",
+    "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 436-2025-09-20": {
@@ -1063,13 +1049,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 425-2025-09-20": {
-    "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "AF 564-2025-09-20": {
     "flightNumber": "AF 564",
     "status": "",
@@ -1602,19 +1581,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "AF 564-2025-09-21": {
-    "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
-    "type": "arivl",
-    "airlineCode": "AF"
-  },
   "AH 4016-2025-09-21": {
     "flightNumber": "AH 4016",
     "status": "",
     "actualTime": "14:20",
     "type": "arivl",
     "airlineCode": "AH"
+  },
+  "AF 564-2025-09-21": {
+    "flightNumber": "AF 564",
+    "status": "",
+    "actualTime": "14:20",
+    "type": "arivl",
+    "airlineCode": "AF"
   },
   "TK 824-2025-09-21": {
     "flightNumber": "TK 824",
