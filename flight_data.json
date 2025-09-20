@@ -55,17 +55,10 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "IA 132-2025-09-20": {
-    "flightNumber": "IA 132",
-    "status": "غادرت",
-    "actualTime": "12:06",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "ME 229-2025-09-20": {
     "flightNumber": "ME 229",
-    "status": "",
-    "actualTime": "13:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:29",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -832,13 +825,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "CY 120-2025-09-20": {
-    "flightNumber": "CY 120",
-    "status": "وصلت",
-    "actualTime": "10:30",
-    "type": "arivl",
-    "airlineCode": "CY"
-  },
   "UF 001-2025-09-20": {
     "flightNumber": "UF 001",
     "status": "وصلت",
@@ -1399,19 +1385,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "AF 564-2025-09-21": {
-    "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
-    "type": "arivl",
-    "airlineCode": "AF"
-  },
   "AH 4016-2025-09-21": {
     "flightNumber": "AH 4016",
     "status": "",
     "actualTime": "14:20",
     "type": "arivl",
     "airlineCode": "AH"
+  },
+  "AF 564-2025-09-21": {
+    "flightNumber": "AF 564",
+    "status": "",
+    "actualTime": "14:20",
+    "type": "arivl",
+    "airlineCode": "AF"
   },
   "TK 824-2025-09-21": {
     "flightNumber": "TK 824",
