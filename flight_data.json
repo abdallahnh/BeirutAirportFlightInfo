@@ -22,7 +22,7 @@
   },
   "MS 710-2025-09-20": {
     "flightNumber": "MS 710",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:42",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -50,15 +50,15 @@
   },
   "UF 002-2025-09-20": {
     "flightNumber": "UF 002",
-    "status": "",
+    "status": "النداء الاخير",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "UF"
   },
   "IA 132-2025-09-20": {
     "flightNumber": "IA 132",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:06",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -335,13 +335,6 @@
     "type": "dprtr",
     "airlineCode": "LH"
   },
-  "VF 544-2025-09-21": {
-    "flightNumber": "VF 544",
-    "status": "",
-    "actualTime": "02:00",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
   "PC 759-2025-09-21": {
     "flightNumber": "PC 759",
     "status": "",
@@ -369,13 +362,6 @@
     "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "ET"
-  },
-  "RO 168-2025-09-21": {
-    "flightNumber": "RO 168",
-    "status": "",
-    "actualTime": "04:05",
-    "type": "dprtr",
-    "airlineCode": "RO"
   },
   "PC 757-2025-09-21": {
     "flightNumber": "PC 757",
@@ -883,7 +869,7 @@
   },
   "G9 385-2025-09-20": {
     "flightNumber": "G9 385",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "11:50",
     "type": "arivl",
     "airlineCode": "G9"
@@ -979,19 +965,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 1301-2025-09-20": {
-    "flightNumber": "IA 1301",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "UF 003-2025-09-20": {
     "flightNumber": "UF 003",
     "status": "",
     "actualTime": "16:30",
     "type": "arivl",
     "airlineCode": "UF"
+  },
+  "IA 1301-2025-09-20": {
+    "flightNumber": "IA 1301",
+    "status": "",
+    "actualTime": "16:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "ME 214-2025-09-20": {
     "flightNumber": "ME 214",
@@ -1210,13 +1196,6 @@
     "type": "arivl",
     "airlineCode": "QR"
   },
-  "VF 543-2025-09-21": {
-    "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "01:10",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "PC 758-2025-09-21": {
     "flightNumber": "PC 758",
     "status": "",
@@ -1244,13 +1223,6 @@
     "actualTime": "03:00",
     "type": "arivl",
     "airlineCode": "ET"
-  },
-  "RO 167-2025-09-21": {
-    "flightNumber": "RO 167",
-    "status": "",
-    "actualTime": "03:05",
-    "type": "arivl",
-    "airlineCode": "RO"
   },
   "PC 756-2025-09-21": {
     "flightNumber": "PC 756",
