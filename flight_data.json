@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "CY"
   },
-  "MS 712-2025-09-21": {
-    "flightNumber": "MS 712",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "19:39",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "QR 427-2025-09-21": {
     "flightNumber": "QR 427",
     "status": "تم اغلاق البوابة",
@@ -22,15 +15,15 @@
   },
   "PC 1825-2025-09-21": {
     "flightNumber": "PC 1825",
-    "status": "",
-    "actualTime": "20:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:24",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "ME 261-2025-09-21": {
     "flightNumber": "ME 261",
-    "status": "تم فتح البوابة",
-    "actualTime": "20:55",
+    "status": "النداء الاخير",
+    "actualTime": "20:19",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -559,40 +552,12 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "QR 426-2025-09-21": {
-    "flightNumber": "QR 426",
-    "status": "وصلت",
-    "actualTime": "18:18",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
-  "ME 212-2025-09-21": {
-    "flightNumber": "ME 212",
-    "status": "",
-    "actualTime": "18:55",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "MS 711-2025-09-21": {
-    "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "19:10",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "ME 202-2025-09-21": {
     "flightNumber": "ME 202",
     "status": "وصلت",
     "actualTime": "20:05",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "CY 120-2025-09-21": {
-    "flightNumber": "CY 120",
-    "status": "وصلت",
-    "actualTime": "18:37",
-    "type": "arivl",
-    "airlineCode": "CY"
   },
   "PC 1824-2025-09-21": {
     "flightNumber": "PC 1824",
@@ -617,15 +582,15 @@
   },
   "RJ 403-2025-09-21": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "20:35",
+    "status": "وصلت",
+    "actualTime": "20:13",
     "type": "arivl",
     "airlineCode": "RJ"
   },
   "J9 261-2025-09-21": {
     "flightNumber": "J9 261",
-    "status": "",
-    "actualTime": "20:35",
+    "status": "وصلت",
+    "actualTime": "20:23",
     "type": "arivl",
     "airlineCode": "J9"
   },
