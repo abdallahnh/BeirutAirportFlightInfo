@@ -1,21 +1,7 @@
 {
-  "ME 326-2025-09-21": {
-    "flightNumber": "ME 326",
-    "status": "النداء الاخير",
-    "actualTime": "17:29",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 253-2025-09-21": {
-    "flightNumber": "ME 253",
-    "status": "النداء الاخير",
-    "actualTime": "18:06",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EK 954-2025-09-21": {
     "flightNumber": "EK 954",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "18:39",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -36,8 +22,8 @@
   },
   "QR 427-2025-09-21": {
     "flightNumber": "QR 427",
-    "status": "",
-    "actualTime": "20:20",
+    "status": "النداء الاخير",
+    "actualTime": "19:31",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -580,33 +566,12 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "ME 218-2025-09-21": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "17:23",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "EK 953-2025-09-21": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:23",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "QR 426-2025-09-21": {
     "flightNumber": "QR 426",
     "status": "وصلت",
     "actualTime": "18:18",
     "type": "arivl",
     "airlineCode": "QR"
-  },
-  "CY 120-2025-09-21": {
-    "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "18:50",
-    "type": "arivl",
-    "airlineCode": "CY"
   },
   "ME 212-2025-09-21": {
     "flightNumber": "ME 212",
@@ -628,6 +593,13 @@
     "actualTime": "19:35",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "CY 120-2025-09-21": {
+    "flightNumber": "CY 120",
+    "status": "وصلت",
+    "actualTime": "18:37",
+    "type": "arivl",
+    "airlineCode": "CY"
   },
   "PC 1824-2025-09-21": {
     "flightNumber": "PC 1824",
