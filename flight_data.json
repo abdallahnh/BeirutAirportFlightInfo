@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 134-2025-09-21": {
-    "flightNumber": "IA 134",
-    "status": "غادرت",
-    "actualTime": "10:45",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "IA 136-2025-09-21": {
     "flightNumber": "IA 136",
     "status": "غادرت",
@@ -22,8 +15,8 @@
   },
   "MS 710-2025-09-21": {
     "flightNumber": "MS 710",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:15",
+    "status": "النداء الاخير",
+    "actualTime": "10:41",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -36,7 +29,7 @@
   },
   "ME 263-2025-09-21": {
     "flightNumber": "ME 263",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:45",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -883,8 +876,8 @@
   },
   "IA 1305-2025-09-21": {
     "flightNumber": "IA 1305",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "وصلت",
+    "actualTime": "10:48",
     "type": "arivl",
     "airlineCode": "IA"
   },
