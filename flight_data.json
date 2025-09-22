@@ -15,7 +15,7 @@
   },
   "ME 422-2025-09-22": {
     "flightNumber": "ME 422",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:50",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -36,15 +36,15 @@
   },
   "EK 954-2025-09-22": {
     "flightNumber": "EK 954",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:27",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "QR 427-2025-09-22": {
     "flightNumber": "QR 427",
-    "status": "تم فتح البوابة",
-    "actualTime": "20:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:25",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -57,7 +57,7 @@
   },
   "RJ 404-2025-09-22": {
     "flightNumber": "RJ 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:40",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -580,40 +580,12 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 214-2025-09-22": {
-    "flightNumber": "ME 214",
-    "status": "وصلت",
-    "actualTime": "17:03",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 216-2025-09-22": {
     "flightNumber": "ME 216",
     "status": "وصلت",
     "actualTime": "17:55",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "ME 218-2025-09-22": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "17:10",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 405-2025-09-22": {
-    "flightNumber": "ME 405",
-    "status": "وصلت",
-    "actualTime": "17:10",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "EK 953-2025-09-22": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:23",
-    "type": "arivl",
-    "airlineCode": "EK"
   },
   "QR 426-2025-09-22": {
     "flightNumber": "QR 426",
@@ -624,15 +596,15 @@
   },
   "ME 212-2025-09-22": {
     "flightNumber": "ME 212",
-    "status": "تأخير",
-    "actualTime": "19:25",
+    "status": "وصلت",
+    "actualTime": "19:19",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "MS 711-2025-09-22": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "19:10",
+    "status": "وصلت",
+    "actualTime": "19:04",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -645,8 +617,8 @@
   },
   "RJ 403-2025-09-22": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "19:40",
+    "status": "وصلت",
+    "actualTime": "19:08",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -666,8 +638,8 @@
   },
   "ME 313-2025-09-22": {
     "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "تبكير",
+    "actualTime": "19:35",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -715,8 +687,8 @@
   },
   "ME 437-2025-09-22": {
     "flightNumber": "ME 437",
-    "status": "",
-    "actualTime": "21:55",
+    "status": "تبكير",
+    "actualTime": "21:30",
     "type": "arivl",
     "airlineCode": "ME"
   },
