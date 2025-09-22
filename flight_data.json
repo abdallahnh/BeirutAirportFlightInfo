@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 422-2025-09-22": {
-    "flightNumber": "ME 422",
-    "status": "غادرت",
-    "actualTime": "19:43",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 306-2025-09-22": {
     "flightNumber": "ME 306",
     "status": "تم اغلاق البوابة",
@@ -43,14 +36,14 @@
   },
   "MS 712-2025-09-22": {
     "flightNumber": "MS 712",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "19:49",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "RJ 404-2025-09-22": {
     "flightNumber": "RJ 404",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "19:54",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -85,7 +78,7 @@
   },
   "TK 827-2025-09-22": {
     "flightNumber": "TK 827",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "22:05",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -566,13 +559,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "QR 426-2025-09-22": {
-    "flightNumber": "QR 426",
-    "status": "وصلت",
-    "actualTime": "18:20",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "ME 212-2025-09-22": {
     "flightNumber": "ME 212",
     "status": "وصلت",
@@ -645,8 +631,8 @@
   },
   "TK 826-2025-09-22": {
     "flightNumber": "TK 826",
-    "status": "",
-    "actualTime": "20:55",
+    "status": "وصلت",
+    "actualTime": "20:21",
     "type": "arivl",
     "airlineCode": "TK"
   },
