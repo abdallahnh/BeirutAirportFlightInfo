@@ -27,37 +27,30 @@
     "type": "dprtr",
     "airlineCode": "AF"
   },
-  "ME 428-2025-09-22": {
-    "flightNumber": "ME 428",
-    "status": "غادرت",
-    "actualTime": "15:50",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 312-2025-09-22": {
     "flightNumber": "ME 312",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "16:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "LH 1307-2025-09-22": {
     "flightNumber": "LH 1307",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:33",
     "type": "dprtr",
     "airlineCode": "LH"
   },
   "ME 7275-2025-09-22": {
     "flightNumber": "ME 7275",
-    "status": "",
-    "actualTime": "17:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:39",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "UF 004-2025-09-22": {
     "flightNumber": "UF 004",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:30",
     "type": "dprtr",
     "airlineCode": "UF"
@@ -643,27 +636,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "TK 824-2025-09-22": {
-    "flightNumber": "TK 824",
-    "status": "وصلت",
-    "actualTime": "14:41",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "AF 564-2025-09-22": {
-    "flightNumber": "AF 564",
-    "status": "وصلت",
-    "actualTime": "14:44",
-    "type": "arivl",
-    "airlineCode": "AF"
-  },
-  "ME 365-2025-09-22": {
-    "flightNumber": "ME 365",
-    "status": "وصلت",
-    "actualTime": "14:35",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 427-2025-09-22": {
     "flightNumber": "ME 427",
     "status": "وصلت",
@@ -708,15 +680,15 @@
   },
   "UF 003-2025-09-22": {
     "flightNumber": "UF 003",
-    "status": "",
-    "actualTime": "16:30",
+    "status": "وصلت",
+    "actualTime": "16:35",
     "type": "arivl",
     "airlineCode": "UF"
   },
   "IA 1301-2025-09-22": {
     "flightNumber": "IA 1301",
-    "status": "",
-    "actualTime": "16:30",
+    "status": "وصلت",
+    "actualTime": "16:44",
     "type": "arivl",
     "airlineCode": "IA"
   },
