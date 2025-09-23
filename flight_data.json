@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 426-2025-09-23": {
-    "flightNumber": "ME 426",
-    "status": "غادرت",
-    "actualTime": "06:54",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 310-2025-09-23": {
     "flightNumber": "ME 310",
     "status": "تم اغلاق البوابة",
@@ -29,7 +22,7 @@
   },
   "ME 211-2025-09-23": {
     "flightNumber": "ME 211",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "07:21",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -181,19 +174,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 825-2025-09-23": {
-    "flightNumber": "TK 825",
-    "status": "",
-    "actualTime": "15:55",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "ME 322-2025-09-23": {
     "flightNumber": "ME 322",
     "status": "",
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "TK 825-2025-09-23": {
+    "flightNumber": "TK 825",
+    "status": "",
+    "actualTime": "15:55",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "AF 565-2025-09-23": {
     "flightNumber": "AF 565",
@@ -1630,19 +1623,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "PC 1824-2025-09-24": {
-    "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "20:00",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "ME 323-2025-09-24": {
     "flightNumber": "ME 323",
     "status": "",
     "actualTime": "20:00",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "PC 1824-2025-09-24": {
+    "flightNumber": "PC 1824",
+    "status": "",
+    "actualTime": "20:00",
+    "type": "arivl",
+    "airlineCode": "PC"
   },
   "ME 313-2025-09-24": {
     "flightNumber": "ME 313",
