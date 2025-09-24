@@ -15,15 +15,15 @@
   },
   "QR 417-2025-09-24": {
     "flightNumber": "QR 417",
-    "status": "تم فتح البوابة",
-    "actualTime": "13:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:46",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "ME 229-2025-09-24": {
     "flightNumber": "ME 229",
-    "status": "",
-    "actualTime": "13:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:47",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -774,13 +774,6 @@
     "status": "",
     "actualTime": "23:05",
     "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 311-2025-09-24": {
-    "flightNumber": "ME 311",
-    "status": "وصلت",
-    "actualTime": "10:47",
-    "type": "arivl",
     "airlineCode": "ME"
   },
   "IA 131-2025-09-24": {
@@ -1560,19 +1553,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "J9 261-2025-09-25": {
-    "flightNumber": "J9 261",
-    "status": "",
-    "actualTime": "20:35",
-    "type": "arivl",
-    "airlineCode": "J9"
-  },
   "RJ 403-2025-09-25": {
     "flightNumber": "RJ 403",
     "status": "",
     "actualTime": "20:35",
     "type": "arivl",
     "airlineCode": "RJ"
+  },
+  "J9 261-2025-09-25": {
+    "flightNumber": "J9 261",
+    "status": "",
+    "actualTime": "20:35",
+    "type": "arivl",
+    "airlineCode": "J9"
   },
   "TK 826-2025-09-25": {
     "flightNumber": "TK 826",
