@@ -8,7 +8,7 @@
   },
   "ET 407-2025-09-25": {
     "flightNumber": "ET 407",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -216,19 +216,19 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
-  "G9 386-2025-09-25": {
-    "flightNumber": "G9 386",
-    "status": "",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "IA 132-2025-09-25": {
     "flightNumber": "IA 132",
     "status": "",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "G9 386-2025-09-25": {
+    "flightNumber": "G9 386",
+    "status": "",
+    "actualTime": "12:30",
+    "type": "dprtr",
+    "airlineCode": "G9"
   },
   "LH 8355-2025-09-25": {
     "flightNumber": "LH 8355",
@@ -1000,34 +1000,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 230-2025-09-24": {
-    "flightNumber": "ME 230",
-    "status": "وصلت",
-    "actualTime": "00:04",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "LH 1308-2025-09-24": {
-    "flightNumber": "LH 1308",
-    "status": "وصلت",
-    "actualTime": "00:17",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
-  "ME 429-2025-09-24": {
-    "flightNumber": "ME 429",
-    "status": "وصلت",
-    "actualTime": "00:06",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "QR 418-2025-09-25": {
-    "flightNumber": "QR 418",
-    "status": "وصلت",
-    "actualTime": "23:57",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "PC 1826-2025-09-25": {
     "flightNumber": "PC 1826",
     "status": "",
@@ -1051,8 +1023,8 @@
   },
   "TK 828-2025-09-25": {
     "flightNumber": "TK 828",
-    "status": "",
-    "actualTime": "02:30",
+    "status": "وصلت",
+    "actualTime": "02:16",
     "type": "arivl",
     "airlineCode": "TK"
   },
