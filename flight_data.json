@@ -13,23 +13,9 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
-  "IA 132-2025-09-24": {
-    "flightNumber": "IA 132",
-    "status": "غادرت",
-    "actualTime": "11:58",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "G9 386-2025-09-24": {
-    "flightNumber": "G9 386",
-    "status": "غادرت",
-    "actualTime": "12:12",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "QR 417-2025-09-24": {
     "flightNumber": "QR 417",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:05",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -789,13 +775,6 @@
     "actualTime": "23:05",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "MS 709-2025-09-24": {
-    "flightNumber": "MS 709",
-    "status": "وصلت",
-    "actualTime": "10:44",
-    "type": "arivl",
-    "airlineCode": "MS"
   },
   "ME 311-2025-09-24": {
     "flightNumber": "ME 311",
@@ -1560,19 +1539,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 323-2025-09-25": {
-    "flightNumber": "ME 323",
-    "status": "",
-    "actualTime": "20:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 1824-2025-09-25": {
     "flightNumber": "PC 1824",
     "status": "",
     "actualTime": "20:00",
     "type": "arivl",
     "airlineCode": "PC"
+  },
+  "ME 323-2025-09-25": {
+    "flightNumber": "ME 323",
+    "status": "",
+    "actualTime": "20:00",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "ME 313-2025-09-25": {
     "flightNumber": "ME 313",
@@ -1581,19 +1560,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "RJ 403-2025-09-25": {
-    "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "20:35",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "J9 261-2025-09-25": {
     "flightNumber": "J9 261",
     "status": "",
     "actualTime": "20:35",
     "type": "arivl",
     "airlineCode": "J9"
+  },
+  "RJ 403-2025-09-25": {
+    "flightNumber": "RJ 403",
+    "status": "",
+    "actualTime": "20:35",
+    "type": "arivl",
+    "airlineCode": "RJ"
   },
   "TK 826-2025-09-25": {
     "flightNumber": "TK 826",
