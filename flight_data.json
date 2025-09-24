@@ -13,23 +13,16 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
-  "ME 304-2025-09-24": {
-    "flightNumber": "ME 304",
-    "status": "غادرت",
-    "actualTime": "11:35",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "IA 132-2025-09-24": {
     "flightNumber": "IA 132",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:58",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "G9 386-2025-09-24": {
     "flightNumber": "G9 386",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "12:12",
     "type": "dprtr",
     "airlineCode": "G9"
@@ -1567,6 +1560,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "ME 323-2025-09-25": {
+    "flightNumber": "ME 323",
+    "status": "",
+    "actualTime": "20:00",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
   "PC 1824-2025-09-25": {
     "flightNumber": "PC 1824",
     "status": "",
@@ -1576,13 +1576,6 @@
   },
   "ME 313-2025-09-25": {
     "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "20:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 323-2025-09-25": {
-    "flightNumber": "ME 323",
     "status": "",
     "actualTime": "20:00",
     "type": "arivl",
