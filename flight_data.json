@@ -29,7 +29,7 @@
   },
   "ME 312-2025-09-25": {
     "flightNumber": "ME 312",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "16:06",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -50,14 +50,14 @@
   },
   "RJ 406-2025-09-25": {
     "flightNumber": "RJ 406",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:25",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "UF 004-2025-09-25": {
     "flightNumber": "UF 004",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:30",
     "type": "dprtr",
     "airlineCode": "UF"
@@ -78,7 +78,7 @@
   },
   "ME 267-2025-09-25": {
     "flightNumber": "ME 267",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:35",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -692,34 +692,6 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "AH 4016-2025-09-25": {
-    "flightNumber": "AH 4016",
-    "status": "وصلت",
-    "actualTime": "14:29",
-    "type": "arivl",
-    "airlineCode": "AH"
-  },
-  "AF 564-2025-09-25": {
-    "flightNumber": "AF 564",
-    "status": "وصلت",
-    "actualTime": "14:19",
-    "type": "arivl",
-    "airlineCode": "AF"
-  },
-  "TK 824-2025-09-25": {
-    "flightNumber": "TK 824",
-    "status": "وصلت",
-    "actualTime": "14:34",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "ME 365-2025-09-25": {
-    "flightNumber": "ME 365",
-    "status": "وصلت",
-    "actualTime": "14:31",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 427-2025-09-25": {
     "flightNumber": "ME 427",
     "status": "وصلت",
@@ -757,8 +729,8 @@
   },
   "IA 139-2025-09-25": {
     "flightNumber": "IA 139",
-    "status": "",
-    "actualTime": "16:00",
+    "status": "تأخير",
+    "actualTime": "16:50",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -771,8 +743,8 @@
   },
   "UF 003-2025-09-25": {
     "flightNumber": "UF 003",
-    "status": "",
-    "actualTime": "16:30",
+    "status": "وصلت",
+    "actualTime": "16:39",
     "type": "arivl",
     "airlineCode": "UF"
   },
