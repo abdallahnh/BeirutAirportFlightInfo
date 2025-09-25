@@ -36,8 +36,8 @@
   },
   "FZ 158-2025-09-25": {
     "flightNumber": "FZ 158",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:51",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -180,13 +180,6 @@
     "actualTime": "16:25",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "IA 136-2025-09-25": {
-    "flightNumber": "IA 136",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
   },
   "ME 312-2025-09-25": {
     "flightNumber": "ME 312",
@@ -1049,13 +1042,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 135-2025-09-25": {
-    "flightNumber": "IA 135",
-    "status": "",
-    "actualTime": "15:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "LH 1306-2025-09-25": {
     "flightNumber": "LH 1306",
     "status": "",
@@ -1070,19 +1056,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 321-2025-09-25": {
-    "flightNumber": "ME 321",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 139-2025-09-25": {
     "flightNumber": "IA 139",
     "status": "",
     "actualTime": "16:00",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "ME 321-2025-09-25": {
+    "flightNumber": "ME 321",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "RJ 405-2025-09-25": {
     "flightNumber": "RJ 405",
