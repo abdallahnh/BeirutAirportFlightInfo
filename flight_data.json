@@ -36,21 +36,21 @@
   },
   "FZ 160-2025-09-25": {
     "flightNumber": "FZ 160",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "22:06",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
   "G9 388-2025-09-25": {
     "flightNumber": "G9 388",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "PC 765-2025-09-25": {
     "flightNumber": "PC 765",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "23:05",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -64,7 +64,7 @@
   },
   "LH 1309-2025-09-26": {
     "flightNumber": "LH 1309",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "01:50",
     "type": "dprtr",
     "airlineCode": "LH"
@@ -524,13 +524,6 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "J9 261-2025-09-25": {
-    "flightNumber": "J9 261",
-    "status": "وصلت",
-    "actualTime": "20:26",
-    "type": "arivl",
-    "airlineCode": "J9"
-  },
   "TK 826-2025-09-25": {
     "flightNumber": "TK 826",
     "status": "وصلت",
@@ -568,7 +561,7 @@
   },
   "PC 764-2025-09-25": {
     "flightNumber": "PC 764",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "22:00",
     "type": "arivl",
     "airlineCode": "PC"
@@ -645,7 +638,7 @@
   },
   "LH 1308-2025-09-25": {
     "flightNumber": "LH 1308",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "23:55",
     "type": "arivl",
     "airlineCode": "LH"
@@ -811,15 +804,15 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 425-2025-09-26": {
-    "flightNumber": "ME 425",
+  "ME 405-2025-09-26": {
+    "flightNumber": "ME 405",
     "status": "",
     "actualTime": "14:15",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 405-2025-09-26": {
-    "flightNumber": "ME 405",
+  "ME 425-2025-09-26": {
+    "flightNumber": "ME 425",
     "status": "",
     "actualTime": "14:15",
     "type": "arivl",
