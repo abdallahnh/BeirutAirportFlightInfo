@@ -36,8 +36,8 @@
   },
   "QR 419-2025-09-26": {
     "flightNumber": "QR 419",
-    "status": "",
-    "actualTime": "01:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "00:57",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -50,7 +50,7 @@
   },
   "ME 571-2025-09-26": {
     "flightNumber": "ME 571",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -69,19 +69,19 @@
     "type": "dprtr",
     "airlineCode": "ET"
   },
-  "ET 417-2025-09-26": {
-    "flightNumber": "ET 417",
-    "status": "",
-    "actualTime": "03:55",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "TK 829-2025-09-26": {
     "flightNumber": "TK 829",
     "status": "",
     "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "TK"
+  },
+  "ET 417-2025-09-26": {
+    "flightNumber": "ET 417",
+    "status": "",
+    "actualTime": "03:55",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "PC 757-2025-09-26": {
     "flightNumber": "PC 757",
@@ -1027,20 +1027,6 @@
     "actualTime": "02:45",
     "type": "arivl",
     "airlineCode": "KU"
-  },
-  "ME 419-2025-09-25": {
-    "flightNumber": "ME 419",
-    "status": "وصلت",
-    "actualTime": "22:52",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 262-2025-09-25": {
-    "flightNumber": "ME 262",
-    "status": "وصلت",
-    "actualTime": "22:50",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 443-2025-09-25": {
     "flightNumber": "ME 443",
