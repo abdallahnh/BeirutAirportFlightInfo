@@ -36,7 +36,7 @@
   },
   "QR 419-2025-09-26": {
     "flightNumber": "QR 419",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "00:57",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -69,19 +69,19 @@
     "type": "dprtr",
     "airlineCode": "ET"
   },
-  "ET 417-2025-09-26": {
-    "flightNumber": "ET 417",
-    "status": "",
-    "actualTime": "03:55",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "TK 829-2025-09-26": {
     "flightNumber": "TK 829",
     "status": "",
     "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "TK"
+  },
+  "ET 417-2025-09-26": {
+    "flightNumber": "ET 417",
+    "status": "",
+    "actualTime": "03:55",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "PC 757-2025-09-26": {
     "flightNumber": "PC 757",
@@ -1027,13 +1027,6 @@
     "actualTime": "02:45",
     "type": "arivl",
     "airlineCode": "KU"
-  },
-  "ME 230-2025-09-25": {
-    "flightNumber": "ME 230",
-    "status": "وصلت",
-    "actualTime": "23:45",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "LH 1308-2025-09-25": {
     "flightNumber": "LH 1308",
