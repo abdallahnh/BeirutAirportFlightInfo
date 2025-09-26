@@ -48,19 +48,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "QR 427-2025-09-26": {
-    "flightNumber": "QR 427",
-    "status": "النداء الاخير",
-    "actualTime": "19:21",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "MS 712-2025-09-26": {
     "flightNumber": "MS 712",
-    "status": "تم فتح البوابة",
+    "status": "غادرت",
     "actualTime": "20:25",
     "type": "dprtr",
     "airlineCode": "MS"
+  },
+  "RJ 404-2025-09-26": {
+    "flightNumber": "RJ 404",
+    "status": "النداء الاخير",
+    "actualTime": "20:45",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "PC 1825-2025-09-26": {
     "flightNumber": "PC 1825",
@@ -69,17 +69,10 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "RJ 404-2025-09-26": {
-    "flightNumber": "RJ 404",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "19:51",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 261-2025-09-26": {
     "flightNumber": "ME 261",
-    "status": "",
-    "actualTime": "20:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:11",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -90,19 +83,19 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "TK 827-2025-09-26": {
-    "flightNumber": "TK 827",
-    "status": "",
-    "actualTime": "21:50",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "CY 121-2025-09-26": {
     "flightNumber": "CY 121",
     "status": "",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
+  },
+  "TK 827-2025-09-26": {
+    "flightNumber": "TK 827",
+    "status": "",
+    "actualTime": "21:50",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "FZ 160-2025-09-26": {
     "flightNumber": "FZ 160",
@@ -656,13 +649,6 @@
     "actualTime": "16:50",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "QR 426-2025-09-26": {
-    "flightNumber": "QR 426",
-    "status": "وصلت",
-    "actualTime": "18:08",
-    "type": "arivl",
-    "airlineCode": "QR"
   },
   "ME 212-2025-09-26": {
     "flightNumber": "ME 212",
