@@ -106,21 +106,21 @@
   },
   "QR 419-2025-09-27": {
     "flightNumber": "QR 419",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "00:52",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "PC 1827-2025-09-27": {
     "flightNumber": "PC 1827",
-    "status": "تم فتح البوابة",
-    "actualTime": "01:50",
+    "status": "غادرت",
+    "actualTime": "01:13",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "LH 1309-2025-09-27": {
     "flightNumber": "LH 1309",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "00:58",
     "type": "dprtr",
     "airlineCode": "LH"
@@ -134,8 +134,8 @@
   },
   "ME 575-2025-09-27": {
     "flightNumber": "ME 575",
-    "status": "تم فتح البوابة",
-    "actualTime": "02:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:23",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -1119,24 +1119,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "PC 754-2025-09-26": {
-    "flightNumber": "PC 754",
-    "status": "وصلت",
-    "actualTime": "23:19",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "ME 423-2025-09-26": {
     "flightNumber": "ME 423",
     "status": "وصلت",
     "actualTime": "23:32",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 369-2025-09-26": {
-    "flightNumber": "ME 369",
-    "status": "وصلت",
-    "actualTime": "23:25",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1308,19 +1294,19 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "UF 001-2025-09-27": {
-    "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 131-2025-09-27": {
     "flightNumber": "IA 131",
     "status": "",
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "UF 001-2025-09-27": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "QR 416-2025-09-27": {
     "flightNumber": "QR 416",
