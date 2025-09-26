@@ -1,18 +1,4 @@
 {
-  "MS 710-2025-09-26": {
-    "flightNumber": "MS 710",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "11:30",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
-  "RJ 402-2025-09-26": {
-    "flightNumber": "RJ 402",
-    "status": "ألغيت",
-    "actualTime": "12:20",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "IA 132-2025-09-26": {
     "flightNumber": "IA 132",
     "status": "",
@@ -279,19 +265,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ET 407-2025-09-27": {
-    "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "03:05",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "PC 759-2025-09-27": {
     "flightNumber": "PC 759",
     "status": "",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "PC"
+  },
+  "ET 407-2025-09-27": {
+    "flightNumber": "ET 407",
+    "status": "",
+    "actualTime": "03:05",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "LO 144-2025-09-27": {
     "flightNumber": "LO 144",
@@ -757,15 +743,15 @@
   },
   "ME 252-2025-09-26": {
     "flightNumber": "ME 252",
-    "status": "تأخير",
-    "actualTime": "14:35",
+    "status": "وصلت",
+    "actualTime": "14:24",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 425-2025-09-26": {
     "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
+    "status": "وصلت",
+    "actualTime": "14:19",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -785,8 +771,8 @@
   },
   "TK 824-2025-09-26": {
     "flightNumber": "TK 824",
-    "status": "",
-    "actualTime": "14:40",
+    "status": "وصلت",
+    "actualTime": "14:27",
     "type": "arivl",
     "airlineCode": "TK"
   },
