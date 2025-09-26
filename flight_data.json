@@ -85,21 +85,21 @@
   },
   "SK 2828-2025-09-26": {
     "flightNumber": "SK 2828",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "22:19",
     "type": "dprtr",
     "airlineCode": "SK"
   },
   "G9 388-2025-09-26": {
     "flightNumber": "G9 388",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "22:33",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "PC 765-2025-09-26": {
     "flightNumber": "PC 765",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "22:25",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -622,20 +622,6 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "ME 242-2025-09-26": {
-    "flightNumber": "ME 242",
-    "status": "وصلت",
-    "actualTime": "20:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "CY 120-2025-09-26": {
-    "flightNumber": "CY 120",
-    "status": "وصلت",
-    "actualTime": "20:41",
-    "type": "arivl",
-    "airlineCode": "CY"
-  },
   "TK 826-2025-09-26": {
     "flightNumber": "TK 826",
     "status": "وصلت",
@@ -741,19 +727,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "LH 1308-2025-09-26": {
-    "flightNumber": "LH 1308",
-    "status": "",
-    "actualTime": "23:55",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "ME 230-2025-09-26": {
     "flightNumber": "ME 230",
     "status": "",
     "actualTime": "23:55",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "LH 1308-2025-09-26": {
+    "flightNumber": "LH 1308",
+    "status": "",
+    "actualTime": "23:55",
+    "type": "arivl",
+    "airlineCode": "LH"
   },
   "ME 429-2025-09-26": {
     "flightNumber": "ME 429",
