@@ -64,7 +64,7 @@
   },
   "TK 827-2025-09-26": {
     "flightNumber": "TK 827",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "22:15",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -85,22 +85,22 @@
   },
   "SK 2828-2025-09-26": {
     "flightNumber": "SK 2828",
-    "status": "تم فتح البوابة",
-    "actualTime": "23:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "22:19",
     "type": "dprtr",
     "airlineCode": "SK"
   },
   "G9 388-2025-09-26": {
     "flightNumber": "G9 388",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "PC 765-2025-09-26": {
     "flightNumber": "PC 765",
-    "status": "",
-    "actualTime": "23:05",
+    "status": "النداء الاخير",
+    "actualTime": "22:25",
     "type": "dprtr",
     "airlineCode": "PC"
   },
@@ -622,26 +622,12 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "PC 1824-2025-09-26": {
-    "flightNumber": "PC 1824",
-    "status": "وصلت",
-    "actualTime": "20:18",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "ME 242-2025-09-26": {
     "flightNumber": "ME 242",
     "status": "وصلت",
     "actualTime": "20:45",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "J9 261-2025-09-26": {
-    "flightNumber": "J9 261",
-    "status": "وصلت",
-    "actualTime": "20:20",
-    "type": "arivl",
-    "airlineCode": "J9"
   },
   "CY 120-2025-09-26": {
     "flightNumber": "CY 120",
@@ -698,6 +684,13 @@
     "actualTime": "21:44",
     "type": "arivl",
     "airlineCode": "PC"
+  },
+  "ME 327-2025-09-26": {
+    "flightNumber": "ME 327",
+    "status": "وصلت",
+    "actualTime": "22:28",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "G9 387-2025-09-26": {
     "flightNumber": "G9 387",
