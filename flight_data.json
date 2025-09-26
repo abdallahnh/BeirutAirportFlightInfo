@@ -134,7 +134,7 @@
   },
   "ME 575-2025-09-27": {
     "flightNumber": "ME 575",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "01:23",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -1119,13 +1119,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 423-2025-09-26": {
-    "flightNumber": "ME 423",
-    "status": "وصلت",
-    "actualTime": "23:32",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 264-2025-09-26": {
     "flightNumber": "ME 264",
     "status": "",
@@ -1177,8 +1170,8 @@
   },
   "VF 543-2025-09-27": {
     "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "01:10",
+    "status": "وصلت",
+    "actualTime": "01:41",
     "type": "arivl",
     "airlineCode": "VF"
   },
@@ -1294,19 +1287,19 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "IA 131-2025-09-27": {
-    "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "UF 001-2025-09-27": {
     "flightNumber": "UF 001",
     "status": "",
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "UF"
+  },
+  "IA 131-2025-09-27": {
+    "flightNumber": "IA 131",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "QR 416-2025-09-27": {
     "flightNumber": "QR 416",
