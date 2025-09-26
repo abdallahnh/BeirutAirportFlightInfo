@@ -22,7 +22,7 @@
   },
   "ME 418-2025-09-26": {
     "flightNumber": "ME 418",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "16:06",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -71,7 +71,7 @@
   },
   "TK 827-2025-09-26": {
     "flightNumber": "TK 827",
-    "status": "تأخير",
+    "status": "تم فتح البوابة",
     "actualTime": "22:30",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -85,14 +85,14 @@
   },
   "FZ 160-2025-09-26": {
     "flightNumber": "FZ 160",
-    "status": "تم فتح البوابة",
-    "actualTime": "22:40",
+    "status": "النداء الاخير",
+    "actualTime": "21:48",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
   "SK 2828-2025-09-26": {
     "flightNumber": "SK 2828",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "SK"
@@ -629,20 +629,6 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "ME 218-2025-09-26": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "19:50",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 202-2025-09-26": {
-    "flightNumber": "ME 202",
-    "status": "وصلت",
-    "actualTime": "19:50",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 1824-2025-09-26": {
     "flightNumber": "PC 1824",
     "status": "وصلت",
@@ -708,7 +694,7 @@
   },
   "SK 2827-2025-09-26": {
     "flightNumber": "SK 2827",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "21:48",
     "type": "arivl",
     "airlineCode": "SK"
@@ -729,8 +715,8 @@
   },
   "ME 268-2025-09-26": {
     "flightNumber": "ME 268",
-    "status": "",
-    "actualTime": "22:25",
+    "status": "تبكير",
+    "actualTime": "22:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -757,8 +743,8 @@
   },
   "ME 403-2025-09-26": {
     "flightNumber": "ME 403",
-    "status": "",
-    "actualTime": "23:35",
+    "status": "تبكير",
+    "actualTime": "23:05",
     "type": "arivl",
     "airlineCode": "ME"
   },
