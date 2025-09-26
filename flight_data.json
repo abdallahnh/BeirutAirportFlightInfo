@@ -50,7 +50,7 @@
   },
   "ME 424-2025-09-26": {
     "flightNumber": "ME 424",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "07:59",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -64,14 +64,14 @@
   },
   "ME 251-2025-09-26": {
     "flightNumber": "ME 251",
-    "status": "",
-    "actualTime": "09:10",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "08:31",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 241-2025-09-26": {
     "flightNumber": "ME 241",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -113,7 +113,7 @@
   },
   "RJ 402-2025-09-26": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -223,19 +223,19 @@
     "type": "dprtr",
     "airlineCode": "LH"
   },
-  "UF 004-2025-09-26": {
-    "flightNumber": "UF 004",
-    "status": "",
-    "actualTime": "17:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "IA 1302-2025-09-26": {
     "flightNumber": "IA 1302",
     "status": "",
     "actualTime": "17:30",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "UF 004-2025-09-26": {
+    "flightNumber": "UF 004",
+    "status": "",
+    "actualTime": "17:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
   },
   "ME 267-2025-09-26": {
     "flightNumber": "ME 267",
@@ -258,15 +258,15 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 402-2025-09-26": {
-    "flightNumber": "ME 402",
+  "ME 326-2025-09-26": {
+    "flightNumber": "ME 326",
     "status": "",
     "actualTime": "18:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 326-2025-09-26": {
-    "flightNumber": "ME 326",
+  "ME 402-2025-09-26": {
+    "flightNumber": "ME 402",
     "status": "",
     "actualTime": "18:00",
     "type": "dprtr",
@@ -890,8 +890,8 @@
   },
   "TK 830-2025-09-26": {
     "flightNumber": "TK 830",
-    "status": "",
-    "actualTime": "08:30",
+    "status": "وصلت",
+    "actualTime": "08:26",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -925,7 +925,7 @@
   },
   "RJ 401-2025-09-26": {
     "flightNumber": "RJ 401",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "11:25",
     "type": "arivl",
     "airlineCode": "RJ"
