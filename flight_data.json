@@ -50,14 +50,14 @@
   },
   "EK 954-2025-09-26": {
     "flightNumber": "EK 954",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:43",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "QR 427-2025-09-26": {
     "flightNumber": "QR 427",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:05",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -657,13 +657,6 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "IA 1301-2025-09-26": {
-    "flightNumber": "IA 1301",
-    "status": "وصلت",
-    "actualTime": "17:06",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 218-2025-09-26": {
     "flightNumber": "ME 218",
     "status": "",
@@ -708,8 +701,8 @@
   },
   "RJ 403-2025-09-26": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "19:40",
+    "status": "وصلت",
+    "actualTime": "19:06",
     "type": "arivl",
     "airlineCode": "RJ"
   },
