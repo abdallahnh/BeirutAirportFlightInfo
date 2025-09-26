@@ -34,13 +34,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "ME 310-2025-09-26": {
-    "flightNumber": "ME 310",
-    "status": "غادرت",
-    "actualTime": "07:02",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 302-2025-09-26": {
     "flightNumber": "ME 302",
     "status": "تم اغلاق البوابة",
@@ -48,31 +41,24 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 211-2025-09-26": {
-    "flightNumber": "ME 211",
-    "status": "غادرت",
-    "actualTime": "07:12",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 201-2025-09-26": {
     "flightNumber": "ME 201",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "07:39",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 424-2025-09-26": {
     "flightNumber": "ME 424",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:30",
+    "status": "النداء الاخير",
+    "actualTime": "07:59",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 404-2025-09-26": {
     "flightNumber": "ME 404",
-    "status": "",
-    "actualTime": "08:40",
+    "status": "النداء الاخير",
+    "actualTime": "08:02",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -97,19 +83,19 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
+  "MS 710-2025-09-26": {
+    "flightNumber": "MS 710",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "dprtr",
+    "airlineCode": "MS"
+  },
   "ME 320-2025-09-26": {
     "flightNumber": "ME 320",
     "status": "",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "MS 710-2025-09-26": {
-    "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "12:05",
-    "type": "dprtr",
-    "airlineCode": "MS"
   },
   "EK 958-2025-09-26": {
     "flightNumber": "EK 958",
@@ -901,13 +887,6 @@
     "actualTime": "23:05",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "RJ 407-2025-09-26": {
-    "flightNumber": "RJ 407",
-    "status": "وصلت",
-    "actualTime": "06:03",
-    "type": "arivl",
-    "airlineCode": "RJ"
   },
   "TK 830-2025-09-26": {
     "flightNumber": "TK 830",
