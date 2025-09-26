@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "EY 582-2025-09-26": {
-    "flightNumber": "EY 582",
-    "status": "غادرت",
-    "actualTime": "13:15",
-    "type": "dprtr",
-    "airlineCode": "EY"
-  },
   "ME 436-2025-09-26": {
     "flightNumber": "ME 436",
     "status": "",
@@ -57,7 +50,7 @@
   },
   "AF 565-2025-09-26": {
     "flightNumber": "AF 565",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "AF"
@@ -286,19 +279,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "PC 759-2025-09-27": {
-    "flightNumber": "PC 759",
-    "status": "",
-    "actualTime": "03:05",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "ET 407-2025-09-27": {
     "flightNumber": "ET 407",
     "status": "",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "ET"
+  },
+  "PC 759-2025-09-27": {
+    "flightNumber": "PC 759",
+    "status": "",
+    "actualTime": "03:05",
+    "type": "dprtr",
+    "airlineCode": "PC"
   },
   "LO 144-2025-09-27": {
     "flightNumber": "LO 144",
@@ -762,13 +755,6 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "EY 581-2025-09-26": {
-    "flightNumber": "EY 581",
-    "status": "وصلت",
-    "actualTime": "11:56",
-    "type": "arivl",
-    "airlineCode": "EY"
-  },
   "ME 252-2025-09-26": {
     "flightNumber": "ME 252",
     "status": "تأخير",
@@ -792,8 +778,8 @@
   },
   "AF 564-2025-09-26": {
     "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "وصلت",
+    "actualTime": "13:59",
     "type": "arivl",
     "airlineCode": "AF"
   },
