@@ -76,13 +76,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 1304-2025-09-27": {
-    "flightNumber": "IA 1304",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "AF 565-2025-09-27": {
     "flightNumber": "AF 565",
     "status": "",
@@ -278,13 +271,6 @@
     "actualTime": "01:50",
     "type": "dprtr",
     "airlineCode": "LH"
-  },
-  "VF 544-2025-09-28": {
-    "flightNumber": "VF 544",
-    "status": "",
-    "actualTime": "02:00",
-    "type": "dprtr",
-    "airlineCode": "VF"
   },
   "PC 759-2025-09-28": {
     "flightNumber": "PC 759",
@@ -846,13 +832,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 1303-2025-09-27": {
-    "flightNumber": "IA 1303",
-    "status": "",
-    "actualTime": "15:00",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 236-2025-09-27": {
     "flightNumber": "ME 236",
     "status": "",
@@ -1140,13 +1119,6 @@
     "type": "arivl",
     "airlineCode": "QR"
   },
-  "VF 543-2025-09-28": {
-    "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "01:10",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "PC 758-2025-09-28": {
     "flightNumber": "PC 758",
     "status": "",
@@ -1214,6 +1186,13 @@
     "flightNumber": "TK 830",
     "status": "",
     "actualTime": "08:35",
+    "type": "arivl",
+    "airlineCode": "TK"
+  },
+  "TK 6156-2025-09-28": {
+    "flightNumber": "TK 6156",
+    "status": "",
+    "actualTime": "09:30",
     "type": "arivl",
     "airlineCode": "TK"
   },
