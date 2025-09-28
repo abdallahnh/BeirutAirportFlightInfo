@@ -1,11 +1,4 @@
 {
-  "UF 004-2025-09-28": {
-    "flightNumber": "UF 004",
-    "status": "",
-    "actualTime": "17:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "IA 1302-2025-09-28": {
     "flightNumber": "IA 1302",
     "status": "النداء الاخير",
@@ -13,9 +6,16 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
+  "UF 004-2025-09-28": {
+    "flightNumber": "UF 004",
+    "status": "",
+    "actualTime": "17:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
+  },
   "ME 306-2025-09-28": {
     "flightNumber": "ME 306",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:34",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -29,7 +29,7 @@
   },
   "CY 121-2025-09-28": {
     "flightNumber": "CY 121",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:50",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -289,7 +289,7 @@
   "MS 710-2025-09-29": {
     "flightNumber": "MS 710",
     "status": "",
-    "actualTime": "11:30",
+    "actualTime": "11:15",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -545,13 +545,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 248-2025-09-28": {
-    "flightNumber": "ME 248",
-    "status": "وصلت",
-    "actualTime": "16:39",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "UF 003-2025-09-28": {
     "flightNumber": "UF 003",
     "status": "وصلت",
@@ -596,8 +589,8 @@
   },
   "MS 711-2025-09-28": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "19:10",
+    "status": "وصلت",
+    "actualTime": "18:45",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -842,7 +835,7 @@
   "MS 709-2025-09-29": {
     "flightNumber": "MS 709",
     "status": "",
-    "actualTime": "10:30",
+    "actualTime": "10:15",
     "type": "arivl",
     "airlineCode": "MS"
   },
