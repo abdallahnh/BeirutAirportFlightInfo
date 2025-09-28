@@ -1,32 +1,4 @@
 {
-  "ME 217-2025-09-28": {
-    "flightNumber": "ME 217",
-    "status": "النداء الاخير",
-    "actualTime": "08:11",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 426-2025-09-28": {
-    "flightNumber": "ME 426",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "RJ 408-2025-09-28": {
-    "flightNumber": "RJ 408",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:43",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
-  "ME 310-2025-09-28": {
-    "flightNumber": "ME 310",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:09",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2025-09-28": {
     "flightNumber": "TK 831",
     "status": "تم اغلاق البوابة",
@@ -50,7 +22,7 @@
   },
   "EK 958-2025-09-28": {
     "flightNumber": "EK 958",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:13",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -83,19 +55,19 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
-  "IA 132-2025-09-28": {
-    "flightNumber": "IA 132",
-    "status": "",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "G9 386-2025-09-28": {
     "flightNumber": "G9 386",
     "status": "تم فتح البوابة",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "G9"
+  },
+  "IA 132-2025-09-28": {
+    "flightNumber": "IA 132",
+    "status": "تم فتح البوابة",
+    "actualTime": "12:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "QR 417-2025-09-28": {
     "flightNumber": "QR 417",
@@ -925,8 +897,8 @@
   },
   "G9 385-2025-09-28": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "11:50",
+    "status": "وصلت",
+    "actualTime": "11:29",
     "type": "arivl",
     "airlineCode": "G9"
   },
