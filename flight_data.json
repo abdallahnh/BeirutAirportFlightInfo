@@ -230,19 +230,19 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
-  "G9 386-2025-09-29": {
-    "flightNumber": "G9 386",
-    "status": "",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "IA 132-2025-09-29": {
     "flightNumber": "IA 132",
     "status": "",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "G9 386-2025-09-29": {
+    "flightNumber": "G9 386",
+    "status": "",
+    "actualTime": "12:30",
+    "type": "dprtr",
+    "airlineCode": "G9"
   },
   "QR 417-2025-09-29": {
     "flightNumber": "QR 417",
@@ -948,13 +948,6 @@
     "flightNumber": "ME 254",
     "status": "وصلت",
     "actualTime": "23:15",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 262-2025-09-28": {
-    "flightNumber": "ME 262",
-    "status": "وصلت",
-    "actualTime": "22:58",
     "type": "arivl",
     "airlineCode": "ME"
   },
