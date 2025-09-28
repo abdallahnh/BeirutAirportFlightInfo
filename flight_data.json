@@ -50,14 +50,14 @@
   },
   "LH 1307-2025-09-28": {
     "flightNumber": "LH 1307",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "16:34",
     "type": "dprtr",
     "airlineCode": "LH"
   },
   "IA 140-2025-09-28": {
     "flightNumber": "IA 140",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "16:39",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -113,7 +113,7 @@
   },
   "ME 326-2025-09-28": {
     "flightNumber": "ME 326",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "18:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -692,19 +692,19 @@
     "type": "arivl",
     "airlineCode": "KU"
   },
-  "VF 1043-2025-09-28": {
-    "flightNumber": "VF 1043",
-    "status": "وصلت",
-    "actualTime": "16:04",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "LH 1306-2025-09-28": {
     "flightNumber": "LH 1306",
     "status": "وصلت",
     "actualTime": "15:57",
     "type": "arivl",
     "airlineCode": "LH"
+  },
+  "VF 1043-2025-09-28": {
+    "flightNumber": "VF 1043",
+    "status": "وصلت",
+    "actualTime": "16:04",
+    "type": "arivl",
+    "airlineCode": "VF"
   },
   "ME 309-2025-09-28": {
     "flightNumber": "ME 309",
@@ -888,15 +888,15 @@
     "type": "arivl",
     "airlineCode": "G9"
   },
-  "ME 327-2025-09-28": {
-    "flightNumber": "ME 327",
+  "ME 268-2025-09-28": {
+    "flightNumber": "ME 268",
     "status": "",
     "actualTime": "22:25",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 268-2025-09-28": {
-    "flightNumber": "ME 268",
+  "ME 327-2025-09-28": {
+    "flightNumber": "ME 327",
     "status": "",
     "actualTime": "22:25",
     "type": "arivl",
