@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "UF 004-2025-09-28": {
-    "flightNumber": "UF 004",
-    "status": "",
-    "actualTime": "17:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "EK 954-2025-09-28": {
     "flightNumber": "EK 954",
     "status": "النداء الاخير",
@@ -34,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "MS 712-2025-09-28": {
-    "flightNumber": "MS 712",
-    "status": "غادرت",
-    "actualTime": "19:15",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "PC 1825-2025-09-28": {
     "flightNumber": "PC 1825",
     "status": "",
@@ -50,21 +36,21 @@
   },
   "ME 261-2025-09-28": {
     "flightNumber": "ME 261",
-    "status": "",
-    "actualTime": "20:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:06",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "J9 262-2025-09-28": {
     "flightNumber": "J9 262",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:20",
     "type": "dprtr",
     "airlineCode": "J9"
   },
   "RJ 404-2025-09-28": {
     "flightNumber": "RJ 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:30",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -538,27 +524,6 @@
     "type": "arivl",
     "airlineCode": "UF"
   },
-  "ME 218-2025-09-28": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "18:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "EK 953-2025-09-28": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:56",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
-  "QR 426-2025-09-28": {
-    "flightNumber": "QR 426",
-    "status": "وصلت",
-    "actualTime": "18:10",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "CY 120-2025-09-28": {
     "flightNumber": "CY 120",
     "status": "وصلت",
@@ -589,7 +554,7 @@
   },
   "PC 1824-2025-09-28": {
     "flightNumber": "PC 1824",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "19:59",
     "type": "arivl",
     "airlineCode": "PC"
