@@ -1,18 +1,4 @@
 {
-  "TK 831-2025-09-28": {
-    "flightNumber": "TK 831",
-    "status": "غادرت",
-    "actualTime": "09:04",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "IA 136-2025-09-28": {
-    "flightNumber": "IA 136",
-    "status": "غادرت",
-    "actualTime": "10:46",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "ME 320-2025-09-28": {
     "flightNumber": "ME 320",
     "status": "تم فتح البوابة",
@@ -29,7 +15,7 @@
   },
   "UF 002-2025-09-28": {
     "flightNumber": "UF 002",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "13:49",
     "type": "dprtr",
     "airlineCode": "UF"
@@ -734,19 +720,26 @@
     "type": "arivl",
     "airlineCode": "UF"
   },
-  "ME 425-2025-09-28": {
-    "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
+  "ME 405-2025-09-28": {
+    "flightNumber": "ME 405",
+    "status": "وصلت",
+    "actualTime": "14:03",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 405-2025-09-28": {
-    "flightNumber": "ME 405",
-    "status": "",
-    "actualTime": "14:15",
+  "ME 425-2025-09-28": {
+    "flightNumber": "ME 425",
+    "status": "وصلت",
+    "actualTime": "14:07",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "AF 564-2025-09-28": {
+    "flightNumber": "AF 564",
+    "status": "وصلت",
+    "actualTime": "14:11",
+    "type": "arivl",
+    "airlineCode": "AF"
   },
   "AH 4016-2025-09-28": {
     "flightNumber": "AH 4016",
@@ -754,13 +747,6 @@
     "actualTime": "14:20",
     "type": "arivl",
     "airlineCode": "AH"
-  },
-  "AF 564-2025-09-28": {
-    "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
-    "type": "arivl",
-    "airlineCode": "AF"
   },
   "TK 824-2025-09-28": {
     "flightNumber": "TK 824",
@@ -1112,13 +1098,6 @@
     "type": "arivl",
     "airlineCode": "ET"
   },
-  "RO 167-2025-09-29": {
-    "flightNumber": "RO 167",
-    "status": "",
-    "actualTime": "03:05",
-    "type": "arivl",
-    "airlineCode": "RO"
-  },
   "PC 762-2025-09-29": {
     "flightNumber": "PC 762",
     "status": "",
@@ -1266,13 +1245,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "VF 1043-2025-09-29": {
-    "flightNumber": "VF 1043",
-    "status": "",
-    "actualTime": "15:40",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "LH 1306-2025-09-29": {
     "flightNumber": "LH 1306",
     "status": "",
@@ -1282,6 +1254,13 @@
   },
   "ME 305-2025-09-29": {
     "flightNumber": "ME 305",
+    "status": "",
+    "actualTime": "15:50",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 226-2025-09-29": {
+    "flightNumber": "ME 226",
     "status": "",
     "actualTime": "15:50",
     "type": "arivl",
@@ -1381,7 +1360,7 @@
   "ME 323-2025-09-29": {
     "flightNumber": "ME 323",
     "status": "",
-    "actualTime": "20:00",
+    "actualTime": "21:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1462,6 +1441,13 @@
     "type": "arivl",
     "airlineCode": "VF"
   },
+  "RJ 050-2025-09-29": {
+    "flightNumber": "RJ 050",
+    "status": "",
+    "actualTime": "22:15",
+    "type": "arivl",
+    "airlineCode": "RJ"
+  },
   "ME 268-2025-09-29": {
     "flightNumber": "ME 268",
     "status": "",
@@ -1480,20 +1466,6 @@
     "flightNumber": "ME 262",
     "status": "",
     "actualTime": "23:05",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 403-2025-09-29": {
-    "flightNumber": "ME 403",
-    "status": "",
-    "actualTime": "23:25",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 230-2025-09-29": {
-    "flightNumber": "ME 230",
-    "status": "",
-    "actualTime": "23:25",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1518,12 +1490,12 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "EK 955-2025-09-29": {
-    "flightNumber": "EK 955",
+  "ME 230-2025-09-29": {
+    "flightNumber": "ME 230",
     "status": "",
-    "actualTime": "23:50",
+    "actualTime": "23:55",
     "type": "arivl",
-    "airlineCode": "EK"
+    "airlineCode": "ME"
   },
   "LH 1308-2025-09-29": {
     "flightNumber": "LH 1308",
