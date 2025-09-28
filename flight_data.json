@@ -1,7 +1,7 @@
 {
   "AH 4017-2025-09-28": {
     "flightNumber": "AH 4017",
-    "status": "تأخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "15:36",
     "type": "dprtr",
     "airlineCode": "AH"
@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "AF 565-2025-09-28": {
-    "flightNumber": "AF 565",
-    "status": "غادرت",
-    "actualTime": "15:07",
-    "type": "dprtr",
-    "airlineCode": "AF"
-  },
   "IA 138-2025-09-28": {
     "flightNumber": "IA 138",
     "status": "النداء الاخير",
@@ -36,22 +29,22 @@
   },
   "ME 428-2025-09-28": {
     "flightNumber": "ME 428",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:25",
+    "status": "النداء الاخير",
+    "actualTime": "16:10",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "KU 502-2025-09-28": {
     "flightNumber": "KU 502",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "15:40",
     "type": "dprtr",
     "airlineCode": "KU"
   },
   "VF 1044-2025-09-28": {
     "flightNumber": "VF 1044",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:30",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "16:05",
     "type": "dprtr",
     "airlineCode": "VF"
   },
@@ -71,7 +64,7 @@
   },
   "IA 140-2025-09-28": {
     "flightNumber": "IA 140",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:00",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -99,7 +92,7 @@
   },
   "ME 267-2025-09-28": {
     "flightNumber": "ME 267",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:35",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -664,33 +657,12 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "ME 425-2025-09-28": {
-    "flightNumber": "ME 425",
-    "status": "وصلت",
-    "actualTime": "14:07",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 405-2025-09-28": {
-    "flightNumber": "ME 405",
-    "status": "وصلت",
-    "actualTime": "14:03",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "AH 4016-2025-09-28": {
     "flightNumber": "AH 4016",
     "status": "وصلت",
     "actualTime": "15:11",
     "type": "arivl",
     "airlineCode": "AH"
-  },
-  "AF 564-2025-09-28": {
-    "flightNumber": "AF 564",
-    "status": "وصلت",
-    "actualTime": "14:11",
-    "type": "arivl",
-    "airlineCode": "AF"
   },
   "TK 824-2025-09-28": {
     "flightNumber": "TK 824",
@@ -729,8 +701,8 @@
   },
   "VF 1043-2025-09-28": {
     "flightNumber": "VF 1043",
-    "status": "",
-    "actualTime": "15:40",
+    "status": "وصلت",
+    "actualTime": "16:04",
     "type": "arivl",
     "airlineCode": "VF"
   },
