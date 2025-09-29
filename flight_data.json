@@ -20,16 +20,9 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "AF 565-2025-09-29": {
-    "flightNumber": "AF 565",
-    "status": "النداء الاخير",
-    "actualTime": "16:22",
-    "type": "dprtr",
-    "airlineCode": "AF"
-  },
   "ME 428-2025-09-29": {
     "flightNumber": "ME 428",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "16:34",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -43,14 +36,14 @@
   },
   "LH 1307-2025-09-29": {
     "flightNumber": "LH 1307",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "16:34",
     "type": "dprtr",
     "airlineCode": "LH"
   },
   "ME 322-2025-09-29": {
     "flightNumber": "ME 322",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "16:43",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -64,7 +57,7 @@
   },
   "IA 1302-2025-09-29": {
     "flightNumber": "IA 1302",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "16:52",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -78,14 +71,14 @@
   },
   "ME 368-2025-09-29": {
     "flightNumber": "ME 368",
-    "status": "",
-    "actualTime": "17:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:10",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 422-2025-09-29": {
     "flightNumber": "ME 422",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:50",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -715,8 +708,8 @@
   },
   "ME 214-2025-09-29": {
     "flightNumber": "ME 214",
-    "status": "",
-    "actualTime": "16:35",
+    "status": "وصلت",
+    "actualTime": "16:56",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -729,14 +722,14 @@
   },
   "ME 218-2025-09-29": {
     "flightNumber": "ME 218",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "16:53",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "EK 953-2025-09-29": {
     "flightNumber": "EK 953",
-    "status": "تبكير",
+    "status": "وصلت",
     "actualTime": "17:15",
     "type": "arivl",
     "airlineCode": "EK"
