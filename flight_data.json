@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 136-2025-09-30": {
-    "flightNumber": "IA 136",
-    "status": "غادرت",
-    "actualTime": "10:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "FZ 158-2025-09-30": {
     "flightNumber": "FZ 158",
     "status": "تم اغلاق البوابة",
@@ -29,22 +22,22 @@
   },
   "MS 710-2025-09-30": {
     "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "11:15",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "10:54",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "CY 121-2025-09-30": {
     "flightNumber": "CY 121",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:50",
+    "status": "النداء الاخير",
+    "actualTime": "11:05",
     "type": "dprtr",
     "airlineCode": "CY"
   },
   "ME 320-2025-09-30": {
     "flightNumber": "ME 320",
-    "status": "",
-    "actualTime": "11:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:18",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -64,14 +57,14 @@
   },
   "ME 304-2025-09-30": {
     "flightNumber": "ME 304",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 402-2025-09-30": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -827,8 +820,8 @@
   },
   "RJ 401-2025-09-30": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "11:20",
+    "status": "وصلت",
+    "actualTime": "10:54",
     "type": "arivl",
     "airlineCode": "RJ"
   },
