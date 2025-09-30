@@ -1637,13 +1637,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 425-2025-10-02": {
-    "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 405-2025-10-02": {
     "flightNumber": "ME 405",
     "status": "",
@@ -1651,12 +1644,12 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "AH 4016-2025-10-02": {
-    "flightNumber": "AH 4016",
+  "ME 425-2025-10-02": {
+    "flightNumber": "ME 425",
     "status": "",
-    "actualTime": "14:20",
+    "actualTime": "14:15",
     "type": "arivl",
-    "airlineCode": "AH"
+    "airlineCode": "ME"
   },
   "AF 564-2025-10-02": {
     "flightNumber": "AF 564",
@@ -1664,6 +1657,13 @@
     "actualTime": "14:20",
     "type": "arivl",
     "airlineCode": "AF"
+  },
+  "AH 4016-2025-10-02": {
+    "flightNumber": "AH 4016",
+    "status": "",
+    "actualTime": "14:20",
+    "type": "arivl",
+    "airlineCode": "AH"
   },
   "TK 824-2025-10-02": {
     "flightNumber": "TK 824",
