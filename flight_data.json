@@ -1,18 +1,4 @@
 {
-  "TK 825-2025-09-30": {
-    "flightNumber": "TK 825",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "14:58",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "IA 140-2025-09-30": {
-    "flightNumber": "IA 140",
-    "status": "النداء الاخير",
-    "actualTime": "17:10",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "UF 004-2025-09-30": {
     "flightNumber": "UF 004",
     "status": "Ferry Flt.",
@@ -20,30 +6,16 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
-  "IA 1302-2025-09-30": {
-    "flightNumber": "IA 1302",
-    "status": "غادرت",
-    "actualTime": "17:06",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "ME 442-2025-09-30": {
-    "flightNumber": "ME 442",
-    "status": "غادرت",
-    "actualTime": "17:35",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 267-2025-09-30": {
     "flightNumber": "ME 267",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:41",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 422-2025-09-30": {
     "flightNumber": "ME 422",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "17:21",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -573,24 +545,10 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "LH 1306-2025-09-30": {
-    "flightNumber": "LH 1306",
-    "status": "وصلت",
-    "actualTime": "15:45",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "ME 305-2025-09-30": {
     "flightNumber": "ME 305",
     "status": "وصلت",
     "actualTime": "16:34",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 321-2025-09-30": {
-    "flightNumber": "ME 321",
-    "status": "وصلت",
-    "actualTime": "15:43",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -636,19 +594,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "EY 583-2025-09-30": {
-    "flightNumber": "EY 583",
-    "status": "وصلت",
-    "actualTime": "17:12",
-    "type": "arivl",
-    "airlineCode": "EY"
-  },
   "EK 953-2025-09-30": {
     "flightNumber": "EK 953",
     "status": "وصلت",
     "actualTime": "17:23",
     "type": "arivl",
     "airlineCode": "EK"
+  },
+  "EY 583-2025-09-30": {
+    "flightNumber": "EY 583",
+    "status": "وصلت",
+    "actualTime": "17:12",
+    "type": "arivl",
+    "airlineCode": "EY"
   },
   "QR 426-2025-09-30": {
     "flightNumber": "QR 426",
@@ -678,19 +636,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 313-2025-09-30": {
-    "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "20:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 1824-2025-09-30": {
     "flightNumber": "PC 1824",
     "status": "",
     "actualTime": "20:00",
     "type": "arivl",
     "airlineCode": "PC"
+  },
+  "ME 313-2025-09-30": {
+    "flightNumber": "ME 313",
+    "status": "",
+    "actualTime": "20:00",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "ME 576-2025-09-30": {
     "flightNumber": "ME 576",
@@ -699,19 +657,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "J9 261-2025-09-30": {
-    "flightNumber": "J9 261",
-    "status": "",
-    "actualTime": "20:35",
-    "type": "arivl",
-    "airlineCode": "J9"
-  },
   "RJ 403-2025-09-30": {
     "flightNumber": "RJ 403",
     "status": "",
     "actualTime": "20:35",
     "type": "arivl",
     "airlineCode": "RJ"
+  },
+  "J9 261-2025-09-30": {
+    "flightNumber": "J9 261",
+    "status": "",
+    "actualTime": "20:35",
+    "type": "arivl",
+    "airlineCode": "J9"
   },
   "TK 826-2025-09-30": {
     "flightNumber": "TK 826",
@@ -755,15 +713,15 @@
     "type": "arivl",
     "airlineCode": "SK"
   },
-  "ME 268-2025-09-30": {
-    "flightNumber": "ME 268",
+  "ME 327-2025-09-30": {
+    "flightNumber": "ME 327",
     "status": "",
     "actualTime": "22:25",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 327-2025-09-30": {
-    "flightNumber": "ME 327",
+  "ME 268-2025-09-30": {
+    "flightNumber": "ME 268",
     "status": "",
     "actualTime": "22:25",
     "type": "arivl",
