@@ -22,8 +22,8 @@
   },
   "RJ 402-2025-10-01": {
     "flightNumber": "RJ 402",
-    "status": "",
-    "actualTime": "10:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:03",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -36,7 +36,7 @@
   },
   "EK 958-2025-10-01": {
     "flightNumber": "EK 958",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:05",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -251,19 +251,19 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "TK 827-2025-10-01": {
-    "flightNumber": "TK 827",
-    "status": "",
-    "actualTime": "21:50",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "CY 121-2025-10-01": {
     "flightNumber": "CY 121",
     "status": "",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
+  },
+  "TK 827-2025-10-01": {
+    "flightNumber": "TK 827",
+    "status": "",
+    "actualTime": "22:25",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "FZ 160-2025-10-01": {
     "flightNumber": "FZ 160",
@@ -804,17 +804,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 830-2025-10-01": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:06",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "IA 137-2025-10-01": {
     "flightNumber": "IA 137",
-    "status": "",
-    "actualTime": "09:45",
+    "status": "وصلت",
+    "actualTime": "10:01",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -834,15 +827,15 @@
   },
   "MS 709-2025-10-01": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "10:15",
+    "status": "وصلت",
+    "actualTime": "10:11",
     "type": "arivl",
     "airlineCode": "MS"
   },
   "ME 311-2025-10-01": {
     "flightNumber": "ME 311",
-    "status": "",
-    "actualTime": "11:00",
+    "status": "تبكير",
+    "actualTime": "10:30",
     "type": "arivl",
     "airlineCode": "ME"
   },
