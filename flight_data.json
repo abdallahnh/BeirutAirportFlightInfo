@@ -43,8 +43,8 @@
   },
   "TK 827-2025-10-01": {
     "flightNumber": "TK 827",
-    "status": "تم فتح البوابة",
-    "actualTime": "22:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "21:48",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -69,6 +69,13 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
+  "LH 1309-2025-10-02": {
+    "flightNumber": "LH 1309",
+    "status": "",
+    "actualTime": "01:50",
+    "type": "dprtr",
+    "airlineCode": "LH"
+  },
   "VF 544-2025-10-02": {
     "flightNumber": "VF 544",
     "status": "",
@@ -82,13 +89,6 @@
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "ET"
-  },
-  "LH 1309-2025-10-02": {
-    "flightNumber": "LH 1309",
-    "status": "",
-    "actualTime": "03:30",
-    "type": "dprtr",
-    "airlineCode": "LH"
   },
   "TK 829-2025-10-02": {
     "flightNumber": "TK 829",
@@ -617,15 +617,15 @@
   },
   "ME 307-2025-10-01": {
     "flightNumber": "ME 307",
-    "status": "",
-    "actualTime": "21:50",
+    "status": "وصلت",
+    "actualTime": "21:48",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 437-2025-10-01": {
     "flightNumber": "ME 437",
-    "status": "",
-    "actualTime": "21:55",
+    "status": "وصلت",
+    "actualTime": "21:39",
     "type": "arivl",
     "airlineCode": "ME"
   },
