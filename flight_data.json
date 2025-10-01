@@ -41,23 +41,16 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "MS 714-2025-10-01": {
-    "flightNumber": "MS 714",
-    "status": "النداء الاخير",
-    "actualTime": "03:58",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "ME 225-2025-10-01": {
     "flightNumber": "ME 225",
-    "status": "",
-    "actualTime": "06:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "05:51",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 235-2025-10-01": {
     "flightNumber": "ME 235",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "06:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -951,38 +944,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ET 416-2025-10-01": {
-    "flightNumber": "ET 416",
-    "status": "وصلت",
-    "actualTime": "03:11",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
-  "RO 167-2025-10-01": {
-    "flightNumber": "RO 167",
-    "status": "وصلت",
-    "actualTime": "02:50",
-    "type": "arivl",
-    "airlineCode": "RO"
-  },
-  "PC 756-2025-10-01": {
-    "flightNumber": "PC 756",
-    "status": "وصلت",
-    "actualTime": "03:27",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "MS 713-2025-10-01": {
-    "flightNumber": "MS 713",
-    "status": "وصلت",
-    "actualTime": "03:23",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "RJ 407-2025-10-01": {
     "flightNumber": "RJ 407",
     "status": "",
-    "actualTime": "06:30",
+    "actualTime": "05:59",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -1231,19 +1196,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "RJ 403-2025-10-01": {
-    "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "20:35",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "J9 261-2025-10-01": {
     "flightNumber": "J9 261",
     "status": "",
     "actualTime": "20:35",
     "type": "arivl",
     "airlineCode": "J9"
+  },
+  "RJ 403-2025-10-01": {
+    "flightNumber": "RJ 403",
+    "status": "",
+    "actualTime": "20:35",
+    "type": "arivl",
+    "airlineCode": "RJ"
   },
   "CY 120-2025-10-01": {
     "flightNumber": "CY 120",
