@@ -50,7 +50,7 @@
   },
   "FZ 160-2025-10-01": {
     "flightNumber": "FZ 160",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "22:19",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -552,13 +552,6 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "PC 1824-2025-10-01": {
-    "flightNumber": "PC 1824",
-    "status": "وصلت",
-    "actualTime": "20:28",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "CY 120-2025-10-01": {
     "flightNumber": "CY 120",
     "status": "وصلت",
@@ -643,19 +636,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 230-2025-10-01": {
-    "flightNumber": "ME 230",
-    "status": "",
-    "actualTime": "23:55",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "LH 1308-2025-10-01": {
     "flightNumber": "LH 1308",
     "status": "",
     "actualTime": "23:55",
     "type": "arivl",
     "airlineCode": "LH"
+  },
+  "ME 230-2025-10-01": {
+    "flightNumber": "ME 230",
+    "status": "",
+    "actualTime": "23:55",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "ME 429-2025-10-01": {
     "flightNumber": "ME 429",
