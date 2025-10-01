@@ -20,16 +20,9 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "ME 304-2025-10-01": {
-    "flightNumber": "ME 304",
-    "status": "غادرت",
-    "actualTime": "11:39",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "UF 002-2025-10-01": {
     "flightNumber": "UF 002",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "UF"
@@ -43,7 +36,7 @@
   },
   "G9 386-2025-10-01": {
     "flightNumber": "G9 386",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:03",
     "type": "dprtr",
     "airlineCode": "G9"
@@ -781,20 +774,6 @@
     "status": "",
     "actualTime": "23:05",
     "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "EK 957-2025-10-01": {
-    "flightNumber": "EK 957",
-    "status": "وصلت",
-    "actualTime": "10:18",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
-  "ME 311-2025-10-01": {
-    "flightNumber": "ME 311",
-    "status": "وصلت",
-    "actualTime": "10:27",
-    "type": "arivl",
     "airlineCode": "ME"
   },
   "UF 001-2025-10-01": {
