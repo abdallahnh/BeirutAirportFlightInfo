@@ -1,15 +1,15 @@
 {
-  "ME 324-2025-10-02": {
-    "flightNumber": "ME 324",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "11:44",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 304-2025-10-02": {
     "flightNumber": "ME 304",
     "status": "النداء الاخير",
     "actualTime": "12:15",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 324-2025-10-02": {
+    "flightNumber": "ME 324",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "11:44",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -50,7 +50,7 @@
   },
   "AH 4017-2025-10-02": {
     "flightNumber": "AH 4017",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "AH"
@@ -64,8 +64,8 @@
   },
   "TK 825-2025-10-02": {
     "flightNumber": "TK 825",
-    "status": "",
-    "actualTime": "15:35",
+    "status": "تأخير",
+    "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -699,13 +699,6 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "LH 8354-2025-10-02": {
-    "flightNumber": "LH 8354",
-    "status": "",
-    "actualTime": "11:40",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "ME 266-2025-10-02": {
     "flightNumber": "ME 266",
     "status": "وصلت",
@@ -715,7 +708,7 @@
   },
   "ME 252-2025-10-02": {
     "flightNumber": "ME 252",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "14:10",
     "type": "arivl",
     "airlineCode": "ME"
