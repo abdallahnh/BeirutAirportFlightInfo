@@ -475,13 +475,6 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "ME 307-2025-10-02": {
-    "flightNumber": "ME 307",
-    "status": "وصلت",
-    "actualTime": "21:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 437-2025-10-02": {
     "flightNumber": "ME 437",
     "status": "وصلت",
@@ -540,7 +533,7 @@
   },
   "ME 403-2025-10-02": {
     "flightNumber": "ME 403",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "23:46",
     "type": "arivl",
     "airlineCode": "ME"
@@ -554,8 +547,8 @@
   },
   "ME 230-2025-10-02": {
     "flightNumber": "ME 230",
-    "status": "",
-    "actualTime": "23:55",
+    "status": "وصلت",
+    "actualTime": "23:48",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -569,7 +562,7 @@
   "QR 418-2025-10-03": {
     "flightNumber": "QR 418",
     "status": "",
-    "actualTime": "00:10",
+    "actualTime": "23:55",
     "type": "arivl",
     "airlineCode": "QR"
   },
