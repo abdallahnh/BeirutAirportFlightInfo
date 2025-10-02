@@ -13,23 +13,16 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 217-2025-10-02": {
-    "flightNumber": "ME 217",
-    "status": "غادرت",
-    "actualTime": "06:41",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 426-2025-10-02": {
     "flightNumber": "ME 426",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "06:53",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 310-2025-10-02": {
     "flightNumber": "ME 310",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "07:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -888,13 +881,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EY 583-2025-10-02": {
-    "flightNumber": "EY 583",
-    "status": "وصلت",
-    "actualTime": "05:42",
-    "type": "arivl",
-    "airlineCode": "EY"
-  },
   "RJ 407-2025-10-02": {
     "flightNumber": "RJ 407",
     "status": "وصلت",
@@ -1084,19 +1070,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 321-2025-10-02": {
-    "flightNumber": "ME 321",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 139-2025-10-02": {
     "flightNumber": "IA 139",
     "status": "",
     "actualTime": "16:00",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "ME 321-2025-10-02": {
+    "flightNumber": "ME 321",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "IA 1301-2025-10-02": {
     "flightNumber": "IA 1301",
