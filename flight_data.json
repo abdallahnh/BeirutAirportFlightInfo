@@ -43,28 +43,28 @@
   },
   "MS 710-2025-10-02": {
     "flightNumber": "MS 710",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "10:40",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "CY 121-2025-10-02": {
     "flightNumber": "CY 121",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:50",
+    "status": "النداء الاخير",
+    "actualTime": "10:57",
     "type": "dprtr",
     "airlineCode": "CY"
   },
   "ME 320-2025-10-02": {
     "flightNumber": "ME 320",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2025-10-02": {
     "flightNumber": "EK 958",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:05",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -85,7 +85,7 @@
   },
   "RJ 402-2025-10-02": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -832,13 +832,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "FZ 157-2025-10-02": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "09:17",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "EK 957-2025-10-02": {
     "flightNumber": "EK 957",
     "status": "وصلت",
@@ -869,15 +862,15 @@
   },
   "ME 276-2025-10-02": {
     "flightNumber": "ME 276",
-    "status": "",
-    "actualTime": "11:10",
+    "status": "وصلت",
+    "actualTime": "11:07",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "RJ 401-2025-10-02": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "11:20",
+    "status": "وصلت",
+    "actualTime": "11:00",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -1007,19 +1000,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 139-2025-10-02": {
-    "flightNumber": "IA 139",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 321-2025-10-02": {
     "flightNumber": "ME 321",
     "status": "",
     "actualTime": "16:00",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "IA 139-2025-10-02": {
+    "flightNumber": "IA 139",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "IA 1301-2025-10-02": {
     "flightNumber": "IA 1301",
