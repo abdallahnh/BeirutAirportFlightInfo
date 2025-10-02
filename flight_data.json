@@ -1,14 +1,7 @@
 {
-  "QR 419-2025-10-03": {
-    "flightNumber": "QR 419",
-    "status": "غادرت",
-    "actualTime": "01:10",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "ME 571-2025-10-03": {
     "flightNumber": "ME 571",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "01:37",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -22,8 +15,15 @@
   },
   "ET 407-2025-10-03": {
     "flightNumber": "ET 407",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "03:05",
+    "type": "dprtr",
+    "airlineCode": "ET"
+  },
+  "ET 417-2025-10-03": {
+    "flightNumber": "ET 417",
+    "status": "",
+    "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "ET"
   },
@@ -33,13 +33,6 @@
     "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "TK"
-  },
-  "ET 417-2025-10-03": {
-    "flightNumber": "ET 417",
-    "status": "",
-    "actualTime": "03:55",
-    "type": "dprtr",
-    "airlineCode": "ET"
   },
   "PC 757-2025-10-03": {
     "flightNumber": "PC 757",
@@ -391,19 +384,19 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "TK 827-2025-10-03": {
-    "flightNumber": "TK 827",
-    "status": "",
-    "actualTime": "21:50",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "CY 121-2025-10-03": {
     "flightNumber": "CY 121",
     "status": "",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
+  },
+  "TK 827-2025-10-03": {
+    "flightNumber": "TK 827",
+    "status": "",
+    "actualTime": "21:50",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "FZ 160-2025-10-03": {
     "flightNumber": "FZ 160",
@@ -944,24 +937,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 429-2025-10-02": {
-    "flightNumber": "ME 429",
-    "status": "وصلت",
-    "actualTime": "00:05",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "QR 418-2025-10-03": {
-    "flightNumber": "QR 418",
-    "status": "وصلت",
-    "actualTime": "23:55",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "PC 758-2025-10-03": {
     "flightNumber": "PC 758",
-    "status": "",
-    "actualTime": "02:00",
+    "status": "وصلت",
+    "actualTime": "02:14",
     "type": "arivl",
     "airlineCode": "PC"
   },
