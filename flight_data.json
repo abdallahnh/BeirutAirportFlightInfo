@@ -27,23 +27,16 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 251-2025-10-02": {
-    "flightNumber": "ME 251",
-    "status": "النداء الاخير",
-    "actualTime": "08:36",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2025-10-02": {
     "flightNumber": "TK 831",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:17",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "FZ 158-2025-10-02": {
     "flightNumber": "FZ 158",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:45",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -862,8 +855,8 @@
   },
   "FZ 157-2025-10-02": {
     "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "09:45",
+    "status": "وصلت",
+    "actualTime": "09:17",
     "type": "arivl",
     "airlineCode": "FZ"
   },
