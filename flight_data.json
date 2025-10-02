@@ -13,24 +13,10 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "IA 1302-2025-10-02": {
-    "flightNumber": "IA 1302",
-    "status": "غادرت",
-    "actualTime": "17:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "ME 267-2025-10-02": {
     "flightNumber": "ME 267",
     "status": "تم اغلاق البوابة",
     "actualTime": "17:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 402-2025-10-02": {
-    "flightNumber": "ME 402",
-    "status": "غادرت",
-    "actualTime": "17:51",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -43,7 +29,7 @@
   },
   "QR 427-2025-10-02": {
     "flightNumber": "QR 427",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:05",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -558,13 +544,6 @@
     "actualTime": "23:05",
     "type": "dprtr",
     "airlineCode": "PC"
-  },
-  "IA 139-2025-10-02": {
-    "flightNumber": "IA 139",
-    "status": "وصلت",
-    "actualTime": "16:34",
-    "type": "arivl",
-    "airlineCode": "IA"
   },
   "IA 1301-2025-10-02": {
     "flightNumber": "IA 1301",
