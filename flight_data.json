@@ -41,24 +41,17 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "MS 710-2025-10-02": {
-    "flightNumber": "MS 710",
-    "status": "غادرت",
-    "actualTime": "10:40",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "CY 121-2025-10-02": {
     "flightNumber": "CY 121",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "10:57",
     "type": "dprtr",
     "airlineCode": "CY"
   },
   "ME 320-2025-10-02": {
     "flightNumber": "ME 320",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -85,14 +78,14 @@
   },
   "RJ 402-2025-10-02": {
     "flightNumber": "RJ 402",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:20",
+    "status": "النداء الاخير",
+    "actualTime": "11:32",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "UF 002-2025-10-02": {
     "flightNumber": "UF 002",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "UF"
@@ -876,8 +869,8 @@
   },
   "UF 001-2025-10-02": {
     "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "وصلت",
+    "actualTime": "11:29",
     "type": "arivl",
     "airlineCode": "UF"
   },
@@ -890,8 +883,8 @@
   },
   "QR 416-2025-10-02": {
     "flightNumber": "QR 416",
-    "status": "",
-    "actualTime": "11:35",
+    "status": "وصلت",
+    "actualTime": "11:34",
     "type": "arivl",
     "airlineCode": "QR"
   },
