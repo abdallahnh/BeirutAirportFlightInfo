@@ -43,14 +43,14 @@
   },
   "MS 710-2025-10-02": {
     "flightNumber": "MS 710",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "10:40",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "CY 121-2025-10-02": {
     "flightNumber": "CY 121",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -1007,19 +1007,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 321-2025-10-02": {
-    "flightNumber": "ME 321",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 139-2025-10-02": {
     "flightNumber": "IA 139",
     "status": "",
     "actualTime": "16:00",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "ME 321-2025-10-02": {
+    "flightNumber": "ME 321",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "IA 1301-2025-10-02": {
     "flightNumber": "IA 1301",
