@@ -1,15 +1,15 @@
 {
   "QR 417-2025-10-03": {
     "flightNumber": "QR 417",
-    "status": "تم فتح البوابة",
-    "actualTime": "13:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "13:21",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "ME 229-2025-10-03": {
     "flightNumber": "ME 229",
-    "status": "",
-    "actualTime": "13:30",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "12:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -22,7 +22,7 @@
   },
   "EY 582-2025-10-03": {
     "flightNumber": "EY 582",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "12:51",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -713,17 +713,10 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "ME 303-2025-10-03": {
-    "flightNumber": "ME 303",
-    "status": "وصلت",
-    "actualTime": "11:13",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 131-2025-10-03": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "وصلت",
+    "actualTime": "13:00",
     "type": "arivl",
     "airlineCode": "IA"
   },
