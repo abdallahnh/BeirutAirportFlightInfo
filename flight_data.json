@@ -1,14 +1,14 @@
 {
   "ME 306-2025-10-03": {
     "flightNumber": "ME 306",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "17:37",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 954-2025-10-03": {
     "flightNumber": "EK 954",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:40",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -321,19 +321,19 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "MS 710-2025-10-04": {
-    "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "UF 002-2025-10-04": {
     "flightNumber": "UF 002",
     "status": "",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "UF"
+  },
+  "MS 710-2025-10-04": {
+    "flightNumber": "MS 710",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "dprtr",
+    "airlineCode": "MS"
   },
   "CY 121-2025-10-04": {
     "flightNumber": "CY 121",
@@ -586,20 +586,6 @@
     "actualTime": "16:16",
     "type": "arivl",
     "airlineCode": "LH"
-  },
-  "ME 305-2025-10-03": {
-    "flightNumber": "ME 305",
-    "status": "وصلت",
-    "actualTime": "15:51",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 321-2025-10-03": {
-    "flightNumber": "ME 321",
-    "status": "وصلت",
-    "actualTime": "15:46",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 248-2025-10-03": {
     "flightNumber": "ME 248",
