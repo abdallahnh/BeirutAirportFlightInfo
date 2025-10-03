@@ -6,31 +6,24 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ME 261-2025-10-03": {
-    "flightNumber": "ME 261",
-    "status": "غادرت",
-    "actualTime": "20:09",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "J9 262-2025-10-03": {
     "flightNumber": "J9 262",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:46",
     "type": "dprtr",
     "airlineCode": "J9"
   },
   "TK 827-2025-10-03": {
     "flightNumber": "TK 827",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "CY 121-2025-10-03": {
     "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "21:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "21:14",
     "type": "dprtr",
     "airlineCode": "CY"
   },
@@ -566,13 +559,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "RJ 403-2025-10-03": {
-    "flightNumber": "RJ 403",
-    "status": "وصلت",
-    "actualTime": "19:13",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "PC 1824-2025-10-03": {
     "flightNumber": "PC 1824",
     "status": "وصلت",
@@ -631,8 +617,8 @@
   },
   "FZ 159-2025-10-03": {
     "flightNumber": "FZ 159",
-    "status": "",
-    "actualTime": "21:40",
+    "status": "وصلت",
+    "actualTime": "21:09",
     "type": "arivl",
     "airlineCode": "FZ"
   },
