@@ -335,19 +335,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 215-2025-10-04": {
-    "flightNumber": "ME 215",
-    "status": "",
-    "actualTime": "07:05",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EY 584-2025-10-04": {
     "flightNumber": "EY 584",
     "status": "",
     "actualTime": "07:05",
     "type": "dprtr",
     "airlineCode": "EY"
+  },
+  "ME 215-2025-10-04": {
+    "flightNumber": "ME 215",
+    "status": "",
+    "actualTime": "07:05",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 217-2025-10-04": {
     "flightNumber": "ME 217",
@@ -743,8 +743,8 @@
   },
   "ME 365-2025-10-03": {
     "flightNumber": "ME 365",
-    "status": "",
-    "actualTime": "14:50",
+    "status": "وصلت",
+    "actualTime": "14:57",
     "type": "arivl",
     "airlineCode": "ME"
   },
