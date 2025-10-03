@@ -71,7 +71,7 @@
   },
   "EK 958-2025-10-03": {
     "flightNumber": "EK 958",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:05",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -89,13 +89,6 @@
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "RJ"
-  },
-  "IA 132-2025-10-03": {
-    "flightNumber": "IA 132",
-    "status": "",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
   },
   "G9 386-2025-10-03": {
     "flightNumber": "G9 386",
@@ -117,6 +110,13 @@
     "actualTime": "13:30",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "IA 132-2025-10-03": {
+    "flightNumber": "IA 132",
+    "status": "",
+    "actualTime": "13:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "EY 582-2025-10-03": {
     "flightNumber": "EY 582",
@@ -831,13 +831,6 @@
     "actualTime": "23:05",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "TK 830-2025-10-03": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:15",
-    "type": "arivl",
-    "airlineCode": "TK"
   },
   "EK 957-2025-10-03": {
     "flightNumber": "EK 957",
