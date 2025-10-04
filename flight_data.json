@@ -48,13 +48,6 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ME 229-2025-10-04": {
-    "flightNumber": "ME 229",
-    "status": "غادرت",
-    "actualTime": "12:57",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 436-2025-10-04": {
     "flightNumber": "ME 436",
     "status": "",
@@ -314,15 +307,15 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 217-2025-10-05": {
-    "flightNumber": "ME 217",
+  "ME 231-2025-10-05": {
+    "flightNumber": "ME 231",
     "status": "",
     "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 231-2025-10-05": {
-    "flightNumber": "ME 231",
+  "ME 217-2025-10-05": {
+    "flightNumber": "ME 217",
     "status": "",
     "actualTime": "07:20",
     "type": "dprtr",
@@ -461,6 +454,13 @@
     "type": "dprtr",
     "airlineCode": "EY"
   },
+  "KU 502-2025-10-05": {
+    "flightNumber": "KU 502",
+    "status": "",
+    "actualTime": "14:05",
+    "type": "dprtr",
+    "airlineCode": "KU"
+  },
   "ME 436-2025-10-05": {
     "flightNumber": "ME 436",
     "status": "",
@@ -503,13 +503,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "KU 502-2025-10-05": {
-    "flightNumber": "KU 502",
-    "status": "",
-    "actualTime": "16:25",
-    "type": "dprtr",
-    "airlineCode": "KU"
-  },
   "VF 1044-2025-10-05": {
     "flightNumber": "VF 1044",
     "status": "",
@@ -544,20 +537,6 @@
     "actualTime": "17:00",
     "type": "dprtr",
     "airlineCode": "IA"
-  },
-  "UF 004-2025-10-05": {
-    "flightNumber": "UF 004",
-    "status": "",
-    "actualTime": "17:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
-  "ME 442-2025-10-05": {
-    "flightNumber": "ME 442",
-    "status": "",
-    "actualTime": "17:35",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "ME 267-2025-10-05": {
     "flightNumber": "ME 267",
@@ -615,20 +594,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 263-2025-10-05": {
-    "flightNumber": "ME 263",
-    "status": "",
-    "actualTime": "19:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "EY 584-2025-10-05": {
-    "flightNumber": "EY 584",
-    "status": "",
-    "actualTime": "19:15",
-    "type": "dprtr",
-    "airlineCode": "EY"
-  },
   "EK 954-2025-10-05": {
     "flightNumber": "EK 954",
     "status": "",
@@ -643,6 +608,13 @@
     "type": "dprtr",
     "airlineCode": "CY"
   },
+  "QR 427-2025-10-05": {
+    "flightNumber": "QR 427",
+    "status": "",
+    "actualTime": "20:05",
+    "type": "dprtr",
+    "airlineCode": "QR"
+  },
   "MS 712-2025-10-05": {
     "flightNumber": "MS 712",
     "status": "",
@@ -650,17 +622,10 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "QR 427-2025-10-05": {
-    "flightNumber": "QR 427",
-    "status": "",
-    "actualTime": "20:20",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "RJ 404-2025-10-05": {
     "flightNumber": "RJ 404",
     "status": "",
-    "actualTime": "20:45",
+    "actualTime": "21:30",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -675,6 +640,13 @@
     "flightNumber": "ME 261",
     "status": "",
     "actualTime": "20:50",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 442-2025-10-05": {
+    "flightNumber": "ME 442",
+    "status": "",
+    "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -720,13 +692,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "G9 385-2025-10-04": {
-    "flightNumber": "G9 385",
-    "status": "وصلت",
-    "actualTime": "11:51",
-    "type": "arivl",
-    "airlineCode": "G9"
-  },
   "ME 266-2025-10-04": {
     "flightNumber": "ME 266",
     "status": "وصلت",
@@ -743,15 +708,15 @@
   },
   "ME 252-2025-10-04": {
     "flightNumber": "ME 252",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "13:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 425-2025-10-04": {
     "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
+    "status": "وصلت",
+    "actualTime": "13:53",
     "type": "arivl",
     "airlineCode": "ME"
   },
