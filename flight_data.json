@@ -1,14 +1,14 @@
 {
   "ME 436-2025-10-04": {
     "flightNumber": "ME 436",
-    "status": "تم اغلاق البوابة",
+    "status": "غادرت",
     "actualTime": "14:43",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 825-2025-10-04": {
     "flightNumber": "TK 825",
-    "status": "تم اغلاق البوابة",
+    "status": "غادرت",
     "actualTime": "15:35",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -22,7 +22,7 @@
   },
   "ME 428-2025-10-04": {
     "flightNumber": "ME 428",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "16:04",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -36,8 +36,8 @@
   },
   "LH 1307-2025-10-04": {
     "flightNumber": "LH 1307",
-    "status": "",
-    "actualTime": "16:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:29",
     "type": "dprtr",
     "airlineCode": "LH"
   },
@@ -50,8 +50,8 @@
   },
   "IA 140-2025-10-04": {
     "flightNumber": "IA 140",
-    "status": "",
-    "actualTime": "17:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -736,15 +736,15 @@
   },
   "ME 248-2025-10-04": {
     "flightNumber": "ME 248",
-    "status": "",
-    "actualTime": "16:20",
+    "status": "وصلت",
+    "actualTime": "16:23",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "IA 1301-2025-10-04": {
     "flightNumber": "IA 1301",
-    "status": "",
-    "actualTime": "16:30",
+    "status": "وصلت",
+    "actualTime": "16:27",
     "type": "arivl",
     "airlineCode": "IA"
   },
