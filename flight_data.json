@@ -1,11 +1,4 @@
 {
-  "IA 140-2025-10-04": {
-    "flightNumber": "IA 140",
-    "status": "غادرت",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "IA 1302-2025-10-04": {
     "flightNumber": "IA 1302",
     "status": "تم اغلاق البوابة",
@@ -29,14 +22,14 @@
   },
   "ME 422-2025-10-04": {
     "flightNumber": "ME 422",
-    "status": "تأخير",
-    "actualTime": "18:15",
+    "status": "النداء الاخير",
+    "actualTime": "17:59",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 306-2025-10-04": {
     "flightNumber": "ME 306",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "17:48",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -622,13 +615,6 @@
     "type": "arivl",
     "airlineCode": "ET"
   },
-  "ME 226-2025-10-04": {
-    "flightNumber": "ME 226",
-    "status": "وصلت",
-    "actualTime": "16:14",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 248-2025-10-04": {
     "flightNumber": "ME 248",
     "status": "وصلت",
@@ -673,8 +659,8 @@
   },
   "QR 426-2025-10-04": {
     "flightNumber": "QR 426",
-    "status": "",
-    "actualTime": "18:35",
+    "status": "وصلت",
+    "actualTime": "18:04",
     "type": "arivl",
     "airlineCode": "QR"
   },
@@ -750,8 +736,8 @@
   },
   "KU 503-2025-10-04": {
     "flightNumber": "KU 503",
-    "status": "",
-    "actualTime": "21:35",
+    "status": "تبكير",
+    "actualTime": "20:50",
     "type": "arivl",
     "airlineCode": "KU"
   },
