@@ -29,7 +29,7 @@
   },
   "QR 427-2025-10-04": {
     "flightNumber": "QR 427",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "19:09",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -43,8 +43,8 @@
   },
   "RJ 404-2025-10-04": {
     "flightNumber": "RJ 404",
-    "status": "تم فتح البوابة",
-    "actualTime": "20:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:39",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -610,8 +610,8 @@
   },
   "MS 711-2025-10-04": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "19:25",
+    "status": "وصلت",
+    "actualTime": "19:38",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -631,8 +631,8 @@
   },
   "PC 1824-2025-10-04": {
     "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "19:42",
     "type": "arivl",
     "airlineCode": "PC"
   },
@@ -937,13 +937,6 @@
     "type": "arivl",
     "airlineCode": "KU"
   },
-  "ME 425-2025-10-05": {
-    "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 405-2025-10-05": {
     "flightNumber": "ME 405",
     "status": "",
@@ -951,12 +944,12 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "AH 4016-2025-10-05": {
-    "flightNumber": "AH 4016",
+  "ME 425-2025-10-05": {
+    "flightNumber": "ME 425",
     "status": "",
-    "actualTime": "14:20",
+    "actualTime": "14:15",
     "type": "arivl",
-    "airlineCode": "AH"
+    "airlineCode": "ME"
   },
   "AF 564-2025-10-05": {
     "flightNumber": "AF 564",
@@ -964,6 +957,13 @@
     "actualTime": "14:20",
     "type": "arivl",
     "airlineCode": "AF"
+  },
+  "AH 4016-2025-10-05": {
+    "flightNumber": "AH 4016",
+    "status": "",
+    "actualTime": "14:20",
+    "type": "arivl",
+    "airlineCode": "AH"
   },
   "TK 824-2025-10-05": {
     "flightNumber": "TK 824",
