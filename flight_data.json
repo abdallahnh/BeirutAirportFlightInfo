@@ -552,13 +552,6 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "ME 323-2025-10-04": {
-    "flightNumber": "ME 323",
-    "status": "وصلت",
-    "actualTime": "20:59",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "FZ 159-2025-10-04": {
     "flightNumber": "FZ 159",
     "status": "وصلت",
@@ -881,13 +874,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "LH 1306-2025-10-05": {
-    "flightNumber": "LH 1306",
-    "status": "",
-    "actualTime": "15:40",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "VF 1043-2025-10-05": {
     "flightNumber": "VF 1043",
     "status": "",
@@ -895,10 +881,24 @@
     "type": "arivl",
     "airlineCode": "VF"
   },
+  "LH 1306-2025-10-05": {
+    "flightNumber": "LH 1306",
+    "status": "",
+    "actualTime": "15:40",
+    "type": "arivl",
+    "airlineCode": "LH"
+  },
   "ME 305-2025-10-05": {
     "flightNumber": "ME 305",
     "status": "",
     "actualTime": "15:50",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 321-2025-10-05": {
+    "flightNumber": "ME 321",
+    "status": "",
+    "actualTime": "16:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -908,13 +908,6 @@
     "actualTime": "16:00",
     "type": "arivl",
     "airlineCode": "IA"
-  },
-  "ME 321-2025-10-05": {
-    "flightNumber": "ME 321",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 248-2025-10-05": {
     "flightNumber": "ME 248",
