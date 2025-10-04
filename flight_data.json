@@ -62,19 +62,19 @@
     "type": "dprtr",
     "airlineCode": "LH"
   },
-  "PC 759-2025-10-05": {
-    "flightNumber": "PC 759",
-    "status": "",
-    "actualTime": "03:05",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "ET 407-2025-10-05": {
     "flightNumber": "ET 407",
     "status": "",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "ET"
+  },
+  "PC 759-2025-10-05": {
+    "flightNumber": "PC 759",
+    "status": "",
+    "actualTime": "03:05",
+    "type": "dprtr",
+    "airlineCode": "PC"
   },
   "TK 829-2025-10-05": {
     "flightNumber": "TK 829",
@@ -1252,13 +1252,6 @@
     "type": "arivl",
     "airlineCode": "KU"
   },
-  "ME 425-2025-10-05": {
-    "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 405-2025-10-05": {
     "flightNumber": "ME 405",
     "status": "",
@@ -1266,12 +1259,12 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "AH 4016-2025-10-05": {
-    "flightNumber": "AH 4016",
+  "ME 425-2025-10-05": {
+    "flightNumber": "ME 425",
     "status": "",
-    "actualTime": "14:20",
+    "actualTime": "14:15",
     "type": "arivl",
-    "airlineCode": "AH"
+    "airlineCode": "ME"
   },
   "AF 564-2025-10-05": {
     "flightNumber": "AF 564",
@@ -1279,6 +1272,13 @@
     "actualTime": "14:20",
     "type": "arivl",
     "airlineCode": "AF"
+  },
+  "AH 4016-2025-10-05": {
+    "flightNumber": "AH 4016",
+    "status": "",
+    "actualTime": "14:20",
+    "type": "arivl",
+    "airlineCode": "AH"
   },
   "TK 824-2025-10-05": {
     "flightNumber": "TK 824",
@@ -1294,15 +1294,15 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 427-2025-10-05": {
-    "flightNumber": "ME 427",
+  "ME 232-2025-10-05": {
+    "flightNumber": "ME 232",
     "status": "",
     "actualTime": "15:05",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 232-2025-10-05": {
-    "flightNumber": "ME 232",
+  "ME 427-2025-10-05": {
+    "flightNumber": "ME 427",
     "status": "",
     "actualTime": "15:05",
     "type": "arivl",
