@@ -36,7 +36,7 @@
   },
   "LH 1307-2025-10-04": {
     "flightNumber": "LH 1307",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "16:29",
     "type": "dprtr",
     "airlineCode": "LH"
@@ -107,7 +107,7 @@
   "MS 712-2025-10-04": {
     "flightNumber": "MS 712",
     "status": "",
-    "actualTime": "20:10",
+    "actualTime": "20:25",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -671,13 +671,6 @@
     "type": "arivl",
     "airlineCode": "ET"
   },
-  "AF 564-2025-10-04": {
-    "flightNumber": "AF 564",
-    "status": "وصلت",
-    "actualTime": "14:42",
-    "type": "arivl",
-    "airlineCode": "AF"
-  },
   "TK 824-2025-10-04": {
     "flightNumber": "TK 824",
     "status": "وصلت",
@@ -750,7 +743,7 @@
   },
   "ME 214-2025-10-04": {
     "flightNumber": "ME 214",
-    "status": "تأخير",
+    "status": "وصلت",
     "actualTime": "16:40",
     "type": "arivl",
     "airlineCode": "ME"
@@ -951,6 +944,13 @@
     "type": "arivl",
     "airlineCode": "ET"
   },
+  "ME 1403-2025-10-05": {
+    "flightNumber": "ME 1403",
+    "status": "",
+    "actualTime": "02:35",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
   "TK 828-2025-10-05": {
     "flightNumber": "TK 828",
     "status": "",
@@ -1063,19 +1063,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "UF 001-2025-10-05": {
-    "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 131-2025-10-05": {
     "flightNumber": "IA 131",
     "status": "",
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "UF 001-2025-10-05": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "QR 416-2025-10-05": {
     "flightNumber": "QR 416",
