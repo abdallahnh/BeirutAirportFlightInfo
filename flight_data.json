@@ -62,19 +62,19 @@
     "type": "dprtr",
     "airlineCode": "LH"
   },
-  "ET 407-2025-10-05": {
-    "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "03:05",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "PC 759-2025-10-05": {
     "flightNumber": "PC 759",
     "status": "",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "PC"
+  },
+  "ET 407-2025-10-05": {
+    "flightNumber": "ET 407",
+    "status": "",
+    "actualTime": "03:05",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "TK 829-2025-10-05": {
     "flightNumber": "TK 829",
@@ -575,8 +575,8 @@
   },
   "ME 423-2025-10-04": {
     "flightNumber": "ME 423",
-    "status": "",
-    "actualTime": "23:35",
+    "status": "وصلت",
+    "actualTime": "23:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -590,28 +590,28 @@
   "ME 230-2025-10-04": {
     "flightNumber": "ME 230",
     "status": "",
-    "actualTime": "23:55",
+    "actualTime": "00:02",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "LH 1308-2025-10-04": {
     "flightNumber": "LH 1308",
     "status": "",
-    "actualTime": "23:55",
+    "actualTime": "23:53",
     "type": "arivl",
     "airlineCode": "LH"
   },
   "ME 429-2025-10-04": {
     "flightNumber": "ME 429",
-    "status": "",
-    "actualTime": "23:59",
+    "status": "وصلت",
+    "actualTime": "00:04",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "QR 418-2025-10-05": {
     "flightNumber": "QR 418",
-    "status": "",
-    "actualTime": "00:10",
+    "status": "وصلت",
+    "actualTime": "23:44",
     "type": "arivl",
     "airlineCode": "QR"
   },
@@ -1035,15 +1035,15 @@
     "type": "arivl",
     "airlineCode": "G9"
   },
-  "ME 327-2025-10-05": {
-    "flightNumber": "ME 327",
+  "ME 268-2025-10-05": {
+    "flightNumber": "ME 268",
     "status": "",
     "actualTime": "22:25",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 268-2025-10-05": {
-    "flightNumber": "ME 268",
+  "ME 327-2025-10-05": {
+    "flightNumber": "ME 327",
     "status": "",
     "actualTime": "22:25",
     "type": "arivl",
