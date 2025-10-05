@@ -78,15 +78,15 @@
   },
   "QR 419-2025-10-06": {
     "flightNumber": "QR 419",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "00:54",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "ME 571-2025-10-06": {
     "flightNumber": "ME 571",
-    "status": "تم فتح البوابة",
-    "actualTime": "02:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -962,13 +962,6 @@
     "flightNumber": "ME 423",
     "status": "وصلت",
     "actualTime": "23:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 369-2025-10-05": {
-    "flightNumber": "ME 369",
-    "status": "وصلت",
-    "actualTime": "23:37",
     "type": "arivl",
     "airlineCode": "ME"
   },
