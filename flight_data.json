@@ -78,8 +78,8 @@
   },
   "QR 419-2025-10-06": {
     "flightNumber": "QR 419",
-    "status": "تم فتح البوابة",
-    "actualTime": "01:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "00:54",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -412,19 +412,19 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "RJ 404-2025-10-06": {
-    "flightNumber": "RJ 404",
-    "status": "",
-    "actualTime": "20:45",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "PC 1825-2025-10-06": {
     "flightNumber": "PC 1825",
     "status": "",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "PC"
+  },
+  "RJ 404-2025-10-06": {
+    "flightNumber": "RJ 404",
+    "status": "",
+    "actualTime": "20:45",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "ME 261-2025-10-06": {
     "flightNumber": "ME 261",
@@ -969,13 +969,6 @@
     "flightNumber": "ME 254",
     "status": "وصلت",
     "actualTime": "23:01",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 262-2025-10-05": {
-    "flightNumber": "ME 262",
-    "status": "وصلت",
-    "actualTime": "22:52",
     "type": "arivl",
     "airlineCode": "ME"
   },
