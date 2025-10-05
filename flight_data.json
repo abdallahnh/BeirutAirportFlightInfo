@@ -48,16 +48,9 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "ME 312-2025-10-05": {
-    "flightNumber": "ME 312",
-    "status": "غادرت",
-    "actualTime": "16:25",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "LH 1307-2025-10-05": {
     "flightNumber": "LH 1307",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "16:23",
     "type": "dprtr",
     "airlineCode": "LH"
@@ -622,13 +615,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 133-2025-10-05": {
-    "flightNumber": "IA 133",
-    "status": "وصلت",
-    "actualTime": "14:55",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "VF 1043-2025-10-05": {
     "flightNumber": "VF 1043",
     "status": "وصلت",
@@ -680,14 +666,14 @@
   },
   "ME 218-2025-10-05": {
     "flightNumber": "ME 218",
-    "status": "",
-    "actualTime": "16:50",
+    "status": "وصلت",
+    "actualTime": "16:53",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 325-2025-10-05": {
     "flightNumber": "ME 325",
-    "status": "تبكير",
+    "status": "وصلت",
     "actualTime": "16:48",
     "type": "arivl",
     "airlineCode": "ME"
