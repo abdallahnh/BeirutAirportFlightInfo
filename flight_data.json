@@ -36,7 +36,7 @@
   },
   "ME 428-2025-10-05": {
     "flightNumber": "ME 428",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "15:56",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -50,21 +50,21 @@
   },
   "ME 312-2025-10-05": {
     "flightNumber": "ME 312",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:40",
+    "status": "النداء الاخير",
+    "actualTime": "16:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "LH 1307-2025-10-05": {
     "flightNumber": "LH 1307",
-    "status": "",
-    "actualTime": "16:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:23",
     "type": "dprtr",
     "airlineCode": "LH"
   },
   "ME 322-2025-10-05": {
     "flightNumber": "ME 322",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "16:18",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -85,7 +85,7 @@
   },
   "ME 267-2025-10-05": {
     "flightNumber": "ME 267",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:35",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -608,13 +608,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "ME 365-2025-10-05": {
-    "flightNumber": "ME 365",
-    "status": "وصلت",
-    "actualTime": "14:30",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 427-2025-10-05": {
     "flightNumber": "ME 427",
     "status": "وصلت",
@@ -673,7 +666,7 @@
   },
   "ME 248-2025-10-05": {
     "flightNumber": "ME 248",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "16:24",
     "type": "arivl",
     "airlineCode": "ME"
