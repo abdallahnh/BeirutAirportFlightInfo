@@ -85,7 +85,7 @@
   },
   "ME 571-2025-10-06": {
     "flightNumber": "ME 571",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "01:25",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -128,7 +128,7 @@
   "MS 714-2025-10-06": {
     "flightNumber": "MS 714",
     "status": "",
-    "actualTime": "04:50",
+    "actualTime": "04:40",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -412,19 +412,19 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "RJ 404-2025-10-06": {
-    "flightNumber": "RJ 404",
-    "status": "",
-    "actualTime": "20:45",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "PC 1825-2025-10-06": {
     "flightNumber": "PC 1825",
     "status": "",
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "PC"
+  },
+  "RJ 404-2025-10-06": {
+    "flightNumber": "RJ 404",
+    "status": "",
+    "actualTime": "20:45",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "ME 261-2025-10-06": {
     "flightNumber": "ME 261",
@@ -958,33 +958,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 423-2025-10-05": {
-    "flightNumber": "ME 423",
-    "status": "وصلت",
-    "actualTime": "23:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 230-2025-10-05": {
-    "flightNumber": "ME 230",
-    "status": "وصلت",
-    "actualTime": "23:47",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 429-2025-10-05": {
     "flightNumber": "ME 429",
     "status": "وصلت",
     "actualTime": "00:16",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "QR 418-2025-10-06": {
-    "flightNumber": "QR 418",
-    "status": "وصلت",
-    "actualTime": "23:41",
-    "type": "arivl",
-    "airlineCode": "QR"
   },
   "PC 760-2025-10-06": {
     "flightNumber": "PC 760",
