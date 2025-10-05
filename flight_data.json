@@ -1,25 +1,4 @@
 {
-  "IA 138-2025-10-05": {
-    "flightNumber": "IA 138",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "15:24",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "ME 428-2025-10-05": {
-    "flightNumber": "ME 428",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:56",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "VF 1044-2025-10-05": {
-    "flightNumber": "VF 1044",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "16:02",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
   "ME 322-2025-10-05": {
     "flightNumber": "ME 322",
     "status": "النداء الاخير",
@@ -64,7 +43,7 @@
   },
   "CY 121-2025-10-05": {
     "flightNumber": "CY 121",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:50",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -531,13 +510,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "ME 248-2025-10-05": {
-    "flightNumber": "ME 248",
-    "status": "وصلت",
-    "actualTime": "16:24",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 1301-2025-10-05": {
     "flightNumber": "IA 1301",
     "status": "وصلت",
@@ -575,8 +547,8 @@
   },
   "CY 120-2025-10-05": {
     "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "18:50",
+    "status": "وصلت",
+    "actualTime": "18:24",
     "type": "arivl",
     "airlineCode": "CY"
   },
