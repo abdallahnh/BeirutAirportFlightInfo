@@ -92,8 +92,8 @@
   },
   "ME 324-2025-10-05": {
     "flightNumber": "ME 324",
-    "status": "",
-    "actualTime": "12:15",
+    "status": "تأخير",
+    "actualTime": "12:35",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -258,13 +258,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 203-2025-10-05": {
-    "flightNumber": "ME 203",
-    "status": "",
-    "actualTime": "17:35",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 368-2025-10-05": {
     "flightNumber": "ME 368",
     "status": "",
@@ -339,6 +332,13 @@
     "flightNumber": "ME 261",
     "status": "",
     "actualTime": "20:55",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 442-2025-10-05": {
+    "flightNumber": "ME 442",
+    "status": "",
+    "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -869,8 +869,8 @@
   },
   "IA 137-2025-10-05": {
     "flightNumber": "IA 137",
-    "status": "",
-    "actualTime": "09:45",
+    "status": "وصلت",
+    "actualTime": "09:39",
     "type": "arivl",
     "airlineCode": "IA"
   },
