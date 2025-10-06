@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 213-2025-10-06": {
-    "flightNumber": "ME 213",
-    "status": "غادرت",
-    "actualTime": "06:50",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 426-2025-10-06": {
     "flightNumber": "ME 426",
     "status": "النداء الاخير",
@@ -20,16 +13,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "RJ 408-2025-10-06": {
-    "flightNumber": "RJ 408",
-    "status": "غادرت",
-    "actualTime": "06:46",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 310-2025-10-06": {
     "flightNumber": "ME 310",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "07:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -43,14 +29,14 @@
   },
   "ME 201-2025-10-06": {
     "flightNumber": "ME 201",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:10",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:38",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 424-2025-10-06": {
     "flightNumber": "ME 424",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:30",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -79,7 +65,7 @@
   "TK 831-2025-10-06": {
     "flightNumber": "TK 831",
     "status": "",
-    "actualTime": "10:10",
+    "actualTime": "10:05",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -1315,19 +1301,19 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "UF 001-2025-10-07": {
-    "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 131-2025-10-07": {
     "flightNumber": "IA 131",
     "status": "",
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "UF 001-2025-10-07": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "QR 416-2025-10-07": {
     "flightNumber": "QR 416",
