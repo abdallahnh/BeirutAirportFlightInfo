@@ -15,14 +15,14 @@
   },
   "QR 427-2025-10-06": {
     "flightNumber": "QR 427",
-    "status": "تم فتح البوابة",
-    "actualTime": "20:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:19",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "MS 712-2025-10-06": {
     "flightNumber": "MS 712",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:20",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -58,7 +58,7 @@
   "TK 827-2025-10-06": {
     "flightNumber": "TK 827",
     "status": "",
-    "actualTime": "21:50",
+    "actualTime": "21:25",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -524,33 +524,12 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 214-2025-10-06": {
-    "flightNumber": "ME 214",
-    "status": "وصلت",
-    "actualTime": "16:59",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 216-2025-10-06": {
     "flightNumber": "ME 216",
     "status": "",
     "actualTime": "16:45",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "ME 218-2025-10-06": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "17:14",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "EK 953-2025-10-06": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:17",
-    "type": "arivl",
-    "airlineCode": "EK"
   },
   "QR 426-2025-10-06": {
     "flightNumber": "QR 426",
@@ -561,15 +540,15 @@
   },
   "ME 212-2025-10-06": {
     "flightNumber": "ME 212",
-    "status": "",
-    "actualTime": "18:55",
+    "status": "وصلت",
+    "actualTime": "19:08",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "MS 711-2025-10-06": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "19:20",
+    "status": "وصلت",
+    "actualTime": "19:13",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -582,8 +561,8 @@
   },
   "RJ 403-2025-10-06": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "19:40",
+    "status": "وصلت",
+    "actualTime": "19:16",
     "type": "arivl",
     "airlineCode": "RJ"
   },
