@@ -29,15 +29,15 @@
   },
   "QR 419-2025-10-07": {
     "flightNumber": "QR 419",
-    "status": "تم فتح البوابة",
-    "actualTime": "01:40",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "00:59",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "LH 1309-2025-10-07": {
     "flightNumber": "LH 1309",
-    "status": "تم فتح البوابة",
-    "actualTime": "01:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:03",
     "type": "dprtr",
     "airlineCode": "LH"
   },
@@ -50,8 +50,8 @@
   },
   "ME 575-2025-10-07": {
     "flightNumber": "ME 575",
-    "status": "تم فتح البوابة",
-    "actualTime": "02:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:22",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -111,19 +111,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EY 584-2025-10-07": {
-    "flightNumber": "EY 584",
-    "status": "",
-    "actualTime": "07:05",
-    "type": "dprtr",
-    "airlineCode": "EY"
-  },
   "ME 265-2025-10-07": {
     "flightNumber": "ME 265",
     "status": "",
     "actualTime": "07:05",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "EY 584-2025-10-07": {
+    "flightNumber": "EY 584",
+    "status": "",
+    "actualTime": "07:05",
+    "type": "dprtr",
+    "airlineCode": "EY"
   },
   "ME 231-2025-10-07": {
     "flightNumber": "ME 231",
@@ -1009,8 +1009,8 @@
   },
   "VF 543-2025-10-07": {
     "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "01:10",
+    "status": "وصلت",
+    "actualTime": "01:16",
     "type": "arivl",
     "airlineCode": "VF"
   },
