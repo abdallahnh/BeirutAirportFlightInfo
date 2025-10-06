@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "QR 419-2025-10-07": {
-    "flightNumber": "QR 419",
-    "status": "غادرت",
-    "actualTime": "00:59",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "LH 1309-2025-10-07": {
     "flightNumber": "LH 1309",
     "status": "تم اغلاق البوابة",
@@ -43,8 +36,8 @@
   },
   "VF 544-2025-10-07": {
     "flightNumber": "VF 544",
-    "status": "تم فتح البوابة",
-    "actualTime": "02:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:44",
     "type": "dprtr",
     "airlineCode": "VF"
   },
@@ -111,19 +104,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EY 584-2025-10-07": {
-    "flightNumber": "EY 584",
-    "status": "",
-    "actualTime": "07:05",
-    "type": "dprtr",
-    "airlineCode": "EY"
-  },
   "ME 265-2025-10-07": {
     "flightNumber": "ME 265",
     "status": "",
     "actualTime": "07:05",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "EY 584-2025-10-07": {
+    "flightNumber": "EY 584",
+    "status": "",
+    "actualTime": "07:05",
+    "type": "dprtr",
+    "airlineCode": "EY"
   },
   "ME 231-2025-10-07": {
     "flightNumber": "ME 231",
@@ -965,40 +958,12 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "ME 423-2025-10-06": {
-    "flightNumber": "ME 423",
-    "status": "وصلت",
-    "actualTime": "23:41",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 230-2025-10-06": {
-    "flightNumber": "ME 230",
-    "status": "وصلت",
-    "actualTime": "23:46",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "LH 1308-2025-10-06": {
-    "flightNumber": "LH 1308",
-    "status": "وصلت",
-    "actualTime": "23:43",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "ME 429-2025-10-06": {
     "flightNumber": "ME 429",
     "status": "وصلت",
     "actualTime": "23:59",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "QR 418-2025-10-07": {
-    "flightNumber": "QR 418",
-    "status": "وصلت",
-    "actualTime": "23:47",
-    "type": "arivl",
-    "airlineCode": "QR"
   },
   "VF 543-2025-10-07": {
     "flightNumber": "VF 543",
