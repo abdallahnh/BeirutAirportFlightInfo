@@ -1,7 +1,7 @@
 {
   "QR 419-2025-10-08": {
     "flightNumber": "QR 419",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "00:52",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -272,19 +272,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "VF 1044-2025-10-08": {
-    "flightNumber": "VF 1044",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
   "UF 002-2025-10-08": {
     "flightNumber": "UF 002",
     "status": "",
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "UF"
+  },
+  "VF 1044-2025-10-08": {
+    "flightNumber": "VF 1044",
+    "status": "",
+    "actualTime": "16:30",
+    "type": "dprtr",
+    "airlineCode": "VF"
   },
   "ME 418-2025-10-08": {
     "flightNumber": "ME 418",
@@ -971,13 +971,6 @@
     "actualTime": "23:41",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "QR 418-2025-10-08": {
-    "flightNumber": "QR 418",
-    "status": "وصلت",
-    "actualTime": "23:31",
-    "type": "arivl",
-    "airlineCode": "QR"
   },
   "PC 758-2025-10-08": {
     "flightNumber": "PC 758",
