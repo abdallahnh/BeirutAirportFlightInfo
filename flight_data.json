@@ -13,16 +13,9 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "ME 306-2025-10-07": {
-    "flightNumber": "ME 306",
-    "status": "غادرت",
-    "actualTime": "17:41",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EK 954-2025-10-07": {
     "flightNumber": "EK 954",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "18:34",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -34,30 +27,23 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "MS 712-2025-10-07": {
-    "flightNumber": "MS 712",
-    "status": "غادرت",
-    "actualTime": "19:38",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "PC 1825-2025-10-07": {
     "flightNumber": "PC 1825",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "19:56",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "ME 261-2025-10-07": {
     "flightNumber": "ME 261",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "20:08",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "J9 262-2025-10-07": {
     "flightNumber": "J9 262",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:20",
     "type": "dprtr",
     "airlineCode": "J9"
@@ -561,8 +547,8 @@
   },
   "J9 261-2025-10-07": {
     "flightNumber": "J9 261",
-    "status": "",
-    "actualTime": "20:35",
+    "status": "وصلت",
+    "actualTime": "20:23",
     "type": "arivl",
     "airlineCode": "J9"
   },
