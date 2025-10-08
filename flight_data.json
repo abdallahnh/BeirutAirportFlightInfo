@@ -99,7 +99,7 @@
   },
   "LH 1309-2025-10-09": {
     "flightNumber": "LH 1309",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "01:13",
     "type": "dprtr",
     "airlineCode": "LH"
@@ -1056,20 +1056,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "LH 1308-2025-10-08": {
-    "flightNumber": "LH 1308",
-    "status": "وصلت",
-    "actualTime": "23:43",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
-  "ME 429-2025-10-08": {
-    "flightNumber": "ME 429",
-    "status": "وصلت",
-    "actualTime": "23:46",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "QR 418-2025-10-09": {
     "flightNumber": "QR 418",
     "status": "وصلت",
@@ -1203,19 +1189,19 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "IA 131-2025-10-09": {
-    "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "UF 001-2025-10-09": {
     "flightNumber": "UF 001",
     "status": "",
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "UF"
+  },
+  "IA 131-2025-10-09": {
+    "flightNumber": "IA 131",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "QR 416-2025-10-09": {
     "flightNumber": "QR 416",
