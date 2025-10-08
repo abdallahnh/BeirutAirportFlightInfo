@@ -20,16 +20,9 @@
     "type": "dprtr",
     "airlineCode": "AF"
   },
-  "ME 428-2025-10-08": {
-    "flightNumber": "ME 428",
-    "status": "النداء الاخير",
-    "actualTime": "15:46",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "VF 1044-2025-10-08": {
     "flightNumber": "VF 1044",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "16:08",
     "type": "dprtr",
     "airlineCode": "VF"
@@ -43,22 +36,22 @@
   },
   "ME 312-2025-10-08": {
     "flightNumber": "ME 312",
-    "status": "تم فتح البوابة",
+    "status": "غادرت",
     "actualTime": "16:40",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "LH 1307-2025-10-08": {
     "flightNumber": "LH 1307",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:50",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "16:20",
     "type": "dprtr",
     "airlineCode": "LH"
   },
   "ME 322-2025-10-08": {
     "flightNumber": "ME 322",
-    "status": "",
-    "actualTime": "16:55",
+    "status": "غادرت",
+    "actualTime": "16:16",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -736,8 +729,8 @@
   },
   "IA 1301-2025-10-08": {
     "flightNumber": "IA 1301",
-    "status": "",
-    "actualTime": "16:30",
+    "status": "وصلت",
+    "actualTime": "16:37",
     "type": "arivl",
     "airlineCode": "IA"
   },
