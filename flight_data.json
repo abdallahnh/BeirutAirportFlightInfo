@@ -48,38 +48,31 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 310-2025-10-08": {
-    "flightNumber": "ME 310",
-    "status": "غادرت",
-    "actualTime": "06:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 211-2025-10-08": {
     "flightNumber": "ME 211",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "07:27",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 201-2025-10-08": {
     "flightNumber": "ME 201",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "07:35",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 424-2025-10-08": {
     "flightNumber": "ME 424",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "08:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 404-2025-10-08": {
     "flightNumber": "ME 404",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:40",
+    "status": "النداء الاخير",
+    "actualTime": "08:01",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -99,7 +92,7 @@
   },
   "ME 241-2025-10-08": {
     "flightNumber": "ME 241",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -111,10 +104,10 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 132-2025-10-08": {
-    "flightNumber": "IA 132",
+  "IA 134-2025-10-08": {
+    "flightNumber": "IA 134",
     "status": "",
-    "actualTime": "12:30",
+    "actualTime": "10:45",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -145,6 +138,13 @@
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "RJ"
+  },
+  "IA 132-2025-10-08": {
+    "flightNumber": "IA 132",
+    "status": "",
+    "actualTime": "12:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "G9 386-2025-10-08": {
     "flightNumber": "G9 386",
@@ -887,13 +887,6 @@
     "actualTime": "23:05",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "RJ 407-2025-10-08": {
-    "flightNumber": "RJ 407",
-    "status": "وصلت",
-    "actualTime": "06:02",
-    "type": "arivl",
-    "airlineCode": "RJ"
   },
   "TK 830-2025-10-08": {
     "flightNumber": "TK 830",
