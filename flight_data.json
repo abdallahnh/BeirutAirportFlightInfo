@@ -48,13 +48,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 404-2025-10-08": {
-    "flightNumber": "ME 404",
-    "status": "غادرت",
-    "actualTime": "08:01",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 364-2025-10-08": {
     "flightNumber": "ME 364",
     "status": "",
@@ -64,15 +57,15 @@
   },
   "ME 251-2025-10-08": {
     "flightNumber": "ME 251",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "08:32",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 241-2025-10-08": {
     "flightNumber": "ME 241",
-    "status": "تم فتح البوابة",
-    "actualTime": "09:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "08:45",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -321,19 +314,19 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "TK 827-2025-10-08": {
-    "flightNumber": "TK 827",
-    "status": "",
-    "actualTime": "21:50",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "CY 121-2025-10-08": {
     "flightNumber": "CY 121",
     "status": "",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
+  },
+  "TK 827-2025-10-08": {
+    "flightNumber": "TK 827",
+    "status": "",
+    "actualTime": "21:50",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "FZ 160-2025-10-08": {
     "flightNumber": "FZ 160",
