@@ -1,21 +1,21 @@
 {
   "ME 436-2025-10-09": {
     "flightNumber": "ME 436",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "14:48",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "AH 4017-2025-10-09": {
     "flightNumber": "AH 4017",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:20",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "14:45",
     "type": "dprtr",
     "airlineCode": "AH"
   },
   "ME 418-2025-10-09": {
     "flightNumber": "ME 418",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:25",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -643,13 +643,6 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "ME 252-2025-10-09": {
-    "flightNumber": "ME 252",
-    "status": "",
-    "actualTime": "13:50",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 425-2025-10-09": {
     "flightNumber": "ME 425",
     "status": "وصلت",
@@ -666,8 +659,8 @@
   },
   "AH 4016-2025-10-09": {
     "flightNumber": "AH 4016",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "وصلت",
+    "actualTime": "14:46",
     "type": "arivl",
     "airlineCode": "AH"
   },
