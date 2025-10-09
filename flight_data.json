@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "RJ 404-2025-10-09": {
-    "flightNumber": "RJ 404",
-    "status": "غادرت",
-    "actualTime": "20:27",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "TK 833-2025-10-09": {
     "flightNumber": "TK 833",
     "status": "تم فتح البوابة",
@@ -22,15 +15,15 @@
   },
   "UF 002-2025-10-09": {
     "flightNumber": "UF 002",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "22:30",
     "type": "dprtr",
     "airlineCode": "UF"
   },
   "FZ 160-2025-10-09": {
     "flightNumber": "FZ 160",
-    "status": "تم فتح البوابة",
-    "actualTime": "22:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "21:36",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -86,7 +79,7 @@
   "TK 829-2025-10-10": {
     "flightNumber": "TK 829",
     "status": "",
-    "actualTime": "03:35",
+    "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -482,20 +475,6 @@
     "type": "arivl",
     "airlineCode": "UF"
   },
-  "MS 711-2025-10-09": {
-    "flightNumber": "MS 711",
-    "status": "وصلت",
-    "actualTime": "19:23",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
-  "ME 202-2025-10-09": {
-    "flightNumber": "ME 202",
-    "status": "وصلت",
-    "actualTime": "19:30",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 1824-2025-10-09": {
     "flightNumber": "PC 1824",
     "status": "وصلت",
@@ -503,12 +482,12 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "ME 313-2025-10-09": {
-    "flightNumber": "ME 313",
+  "RJ 403-2025-10-09": {
+    "flightNumber": "RJ 403",
     "status": "وصلت",
-    "actualTime": "19:27",
+    "actualTime": "20:02",
     "type": "arivl",
-    "airlineCode": "ME"
+    "airlineCode": "RJ"
   },
   "J9 261-2025-10-09": {
     "flightNumber": "J9 261",
@@ -516,13 +495,6 @@
     "actualTime": "20:32",
     "type": "arivl",
     "airlineCode": "J9"
-  },
-  "RJ 403-2025-10-09": {
-    "flightNumber": "RJ 403",
-    "status": "وصلت",
-    "actualTime": "20:02",
-    "type": "arivl",
-    "airlineCode": "RJ"
   },
   "TK 826-2025-10-09": {
     "flightNumber": "TK 826",
