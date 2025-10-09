@@ -8,14 +8,14 @@
   },
   "VF 544-2025-10-10": {
     "flightNumber": "VF 544",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:00",
     "type": "dprtr",
     "airlineCode": "VF"
   },
   "ME 571-2025-10-10": {
     "flightNumber": "ME 571",
-    "status": "تم اغلاق البوابة",
+    "status": "غادرت",
     "actualTime": "01:29",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -29,7 +29,7 @@
   },
   "ET 407-2025-10-10": {
     "flightNumber": "ET 407",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -930,27 +930,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 403-2025-10-09": {
-    "flightNumber": "ME 403",
-    "status": "وصلت",
-    "actualTime": "23:59",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 429-2025-10-09": {
-    "flightNumber": "ME 429",
-    "status": "وصلت",
-    "actualTime": "00:10",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "QR 418-2025-10-10": {
-    "flightNumber": "QR 418",
-    "status": "وصلت",
-    "actualTime": "23:58",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "VF 543-2025-10-10": {
     "flightNumber": "VF 543",
     "status": "وصلت",
@@ -960,15 +939,15 @@
   },
   "PC 758-2025-10-10": {
     "flightNumber": "PC 758",
-    "status": "",
-    "actualTime": "02:00",
+    "status": "وصلت",
+    "actualTime": "02:05",
     "type": "arivl",
     "airlineCode": "PC"
   },
   "ET 406-2025-10-10": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "وصلت",
+    "actualTime": "01:54",
     "type": "arivl",
     "airlineCode": "ET"
   },
@@ -1098,15 +1077,15 @@
     "type": "arivl",
     "airlineCode": "KU"
   },
-  "ME 425-2025-10-10": {
-    "flightNumber": "ME 425",
+  "ME 405-2025-10-10": {
+    "flightNumber": "ME 405",
     "status": "",
     "actualTime": "14:15",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 405-2025-10-10": {
-    "flightNumber": "ME 405",
+  "ME 425-2025-10-10": {
+    "flightNumber": "ME 425",
     "status": "",
     "actualTime": "14:15",
     "type": "arivl",
