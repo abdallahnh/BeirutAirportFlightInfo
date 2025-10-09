@@ -8,7 +8,7 @@
   },
   "ME 251-2025-10-09": {
     "flightNumber": "ME 251",
-    "status": "تم فتح البوابة",
+    "status": "غادرت",
     "actualTime": "10:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -36,8 +36,8 @@
   },
   "CY 121-2025-10-09": {
     "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "11:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:50",
     "type": "dprtr",
     "airlineCode": "CY"
   },
@@ -1602,19 +1602,19 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "ME 572-2025-10-10": {
-    "flightNumber": "ME 572",
-    "status": "",
-    "actualTime": "21:40",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "FZ 159-2025-10-10": {
     "flightNumber": "FZ 159",
     "status": "",
     "actualTime": "21:40",
     "type": "arivl",
     "airlineCode": "FZ"
+  },
+  "ME 572-2025-10-10": {
+    "flightNumber": "ME 572",
+    "status": "",
+    "actualTime": "21:40",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "ME 307-2025-10-10": {
     "flightNumber": "ME 307",
@@ -1630,19 +1630,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "SK 2827-2025-10-10": {
-    "flightNumber": "SK 2827",
-    "status": "",
-    "actualTime": "22:00",
-    "type": "arivl",
-    "airlineCode": "SK"
-  },
   "PC 764-2025-10-10": {
     "flightNumber": "PC 764",
     "status": "",
     "actualTime": "22:00",
     "type": "arivl",
     "airlineCode": "PC"
+  },
+  "SK 2827-2025-10-10": {
+    "flightNumber": "SK 2827",
+    "status": "",
+    "actualTime": "22:00",
+    "type": "arivl",
+    "airlineCode": "SK"
   },
   "G9 387-2025-10-10": {
     "flightNumber": "G9 387",
