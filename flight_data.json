@@ -36,15 +36,15 @@
   },
   "QR 427-2025-10-09": {
     "flightNumber": "QR 427",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "19:21",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "MS 712-2025-10-09": {
     "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "20:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:54",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -71,7 +71,7 @@
   },
   "RJ 404-2025-10-09": {
     "flightNumber": "RJ 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:30",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -582,8 +582,8 @@
   },
   "PC 1824-2025-10-09": {
     "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "19:53",
     "type": "arivl",
     "airlineCode": "PC"
   },
