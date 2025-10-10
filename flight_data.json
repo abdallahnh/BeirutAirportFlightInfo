@@ -50,8 +50,8 @@
   },
   "PC 1822-2025-10-11": {
     "flightNumber": "PC 1822",
-    "status": "تم فتح البوابة",
-    "actualTime": "00:35",
+    "status": "غادرت",
+    "actualTime": "00:32",
     "type": "dprtr",
     "airlineCode": "PC"
   },
@@ -83,19 +83,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "LO 144-2025-10-11": {
-    "flightNumber": "LO 144",
-    "status": "",
-    "actualTime": "03:25",
-    "type": "dprtr",
-    "airlineCode": "LO"
-  },
   "ET 407-2025-10-11": {
     "flightNumber": "ET 407",
     "status": "",
     "actualTime": "03:25",
     "type": "dprtr",
     "airlineCode": "ET"
+  },
+  "LO 144-2025-10-11": {
+    "flightNumber": "LO 144",
+    "status": "",
+    "actualTime": "03:25",
+    "type": "dprtr",
+    "airlineCode": "LO"
   },
   "TK 829-2025-10-11": {
     "flightNumber": "TK 829",
@@ -1005,13 +1005,6 @@
     "status": "",
     "actualTime": "23:05",
     "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 268-2025-10-10": {
-    "flightNumber": "ME 268",
-    "status": "وصلت",
-    "actualTime": "22:31",
-    "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 262-2025-10-10": {
