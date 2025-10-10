@@ -8,7 +8,7 @@
   },
   "ME 575-2025-10-11": {
     "flightNumber": "ME 575",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "01:31",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -22,7 +22,7 @@
   },
   "ET 407-2025-10-11": {
     "flightNumber": "ET 407",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "03:25",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -937,20 +937,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 230-2025-10-10": {
-    "flightNumber": "ME 230",
-    "status": "وصلت",
-    "actualTime": "23:57",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 429-2025-10-10": {
-    "flightNumber": "ME 429",
-    "status": "وصلت",
-    "actualTime": "23:55",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "VF 543-2025-10-11": {
     "flightNumber": "VF 543",
     "status": "وصلت",
@@ -967,8 +953,8 @@
   },
   "ET 406-2025-10-11": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "02:25",
+    "status": "وصلت",
+    "actualTime": "02:06",
     "type": "arivl",
     "airlineCode": "ET"
   },
