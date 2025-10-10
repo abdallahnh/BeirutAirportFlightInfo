@@ -15,7 +15,7 @@
   },
   "MS 712-2025-10-10": {
     "flightNumber": "MS 712",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:06",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -43,7 +43,7 @@
   },
   "J9 262-2025-10-10": {
     "flightNumber": "J9 262",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "20:36",
     "type": "dprtr",
     "airlineCode": "J9"
@@ -62,19 +62,19 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "SK 2828-2025-10-10": {
-    "flightNumber": "SK 2828",
-    "status": "",
-    "actualTime": "23:00",
-    "type": "dprtr",
-    "airlineCode": "SK"
-  },
   "G9 388-2025-10-10": {
     "flightNumber": "G9 388",
     "status": "",
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "G9"
+  },
+  "SK 2828-2025-10-10": {
+    "flightNumber": "SK 2828",
+    "status": "",
+    "actualTime": "23:00",
+    "type": "dprtr",
+    "airlineCode": "SK"
   },
   "PC 765-2025-10-10": {
     "flightNumber": "PC 765",
@@ -125,19 +125,19 @@
     "type": "dprtr",
     "airlineCode": "LH"
   },
-  "LO 144-2025-10-11": {
-    "flightNumber": "LO 144",
-    "status": "",
-    "actualTime": "03:25",
-    "type": "dprtr",
-    "airlineCode": "LO"
-  },
   "ET 407-2025-10-11": {
     "flightNumber": "ET 407",
     "status": "",
     "actualTime": "03:25",
     "type": "dprtr",
     "airlineCode": "ET"
+  },
+  "LO 144-2025-10-11": {
+    "flightNumber": "LO 144",
+    "status": "",
+    "actualTime": "03:25",
+    "type": "dprtr",
+    "airlineCode": "LO"
   },
   "TK 829-2025-10-11": {
     "flightNumber": "TK 829",
@@ -188,12 +188,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 265-2025-10-11": {
-    "flightNumber": "ME 265",
+  "EY 584-2025-10-11": {
+    "flightNumber": "EY 584",
     "status": "",
     "actualTime": "07:05",
     "type": "dprtr",
-    "airlineCode": "ME"
+    "airlineCode": "EY"
   },
   "ME 215-2025-10-11": {
     "flightNumber": "ME 215",
@@ -202,12 +202,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EY 584-2025-10-11": {
-    "flightNumber": "EY 584",
+  "ME 265-2025-10-11": {
+    "flightNumber": "ME 265",
     "status": "",
     "actualTime": "07:05",
     "type": "dprtr",
-    "airlineCode": "EY"
+    "airlineCode": "ME"
   },
   "ME 217-2025-10-11": {
     "flightNumber": "ME 217",
