@@ -50,14 +50,14 @@
   },
   "MS 712-2025-10-11": {
     "flightNumber": "MS 712",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "19:56",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "RJ 404-2025-10-11": {
     "flightNumber": "RJ 404",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "19:56",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -615,13 +615,6 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "EK 953-2025-10-11": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "18:27",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "ME 212-2025-10-11": {
     "flightNumber": "ME 212",
     "status": "وصلت",
@@ -673,8 +666,8 @@
   },
   "J9 261-2025-10-11": {
     "flightNumber": "J9 261",
-    "status": "",
-    "actualTime": "20:35",
+    "status": "وصلت",
+    "actualTime": "20:27",
     "type": "arivl",
     "airlineCode": "J9"
   },
