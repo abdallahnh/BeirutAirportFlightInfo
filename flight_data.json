@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "FZ 158-2025-10-11": {
-    "flightNumber": "FZ 158",
-    "status": "غادرت",
-    "actualTime": "09:55",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
   "MS 710-2025-10-11": {
     "flightNumber": "MS 710",
     "status": "",
@@ -22,7 +15,7 @@
   },
   "CY 121-2025-10-11": {
     "flightNumber": "CY 121",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -813,7 +806,7 @@
   },
   "CY 120-2025-10-11": {
     "flightNumber": "CY 120",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "10:33",
     "type": "arivl",
     "airlineCode": "CY"
@@ -909,19 +902,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 139-2025-10-11": {
-    "flightNumber": "IA 139",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 321-2025-10-11": {
     "flightNumber": "ME 321",
     "status": "",
     "actualTime": "16:00",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "IA 139-2025-10-11": {
+    "flightNumber": "IA 139",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "ME 248-2025-10-11": {
     "flightNumber": "ME 248",
