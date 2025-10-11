@@ -8,22 +8,22 @@
   },
   "LO 144-2025-10-11": {
     "flightNumber": "LO 144",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "03:25",
     "type": "dprtr",
     "airlineCode": "LO"
   },
   "ET 407-2025-10-11": {
     "flightNumber": "ET 407",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "02:35",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "TK 829-2025-10-11": {
     "flightNumber": "TK 829",
-    "status": "تم فتح البوابة",
-    "actualTime": "03:35",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "03:12",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -36,8 +36,8 @@
   },
   "MS 714-2025-10-11": {
     "flightNumber": "MS 714",
-    "status": "",
-    "actualTime": "05:00",
+    "status": "النداء الاخير",
+    "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -930,26 +930,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "VF 543-2025-10-11": {
-    "flightNumber": "VF 543",
-    "status": "وصلت",
-    "actualTime": "01:42",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "LO 143-2025-10-11": {
     "flightNumber": "LO 143",
     "status": "وصلت",
     "actualTime": "02:22",
     "type": "arivl",
     "airlineCode": "LO"
-  },
-  "ET 406-2025-10-11": {
-    "flightNumber": "ET 406",
-    "status": "وصلت",
-    "actualTime": "02:06",
-    "type": "arivl",
-    "airlineCode": "ET"
   },
   "TK 828-2025-10-11": {
     "flightNumber": "TK 828",
@@ -960,15 +946,15 @@
   },
   "PC 756-2025-10-11": {
     "flightNumber": "PC 756",
-    "status": "",
-    "actualTime": "03:15",
+    "status": "وصلت",
+    "actualTime": "03:36",
     "type": "arivl",
     "airlineCode": "PC"
   },
   "MS 713-2025-10-11": {
     "flightNumber": "MS 713",
-    "status": "",
-    "actualTime": "03:40",
+    "status": "وصلت",
+    "actualTime": "03:18",
     "type": "arivl",
     "airlineCode": "MS"
   },
