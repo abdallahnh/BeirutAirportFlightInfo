@@ -20,31 +20,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 368-2025-10-12": {
-    "flightNumber": "ME 368",
-    "status": "غادرت",
-    "actualTime": "17:10",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 422-2025-10-12": {
-    "flightNumber": "ME 422",
-    "status": "غادرت",
-    "actualTime": "17:12",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 402-2025-10-12": {
     "flightNumber": "ME 402",
     "status": "النداء الاخير",
     "actualTime": "17:31",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 326-2025-10-12": {
-    "flightNumber": "ME 326",
-    "status": "غادرت",
-    "actualTime": "17:23",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -57,7 +36,7 @@
   },
   "ME 306-2025-10-12": {
     "flightNumber": "ME 306",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "17:38",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -566,13 +545,6 @@
     "type": "arivl",
     "airlineCode": "UF"
   },
-  "ME 305-2025-10-12": {
-    "flightNumber": "ME 305",
-    "status": "وصلت",
-    "actualTime": "16:02",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 139-2025-10-12": {
     "flightNumber": "IA 139",
     "status": "وصلت",
@@ -625,7 +597,7 @@
   "QR 426-2025-10-12": {
     "flightNumber": "QR 426",
     "status": "",
-    "actualTime": "18:35",
+    "actualTime": "18:14",
     "type": "arivl",
     "airlineCode": "QR"
   },
@@ -811,19 +783,19 @@
     "type": "arivl",
     "airlineCode": "VF"
   },
-  "ET 406-2025-10-13": {
-    "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "02:05",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
   "PC 760-2025-10-13": {
     "flightNumber": "PC 760",
     "status": "",
     "actualTime": "02:05",
     "type": "arivl",
     "airlineCode": "PC"
+  },
+  "ET 406-2025-10-13": {
+    "flightNumber": "ET 406",
+    "status": "",
+    "actualTime": "02:05",
+    "type": "arivl",
+    "airlineCode": "ET"
   },
   "TK 828-2025-10-13": {
     "flightNumber": "TK 828",
