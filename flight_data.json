@@ -71,15 +71,15 @@
   },
   "ME 261-2025-10-12": {
     "flightNumber": "ME 261",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:01",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 442-2025-10-12": {
     "flightNumber": "ME 442",
-    "status": "",
-    "actualTime": "21:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:29",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -524,13 +524,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "CY 120-2025-10-12": {
-    "flightNumber": "CY 120",
-    "status": "وصلت",
-    "actualTime": "18:24",
-    "type": "arivl",
-    "airlineCode": "CY"
-  },
   "ME 212-2025-10-12": {
     "flightNumber": "ME 212",
     "status": "وصلت",
@@ -575,8 +568,8 @@
   },
   "J9 261-2025-10-12": {
     "flightNumber": "J9 261",
-    "status": "",
-    "actualTime": "20:35",
+    "status": "وصلت",
+    "actualTime": "20:27",
     "type": "arivl",
     "airlineCode": "J9"
   },
