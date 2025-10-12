@@ -1,32 +1,4 @@
 {
-  "AF 565-2025-10-12": {
-    "flightNumber": "AF 565",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:03",
-    "type": "dprtr",
-    "airlineCode": "AF"
-  },
-  "ME 428-2025-10-12": {
-    "flightNumber": "ME 428",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:46",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "VF 1044-2025-10-12": {
-    "flightNumber": "VF 1044",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:56",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
-  "ME 312-2025-10-12": {
-    "flightNumber": "ME 312",
-    "status": "غادرت",
-    "actualTime": "16:11",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "LH 1307-2025-10-12": {
     "flightNumber": "LH 1307",
     "status": "تم اغلاق البوابة",
@@ -36,15 +8,15 @@
   },
   "ME 322-2025-10-12": {
     "flightNumber": "ME 322",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "16:41",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "IA 140-2025-10-12": {
     "flightNumber": "IA 140",
-    "status": "",
-    "actualTime": "17:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:08",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -64,7 +36,7 @@
   },
   "ME 368-2025-10-12": {
     "flightNumber": "ME 368",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:45",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -85,7 +57,7 @@
   },
   "ME 326-2025-10-12": {
     "flightNumber": "ME 326",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "18:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -608,26 +580,12 @@
     "type": "arivl",
     "airlineCode": "UF"
   },
-  "ME 427-2025-10-12": {
-    "flightNumber": "ME 427",
-    "status": "وصلت",
-    "actualTime": "15:02",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 232-2025-10-12": {
     "flightNumber": "ME 232",
     "status": "وصلت",
     "actualTime": "15:11",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "KU 501-2025-10-12": {
-    "flightNumber": "KU 501",
-    "status": "وصلت",
-    "actualTime": "14:59",
-    "type": "arivl",
-    "airlineCode": "KU"
   },
   "VF 1043-2025-10-12": {
     "flightNumber": "VF 1043",
