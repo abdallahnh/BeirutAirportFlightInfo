@@ -34,23 +34,16 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 404-2025-10-13": {
-    "flightNumber": "ME 404",
-    "status": "غادرت",
-    "actualTime": "08:08",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 364-2025-10-13": {
     "flightNumber": "ME 364",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "08:22",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 241-2025-10-13": {
     "flightNumber": "ME 241",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "09:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -160,19 +153,19 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
-  "LH 1307-2025-10-13": {
-    "flightNumber": "LH 1307",
-    "status": "",
-    "actualTime": "16:50",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "ME 312-2025-10-13": {
     "flightNumber": "ME 312",
     "status": "",
     "actualTime": "16:50",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "LH 1307-2025-10-13": {
+    "flightNumber": "LH 1307",
+    "status": "",
+    "actualTime": "16:50",
+    "type": "dprtr",
+    "airlineCode": "LH"
   },
   "ME 322-2025-10-13": {
     "flightNumber": "ME 322",
