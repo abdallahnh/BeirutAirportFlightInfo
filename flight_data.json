@@ -43,8 +43,8 @@
   },
   "MS 710-2025-10-14": {
     "flightNumber": "MS 710",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:15",
+    "status": "النداء الاخير",
+    "actualTime": "10:42",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -92,7 +92,7 @@
   },
   "IA 132-2025-10-14": {
     "flightNumber": "IA 132",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -734,13 +734,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "VF 546-2025-10-15": {
-    "flightNumber": "VF 546",
-    "status": "",
-    "actualTime": "23:00",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
   "SK 2828-2025-10-15": {
     "flightNumber": "SK 2828",
     "status": "",
@@ -1007,19 +1000,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "RJ 403-2025-10-14": {
-    "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "20:35",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "J9 261-2025-10-14": {
     "flightNumber": "J9 261",
     "status": "",
     "actualTime": "20:35",
     "type": "arivl",
     "airlineCode": "J9"
+  },
+  "RJ 403-2025-10-14": {
+    "flightNumber": "RJ 403",
+    "status": "",
+    "actualTime": "20:35",
+    "type": "arivl",
+    "airlineCode": "RJ"
   },
   "TK 826-2025-10-14": {
     "flightNumber": "TK 826",
@@ -1118,13 +1111,6 @@
     "actualTime": "00:10",
     "type": "arivl",
     "airlineCode": "QR"
-  },
-  "VF 543-2025-10-15": {
-    "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "01:10",
-    "type": "arivl",
-    "airlineCode": "VF"
   },
   "PC 758-2025-10-15": {
     "flightNumber": "PC 758",
@@ -1560,13 +1546,6 @@
     "type": "arivl",
     "airlineCode": "SK"
   },
-  "VF 545-2025-10-15": {
-    "flightNumber": "VF 545",
-    "status": "",
-    "actualTime": "22:10",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "ME 268-2025-10-15": {
     "flightNumber": "ME 268",
     "status": "",
@@ -1622,13 +1601,6 @@
     "actualTime": "23:40",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "EK 955-2025-10-15": {
-    "flightNumber": "EK 955",
-    "status": "",
-    "actualTime": "23:50",
-    "type": "arivl",
-    "airlineCode": "EK"
   },
   "LH 1308-2025-10-15": {
     "flightNumber": "LH 1308",
