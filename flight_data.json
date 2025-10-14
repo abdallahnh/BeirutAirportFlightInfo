@@ -1,25 +1,4 @@
 {
-  "VF 544-2025-10-14": {
-    "flightNumber": "VF 544",
-    "status": "",
-    "actualTime": "02:00",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
-  "ME 575-2025-10-14": {
-    "flightNumber": "ME 575",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "01:24",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ET 407-2025-10-14": {
-    "flightNumber": "ET 407",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:51",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "TK 829-2025-10-14": {
     "flightNumber": "TK 829",
     "status": "تم اغلاق البوابة",
@@ -29,28 +8,21 @@
   },
   "PC 757-2025-10-14": {
     "flightNumber": "PC 757",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "03:49",
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "MS 714-2025-10-14": {
-    "flightNumber": "MS 714",
-    "status": "تم فتح البوابة",
-    "actualTime": "04:45",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "ME 275-2025-10-14": {
     "flightNumber": "ME 275",
-    "status": "",
-    "actualTime": "06:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "05:19",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "PC 755-2025-10-14": {
     "flightNumber": "PC 755",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "06:25",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -895,38 +867,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ET 406-2025-10-14": {
-    "flightNumber": "ET 406",
-    "status": "وصلت",
-    "actualTime": "02:28",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
-  "TK 828-2025-10-14": {
-    "flightNumber": "TK 828",
-    "status": "وصلت",
-    "actualTime": "02:09",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "PC 756-2025-10-14": {
-    "flightNumber": "PC 756",
-    "status": "وصلت",
-    "actualTime": "03:17",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "MS 713-2025-10-14": {
-    "flightNumber": "MS 713",
-    "status": "وصلت",
-    "actualTime": "03:21",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "PC 1823-2025-10-14": {
     "flightNumber": "PC 1823",
-    "status": "",
-    "actualTime": "05:20",
+    "status": "وصلت",
+    "actualTime": "05:05",
     "type": "arivl",
     "airlineCode": "PC"
   },
