@@ -1,7 +1,7 @@
 {
   "ME 211-2025-10-15": {
     "flightNumber": "ME 211",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "07:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -15,8 +15,8 @@
   },
   "ME 424-2025-10-15": {
     "flightNumber": "ME 424",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:52",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -181,19 +181,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "LH 1307-2025-10-15": {
-    "flightNumber": "LH 1307",
-    "status": "",
-    "actualTime": "16:50",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "ME 312-2025-10-15": {
     "flightNumber": "ME 312",
     "status": "",
     "actualTime": "16:50",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "LH 1307-2025-10-15": {
+    "flightNumber": "LH 1307",
+    "status": "",
+    "actualTime": "16:50",
+    "type": "dprtr",
+    "airlineCode": "LH"
   },
   "ME 322-2025-10-15": {
     "flightNumber": "ME 322",
