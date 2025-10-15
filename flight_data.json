@@ -13,17 +13,10 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "RJ 402-2025-10-15": {
-    "flightNumber": "RJ 402",
-    "status": "النداء الاخير",
-    "actualTime": "09:42",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "IA 134-2025-10-15": {
     "flightNumber": "IA 134",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:11",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -776,13 +769,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 830-2025-10-15": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:04",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "RJ 401-2025-10-15": {
     "flightNumber": "RJ 401",
     "status": "وصلت",
@@ -806,8 +792,8 @@
   },
   "MS 709-2025-10-15": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "وصلت",
+    "actualTime": "10:16",
     "type": "arivl",
     "airlineCode": "MS"
   },
