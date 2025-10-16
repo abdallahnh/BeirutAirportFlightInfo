@@ -8,14 +8,14 @@
   },
   "FZ 158-2025-10-16": {
     "flightNumber": "FZ 158",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "09:53",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
   "MS 710-2025-10-16": {
     "flightNumber": "MS 710",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:15",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -804,13 +804,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 830-2025-10-16": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:24",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "FZ 157-2025-10-16": {
     "flightNumber": "FZ 157",
     "status": "وصلت",
@@ -827,8 +820,8 @@
   },
   "MS 709-2025-10-16": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "10:15",
+    "status": "وصلت",
+    "actualTime": "10:26",
     "type": "arivl",
     "airlineCode": "MS"
   },
