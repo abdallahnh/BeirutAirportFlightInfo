@@ -538,13 +538,6 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "IA 139-2025-10-16": {
-    "flightNumber": "IA 139",
-    "status": "وصلت",
-    "actualTime": "16:43",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 218-2025-10-16": {
     "flightNumber": "ME 218",
     "status": "وصلت",
@@ -568,8 +561,8 @@
   },
   "ME 212-2025-10-16": {
     "flightNumber": "ME 212",
-    "status": "",
-    "actualTime": "18:55",
+    "status": "تأخير",
+    "actualTime": "19:05",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -582,8 +575,8 @@
   },
   "ME 202-2025-10-16": {
     "flightNumber": "ME 202",
-    "status": "",
-    "actualTime": "19:35",
+    "status": "تأخير",
+    "actualTime": "19:45",
     "type": "arivl",
     "airlineCode": "ME"
   },
