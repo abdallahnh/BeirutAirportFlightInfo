@@ -50,21 +50,21 @@
   },
   "QR 417-2025-10-17": {
     "flightNumber": "QR 417",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:28",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "ME 229-2025-10-17": {
     "flightNumber": "ME 229",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "12:57",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EY 582-2025-10-17": {
     "flightNumber": "EY 582",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "14:00",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -338,7 +338,7 @@
   "MS 714-2025-10-18": {
     "flightNumber": "MS 714",
     "status": "",
-    "actualTime": "05:00",
+    "actualTime": "04:50",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -363,6 +363,13 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "ME 265-2025-10-18": {
+    "flightNumber": "ME 265",
+    "status": "",
+    "actualTime": "07:05",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "ME 215-2025-10-18": {
     "flightNumber": "ME 215",
     "status": "",
@@ -377,10 +384,10 @@
     "type": "dprtr",
     "airlineCode": "EY"
   },
-  "ME 235-2025-10-18": {
-    "flightNumber": "ME 235",
+  "ME 231-2025-10-18": {
+    "flightNumber": "ME 231",
     "status": "",
-    "actualTime": "07:15",
+    "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -412,17 +419,10 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "ME 304-2025-10-18": {
-    "flightNumber": "ME 304",
-    "status": "",
-    "actualTime": "07:45",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 310-2025-10-18": {
     "flightNumber": "ME 310",
     "status": "",
-    "actualTime": "07:50",
+    "actualTime": "07:40",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -440,24 +440,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "ME 261-2025-10-18": {
+    "flightNumber": "ME 261",
+    "status": "",
+    "actualTime": "08:25",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "ME 424-2025-10-18": {
     "flightNumber": "ME 424",
     "status": "",
     "actualTime": "08:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 364-2025-10-18": {
-    "flightNumber": "ME 364",
-    "status": "",
-    "actualTime": "08:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 251-2025-10-18": {
-    "flightNumber": "ME 251",
-    "status": "",
-    "actualTime": "09:10",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -475,6 +468,13 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
+  "MS 710-2025-10-18": {
+    "flightNumber": "MS 710",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "dprtr",
+    "airlineCode": "MS"
+  },
   "CY 121-2025-10-18": {
     "flightNumber": "CY 121",
     "status": "",
@@ -489,13 +489,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "MS 710-2025-10-18": {
-    "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "12:05",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "EK 958-2025-10-18": {
     "flightNumber": "EK 958",
     "status": "",
@@ -503,12 +496,19 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
-  "ME 324-2025-10-18": {
-    "flightNumber": "ME 324",
+  "ME 304-2025-10-18": {
+    "flightNumber": "ME 304",
     "status": "",
     "actualTime": "12:15",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "RJ 402-2025-10-18": {
+    "flightNumber": "RJ 402",
+    "status": "",
+    "actualTime": "12:20",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "UF 002-2025-10-18": {
     "flightNumber": "UF 002",
@@ -545,24 +545,17 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "EY 582-2025-10-18": {
-    "flightNumber": "EY 582",
+  "ME 229-2025-10-18": {
+    "flightNumber": "ME 229",
     "status": "",
-    "actualTime": "14:00",
+    "actualTime": "13:30",
     "type": "dprtr",
-    "airlineCode": "EY"
+    "airlineCode": "ME"
   },
   "ME 436-2025-10-18": {
     "flightNumber": "ME 436",
     "status": "",
     "actualTime": "15:15",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 418-2025-10-18": {
-    "flightNumber": "ME 418",
-    "status": "",
-    "actualTime": "15:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -572,13 +565,6 @@
     "actualTime": "15:35",
     "type": "dprtr",
     "airlineCode": "TK"
-  },
-  "ME 322-2025-10-18": {
-    "flightNumber": "ME 322",
-    "status": "",
-    "actualTime": "15:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "AF 565-2025-10-18": {
     "flightNumber": "AF 565",
@@ -594,10 +580,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "ME 418-2025-10-18": {
+    "flightNumber": "ME 418",
+    "status": "",
+    "actualTime": "16:25",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "ME 312-2025-10-18": {
     "flightNumber": "ME 312",
     "status": "",
-    "actualTime": "16:40",
+    "actualTime": "16:50",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -608,6 +601,20 @@
     "type": "dprtr",
     "airlineCode": "LH"
   },
+  "ME 322-2025-10-18": {
+    "flightNumber": "ME 322",
+    "status": "",
+    "actualTime": "16:55",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "IA 140-2025-10-18": {
+    "flightNumber": "IA 140",
+    "status": "",
+    "actualTime": "17:00",
+    "type": "dprtr",
+    "airlineCode": "IA"
+  },
   "UF 004-2025-10-18": {
     "flightNumber": "UF 004",
     "status": "",
@@ -615,15 +622,15 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
+  "IA 1302-2025-10-18": {
+    "flightNumber": "IA 1302",
+    "status": "",
+    "actualTime": "17:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
+  },
   "ME 267-2025-10-18": {
     "flightNumber": "ME 267",
-    "status": "",
-    "actualTime": "17:35",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 203-2025-10-18": {
-    "flightNumber": "ME 203",
     "status": "",
     "actualTime": "17:35",
     "type": "dprtr",
@@ -657,13 +664,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 263-2025-10-18": {
-    "flightNumber": "ME 263",
-    "status": "",
-    "actualTime": "19:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EK 954-2025-10-18": {
     "flightNumber": "EK 954",
     "status": "",
@@ -671,19 +671,19 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
+  "QR 427-2025-10-18": {
+    "flightNumber": "QR 427",
+    "status": "",
+    "actualTime": "20:05",
+    "type": "dprtr",
+    "airlineCode": "QR"
+  },
   "MS 712-2025-10-18": {
     "flightNumber": "MS 712",
     "status": "",
     "actualTime": "20:10",
     "type": "dprtr",
     "airlineCode": "MS"
-  },
-  "QR 427-2025-10-18": {
-    "flightNumber": "QR 427",
-    "status": "",
-    "actualTime": "20:20",
-    "type": "dprtr",
-    "airlineCode": "QR"
   },
   "RJ 404-2025-10-18": {
     "flightNumber": "RJ 404",
@@ -698,20 +698,6 @@
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "PC"
-  },
-  "ME 261-2025-10-18": {
-    "flightNumber": "ME 261",
-    "status": "",
-    "actualTime": "20:50",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 430-2025-10-18": {
-    "flightNumber": "ME 430",
-    "status": "",
-    "actualTime": "21:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "J9 262-2025-10-18": {
     "flightNumber": "J9 262",
@@ -740,27 +726,6 @@
     "actualTime": "22:50",
     "type": "dprtr",
     "airlineCode": "KU"
-  },
-  "ME 434-2025-10-18": {
-    "flightNumber": "ME 434",
-    "status": "",
-    "actualTime": "23:05",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "RJ 401-2025-10-17": {
-    "flightNumber": "RJ 401",
-    "status": "وصلت",
-    "actualTime": "11:01",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
-  "ME 303-2025-10-17": {
-    "flightNumber": "ME 303",
-    "status": "وصلت",
-    "actualTime": "11:09",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "UF 001-2025-10-17": {
     "flightNumber": "UF 001",
