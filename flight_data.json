@@ -41,13 +41,6 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
-  "IA 132-2025-10-17": {
-    "flightNumber": "IA 132",
-    "status": "غادرت",
-    "actualTime": "12:08",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "G9 386-2025-10-17": {
     "flightNumber": "G9 386",
     "status": "تم اغلاق البوابة",
@@ -57,7 +50,7 @@
   },
   "QR 417-2025-10-17": {
     "flightNumber": "QR 417",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "12:28",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -71,7 +64,7 @@
   },
   "EY 582-2025-10-17": {
     "flightNumber": "EY 582",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "14:00",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -1529,13 +1522,6 @@
     "flightNumber": "ME 268",
     "status": "",
     "actualTime": "22:25",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 419-2025-10-18": {
-    "flightNumber": "ME 419",
-    "status": "",
-    "actualTime": "22:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
