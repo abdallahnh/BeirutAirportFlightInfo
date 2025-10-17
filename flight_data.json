@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
-  "ME 304-2025-10-17": {
-    "flightNumber": "ME 304",
-    "status": "غادرت",
-    "actualTime": "11:47",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "RJ 402-2025-10-17": {
     "flightNumber": "RJ 402",
     "status": "تم اغلاق البوابة",
@@ -50,22 +43,22 @@
   },
   "IA 132-2025-10-17": {
     "flightNumber": "IA 132",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "12:08",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "G9 386-2025-10-17": {
     "flightNumber": "G9 386",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:07",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "QR 417-2025-10-17": {
     "flightNumber": "QR 417",
-    "status": "",
-    "actualTime": "13:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:28",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -813,7 +806,7 @@
   },
   "EY 581-2025-10-17": {
     "flightNumber": "EY 581",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "12:25",
     "type": "arivl",
     "airlineCode": "EY"
@@ -1455,19 +1448,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "RJ 403-2025-10-18": {
+    "flightNumber": "RJ 403",
+    "status": "",
+    "actualTime": "19:40",
+    "type": "arivl",
+    "airlineCode": "RJ"
+  },
   "PC 1824-2025-10-18": {
     "flightNumber": "PC 1824",
     "status": "",
     "actualTime": "20:00",
     "type": "arivl",
     "airlineCode": "PC"
-  },
-  "ME 323-2025-10-18": {
-    "flightNumber": "ME 323",
-    "status": "",
-    "actualTime": "20:00",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 313-2025-10-18": {
     "flightNumber": "ME 313",
@@ -1483,20 +1476,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "RJ 403-2025-10-18": {
-    "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "20:35",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
-  "KU 503-2025-10-18": {
-    "flightNumber": "KU 503",
-    "status": "",
-    "actualTime": "20:35",
-    "type": "arivl",
-    "airlineCode": "KU"
-  },
   "J9 261-2025-10-18": {
     "flightNumber": "J9 261",
     "status": "",
@@ -1510,6 +1489,20 @@
     "actualTime": "20:55",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "ME 323-2025-10-18": {
+    "flightNumber": "ME 323",
+    "status": "",
+    "actualTime": "21:00",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "KU 503-2025-10-18": {
+    "flightNumber": "KU 503",
+    "status": "",
+    "actualTime": "21:35",
+    "type": "arivl",
+    "airlineCode": "KU"
   },
   "FZ 159-2025-10-18": {
     "flightNumber": "FZ 159",
