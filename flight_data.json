@@ -27,23 +27,16 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "ME 312-2025-10-17": {
-    "flightNumber": "ME 312",
-    "status": "غادرت",
-    "actualTime": "16:08",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "LH 1307-2025-10-17": {
     "flightNumber": "LH 1307",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:47",
     "type": "dprtr",
     "airlineCode": "LH"
   },
   "ME 322-2025-10-17": {
     "flightNumber": "ME 322",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "16:33",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -57,7 +50,7 @@
   },
   "IA 1302-2025-10-17": {
     "flightNumber": "IA 1302",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:30",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -649,13 +642,6 @@
     "actualTime": "22:50",
     "type": "dprtr",
     "airlineCode": "KU"
-  },
-  "ME 365-2025-10-17": {
-    "flightNumber": "ME 365",
-    "status": "وصلت",
-    "actualTime": "14:46",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 427-2025-10-17": {
     "flightNumber": "ME 427",
