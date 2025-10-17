@@ -43,7 +43,7 @@
   },
   "PC 757-2025-10-17": {
     "flightNumber": "PC 757",
-    "status": "",
+    "status": "غادرت",
     "actualTime": "04:20",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -57,15 +57,15 @@
   },
   "ME 247-2025-10-17": {
     "flightNumber": "ME 247",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 265-2025-10-17": {
     "flightNumber": "ME 265",
-    "status": "",
-    "actualTime": "07:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:24",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -92,7 +92,7 @@
   },
   "RJ 408-2025-10-17": {
     "flightNumber": "RJ 408",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:35",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -946,8 +946,8 @@
   },
   "RJ 407-2025-10-17": {
     "flightNumber": "RJ 407",
-    "status": "",
-    "actualTime": "06:30",
+    "status": "وصلت",
+    "actualTime": "06:16",
     "type": "arivl",
     "airlineCode": "RJ"
   },
