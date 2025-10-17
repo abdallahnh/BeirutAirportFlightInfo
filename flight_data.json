@@ -78,14 +78,14 @@
   },
   "G9 388-2025-10-17": {
     "flightNumber": "G9 388",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "22:37",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "PC 765-2025-10-17": {
     "flightNumber": "PC 765",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "22:17",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -552,26 +552,12 @@
     "type": "arivl",
     "airlineCode": "UF"
   },
-  "MS 711-2025-10-17": {
-    "flightNumber": "MS 711",
-    "status": "وصلت",
-    "actualTime": "20:39",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "TK 826-2025-10-17": {
     "flightNumber": "TK 826",
     "status": "وصلت",
     "actualTime": "20:52",
     "type": "arivl",
     "airlineCode": "TK"
-  },
-  "ME 323-2025-10-17": {
-    "flightNumber": "ME 323",
-    "status": "وصلت",
-    "actualTime": "20:45",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "FZ 159-2025-10-17": {
     "flightNumber": "FZ 159",
@@ -638,8 +624,8 @@
   },
   "ME 262-2025-10-17": {
     "flightNumber": "ME 262",
-    "status": "",
-    "actualTime": "23:05",
+    "status": "وصلت",
+    "actualTime": "22:45",
     "type": "arivl",
     "airlineCode": "ME"
   },
