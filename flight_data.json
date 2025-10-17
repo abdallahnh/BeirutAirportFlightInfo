@@ -15,14 +15,14 @@
   },
   "MS 710-2025-10-17": {
     "flightNumber": "MS 710",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "10:21",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "ME 320-2025-10-17": {
     "flightNumber": "ME 320",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -776,13 +776,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EK 957-2025-10-17": {
-    "flightNumber": "EK 957",
-    "status": "وصلت",
-    "actualTime": "09:55",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "MS 709-2025-10-17": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -876,8 +869,8 @@
   },
   "AF 564-2025-10-17": {
     "flightNumber": "AF 564",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "تأخير",
+    "actualTime": "14:30",
     "type": "arivl",
     "airlineCode": "AF"
   },
