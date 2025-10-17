@@ -57,21 +57,21 @@
   },
   "MS 712-2025-10-17": {
     "flightNumber": "MS 712",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "21:07",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "TK 827-2025-10-17": {
     "flightNumber": "TK 827",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:50",
+    "status": "غادرت",
+    "actualTime": "21:28",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "CY 121-2025-10-17": {
     "flightNumber": "CY 121",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "21:01",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -566,33 +566,12 @@
     "type": "arivl",
     "airlineCode": "UF"
   },
-  "ME 212-2025-10-17": {
-    "flightNumber": "ME 212",
-    "status": "وصلت",
-    "actualTime": "19:27",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "MS 711-2025-10-17": {
     "flightNumber": "MS 711",
     "status": "وصلت",
     "actualTime": "20:39",
     "type": "arivl",
     "airlineCode": "MS"
-  },
-  "ME 202-2025-10-17": {
-    "flightNumber": "ME 202",
-    "status": "وصلت",
-    "actualTime": "19:21",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 313-2025-10-17": {
-    "flightNumber": "ME 313",
-    "status": "وصلت",
-    "actualTime": "19:33",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "PC 1824-2025-10-17": {
     "flightNumber": "PC 1824",
@@ -652,8 +631,8 @@
   },
   "ME 307-2025-10-17": {
     "flightNumber": "ME 307",
-    "status": "",
-    "actualTime": "21:50",
+    "status": "وصلت",
+    "actualTime": "21:39",
     "type": "arivl",
     "airlineCode": "ME"
   },
