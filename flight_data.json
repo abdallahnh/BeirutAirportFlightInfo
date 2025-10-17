@@ -34,13 +34,6 @@
     "type": "dprtr",
     "airlineCode": "UF"
   },
-  "IA 1302-2025-10-17": {
-    "flightNumber": "IA 1302",
-    "status": "غادرت",
-    "actualTime": "17:02",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "KU 502-2025-10-17": {
     "flightNumber": "KU 502",
     "status": "تم اغلاق البوابة",
@@ -71,17 +64,10 @@
   },
   "FZ 160-2025-10-17": {
     "flightNumber": "FZ 160",
-    "status": "تم فتح البوابة",
-    "actualTime": "22:40",
+    "status": "النداء الاخير",
+    "actualTime": "22:01",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "SK 2828-2025-10-17": {
-    "flightNumber": "SK 2828",
-    "status": "",
-    "actualTime": "23:00",
-    "type": "dprtr",
-    "airlineCode": "SK"
   },
   "G9 388-2025-10-17": {
     "flightNumber": "G9 388",
@@ -89,6 +75,13 @@
     "actualTime": "23:00",
     "type": "dprtr",
     "airlineCode": "G9"
+  },
+  "SK 2828-2025-10-17": {
+    "flightNumber": "SK 2828",
+    "status": "",
+    "actualTime": "23:00",
+    "type": "dprtr",
+    "airlineCode": "SK"
   },
   "PC 765-2025-10-17": {
     "flightNumber": "PC 765",
@@ -638,7 +631,7 @@
   },
   "PC 764-2025-10-17": {
     "flightNumber": "PC 764",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "21:54",
     "type": "arivl",
     "airlineCode": "PC"
@@ -646,7 +639,7 @@
   "G9 387-2025-10-17": {
     "flightNumber": "G9 387",
     "status": "",
-    "actualTime": "22:20",
+    "actualTime": "22:14",
     "type": "arivl",
     "airlineCode": "G9"
   },
