@@ -1,14 +1,14 @@
 {
   "QR 419-2025-10-19": {
     "flightNumber": "QR 419",
-    "status": "",
-    "actualTime": "01:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:49",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "LH 1309-2025-10-19": {
     "flightNumber": "LH 1309",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "00:58",
     "type": "dprtr",
     "airlineCode": "LH"
@@ -979,13 +979,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "LH 1308-2025-10-18": {
-    "flightNumber": "LH 1308",
-    "status": "وصلت",
-    "actualTime": "23:47",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "ME 429-2025-10-18": {
     "flightNumber": "ME 429",
     "status": "وصلت",
@@ -1030,8 +1023,8 @@
   },
   "ET 406-2025-10-19": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "وصلت",
+    "actualTime": "01:49",
     "type": "arivl",
     "airlineCode": "ET"
   },
