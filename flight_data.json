@@ -13,59 +13,31 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 231-2025-10-18": {
-    "flightNumber": "ME 231",
-    "status": "غادرت",
-    "actualTime": "06:48",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 217-2025-10-18": {
-    "flightNumber": "ME 217",
-    "status": "غادرت",
-    "actualTime": "06:46",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 213-2025-10-18": {
-    "flightNumber": "ME 213",
-    "status": "غادرت",
-    "actualTime": "06:52",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 426-2025-10-18": {
     "flightNumber": "ME 426",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "06:53",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "RJ 408-2025-10-18": {
-    "flightNumber": "RJ 408",
-    "status": "غادرت",
-    "actualTime": "06:35",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 310-2025-10-18": {
     "flightNumber": "ME 310",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "07:05",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 211-2025-10-18": {
     "flightNumber": "ME 211",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "07:24",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 201-2025-10-18": {
     "flightNumber": "ME 201",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:10",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:37",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -78,7 +50,7 @@
   },
   "ME 424-2025-10-18": {
     "flightNumber": "ME 424",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:30",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -100,7 +72,7 @@
   "MS 710-2025-10-18": {
     "flightNumber": "MS 710",
     "status": "",
-    "actualTime": "11:30",
+    "actualTime": "11:15",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -300,13 +272,6 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "MS 712-2025-10-18": {
-    "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "20:10",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "RJ 404-2025-10-18": {
     "flightNumber": "RJ 404",
     "status": "",
@@ -320,6 +285,13 @@
     "actualTime": "20:45",
     "type": "dprtr",
     "airlineCode": "PC"
+  },
+  "MS 712-2025-10-18": {
+    "flightNumber": "MS 712",
+    "status": "",
+    "actualTime": "21:10",
+    "type": "dprtr",
+    "airlineCode": "MS"
   },
   "J9 262-2025-10-18": {
     "flightNumber": "J9 262",
@@ -898,7 +870,7 @@
   "MS 709-2025-10-18": {
     "flightNumber": "MS 709",
     "status": "",
-    "actualTime": "10:30",
+    "actualTime": "10:15",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -1098,13 +1070,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "MS 711-2025-10-18": {
-    "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "19:10",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "ME 202-2025-10-18": {
     "flightNumber": "ME 202",
     "status": "",
@@ -1132,6 +1097,13 @@
     "actualTime": "20:00",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "MS 711-2025-10-18": {
+    "flightNumber": "MS 711",
+    "status": "",
+    "actualTime": "20:10",
+    "type": "arivl",
+    "airlineCode": "MS"
   },
   "ME 576-2025-10-18": {
     "flightNumber": "ME 576",
