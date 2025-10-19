@@ -41,13 +41,6 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "IA 1302-2025-10-19": {
-    "flightNumber": "IA 1302",
-    "status": "غادرت",
-    "actualTime": "17:05",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "ME 267-2025-10-19": {
     "flightNumber": "ME 267",
     "status": "الصعود الى الطائرة",
@@ -57,36 +50,36 @@
   },
   "ME 368-2025-10-19": {
     "flightNumber": "ME 368",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "17:10",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 422-2025-10-19": {
     "flightNumber": "ME 422",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "17:17",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 326-2025-10-19": {
-    "flightNumber": "ME 326",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "17:07",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 402-2025-10-19": {
     "flightNumber": "ME 402",
-    "status": "",
-    "actualTime": "18:00",
+    "status": "النداء الاخير",
+    "actualTime": "17:31",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 326-2025-10-19": {
+    "flightNumber": "ME 326",
+    "status": "غادرت",
+    "actualTime": "17:07",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 253-2025-10-19": {
     "flightNumber": "ME 253",
-    "status": "تم فتح البوابة",
-    "actualTime": "18:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:30",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -594,13 +587,6 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "ME 236-2025-10-19": {
-    "flightNumber": "ME 236",
-    "status": "وصلت",
-    "actualTime": "15:34",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 305-2025-10-19": {
     "flightNumber": "ME 305",
     "status": "وصلت",
@@ -652,8 +638,8 @@
   },
   "EK 953-2025-10-19": {
     "flightNumber": "EK 953",
-    "status": "",
-    "actualTime": "17:40",
+    "status": "وصلت",
+    "actualTime": "17:32",
     "type": "arivl",
     "airlineCode": "EK"
   },
