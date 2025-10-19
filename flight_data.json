@@ -20,30 +20,16 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "UF 002-2025-10-19": {
-    "flightNumber": "UF 002",
-    "status": "غادرت",
-    "actualTime": "12:14",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
-  "IA 132-2025-10-19": {
-    "flightNumber": "IA 132",
-    "status": "غادرت",
-    "actualTime": "11:36",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "G9 386-2025-10-19": {
     "flightNumber": "G9 386",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:17",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "QR 417-2025-10-19": {
     "flightNumber": "QR 417",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "12:27",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -764,8 +750,8 @@
   },
   "EY 581-2025-10-19": {
     "flightNumber": "EY 581",
-    "status": "",
-    "actualTime": "12:25",
+    "status": "وصلت",
+    "actualTime": "12:36",
     "type": "arivl",
     "airlineCode": "EY"
   },
