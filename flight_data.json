@@ -64,15 +64,15 @@
   },
   "EK 954-2025-10-19": {
     "flightNumber": "EK 954",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:36",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "CY 121-2025-10-19": {
     "flightNumber": "CY 121",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:13",
     "type": "dprtr",
     "airlineCode": "CY"
   },
@@ -205,7 +205,7 @@
   "MS 714-2025-10-20": {
     "flightNumber": "MS 714",
     "status": "",
-    "actualTime": "04:30",
+    "actualTime": "04:40",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -324,7 +324,7 @@
   "MS 710-2025-10-20": {
     "flightNumber": "MS 710",
     "status": "",
-    "actualTime": "11:30",
+    "actualTime": "11:15",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -545,27 +545,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "VF 543-2025-10-19": {
-    "flightNumber": "VF 543",
-    "status": "ألغيت",
-    "actualTime": "01:10",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
-  "PC 761-2025-10-19": {
-    "flightNumber": "PC 761",
-    "status": "",
-    "actualTime": "02:05",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "ME 325-2025-10-19": {
-    "flightNumber": "ME 325",
-    "status": "وصلت",
-    "actualTime": "16:53",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "EK 953-2025-10-19": {
     "flightNumber": "EK 953",
     "status": "وصلت",
@@ -713,13 +692,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "RJ 051-2025-10-19": {
-    "flightNumber": "RJ 051",
-    "status": "",
-    "actualTime": "23:15",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "ME 423-2025-10-19": {
     "flightNumber": "ME 423",
     "status": "",
@@ -797,19 +769,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "PC 762-2025-10-20": {
+    "flightNumber": "PC 762",
+    "status": "",
+    "actualTime": "03:15",
+    "type": "arivl",
+    "airlineCode": "PC"
+  },
   "MS 713-2025-10-20": {
     "flightNumber": "MS 713",
     "status": "",
     "actualTime": "03:40",
     "type": "arivl",
     "airlineCode": "MS"
-  },
-  "PC 762-2025-10-20": {
-    "flightNumber": "PC 762",
-    "status": "",
-    "actualTime": "04:15",
-    "type": "arivl",
-    "airlineCode": "PC"
   },
   "RJ 407-2025-10-20": {
     "flightNumber": "RJ 407",
@@ -835,7 +807,7 @@
   "MS 709-2025-10-20": {
     "flightNumber": "MS 709",
     "status": "",
-    "actualTime": "10:30",
+    "actualTime": "10:15",
     "type": "arivl",
     "airlineCode": "MS"
   },
