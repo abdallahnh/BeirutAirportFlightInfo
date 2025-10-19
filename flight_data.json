@@ -1,14 +1,14 @@
 {
   "ME 436-2025-10-19": {
     "flightNumber": "ME 436",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "AH 4017-2025-10-19": {
     "flightNumber": "AH 4017",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "14:29",
     "type": "dprtr",
     "airlineCode": "AH"
@@ -22,7 +22,7 @@
   },
   "TK 825-2025-10-19": {
     "flightNumber": "TK 825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:35",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -643,13 +643,6 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "EY 581-2025-10-19": {
-    "flightNumber": "EY 581",
-    "status": "وصلت",
-    "actualTime": "12:36",
-    "type": "arivl",
-    "airlineCode": "EY"
-  },
   "ME 425-2025-10-19": {
     "flightNumber": "ME 425",
     "status": "وصلت",
@@ -680,8 +673,8 @@
   },
   "TK 824-2025-10-19": {
     "flightNumber": "TK 824",
-    "status": "",
-    "actualTime": "14:40",
+    "status": "وصلت",
+    "actualTime": "14:32",
     "type": "arivl",
     "airlineCode": "TK"
   },
