@@ -34,31 +34,17 @@
     "type": "dprtr",
     "airlineCode": "RO"
   },
-  "PC 757-2025-10-19": {
-    "flightNumber": "PC 757",
-    "status": "تم فتح البوابة",
-    "actualTime": "04:20",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
-  "MS 714-2025-10-19": {
-    "flightNumber": "MS 714",
-    "status": "تم فتح البوابة",
-    "actualTime": "04:40",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "LO 146-2025-10-19": {
     "flightNumber": "LO 146",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "04:04",
     "type": "dprtr",
     "airlineCode": "LO"
   },
   "ME 275-2025-10-19": {
     "flightNumber": "ME 275",
-    "status": "",
-    "actualTime": "06:00",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "05:21",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -965,54 +951,12 @@
     "type": "arivl",
     "airlineCode": "VF"
   },
-  "PC 758-2025-10-19": {
-    "flightNumber": "PC 758",
-    "status": "وصلت",
-    "actualTime": "02:31",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "PC 761-2025-10-19": {
     "flightNumber": "PC 761",
     "status": "",
     "actualTime": "02:05",
     "type": "arivl",
     "airlineCode": "PC"
-  },
-  "TK 828-2025-10-19": {
-    "flightNumber": "TK 828",
-    "status": "وصلت",
-    "actualTime": "02:24",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "ET 416-2025-10-19": {
-    "flightNumber": "ET 416",
-    "status": "وصلت",
-    "actualTime": "03:01",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
-  "RO 167-2025-10-19": {
-    "flightNumber": "RO 167",
-    "status": "وصلت",
-    "actualTime": "02:58",
-    "type": "arivl",
-    "airlineCode": "RO"
-  },
-  "PC 756-2025-10-19": {
-    "flightNumber": "PC 756",
-    "status": "وصلت",
-    "actualTime": "03:51",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "LO 145-2025-10-19": {
-    "flightNumber": "LO 145",
-    "status": "وصلت",
-    "actualTime": "03:26",
-    "type": "arivl",
-    "airlineCode": "LO"
   },
   "MS 713-2025-10-19": {
     "flightNumber": "MS 713",
@@ -1023,8 +967,8 @@
   },
   "RJ 407-2025-10-19": {
     "flightNumber": "RJ 407",
-    "status": "",
-    "actualTime": "06:30",
+    "status": "وصلت",
+    "actualTime": "05:41",
     "type": "arivl",
     "airlineCode": "RJ"
   },
