@@ -50,7 +50,7 @@
   },
   "ME 304-2025-10-20": {
     "flightNumber": "ME 304",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "11:42",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -148,7 +148,7 @@
   },
   "UF 004-2025-10-20": {
     "flightNumber": "UF 004",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "17:30",
     "type": "dprtr",
     "airlineCode": "UF"
@@ -727,13 +727,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EK 957-2025-10-20": {
-    "flightNumber": "EK 957",
-    "status": "وصلت",
-    "actualTime": "09:50",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "MS 709-2025-10-20": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -757,8 +750,8 @@
   },
   "IA 131-2025-10-20": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "وصلت",
+    "actualTime": "11:57",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -771,8 +764,8 @@
   },
   "G9 385-2025-10-20": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "11:50",
+    "status": "وصلت",
+    "actualTime": "11:57",
     "type": "arivl",
     "airlineCode": "G9"
   },
@@ -782,13 +775,6 @@
     "actualTime": "11:45",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "VF 1043-2025-10-20": {
-    "flightNumber": "VF 1043",
-    "status": "",
-    "actualTime": "13:35",
-    "type": "arivl",
-    "airlineCode": "VF"
   },
   "ME 425-2025-10-20": {
     "flightNumber": "ME 425",
@@ -862,7 +848,7 @@
   },
   "UF 003-2025-10-20": {
     "flightNumber": "UF 003",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "16:30",
     "type": "arivl",
     "airlineCode": "UF"
