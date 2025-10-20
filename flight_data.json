@@ -1,18 +1,4 @@
 {
-  "QR 417-2025-10-20": {
-    "flightNumber": "QR 417",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "12:35",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
-  "TK 825-2025-10-20": {
-    "flightNumber": "TK 825",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "14:48",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "AF 565-2025-10-20": {
     "flightNumber": "AF 565",
     "status": "تم اغلاق البوابة",
@@ -20,24 +6,17 @@
     "type": "dprtr",
     "airlineCode": "AF"
   },
-  "ME 428-2025-10-20": {
-    "flightNumber": "ME 428",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:25",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 312-2025-10-20": {
     "flightNumber": "ME 312",
-    "status": "",
-    "actualTime": "16:50",
+    "status": "غادرت",
+    "actualTime": "16:21",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "LH 1307-2025-10-20": {
     "flightNumber": "LH 1307",
-    "status": "",
-    "actualTime": "16:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:20",
     "type": "dprtr",
     "airlineCode": "LH"
   },
@@ -64,8 +43,8 @@
   },
   "ME 267-2025-10-20": {
     "flightNumber": "ME 267",
-    "status": "",
-    "actualTime": "17:35",
+    "status": "تأخير",
+    "actualTime": "18:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -621,34 +600,6 @@
     "actualTime": "22:40",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "ME 425-2025-10-20": {
-    "flightNumber": "ME 425",
-    "status": "وصلت",
-    "actualTime": "13:59",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 405-2025-10-20": {
-    "flightNumber": "ME 405",
-    "status": "وصلت",
-    "actualTime": "14:07",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "AF 564-2025-10-20": {
-    "flightNumber": "AF 564",
-    "status": "وصلت",
-    "actualTime": "14:17",
-    "type": "arivl",
-    "airlineCode": "AF"
-  },
-  "TK 824-2025-10-20": {
-    "flightNumber": "TK 824",
-    "status": "وصلت",
-    "actualTime": "14:29",
-    "type": "arivl",
-    "airlineCode": "TK"
   },
   "ME 365-2025-10-20": {
     "flightNumber": "ME 365",
