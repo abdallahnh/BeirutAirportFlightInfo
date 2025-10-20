@@ -41,17 +41,10 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "MS 710-2025-10-20": {
-    "flightNumber": "MS 710",
-    "status": "النداء الاخير",
-    "actualTime": "10:41",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "EK 958-2025-10-20": {
     "flightNumber": "EK 958",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:05",
+    "status": "النداء الاخير",
+    "actualTime": "11:00",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -64,7 +57,7 @@
   },
   "RJ 402-2025-10-20": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -757,8 +750,8 @@
   },
   "RJ 401-2025-10-20": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "11:20",
+    "status": "وصلت",
+    "actualTime": "11:01",
     "type": "arivl",
     "airlineCode": "RJ"
   },
