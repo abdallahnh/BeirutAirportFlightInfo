@@ -1,11 +1,4 @@
 {
-  "TK 827-2025-10-21": {
-    "flightNumber": "TK 827",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "21:32",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "FZ 160-2025-10-21": {
     "flightNumber": "FZ 160",
     "status": "تم اغلاق البوابة",
@@ -29,7 +22,7 @@
   },
   "ET 407-2025-10-22": {
     "flightNumber": "ET 407",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -44,7 +37,7 @@
   "TK 829-2025-10-22": {
     "flightNumber": "TK 829",
     "status": "",
-    "actualTime": "03:35",
+    "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -440,41 +433,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "J9 261-2025-10-21": {
-    "flightNumber": "J9 261",
-    "status": "وصلت",
-    "actualTime": "20:28",
-    "type": "arivl",
-    "airlineCode": "J9"
-  },
-  "TK 826-2025-10-21": {
-    "flightNumber": "TK 826",
-    "status": "وصلت",
-    "actualTime": "20:43",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "ME 323-2025-10-21": {
-    "flightNumber": "ME 323",
-    "status": "وصلت",
-    "actualTime": "20:40",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "FZ 159-2025-10-21": {
-    "flightNumber": "FZ 159",
-    "status": "وصلت",
-    "actualTime": "21:17",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
-  "ME 307-2025-10-21": {
-    "flightNumber": "ME 307",
-    "status": "تبكير",
-    "actualTime": "21:35",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 437-2025-10-21": {
     "flightNumber": "ME 437",
     "status": "وصلت",
@@ -484,29 +442,29 @@
   },
   "ME 327-2025-10-21": {
     "flightNumber": "ME 327",
-    "status": "تبكير",
-    "actualTime": "22:10",
+    "status": "وصلت",
+    "actualTime": "22:13",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 268-2025-10-21": {
     "flightNumber": "ME 268",
-    "status": "",
-    "actualTime": "22:25",
+    "status": "وصلت",
+    "actualTime": "22:24",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 419-2025-10-21": {
     "flightNumber": "ME 419",
-    "status": "",
-    "actualTime": "22:50",
+    "status": "تأخير",
+    "actualTime": "23:05",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 262-2025-10-21": {
     "flightNumber": "ME 262",
-    "status": "",
-    "actualTime": "23:05",
+    "status": "تبكير",
+    "actualTime": "22:40",
     "type": "arivl",
     "airlineCode": "ME"
   },
