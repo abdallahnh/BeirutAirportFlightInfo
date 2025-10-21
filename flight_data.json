@@ -1,21 +1,14 @@
 {
-  "UF 004-2025-10-21": {
-    "flightNumber": "UF 004",
-    "status": "ألغيت",
-    "actualTime": "17:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "EK 954-2025-10-21": {
     "flightNumber": "EK 954",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:28",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "QR 427-2025-10-21": {
     "flightNumber": "QR 427",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "20:05",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -496,20 +489,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 218-2025-10-21": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "17:01",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "EK 953-2025-10-21": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:31",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "QR 426-2025-10-21": {
     "flightNumber": "QR 426",
     "status": "وصلت",
@@ -527,21 +506,21 @@
   "MS 711-2025-10-21": {
     "flightNumber": "MS 711",
     "status": "",
-    "actualTime": "19:10",
+    "actualTime": "19:33",
     "type": "arivl",
     "airlineCode": "MS"
   },
   "ME 202-2025-10-21": {
     "flightNumber": "ME 202",
-    "status": "",
-    "actualTime": "19:35",
+    "status": "وصلت",
+    "actualTime": "19:29",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 313-2025-10-21": {
     "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "19:50",
+    "status": "وصلت",
+    "actualTime": "19:31",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -559,19 +538,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "J9 261-2025-10-21": {
-    "flightNumber": "J9 261",
-    "status": "",
-    "actualTime": "20:35",
-    "type": "arivl",
-    "airlineCode": "J9"
-  },
   "RJ 403-2025-10-21": {
     "flightNumber": "RJ 403",
     "status": "",
     "actualTime": "20:35",
     "type": "arivl",
     "airlineCode": "RJ"
+  },
+  "J9 261-2025-10-21": {
+    "flightNumber": "J9 261",
+    "status": "",
+    "actualTime": "20:35",
+    "type": "arivl",
+    "airlineCode": "J9"
   },
   "TK 826-2025-10-21": {
     "flightNumber": "TK 826",
