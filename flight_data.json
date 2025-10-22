@@ -20,17 +20,10 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ME 229-2025-10-22": {
-    "flightNumber": "ME 229",
-    "status": "غادرت",
-    "actualTime": "13:02",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EY 582-2025-10-22": {
     "flightNumber": "EY 582",
-    "status": "",
-    "actualTime": "14:00",
+    "status": "النداء الاخير",
+    "actualTime": "13:33",
     "type": "dprtr",
     "airlineCode": "EY"
   },
@@ -685,13 +678,6 @@
     "type": "arivl",
     "airlineCode": "UF"
   },
-  "QR 416-2025-10-22": {
-    "flightNumber": "QR 416",
-    "status": "وصلت",
-    "actualTime": "11:33",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "G9 385-2025-10-22": {
     "flightNumber": "G9 385",
     "status": "وصلت",
@@ -1154,13 +1140,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "VF 1043-2025-10-23": {
-    "flightNumber": "VF 1043",
-    "status": "",
-    "actualTime": "15:40",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "ME 252-2025-10-23": {
     "flightNumber": "ME 252",
     "status": "",
@@ -1339,7 +1318,7 @@
   "TK 826-2025-10-23": {
     "flightNumber": "TK 826",
     "status": "",
-    "actualTime": "20:55",
+    "actualTime": "20:50",
     "type": "arivl",
     "airlineCode": "TK"
   },
