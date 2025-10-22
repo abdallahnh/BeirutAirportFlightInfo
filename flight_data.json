@@ -22,21 +22,21 @@
   },
   "RJ 402-2025-10-22": {
     "flightNumber": "RJ 402",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "09:52",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "IA 134-2025-10-22": {
     "flightNumber": "IA 134",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:45",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "MS 710-2025-10-22": {
     "flightNumber": "MS 710",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:15",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -776,13 +776,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 830-2025-10-22": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:18",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "RJ 401-2025-10-22": {
     "flightNumber": "RJ 401",
     "status": "وصلت",
@@ -799,8 +792,8 @@
   },
   "EK 957-2025-10-22": {
     "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "10:05",
+    "status": "وصلت",
+    "actualTime": "10:03",
     "type": "arivl",
     "airlineCode": "EK"
   },
