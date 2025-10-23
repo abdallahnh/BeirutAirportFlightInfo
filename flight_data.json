@@ -1,18 +1,4 @@
 {
-  "MS 714-2025-10-23": {
-    "flightNumber": "MS 714",
-    "status": "تأخير",
-    "actualTime": "05:00",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
-  "ME 275-2025-10-23": {
-    "flightNumber": "ME 275",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "05:22",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 424-2025-10-23": {
     "flightNumber": "ME 424",
     "status": "تم اغلاق البوابة",
@@ -20,17 +6,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 251-2025-10-23": {
-    "flightNumber": "ME 251",
-    "status": "النداء الاخير",
-    "actualTime": "08:33",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2025-10-23": {
     "flightNumber": "TK 831",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:05",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -125,13 +104,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "UF 002-2025-10-23": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "14:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "ME 436-2025-10-23": {
     "flightNumber": "ME 436",
     "status": "",
@@ -173,6 +145,13 @@
     "actualTime": "16:25",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "UF 002-2025-10-23": {
+    "flightNumber": "UF 002",
+    "status": "",
+    "actualTime": "16:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
   },
   "IA 136-2025-10-23": {
     "flightNumber": "IA 136",
@@ -831,13 +810,6 @@
     "actualTime": "10:05",
     "type": "arivl",
     "airlineCode": "EK"
-  },
-  "ME 311-2025-10-23": {
-    "flightNumber": "ME 311",
-    "status": "",
-    "actualTime": "10:40",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "CY 120-2025-10-23": {
     "flightNumber": "CY 120",
