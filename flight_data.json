@@ -13,17 +13,10 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "QR 417-2025-10-23": {
-    "flightNumber": "QR 417",
-    "status": "النداء الاخير",
-    "actualTime": "12:35",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "ME 229-2025-10-23": {
     "flightNumber": "ME 229",
-    "status": "تم فتح البوابة",
-    "actualTime": "13:30",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "13:01",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -797,19 +790,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "UF 001-2025-10-23": {
-    "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "15:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 135-2025-10-23": {
     "flightNumber": "IA 135",
     "status": "",
     "actualTime": "15:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "UF 001-2025-10-23": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "15:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "LH 1306-2025-10-23": {
     "flightNumber": "LH 1306",
