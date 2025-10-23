@@ -22,15 +22,15 @@
   },
   "MS 710-2025-10-23": {
     "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "11:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:14",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "CY 121-2025-10-23": {
     "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "11:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:58",
     "type": "dprtr",
     "airlineCode": "CY"
   },
@@ -43,8 +43,8 @@
   },
   "EK 958-2025-10-23": {
     "flightNumber": "EK 958",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:08",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -820,15 +820,15 @@
   },
   "ME 276-2025-10-23": {
     "flightNumber": "ME 276",
-    "status": "",
-    "actualTime": "11:10",
+    "status": "وصلت",
+    "actualTime": "11:02",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "RJ 401-2025-10-23": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "11:25",
+    "status": "وصلت",
+    "actualTime": "10:55",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -1462,6 +1462,13 @@
     "type": "arivl",
     "airlineCode": "MS"
   },
+  "RJ 403-2025-10-24": {
+    "flightNumber": "RJ 403",
+    "status": "",
+    "actualTime": "19:35",
+    "type": "arivl",
+    "airlineCode": "RJ"
+  },
   "ME 202-2025-10-24": {
     "flightNumber": "ME 202",
     "status": "",
@@ -1476,13 +1483,6 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "ME 323-2025-10-24": {
-    "flightNumber": "ME 323",
-    "status": "",
-    "actualTime": "20:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 313-2025-10-24": {
     "flightNumber": "ME 313",
     "status": "",
@@ -1496,13 +1496,6 @@
     "actualTime": "20:25",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "RJ 403-2025-10-24": {
-    "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "20:35",
-    "type": "arivl",
-    "airlineCode": "RJ"
   },
   "J9 261-2025-10-24": {
     "flightNumber": "J9 261",
@@ -1524,6 +1517,13 @@
     "actualTime": "20:55",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "ME 323-2025-10-24": {
+    "flightNumber": "ME 323",
+    "status": "",
+    "actualTime": "21:00",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "ME 572-2025-10-24": {
     "flightNumber": "ME 572",
