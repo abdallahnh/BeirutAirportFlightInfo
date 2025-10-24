@@ -125,19 +125,19 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "LH 1307-2025-10-24": {
-    "flightNumber": "LH 1307",
-    "status": "",
-    "actualTime": "16:50",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "ME 312-2025-10-24": {
     "flightNumber": "ME 312",
     "status": "",
     "actualTime": "16:50",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "LH 1307-2025-10-24": {
+    "flightNumber": "LH 1307",
+    "status": "",
+    "actualTime": "16:50",
+    "type": "dprtr",
+    "airlineCode": "LH"
   },
   "ME 322-2025-10-24": {
     "flightNumber": "ME 322",
@@ -292,6 +292,13 @@
     "actualTime": "02:50",
     "type": "dprtr",
     "airlineCode": "LH"
+  },
+  "VF 544-2025-10-25": {
+    "flightNumber": "VF 544",
+    "status": "",
+    "actualTime": "02:00",
+    "type": "dprtr",
+    "airlineCode": "VF"
   },
   "ME 575-2025-10-25": {
     "flightNumber": "ME 575",
@@ -464,7 +471,7 @@
   "TK 831-2025-10-25": {
     "flightNumber": "TK 831",
     "status": "",
-    "actualTime": "10:10",
+    "actualTime": "10:05",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -531,6 +538,13 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
+  "ET 3407-2025-10-25": {
+    "flightNumber": "ET 3407",
+    "status": "",
+    "actualTime": "13:00",
+    "type": "dprtr",
+    "airlineCode": "ET"
+  },
   "QR 417-2025-10-25": {
     "flightNumber": "QR 417",
     "status": "",
@@ -586,13 +600,6 @@
     "actualTime": "16:25",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "VF 1044-2025-10-25": {
-    "flightNumber": "VF 1044",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "VF"
   },
   "ME 312-2025-10-25": {
     "flightNumber": "ME 312",
@@ -748,16 +755,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 830-2025-10-24": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:09",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "EK 957-2025-10-24": {
     "flightNumber": "EK 957",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "10:05",
     "type": "arivl",
     "airlineCode": "EK"
@@ -771,8 +771,8 @@
   },
   "MS 709-2025-10-24": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "11:05",
+    "status": "وصلت",
+    "actualTime": "10:08",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -790,19 +790,19 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "UF 001-2025-10-24": {
-    "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 131-2025-10-24": {
     "flightNumber": "IA 131",
     "status": "",
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "UF 001-2025-10-24": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "QR 416-2025-10-24": {
     "flightNumber": "QR 416",
@@ -1161,6 +1161,13 @@
     "type": "arivl",
     "airlineCode": "QR"
   },
+  "VF 543-2025-10-25": {
+    "flightNumber": "VF 543",
+    "status": "",
+    "actualTime": "01:10",
+    "type": "arivl",
+    "airlineCode": "VF"
+  },
   "ET 406-2025-10-25": {
     "flightNumber": "ET 406",
     "status": "",
@@ -1241,7 +1248,7 @@
   "TK 830-2025-10-25": {
     "flightNumber": "TK 830",
     "status": "",
-    "actualTime": "08:35",
+    "actualTime": "08:30",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -1363,13 +1370,6 @@
     "actualTime": "15:05",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "VF 1043-2025-10-25": {
-    "flightNumber": "VF 1043",
-    "status": "",
-    "actualTime": "15:40",
-    "type": "arivl",
-    "airlineCode": "VF"
   },
   "LH 1306-2025-10-25": {
     "flightNumber": "LH 1306",
@@ -1552,13 +1552,6 @@
     "actualTime": "21:55",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "VF 545-2025-10-25": {
-    "flightNumber": "VF 545",
-    "status": "",
-    "actualTime": "22:10",
-    "type": "arivl",
-    "airlineCode": "VF"
   },
   "ME 268-2025-10-25": {
     "flightNumber": "ME 268",
