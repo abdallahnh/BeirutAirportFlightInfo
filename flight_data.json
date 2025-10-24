@@ -13,19 +13,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ET 407-2025-10-24": {
-    "flightNumber": "ET 407",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:44",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "PC 759-2025-10-24": {
     "flightNumber": "PC 759",
     "status": "تم اغلاق البوابة",
     "actualTime": "02:54",
     "type": "dprtr",
     "airlineCode": "PC"
+  },
+  "ET 407-2025-10-24": {
+    "flightNumber": "ET 407",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "02:44",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "TK 829-2025-10-24": {
     "flightNumber": "TK 829",
@@ -50,15 +50,15 @@
   },
   "ME 247-2025-10-24": {
     "flightNumber": "ME 247",
-    "status": "",
-    "actualTime": "07:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:23",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 265-2025-10-24": {
     "flightNumber": "ME 265",
-    "status": "",
-    "actualTime": "07:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:21",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -85,7 +85,7 @@
   },
   "RJ 408-2025-10-24": {
     "flightNumber": "RJ 408",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:35",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -923,12 +923,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "PC 756-2025-10-24": {
-    "flightNumber": "PC 756",
+  "RJ 407-2025-10-24": {
+    "flightNumber": "RJ 407",
     "status": "وصلت",
-    "actualTime": "03:45",
+    "actualTime": "06:03",
     "type": "arivl",
-    "airlineCode": "PC"
+    "airlineCode": "RJ"
   },
   "TK 830-2025-10-24": {
     "flightNumber": "TK 830",
