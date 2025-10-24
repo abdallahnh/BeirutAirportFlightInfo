@@ -8,7 +8,7 @@
   },
   "MS 710-2025-10-24": {
     "flightNumber": "MS 710",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "10:35",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -36,7 +36,7 @@
   },
   "RJ 402-2025-10-24": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:20",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -125,19 +125,19 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "ME 312-2025-10-24": {
-    "flightNumber": "ME 312",
-    "status": "",
-    "actualTime": "16:50",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "LH 1307-2025-10-24": {
     "flightNumber": "LH 1307",
     "status": "",
     "actualTime": "16:50",
     "type": "dprtr",
     "airlineCode": "LH"
+  },
+  "ME 312-2025-10-24": {
+    "flightNumber": "ME 312",
+    "status": "",
+    "actualTime": "16:50",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 322-2025-10-24": {
     "flightNumber": "ME 322",
@@ -790,19 +790,19 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "IA 131-2025-10-24": {
-    "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "UF 001-2025-10-24": {
     "flightNumber": "UF 001",
     "status": "",
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "UF"
+  },
+  "IA 131-2025-10-24": {
+    "flightNumber": "IA 131",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "QR 416-2025-10-24": {
     "flightNumber": "QR 416",
