@@ -22,22 +22,22 @@
   },
   "J9 262-2025-10-24": {
     "flightNumber": "J9 262",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:49",
     "type": "dprtr",
     "airlineCode": "J9"
   },
   "TK 827-2025-10-24": {
     "flightNumber": "TK 827",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "CY 121-2025-10-24": {
     "flightNumber": "CY 121",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:50",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "21:10",
     "type": "dprtr",
     "airlineCode": "CY"
   },
@@ -104,19 +104,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ET 407-2025-10-25": {
-    "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "03:05",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "LO 144-2025-10-25": {
     "flightNumber": "LO 144",
     "status": "",
     "actualTime": "03:25",
     "type": "dprtr",
     "airlineCode": "LO"
+  },
+  "ET 407-2025-10-25": {
+    "flightNumber": "ET 407",
+    "status": "",
+    "actualTime": "03:25",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "TK 829-2025-10-25": {
     "flightNumber": "TK 829",
@@ -127,7 +127,7 @@
   },
   "ET 417-2025-10-25": {
     "flightNumber": "ET 417",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -547,7 +547,7 @@
   },
   "TK 826-2025-10-24": {
     "flightNumber": "TK 826",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "20:55",
     "type": "arivl",
     "airlineCode": "TK"
@@ -568,8 +568,8 @@
   },
   "FZ 159-2025-10-24": {
     "flightNumber": "FZ 159",
-    "status": "",
-    "actualTime": "21:40",
+    "status": "وصلت",
+    "actualTime": "21:28",
     "type": "arivl",
     "airlineCode": "FZ"
   },
@@ -708,7 +708,7 @@
   },
   "ET 416-2025-10-25": {
     "flightNumber": "ET 416",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "03:00",
     "type": "arivl",
     "airlineCode": "ET"
