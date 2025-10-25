@@ -29,7 +29,7 @@
   },
   "FZ 160-2025-10-25": {
     "flightNumber": "FZ 160",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "21:49",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -76,6 +76,13 @@
     "type": "dprtr",
     "airlineCode": "ET"
   },
+  "RO 168-2025-10-26": {
+    "flightNumber": "RO 168",
+    "status": "",
+    "actualTime": "03:05",
+    "type": "dprtr",
+    "airlineCode": "RO"
+  },
   "PC 759-2025-10-26": {
     "flightNumber": "PC 759",
     "status": "",
@@ -96,13 +103,6 @@
     "actualTime": "03:45",
     "type": "dprtr",
     "airlineCode": "MS"
-  },
-  "RO 168-2025-10-26": {
-    "flightNumber": "RO 168",
-    "status": "",
-    "actualTime": "04:05",
-    "type": "dprtr",
-    "airlineCode": "RO"
   },
   "PC 757-2025-10-26": {
     "flightNumber": "PC 757",
@@ -664,6 +664,13 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
+  "RO 167-2025-10-26": {
+    "flightNumber": "RO 167",
+    "status": "",
+    "actualTime": "02:05",
+    "type": "arivl",
+    "airlineCode": "RO"
+  },
   "ET 416-2025-10-26": {
     "flightNumber": "ET 416",
     "status": "",
@@ -684,13 +691,6 @@
     "actualTime": "02:40",
     "type": "arivl",
     "airlineCode": "MS"
-  },
-  "RO 167-2025-10-26": {
-    "flightNumber": "RO 167",
-    "status": "",
-    "actualTime": "03:05",
-    "type": "arivl",
-    "airlineCode": "RO"
   },
   "PC 756-2025-10-26": {
     "flightNumber": "PC 756",
