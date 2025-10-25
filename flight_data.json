@@ -13,23 +13,16 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "MS 712-2025-10-25": {
-    "flightNumber": "MS 712",
-    "status": "غادرت",
-    "actualTime": "20:13",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "J9 262-2025-10-25": {
     "flightNumber": "J9 262",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:20",
+    "status": "النداء الاخير",
+    "actualTime": "21:04",
     "type": "dprtr",
     "airlineCode": "J9"
   },
   "TK 827-2025-10-25": {
     "flightNumber": "TK 827",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -538,33 +531,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 212-2025-10-25": {
-    "flightNumber": "ME 212",
-    "status": "وصلت",
-    "actualTime": "19:06",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "MS 711-2025-10-25": {
     "flightNumber": "MS 711",
     "status": "وصلت",
     "actualTime": "19:42",
     "type": "arivl",
     "airlineCode": "MS"
-  },
-  "ME 202-2025-10-25": {
-    "flightNumber": "ME 202",
-    "status": "وصلت",
-    "actualTime": "19:18",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "RJ 403-2025-10-25": {
-    "flightNumber": "RJ 403",
-    "status": "وصلت",
-    "actualTime": "19:18",
-    "type": "arivl",
-    "airlineCode": "RJ"
   },
   "ME 313-2025-10-25": {
     "flightNumber": "ME 313",
@@ -596,8 +568,8 @@
   },
   "TK 826-2025-10-25": {
     "flightNumber": "TK 826",
-    "status": "",
-    "actualTime": "20:55",
+    "status": "وصلت",
+    "actualTime": "21:05",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -610,15 +582,15 @@
   },
   "KU 503-2025-10-25": {
     "flightNumber": "KU 503",
-    "status": "",
-    "actualTime": "21:35",
+    "status": "وصلت",
+    "actualTime": "21:10",
     "type": "arivl",
     "airlineCode": "KU"
   },
   "FZ 159-2025-10-25": {
     "flightNumber": "FZ 159",
-    "status": "",
-    "actualTime": "21:40",
+    "status": "وصلت",
+    "actualTime": "21:14",
     "type": "arivl",
     "airlineCode": "FZ"
   },
