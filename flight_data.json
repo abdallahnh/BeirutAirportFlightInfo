@@ -6,16 +6,9 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "LH 1309-2025-10-26": {
-    "flightNumber": "LH 1309",
-    "status": "غادرت",
-    "actualTime": "00:10",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "ET 407-2025-10-26": {
     "flightNumber": "ET 407",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -916,13 +909,6 @@
     "type": "arivl",
     "airlineCode": "LH"
   },
-  "ME 429-2025-10-25": {
-    "flightNumber": "ME 429",
-    "status": "وصلت",
-    "actualTime": "23:03",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "QR 418-2025-10-26": {
     "flightNumber": "QR 418",
     "status": "",
@@ -932,15 +918,15 @@
   },
   "PC 758-2025-10-26": {
     "flightNumber": "PC 758",
-    "status": "",
-    "actualTime": "01:00",
+    "status": "وصلت",
+    "actualTime": "01:14",
     "type": "arivl",
     "airlineCode": "PC"
   },
   "ET 406-2025-10-26": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "01:05",
+    "status": "وصلت",
+    "actualTime": "01:02",
     "type": "arivl",
     "airlineCode": "ET"
   },
