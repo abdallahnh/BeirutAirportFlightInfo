@@ -8,7 +8,7 @@
   },
   "ET 407-2025-10-26": {
     "flightNumber": "ET 407",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "01:27",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -881,13 +881,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 369-2025-10-25": {
-    "flightNumber": "ME 369",
-    "status": "وصلت",
-    "actualTime": "23:35",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 230-2025-10-25": {
     "flightNumber": "ME 230",
     "status": "وصلت",
@@ -939,8 +932,8 @@
   },
   "TK 828-2025-10-26": {
     "flightNumber": "TK 828",
-    "status": "",
-    "actualTime": "02:30",
+    "status": "وصلت",
+    "actualTime": "01:38",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -1070,19 +1063,19 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "ME 425-2025-10-26": {
-    "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 133-2025-10-26": {
     "flightNumber": "IA 133",
     "status": "",
     "actualTime": "14:15",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "ME 425-2025-10-26": {
+    "flightNumber": "ME 425",
+    "status": "",
+    "actualTime": "14:15",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "AF 566-2025-10-26": {
     "flightNumber": "AF 566",
