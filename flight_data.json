@@ -48,16 +48,9 @@
     "type": "dprtr",
     "airlineCode": "ET"
   },
-  "QR 417-2025-10-25": {
-    "flightNumber": "QR 417",
-    "status": "غادرت",
-    "actualTime": "12:22",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "ME 229-2025-10-25": {
     "flightNumber": "ME 229",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "12:50",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -692,20 +685,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 262-2025-10-25": {
-    "flightNumber": "ME 262",
-    "status": "وصلت",
-    "actualTime": "10:56",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "RJ 401-2025-10-25": {
-    "flightNumber": "RJ 401",
-    "status": "وصلت",
-    "actualTime": "10:58",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "IA 131-2025-10-25": {
     "flightNumber": "IA 131",
     "status": "وصلت",
@@ -771,8 +750,8 @@
   },
   "ME 236-2025-10-25": {
     "flightNumber": "ME 236",
-    "status": "",
-    "actualTime": "15:10",
+    "status": "تأخير",
+    "actualTime": "15:45",
     "type": "arivl",
     "airlineCode": "ME"
   },
