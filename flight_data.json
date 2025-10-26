@@ -79,7 +79,7 @@
   "MS 714-2025-10-27": {
     "flightNumber": "MS 714",
     "status": "",
-    "actualTime": "04:00",
+    "actualTime": "03:45",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -90,19 +90,19 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "ME 364-2025-10-27": {
-    "flightNumber": "ME 364",
-    "status": "",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "RJ 408-2025-10-27": {
     "flightNumber": "RJ 408",
     "status": "",
     "actualTime": "06:00",
     "type": "dprtr",
     "airlineCode": "RJ"
+  },
+  "ME 364-2025-10-27": {
+    "flightNumber": "ME 364",
+    "status": "",
+    "actualTime": "06:00",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 225-2025-10-27": {
     "flightNumber": "ME 225",
@@ -918,8 +918,8 @@
   },
   "VF 543-2025-10-27": {
     "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "00:30",
+    "status": "وصلت",
+    "actualTime": "00:35",
     "type": "arivl",
     "airlineCode": "VF"
   },
