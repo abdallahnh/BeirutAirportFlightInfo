@@ -20,16 +20,9 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ME 229-2025-10-26": {
-    "flightNumber": "ME 229",
-    "status": "غادرت",
-    "actualTime": "12:56",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EY 582-2025-10-26": {
     "flightNumber": "EY 582",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "12:47",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -258,6 +251,13 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
+  "ME 571-2025-10-27": {
+    "flightNumber": "ME 571",
+    "status": "",
+    "actualTime": "02:05",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "PC 759-2025-10-27": {
     "flightNumber": "PC 759",
     "status": "",
@@ -303,9 +303,16 @@
   "RJ 408-2025-10-27": {
     "flightNumber": "RJ 408",
     "status": "",
-    "actualTime": "07:35",
+    "actualTime": "06:00",
     "type": "dprtr",
     "airlineCode": "RJ"
+  },
+  "ME 364-2025-10-27": {
+    "flightNumber": "ME 364",
+    "status": "",
+    "actualTime": "06:00",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 225-2025-10-27": {
     "flightNumber": "ME 225",
@@ -391,13 +398,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 364-2025-10-27": {
-    "flightNumber": "ME 364",
-    "status": "",
-    "actualTime": "08:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 241-2025-10-27": {
     "flightNumber": "ME 241",
     "status": "",
@@ -426,6 +426,13 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
+  "UF 002-2025-10-27": {
+    "flightNumber": "UF 002",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
+  },
   "IA 132-2025-10-27": {
     "flightNumber": "IA 132",
     "status": "",
@@ -440,6 +447,13 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
+  "ME 304-2025-10-27": {
+    "flightNumber": "ME 304",
+    "status": "",
+    "actualTime": "11:40",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "RJ 402-2025-10-27": {
     "flightNumber": "RJ 402",
     "status": "",
@@ -447,33 +461,12 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "ME 320-2025-10-27": {
-    "flightNumber": "ME 320",
-    "status": "",
-    "actualTime": "11:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EK 958-2025-10-27": {
     "flightNumber": "EK 958",
     "status": "",
-    "actualTime": "12:05",
+    "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "EK"
-  },
-  "ME 304-2025-10-27": {
-    "flightNumber": "ME 304",
-    "status": "",
-    "actualTime": "12:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "UF 002-2025-10-27": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
   },
   "QR 417-2025-10-27": {
     "flightNumber": "QR 417",
@@ -481,6 +474,13 @@
     "actualTime": "12:40",
     "type": "dprtr",
     "airlineCode": "QR"
+  },
+  "ME 320-2025-10-27": {
+    "flightNumber": "ME 320",
+    "status": "",
+    "actualTime": "12:55",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 229-2025-10-27": {
     "flightNumber": "ME 229",
@@ -509,13 +509,6 @@
     "actualTime": "15:30",
     "type": "dprtr",
     "airlineCode": "VF"
-  },
-  "ME 322-2025-10-27": {
-    "flightNumber": "ME 322",
-    "status": "",
-    "actualTime": "15:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "CY 121-2025-10-27": {
     "flightNumber": "CY 121",
@@ -556,6 +549,13 @@
     "flightNumber": "ME 312",
     "status": "",
     "actualTime": "16:45",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 322-2025-10-27": {
+    "flightNumber": "ME 322",
+    "status": "",
+    "actualTime": "16:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -649,13 +649,6 @@
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
-  },
-  "ME 266-2025-10-26": {
-    "flightNumber": "ME 266",
-    "status": "وصلت",
-    "actualTime": "11:38",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "TK 824-2025-10-26": {
     "flightNumber": "TK 824",
