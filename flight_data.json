@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "ME 312-2025-10-26": {
-    "flightNumber": "ME 312",
-    "status": "غادرت",
-    "actualTime": "16:03",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "IA 1302-2025-10-26": {
     "flightNumber": "IA 1302",
     "status": "ألغيت",
@@ -36,29 +29,29 @@
   },
   "ME 267-2025-10-26": {
     "flightNumber": "ME 267",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "16:49",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 442-2025-10-26": {
     "flightNumber": "ME 442",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "16:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 402-2025-10-26": {
     "flightNumber": "ME 402",
-    "status": "",
-    "actualTime": "17:40",
+    "status": "النداء الاخير",
+    "actualTime": "17:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 368-2025-10-26": {
     "flightNumber": "ME 368",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:45",
+    "status": "النداء الاخير",
+    "actualTime": "17:06",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -71,14 +64,14 @@
   },
   "ME 326-2025-10-26": {
     "flightNumber": "ME 326",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "18:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 253-2025-10-26": {
     "flightNumber": "ME 253",
-    "status": "تم فتح البوابة",
+    "status": "الصعود الى الطائرة",
     "actualTime": "16:25",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -593,13 +586,6 @@
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
-  },
-  "ME 232-2025-10-26": {
-    "flightNumber": "ME 232",
-    "status": "وصلت",
-    "actualTime": "15:02",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 305-2025-10-26": {
     "flightNumber": "ME 305",
