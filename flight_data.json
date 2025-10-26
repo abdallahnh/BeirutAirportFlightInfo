@@ -20,23 +20,16 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ME 322-2025-10-26": {
-    "flightNumber": "ME 322",
-    "status": "غادرت",
-    "actualTime": "12:24",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 229-2025-10-26": {
     "flightNumber": "ME 229",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "12:56",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EY 582-2025-10-26": {
     "flightNumber": "EY 582",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "12:47",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -167,13 +160,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EK 954-2025-10-26": {
-    "flightNumber": "EK 954",
-    "status": "",
-    "actualTime": "19:45",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
   "IA 136-2025-10-26": {
     "flightNumber": "IA 136",
     "status": "",
@@ -194,6 +180,13 @@
     "actualTime": "19:35",
     "type": "dprtr",
     "airlineCode": "QR"
+  },
+  "EK 954-2025-10-26": {
+    "flightNumber": "EK 954",
+    "status": "",
+    "actualTime": "19:45",
+    "type": "dprtr",
+    "airlineCode": "EK"
   },
   "RJ 404-2025-10-26": {
     "flightNumber": "RJ 404",
@@ -656,20 +649,6 @@
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
-  },
-  "UF 001-2025-10-26": {
-    "flightNumber": "UF 001",
-    "status": "وصلت",
-    "actualTime": "11:10",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
-  "QR 416-2025-10-26": {
-    "flightNumber": "QR 416",
-    "status": "وصلت",
-    "actualTime": "11:02",
-    "type": "arivl",
-    "airlineCode": "QR"
   },
   "ME 276-2025-10-26": {
     "flightNumber": "ME 276",
