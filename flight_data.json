@@ -1,14 +1,14 @@
 {
   "IA 136-2025-10-26": {
     "flightNumber": "IA 136",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "18:26",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "MS 712-2025-10-26": {
     "flightNumber": "MS 712",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "18:21",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -83,19 +83,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "LH 1309-2025-10-27": {
-    "flightNumber": "LH 1309",
-    "status": "",
-    "actualTime": "00:10",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "QR 419-2025-10-27": {
     "flightNumber": "QR 419",
     "status": "",
     "actualTime": "00:40",
     "type": "dprtr",
     "airlineCode": "QR"
+  },
+  "LH 1309-2025-10-27": {
+    "flightNumber": "LH 1309",
+    "status": "",
+    "actualTime": "01:10",
+    "type": "dprtr",
+    "airlineCode": "LH"
   },
   "ME 571-2025-10-27": {
     "flightNumber": "ME 571",
@@ -503,20 +503,6 @@
     "type": "dprtr",
     "airlineCode": "CY"
   },
-  "ME 323-2025-10-26": {
-    "flightNumber": "ME 323",
-    "status": "وصلت",
-    "actualTime": "16:52",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "EK 953-2025-10-26": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "16:55",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "IA 135-2025-10-26": {
     "flightNumber": "IA 135",
     "status": "وصلت",
@@ -580,19 +566,19 @@
     "type": "arivl",
     "airlineCode": "FZ"
   },
-  "G9 387-2025-10-26": {
-    "flightNumber": "G9 387",
-    "status": "",
-    "actualTime": "20:50",
-    "type": "arivl",
-    "airlineCode": "G9"
-  },
   "TK 826-2025-10-26": {
     "flightNumber": "TK 826",
     "status": "",
     "actualTime": "20:50",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "G9 387-2025-10-26": {
+    "flightNumber": "G9 387",
+    "status": "",
+    "actualTime": "20:50",
+    "type": "arivl",
+    "airlineCode": "G9"
   },
   "ME 307-2025-10-26": {
     "flightNumber": "ME 307",
