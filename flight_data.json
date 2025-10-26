@@ -1,36 +1,22 @@
 {
-  "IA 136-2025-10-26": {
-    "flightNumber": "IA 136",
-    "status": "غادرت",
-    "actualTime": "18:26",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "MS 712-2025-10-26": {
-    "flightNumber": "MS 712",
-    "status": "غادرت",
-    "actualTime": "18:21",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "QR 427-2025-10-26": {
     "flightNumber": "QR 427",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "18:44",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "EK 954-2025-10-26": {
     "flightNumber": "EK 954",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:36",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "RJ 404-2025-10-26": {
     "flightNumber": "RJ 404",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:06",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -111,19 +97,19 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "TK 829-2025-10-27": {
-    "flightNumber": "TK 829",
-    "status": "",
-    "actualTime": "03:25",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "ET 407-2025-10-27": {
     "flightNumber": "ET 407",
     "status": "",
     "actualTime": "03:25",
     "type": "dprtr",
     "airlineCode": "ET"
+  },
+  "TK 829-2025-10-27": {
+    "flightNumber": "TK 829",
+    "status": "",
+    "actualTime": "03:25",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "PC 757-2025-10-27": {
     "flightNumber": "PC 757",
@@ -547,15 +533,15 @@
   },
   "ME 313-2025-10-26": {
     "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "19:25",
+    "status": "وصلت",
+    "actualTime": "19:03",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "J9 261-2025-10-26": {
     "flightNumber": "J9 261",
-    "status": "",
-    "actualTime": "19:45",
+    "status": "وصلت",
+    "actualTime": "19:15",
     "type": "arivl",
     "airlineCode": "J9"
   },
