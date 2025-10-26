@@ -22,15 +22,15 @@
   },
   "ME 211-2025-10-26": {
     "flightNumber": "ME 211",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "07:16",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 424-2025-10-26": {
     "flightNumber": "ME 424",
-    "status": "",
-    "actualTime": "08:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:46",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -769,19 +769,19 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 137-2025-10-26": {
-    "flightNumber": "IA 137",
-    "status": "تأخير",
-    "actualTime": "10:40",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "TK 830-2025-10-26": {
     "flightNumber": "TK 830",
     "status": "",
     "actualTime": "08:45",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "IA 137-2025-10-26": {
+    "flightNumber": "IA 137",
+    "status": "تأخير",
+    "actualTime": "09:40",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "CY 120-2025-10-26": {
     "flightNumber": "CY 120",
@@ -806,8 +806,8 @@
   },
   "EK 957-2025-10-26": {
     "flightNumber": "EK 957",
-    "status": "تأخير",
-    "actualTime": "10:15",
+    "status": "تبكير",
+    "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "EK"
   },
