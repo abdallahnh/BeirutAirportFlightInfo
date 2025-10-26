@@ -15,7 +15,7 @@
   },
   "RJ 404-2025-10-26": {
     "flightNumber": "RJ 404",
-    "status": "تم اغلاق البوابة",
+    "status": "غادرت",
     "actualTime": "19:06",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -43,7 +43,7 @@
   },
   "TK 827-2025-10-26": {
     "flightNumber": "TK 827",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:30",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -97,19 +97,19 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "ET 407-2025-10-27": {
-    "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "03:25",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "TK 829-2025-10-27": {
     "flightNumber": "TK 829",
     "status": "",
     "actualTime": "03:25",
     "type": "dprtr",
     "airlineCode": "TK"
+  },
+  "ET 407-2025-10-27": {
+    "flightNumber": "ET 407",
+    "status": "",
+    "actualTime": "03:25",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "PC 757-2025-10-27": {
     "flightNumber": "PC 757",
