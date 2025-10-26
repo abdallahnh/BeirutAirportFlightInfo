@@ -1,18 +1,4 @@
 {
-  "ME 265-2025-10-26": {
-    "flightNumber": "ME 265",
-    "status": "النداء الاخير",
-    "actualTime": "06:28",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 211-2025-10-26": {
-    "flightNumber": "ME 211",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:16",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2025-10-26": {
     "flightNumber": "TK 831",
     "status": "تم اغلاق البوابة",
@@ -43,8 +29,8 @@
   },
   "MS 710-2025-10-26": {
     "flightNumber": "MS 710",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:15",
+    "status": "غادرت",
+    "actualTime": "09:54",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -132,19 +118,19 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 138-2025-10-26": {
-    "flightNumber": "IA 138",
-    "status": "",
-    "actualTime": "15:00",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "ME 436-2025-10-26": {
     "flightNumber": "ME 436",
     "status": "",
     "actualTime": "15:15",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "IA 138-2025-10-26": {
+    "flightNumber": "IA 138",
+    "status": "",
+    "actualTime": "15:15",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "ME 418-2025-10-26": {
     "flightNumber": "ME 418",
@@ -757,8 +743,8 @@
   },
   "PC 1824-2025-10-26": {
     "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "09:15",
+    "status": "وصلت",
+    "actualTime": "10:00",
     "type": "arivl",
     "airlineCode": "PC"
   },
