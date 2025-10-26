@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 404-2025-10-26": {
-    "flightNumber": "ME 404",
-    "status": "غادرت",
-    "actualTime": "08:08",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 364-2025-10-26": {
     "flightNumber": "ME 364",
     "status": "غادرت",
@@ -29,15 +22,15 @@
   },
   "TK 831-2025-10-26": {
     "flightNumber": "TK 831",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:40",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "CY 121-2025-10-26": {
     "flightNumber": "CY 121",
-    "status": "تم فتح البوابة",
-    "actualTime": "09:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "08:54",
     "type": "dprtr",
     "airlineCode": "CY"
   },
@@ -757,8 +750,8 @@
   },
   "IA 137-2025-10-26": {
     "flightNumber": "IA 137",
-    "status": "تأخير",
-    "actualTime": "09:40",
+    "status": "وصلت",
+    "actualTime": "08:47",
     "type": "arivl",
     "airlineCode": "IA"
   },
