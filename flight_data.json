@@ -1,57 +1,22 @@
 {
-  "ME 364-2025-10-27": {
-    "flightNumber": "ME 364",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "05:19",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 235-2025-10-27": {
-    "flightNumber": "ME 235",
-    "status": "النداء الاخير",
-    "actualTime": "06:09",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 215-2025-10-27": {
-    "flightNumber": "ME 215",
-    "status": "غادرت",
-    "actualTime": "06:41",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 426-2025-10-27": {
-    "flightNumber": "ME 426",
-    "status": "غادرت",
-    "actualTime": "06:47",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 213-2025-10-27": {
-    "flightNumber": "ME 213",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "06:59",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 201-2025-10-27": {
     "flightNumber": "ME 201",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "07:09",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 310-2025-10-27": {
     "flightNumber": "ME 310",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "07:04",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 211-2025-10-27": {
     "flightNumber": "ME 211",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:50",
+    "status": "النداء الاخير",
+    "actualTime": "07:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -64,7 +29,7 @@
   },
   "ME 404-2025-10-27": {
     "flightNumber": "ME 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -97,19 +62,19 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "KU 502-2025-10-27": {
-    "flightNumber": "KU 502",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "dprtr",
-    "airlineCode": "KU"
-  },
   "UF 002-2025-10-27": {
     "flightNumber": "UF 002",
     "status": "",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "UF"
+  },
+  "KU 502-2025-10-27": {
+    "flightNumber": "KU 502",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "dprtr",
+    "airlineCode": "KU"
   },
   "IA 132-2025-10-27": {
     "flightNumber": "IA 132",
@@ -747,13 +712,6 @@
     "actualTime": "21:10",
     "type": "dprtr",
     "airlineCode": "TK"
-  },
-  "ME 435-2025-10-27": {
-    "flightNumber": "ME 435",
-    "status": "وصلت",
-    "actualTime": "05:33",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "TK 830-2025-10-27": {
     "flightNumber": "TK 830",
