@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 225-2025-10-27": {
-    "flightNumber": "ME 225",
-    "status": "غادرت",
-    "actualTime": "05:53",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 235-2025-10-27": {
     "flightNumber": "ME 235",
     "status": "النداء الاخير",
@@ -22,14 +15,14 @@
   },
   "ME 215-2025-10-27": {
     "flightNumber": "ME 215",
-    "status": "",
-    "actualTime": "07:00",
+    "status": "النداء الاخير",
+    "actualTime": "06:41",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 265-2025-10-27": {
     "flightNumber": "ME 265",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "07:05",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -43,8 +36,8 @@
   },
   "ME 426-2025-10-27": {
     "flightNumber": "ME 426",
-    "status": "",
-    "actualTime": "07:20",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:47",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -64,14 +57,14 @@
   },
   "ME 310-2025-10-27": {
     "flightNumber": "ME 310",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:40",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 211-2025-10-27": {
     "flightNumber": "ME 211",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:50",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -107,7 +100,7 @@
   "MS 710-2025-10-27": {
     "flightNumber": "MS 710",
     "status": "",
-    "actualTime": "10:15",
+    "actualTime": "10:00",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -786,7 +779,7 @@
   "MS 709-2025-10-27": {
     "flightNumber": "MS 709",
     "status": "",
-    "actualTime": "09:15",
+    "actualTime": "09:00",
     "type": "arivl",
     "airlineCode": "MS"
   },
