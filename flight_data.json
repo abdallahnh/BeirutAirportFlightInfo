@@ -8,8 +8,8 @@
   },
   "MS 710-2025-10-27": {
     "flightNumber": "MS 710",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:45",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -268,7 +268,7 @@
   "ET 407-2025-10-28": {
     "flightNumber": "ET 407",
     "status": "",
-    "actualTime": "02:00",
+    "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ET"
   },
@@ -306,13 +306,6 @@
     "actualTime": "04:00",
     "type": "dprtr",
     "airlineCode": "MS"
-  },
-  "VF 544-2025-10-28": {
-    "flightNumber": "VF 544",
-    "status": "",
-    "actualTime": "04:15",
-    "type": "dprtr",
-    "airlineCode": "VF"
   },
   "RJ 408-2025-10-28": {
     "flightNumber": "RJ 408",
@@ -411,6 +404,13 @@
     "actualTime": "09:40",
     "type": "dprtr",
     "airlineCode": "TK"
+  },
+  "FZ 158-2025-10-28": {
+    "flightNumber": "FZ 158",
+    "status": "",
+    "actualTime": "09:50",
+    "type": "dprtr",
+    "airlineCode": "FZ"
   },
   "MS 710-2025-10-28": {
     "flightNumber": "MS 710",
@@ -694,8 +694,8 @@
   },
   "PC 3000-2025-10-27": {
     "flightNumber": "PC 3000",
-    "status": "",
-    "actualTime": "10:00",
+    "status": "وصلت",
+    "actualTime": "09:40",
     "type": "arivl",
     "airlineCode": "PC"
   },
@@ -709,7 +709,7 @@
   "KU 501-2025-10-27": {
     "flightNumber": "KU 501",
     "status": "",
-    "actualTime": "10:30",
+    "actualTime": "09:54",
     "type": "arivl",
     "airlineCode": "KU"
   },
