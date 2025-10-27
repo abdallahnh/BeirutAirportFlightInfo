@@ -8,15 +8,15 @@
   },
   "MS 710-2025-10-27": {
     "flightNumber": "MS 710",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "09:45",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "PC 3001-2025-10-27": {
     "flightNumber": "PC 3001",
-    "status": "",
-    "actualTime": "10:45",
+    "status": "النداء الاخير",
+    "actualTime": "10:14",
     "type": "dprtr",
     "airlineCode": "PC"
   },
@@ -503,6 +503,13 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "TK 6294-2025-10-28": {
+    "flightNumber": "TK 6294",
+    "status": "",
+    "actualTime": "15:20",
+    "type": "dprtr",
+    "airlineCode": "TK"
+  },
   "ME 418-2025-10-28": {
     "flightNumber": "ME 418",
     "status": "",
@@ -538,6 +545,13 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
+  "CY 121-2025-10-28": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "CY"
+  },
   "AF 565-2025-10-28": {
     "flightNumber": "AF 565",
     "status": "",
@@ -558,13 +572,6 @@
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "IA"
-  },
-  "CY 121-2025-10-28": {
-    "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "16:40",
-    "type": "dprtr",
-    "airlineCode": "CY"
   },
   "ME 312-2025-10-28": {
     "flightNumber": "ME 312",
@@ -671,6 +678,13 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
+  "FZ 160-2025-10-28": {
+    "flightNumber": "FZ 160",
+    "status": "",
+    "actualTime": "21:45",
+    "type": "dprtr",
+    "airlineCode": "FZ"
+  },
   "TK 830-2025-10-27": {
     "flightNumber": "TK 830",
     "status": "وصلت",
@@ -708,7 +722,7 @@
   },
   "KU 501-2025-10-27": {
     "flightNumber": "KU 501",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "09:54",
     "type": "arivl",
     "airlineCode": "KU"
@@ -736,8 +750,8 @@
   },
   "G9 385-2025-10-27": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "10:55",
+    "status": "وصلت",
+    "actualTime": "10:14",
     "type": "arivl",
     "airlineCode": "G9"
   },
@@ -1042,13 +1056,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "VF 543-2025-10-28": {
-    "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "00:30",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "ET 406-2025-10-28": {
     "flightNumber": "ET 406",
     "status": "",
@@ -1066,7 +1073,7 @@
   "ET 416-2025-10-28": {
     "flightNumber": "ET 416",
     "status": "",
-    "actualTime": "02:00",
+    "actualTime": "02:05",
     "type": "arivl",
     "airlineCode": "ET"
   },
