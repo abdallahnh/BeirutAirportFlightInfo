@@ -1,25 +1,4 @@
 {
-  "IA 132-2025-10-27": {
-    "flightNumber": "IA 132",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "11:22",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "G9 386-2025-10-27": {
-    "flightNumber": "G9 386",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "11:35",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
-  "RJ 402-2025-10-27": {
-    "flightNumber": "RJ 402",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "11:19",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "QR 417-2025-10-27": {
     "flightNumber": "QR 417",
     "status": "تم اغلاق البوابة",
@@ -29,14 +8,14 @@
   },
   "ME 320-2025-10-27": {
     "flightNumber": "ME 320",
-    "status": "",
-    "actualTime": "12:55",
+    "status": "النداء الاخير",
+    "actualTime": "12:34",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 229-2025-10-27": {
     "flightNumber": "ME 229",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:30",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -118,19 +97,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 422-2025-10-27": {
-    "flightNumber": "ME 422",
-    "status": "",
-    "actualTime": "17:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "AF 565-2025-10-27": {
     "flightNumber": "AF 565",
     "status": "",
     "actualTime": "17:55",
     "type": "dprtr",
     "airlineCode": "AF"
+  },
+  "ME 422-2025-10-27": {
+    "flightNumber": "ME 422",
+    "status": "",
+    "actualTime": "17:55",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 306-2025-10-27": {
     "flightNumber": "ME 306",
@@ -635,20 +614,6 @@
     "actualTime": "21:45",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "IA 131-2025-10-27": {
-    "flightNumber": "IA 131",
-    "status": "وصلت",
-    "actualTime": "10:44",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "RJ 401-2025-10-27": {
-    "flightNumber": "RJ 401",
-    "status": "وصلت",
-    "actualTime": "10:47",
-    "type": "arivl",
-    "airlineCode": "RJ"
   },
   "QR 416-2025-10-27": {
     "flightNumber": "QR 416",
