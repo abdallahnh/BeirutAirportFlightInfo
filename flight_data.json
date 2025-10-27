@@ -8,29 +8,29 @@
   },
   "TK 825-2025-10-27": {
     "flightNumber": "TK 825",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "14:24",
+    "status": "تأخير",
+    "actualTime": "15:35",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "ME 436-2025-10-27": {
     "flightNumber": "ME 436",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:15",
+    "status": "غادرت",
+    "actualTime": "14:37",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "VF 1044-2025-10-27": {
     "flightNumber": "VF 1044",
-    "status": "",
-    "actualTime": "15:30",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "14:50",
     "type": "dprtr",
     "airlineCode": "VF"
   },
   "CY 121-2025-10-27": {
     "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "16:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "15:06",
     "type": "dprtr",
     "airlineCode": "CY"
   },
@@ -631,8 +631,8 @@
   },
   "CY 120-2025-10-27": {
     "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "15:00",
+    "status": "وصلت",
+    "actualTime": "14:29",
     "type": "arivl",
     "airlineCode": "CY"
   },
@@ -1007,6 +1007,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "UF 001-2025-10-28": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "12:30",
+    "type": "arivl",
+    "airlineCode": "UF"
+  },
   "ME 252-2025-10-28": {
     "flightNumber": "ME 252",
     "status": "",
@@ -1182,6 +1189,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "ME 212-2025-10-28": {
+    "flightNumber": "ME 212",
+    "status": "",
+    "actualTime": "18:55",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
   "RJ 403-2025-10-28": {
     "flightNumber": "RJ 403",
     "status": "",
@@ -1192,7 +1206,7 @@
   "ME 313-2025-10-28": {
     "flightNumber": "ME 313",
     "status": "",
-    "actualTime": "20:05",
+    "actualTime": "19:25",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1255,7 +1269,7 @@
   "LH 1308-2025-10-28": {
     "flightNumber": "LH 1308",
     "status": "",
-    "actualTime": "23:40",
+    "actualTime": "22:40",
     "type": "arivl",
     "airlineCode": "LH"
   },
@@ -1277,13 +1291,6 @@
     "flightNumber": "ME 262",
     "status": "",
     "actualTime": "23:10",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 443-2025-10-28": {
-    "flightNumber": "ME 443",
-    "status": "",
-    "actualTime": "23:40",
     "type": "arivl",
     "airlineCode": "ME"
   },
