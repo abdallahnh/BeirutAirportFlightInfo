@@ -36,7 +36,7 @@
   },
   "QR 417-2025-10-28": {
     "flightNumber": "QR 417",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:01",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -76,19 +76,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 140-2025-10-28": {
-    "flightNumber": "IA 140",
-    "status": "",
-    "actualTime": "15:20",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "AH 4017-2025-10-28": {
     "flightNumber": "AH 4017",
     "status": "",
     "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "AH"
+  },
+  "IA 140-2025-10-28": {
+    "flightNumber": "IA 140",
+    "status": "",
+    "actualTime": "15:45",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "ME 322-2025-10-28": {
     "flightNumber": "ME 322",
@@ -670,34 +670,6 @@
     "actualTime": "21:10",
     "type": "dprtr",
     "airlineCode": "TK"
-  },
-  "IA 131-2025-10-28": {
-    "flightNumber": "IA 131",
-    "status": "وصلت",
-    "actualTime": "10:20",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "ME 311-2025-10-28": {
-    "flightNumber": "ME 311",
-    "status": "وصلت",
-    "actualTime": "10:33",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "RJ 401-2025-10-28": {
-    "flightNumber": "RJ 401",
-    "status": "وصلت",
-    "actualTime": "10:30",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
-  "G9 385-2025-10-28": {
-    "flightNumber": "G9 385",
-    "status": "وصلت",
-    "actualTime": "10:27",
-    "type": "arivl",
-    "airlineCode": "G9"
   },
   "QR 416-2025-10-28": {
     "flightNumber": "QR 416",
