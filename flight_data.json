@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "MS 710-2025-10-28": {
-    "flightNumber": "MS 710",
-    "status": "غادرت",
-    "actualTime": "09:58",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "IA 132-2025-10-28": {
     "flightNumber": "IA 132",
     "status": "",
@@ -36,8 +29,8 @@
   },
   "G9 386-2025-10-28": {
     "flightNumber": "G9 386",
-    "status": "",
-    "actualTime": "11:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:46",
     "type": "dprtr",
     "airlineCode": "G9"
   },
@@ -50,7 +43,7 @@
   },
   "RJ 402-2025-10-28": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -104,19 +97,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 418-2025-10-28": {
-    "flightNumber": "ME 418",
-    "status": "",
-    "actualTime": "15:20",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 6294-2025-10-28": {
     "flightNumber": "TK 6294",
     "status": "",
     "actualTime": "13:50",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "ME 418-2025-10-28": {
+    "flightNumber": "ME 418",
+    "status": "",
+    "actualTime": "15:20",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "IA 140-2025-10-28": {
     "flightNumber": "IA 140",
@@ -713,13 +706,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "TK 830-2025-10-28": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:47",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "MS 709-2025-10-28": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -743,15 +729,15 @@
   },
   "ME 311-2025-10-28": {
     "flightNumber": "ME 311",
-    "status": "",
-    "actualTime": "10:40",
+    "status": "وصلت",
+    "actualTime": "10:33",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "RJ 401-2025-10-28": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "10:50",
+    "status": "وصلت",
+    "actualTime": "10:30",
     "type": "arivl",
     "airlineCode": "RJ"
   },
