@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "LH"
   },
-  "PC 759-2025-10-28": {
-    "flightNumber": "PC 759",
-    "status": "تأخير",
-    "actualTime": "04:00",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "ET 417-2025-10-28": {
     "flightNumber": "ET 417",
     "status": "تم اغلاق البوابة",
@@ -36,8 +29,8 @@
   },
   "RJ 408-2025-10-28": {
     "flightNumber": "RJ 408",
-    "status": "",
-    "actualTime": "06:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "05:12",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -853,13 +846,6 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "TK 828-2025-10-28": {
-    "flightNumber": "TK 828",
-    "status": "وصلت",
-    "actualTime": "02:25",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "PC 756-2025-10-28": {
     "flightNumber": "PC 756",
     "status": "وصلت",
@@ -867,24 +853,17 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "MS 713-2025-10-28": {
-    "flightNumber": "MS 713",
-    "status": "وصلت",
-    "actualTime": "02:15",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "RJ 407-2025-10-28": {
     "flightNumber": "RJ 407",
-    "status": "",
-    "actualTime": "05:00",
+    "status": "وصلت",
+    "actualTime": "04:26",
     "type": "arivl",
     "airlineCode": "RJ"
   },
   "EY 583-2025-10-28": {
     "flightNumber": "EY 583",
-    "status": "",
-    "actualTime": "05:05",
+    "status": "وصلت",
+    "actualTime": "04:13",
     "type": "arivl",
     "airlineCode": "EY"
   },
