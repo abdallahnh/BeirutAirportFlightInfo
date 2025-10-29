@@ -48,13 +48,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "LH 1309-2025-10-30": {
-    "flightNumber": "LH 1309",
-    "status": "غادرت",
-    "actualTime": "23:50",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "ET 407-2025-10-30": {
     "flightNumber": "ET 407",
     "status": "",
@@ -951,20 +944,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 419-2025-10-29": {
-    "flightNumber": "ME 419",
-    "status": "وصلت",
-    "actualTime": "23:04",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 403-2025-10-29": {
-    "flightNumber": "ME 403",
-    "status": "وصلت",
-    "actualTime": "23:04",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 369-2025-10-29": {
     "flightNumber": "ME 369",
     "status": "وصلت",
@@ -995,8 +974,8 @@
   },
   "ET 406-2025-10-30": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "01:05",
+    "status": "وصلت",
+    "actualTime": "01:02",
     "type": "arivl",
     "airlineCode": "ET"
   },
