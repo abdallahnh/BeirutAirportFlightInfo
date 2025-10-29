@@ -48,13 +48,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 310-2025-10-29": {
-    "flightNumber": "ME 310",
-    "status": "غادرت",
-    "actualTime": "07:40",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 404-2025-10-29": {
     "flightNumber": "ME 404",
     "status": "تم اغلاق البوابة",
@@ -64,28 +57,28 @@
   },
   "ME 364-2025-10-29": {
     "flightNumber": "ME 364",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "08:22",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 241-2025-10-29": {
     "flightNumber": "ME 241",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "08:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 831-2025-10-29": {
     "flightNumber": "TK 831",
-    "status": "",
-    "actualTime": "09:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "08:56",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "IA 134-2025-10-29": {
     "flightNumber": "IA 134",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:45",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -778,7 +771,7 @@
   },
   "IA 137-2025-10-29": {
     "flightNumber": "IA 137",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "08:40",
     "type": "arivl",
     "airlineCode": "IA"
