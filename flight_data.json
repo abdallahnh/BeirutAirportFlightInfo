@@ -29,7 +29,7 @@
   },
   "ME 368-2025-10-30": {
     "flightNumber": "ME 368",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "17:28",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -139,19 +139,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "J9 264-2025-10-31": {
-    "flightNumber": "J9 264",
-    "status": "",
-    "actualTime": "00:40",
-    "type": "dprtr",
-    "airlineCode": "J9"
-  },
   "QR 419-2025-10-31": {
     "flightNumber": "QR 419",
     "status": "",
     "actualTime": "00:40",
     "type": "dprtr",
     "airlineCode": "QR"
+  },
+  "J9 264-2025-10-31": {
+    "flightNumber": "J9 264",
+    "status": "",
+    "actualTime": "00:40",
+    "type": "dprtr",
+    "airlineCode": "J9"
   },
   "LH 1309-2025-10-31": {
     "flightNumber": "LH 1309",
@@ -659,7 +659,7 @@
   },
   "QR 426-2025-10-30": {
     "flightNumber": "QR 426",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "17:54",
     "type": "arivl",
     "airlineCode": "QR"
