@@ -29,7 +29,7 @@
   },
   "RJ 408-2025-10-30": {
     "flightNumber": "RJ 408",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "06:13",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -43,15 +43,15 @@
   },
   "ME 265-2025-10-30": {
     "flightNumber": "ME 265",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "06:32",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 217-2025-10-30": {
     "flightNumber": "ME 217",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:41",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -71,7 +71,7 @@
   },
   "ME 201-2025-10-30": {
     "flightNumber": "ME 201",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:35",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -85,7 +85,7 @@
   },
   "ME 211-2025-10-30": {
     "flightNumber": "ME 211",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:50",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -873,13 +873,6 @@
     "actualTime": "23:10",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "EY 583-2025-10-30": {
-    "flightNumber": "EY 583",
-    "status": "وصلت",
-    "actualTime": "04:47",
-    "type": "arivl",
-    "airlineCode": "EY"
   },
   "TK 830-2025-10-30": {
     "flightNumber": "TK 830",
