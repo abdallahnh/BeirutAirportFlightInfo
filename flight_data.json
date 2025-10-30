@@ -15,7 +15,7 @@
   },
   "G9 388-2025-10-30": {
     "flightNumber": "G9 388",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:46",
     "type": "dprtr",
     "airlineCode": "G9"
@@ -124,6 +124,13 @@
     "actualTime": "04:05",
     "type": "dprtr",
     "airlineCode": "RO"
+  },
+  "VF 544-2025-10-31": {
+    "flightNumber": "VF 544",
+    "status": "",
+    "actualTime": "04:15",
+    "type": "dprtr",
+    "airlineCode": "VF"
   },
   "RJ 408-2025-10-31": {
     "flightNumber": "RJ 408",
@@ -748,13 +755,6 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "MS 709-2025-10-31": {
-    "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "EK 957-2025-10-31": {
     "flightNumber": "EK 957",
     "status": "",
@@ -762,12 +762,12 @@
     "type": "arivl",
     "airlineCode": "EK"
   },
-  "UF 001-2025-10-31": {
-    "flightNumber": "UF 001",
+  "MS 709-2025-10-31": {
+    "flightNumber": "MS 709",
     "status": "",
-    "actualTime": "10:30",
+    "actualTime": "09:15",
     "type": "arivl",
-    "airlineCode": "UF"
+    "airlineCode": "MS"
   },
   "IA 131-2025-10-31": {
     "flightNumber": "IA 131",
@@ -775,6 +775,13 @@
     "actualTime": "10:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "UF 001-2025-10-31": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "10:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "ME 311-2025-10-31": {
     "flightNumber": "ME 311",
