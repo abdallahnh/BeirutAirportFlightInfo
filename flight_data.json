@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "SK 2828-2025-10-31": {
-    "flightNumber": "SK 2828",
-    "status": "",
-    "actualTime": "18:20",
-    "type": "dprtr",
-    "airlineCode": "SK"
-  },
   "QR 427-2025-10-31": {
     "flightNumber": "QR 427",
     "status": "",
@@ -43,8 +36,8 @@
   },
   "EK 954-2025-10-31": {
     "flightNumber": "EK 954",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:40",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -57,7 +50,7 @@
   },
   "RJ 404-2025-10-31": {
     "flightNumber": "RJ 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:55",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -580,13 +573,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 226-2025-10-31": {
-    "flightNumber": "ME 226",
-    "status": "وصلت",
-    "actualTime": "16:43",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 214-2025-10-31": {
     "flightNumber": "ME 214",
     "status": "وصلت",
@@ -645,8 +631,8 @@
   },
   "RJ 403-2025-10-31": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "19:05",
+    "status": "وصلت",
+    "actualTime": "18:27",
     "type": "arivl",
     "airlineCode": "RJ"
   },
