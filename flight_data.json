@@ -27,23 +27,16 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 241-2025-10-31": {
-    "flightNumber": "ME 241",
-    "status": "النداء الاخير",
-    "actualTime": "08:22",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2025-10-31": {
     "flightNumber": "TK 831",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "08:55",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "MS 710-2025-10-31": {
     "flightNumber": "MS 710",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:15",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -90,13 +83,6 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
-  "UF 002-2025-10-31": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "12:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "QR 417-2025-10-31": {
     "flightNumber": "QR 417",
     "status": "",
@@ -107,7 +93,7 @@
   "KU 502-2025-10-31": {
     "flightNumber": "KU 502",
     "status": "",
-    "actualTime": "13:10",
+    "actualTime": "13:00",
     "type": "dprtr",
     "airlineCode": "KU"
   },
@@ -764,29 +750,22 @@
   },
   "MS 709-2025-10-31": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "09:15",
+    "status": "وصلت",
+    "actualTime": "09:17",
     "type": "arivl",
     "airlineCode": "MS"
   },
   "EK 957-2025-10-31": {
     "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "09:15",
+    "status": "وصلت",
+    "actualTime": "09:20",
     "type": "arivl",
     "airlineCode": "EK"
   },
-  "UF 001-2025-10-31": {
-    "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "10:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 131-2025-10-31": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "تبكير",
+    "actualTime": "10:10",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -834,8 +813,8 @@
   },
   "KU 501-2025-10-31": {
     "flightNumber": "KU 501",
-    "status": "",
-    "actualTime": "11:50",
+    "status": "تبكير",
+    "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "KU"
   },
