@@ -50,7 +50,7 @@
   },
   "ME 322-2025-10-31": {
     "flightNumber": "ME 322",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "15:21",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -64,15 +64,15 @@
   },
   "AF 565-2025-10-31": {
     "flightNumber": "AF 565",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "15:22",
     "type": "dprtr",
     "airlineCode": "AF"
   },
   "ME 428-2025-10-31": {
     "flightNumber": "ME 428",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "15:47",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -664,13 +664,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 824-2025-10-31": {
-    "flightNumber": "TK 824",
-    "status": "وصلت",
-    "actualTime": "13:44",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "ME 425-2025-10-31": {
     "flightNumber": "ME 425",
     "status": "وصلت",
@@ -684,13 +677,6 @@
     "actualTime": "14:30",
     "type": "arivl",
     "airlineCode": "AF"
-  },
-  "ME 405-2025-10-31": {
-    "flightNumber": "ME 405",
-    "status": "وصلت",
-    "actualTime": "13:51",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 365-2025-10-31": {
     "flightNumber": "ME 365",
@@ -722,15 +708,15 @@
   },
   "ME 305-2025-10-31": {
     "flightNumber": "ME 305",
-    "status": "",
-    "actualTime": "15:25",
+    "status": "وصلت",
+    "actualTime": "15:49",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 248-2025-10-31": {
     "flightNumber": "ME 248",
-    "status": "",
-    "actualTime": "15:50",
+    "status": "وصلت",
+    "actualTime": "15:54",
     "type": "arivl",
     "airlineCode": "ME"
   },
