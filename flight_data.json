@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 306-2025-10-31": {
-    "flightNumber": "ME 306",
-    "status": "النداء الاخير",
-    "actualTime": "18:15",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "SK 2828-2025-10-31": {
     "flightNumber": "SK 2828",
     "status": "",
@@ -50,7 +43,7 @@
   },
   "EK 954-2025-10-31": {
     "flightNumber": "EK 954",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:45",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -180,6 +173,13 @@
     "actualTime": "06:15",
     "type": "dprtr",
     "airlineCode": "EY"
+  },
+  "PC 755-2025-11-01": {
+    "flightNumber": "PC 755",
+    "status": "",
+    "actualTime": "06:25",
+    "type": "dprtr",
+    "airlineCode": "PC"
   },
   "ME 247-2025-11-01": {
     "flightNumber": "ME 247",
@@ -349,13 +349,6 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
-  "ET 3407-2025-11-01": {
-    "flightNumber": "ET 3407",
-    "status": "",
-    "actualTime": "12:00",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "QR 417-2025-11-01": {
     "flightNumber": "QR 417",
     "status": "",
@@ -404,6 +397,13 @@
     "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "UF 002-2025-11-01": {
+    "flightNumber": "UF 002",
+    "status": "",
+    "actualTime": "15:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
   },
   "ME 322-2025-11-01": {
     "flightNumber": "ME 322",
@@ -454,6 +454,13 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "LH 1309-2025-11-01": {
+    "flightNumber": "LH 1309",
+    "status": "",
+    "actualTime": "16:55",
+    "type": "dprtr",
+    "airlineCode": "LH"
+  },
   "ME 267-2025-11-01": {
     "flightNumber": "ME 267",
     "status": "",
@@ -481,6 +488,13 @@
     "actualTime": "17:45",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "ET 3407-2025-11-01": {
+    "flightNumber": "ET 3407",
+    "status": "",
+    "actualTime": "17:45",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "ME 422-2025-11-01": {
     "flightNumber": "ME 422",
@@ -524,13 +538,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "J9 262-2025-11-01": {
-    "flightNumber": "J9 262",
-    "status": "ألغيت",
-    "actualTime": "20:50",
-    "type": "dprtr",
-    "airlineCode": "J9"
-  },
   "ME 430-2025-11-01": {
     "flightNumber": "ME 430",
     "status": "",
@@ -571,13 +578,6 @@
     "status": "",
     "actualTime": "23:10",
     "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 248-2025-10-31": {
-    "flightNumber": "ME 248",
-    "status": "وصلت",
-    "actualTime": "15:54",
-    "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 226-2025-10-31": {
@@ -818,6 +818,13 @@
     "type": "arivl",
     "airlineCode": "MS"
   },
+  "PC 1823-2025-11-01": {
+    "flightNumber": "PC 1823",
+    "status": "",
+    "actualTime": "04:20",
+    "type": "arivl",
+    "airlineCode": "PC"
+  },
   "ME 431-2025-11-01": {
     "flightNumber": "ME 431",
     "status": "",
@@ -909,13 +916,6 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "ET 3406-2025-11-01": {
-    "flightNumber": "ET 3406",
-    "status": "",
-    "actualTime": "11:00",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
   "QR 416-2025-11-01": {
     "flightNumber": "QR 416",
     "status": "",
@@ -964,6 +964,13 @@
     "actualTime": "14:20",
     "type": "arivl",
     "airlineCode": "AF"
+  },
+  "UF 001-2025-11-01": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "14:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "IA 139-2025-11-01": {
     "flightNumber": "IA 139",
@@ -1014,6 +1021,13 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
+  "LH 1308-2025-11-01": {
+    "flightNumber": "LH 1308",
+    "status": "",
+    "actualTime": "15:45",
+    "type": "arivl",
+    "airlineCode": "LH"
+  },
   "ME 248-2025-11-01": {
     "flightNumber": "ME 248",
     "status": "",
@@ -1048,6 +1062,13 @@
     "actualTime": "16:35",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "ET 3406-2025-11-01": {
+    "flightNumber": "ET 3406",
+    "status": "",
+    "actualTime": "16:45",
+    "type": "arivl",
+    "airlineCode": "ET"
   },
   "ME 218-2025-11-01": {
     "flightNumber": "ME 218",
@@ -1111,13 +1132,6 @@
     "actualTime": "19:25",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "J9 261-2025-11-01": {
-    "flightNumber": "J9 261",
-    "status": "ألغيت",
-    "actualTime": "19:45",
-    "type": "arivl",
-    "airlineCode": "J9"
   },
   "ME 323-2025-11-01": {
     "flightNumber": "ME 323",
