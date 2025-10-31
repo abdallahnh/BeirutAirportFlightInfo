@@ -29,14 +29,14 @@
   },
   "EY 582-2025-10-31": {
     "flightNumber": "EY 582",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "13:03",
     "type": "dprtr",
     "airlineCode": "EY"
   },
   "AH 4017-2025-10-31": {
     "flightNumber": "AH 4017",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:50",
     "type": "dprtr",
     "airlineCode": "AH"
@@ -1315,9 +1315,16 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
+  "ME 313-2025-11-01": {
+    "flightNumber": "ME 313",
+    "status": "",
+    "actualTime": "19:25",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
   "J9 261-2025-11-01": {
     "flightNumber": "J9 261",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "19:45",
     "type": "arivl",
     "airlineCode": "J9"
@@ -1336,17 +1343,10 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 313-2025-11-01": {
-    "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "20:05",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "TK 826-2025-11-01": {
     "flightNumber": "TK 826",
     "status": "",
-    "actualTime": "20:15",
+    "actualTime": "20:25",
     "type": "arivl",
     "airlineCode": "TK"
   },
