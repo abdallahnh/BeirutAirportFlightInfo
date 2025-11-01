@@ -8,14 +8,14 @@
   },
   "ET 407-2025-11-02": {
     "flightNumber": "ET 407",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "01:23",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "PC 759-2025-11-02": {
     "flightNumber": "PC 759",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:35",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -902,13 +902,6 @@
     "type": "arivl",
     "airlineCode": "LH"
   },
-  "ME 369-2025-11-01": {
-    "flightNumber": "ME 369",
-    "status": "وصلت",
-    "actualTime": "23:38",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 423-2025-11-01": {
     "flightNumber": "ME 423",
     "status": "وصلت",
@@ -939,8 +932,8 @@
   },
   "PC 758-2025-11-02": {
     "flightNumber": "PC 758",
-    "status": "",
-    "actualTime": "01:35",
+    "status": "وصلت",
+    "actualTime": "01:31",
     "type": "arivl",
     "airlineCode": "PC"
   },
@@ -951,13 +944,6 @@
     "type": "arivl",
     "airlineCode": "ET"
   },
-  "J9 263-2025-11-02": {
-    "flightNumber": "J9 263",
-    "status": "",
-    "actualTime": "02:30",
-    "type": "arivl",
-    "airlineCode": "J9"
-  },
   "TK 828-2025-11-02": {
     "flightNumber": "TK 828",
     "status": "",
@@ -965,10 +951,17 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
+  "J9 263-2025-11-02": {
+    "flightNumber": "J9 263",
+    "status": "",
+    "actualTime": "02:30",
+    "type": "arivl",
+    "airlineCode": "J9"
+  },
   "PC 756-2025-11-02": {
     "flightNumber": "PC 756",
-    "status": "",
-    "actualTime": "02:35",
+    "status": "وصلت",
+    "actualTime": "01:31",
     "type": "arivl",
     "airlineCode": "PC"
   },
