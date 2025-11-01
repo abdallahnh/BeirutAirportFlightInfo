@@ -34,13 +34,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "KU 504-2025-11-01": {
-    "flightNumber": "KU 504",
-    "status": "غادرت",
-    "actualTime": "21:15",
-    "type": "dprtr",
-    "airlineCode": "KU"
-  },
   "ME 434-2025-11-01": {
     "flightNumber": "ME 434",
     "status": "",
@@ -538,20 +531,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "G9 387-2025-11-01": {
-    "flightNumber": "G9 387",
-    "status": "وصلت",
-    "actualTime": "20:33",
-    "type": "arivl",
-    "airlineCode": "G9"
-  },
-  "KU 503-2025-11-01": {
-    "flightNumber": "KU 503",
-    "status": "وصلت",
-    "actualTime": "20:26",
-    "type": "arivl",
-    "airlineCode": "KU"
-  },
   "ME 325-2025-11-01": {
     "flightNumber": "ME 325",
     "status": "وصلت",
@@ -596,8 +575,8 @@
   },
   "QR 418-2025-11-01": {
     "flightNumber": "QR 418",
-    "status": "",
-    "actualTime": "22:55",
+    "status": "وصلت",
+    "actualTime": "22:37",
     "type": "arivl",
     "airlineCode": "QR"
   },
