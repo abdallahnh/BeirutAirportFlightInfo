@@ -6,38 +6,24 @@
     "type": "dprtr",
     "airlineCode": "EY"
   },
-  "ME 211-2025-11-01": {
-    "flightNumber": "ME 211",
-    "status": "غادرت",
-    "actualTime": "07:13",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 251-2025-11-01": {
     "flightNumber": "ME 251",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "07:37",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 271-2025-11-01": {
-    "flightNumber": "ME 271",
-    "status": "النداء الاخير",
-    "actualTime": "07:39",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 424-2025-11-01": {
     "flightNumber": "ME 424",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "07:43",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 364-2025-11-01": {
     "flightNumber": "ME 364",
-    "status": "",
-    "actualTime": "08:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "08:17",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -923,19 +909,19 @@
     "type": "arivl",
     "airlineCode": "AF"
   },
-  "UF 001-2025-11-01": {
-    "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "14:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 139-2025-11-01": {
     "flightNumber": "IA 139",
     "status": "",
     "actualTime": "14:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "UF 001-2025-11-01": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "14:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "ME 365-2025-11-01": {
     "flightNumber": "ME 365",
