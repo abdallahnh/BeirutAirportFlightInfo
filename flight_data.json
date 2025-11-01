@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "G9 388-2025-11-01": {
-    "flightNumber": "G9 388",
-    "status": "غادرت",
-    "actualTime": "20:56",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "FZ 160-2025-11-01": {
     "flightNumber": "FZ 160",
     "status": "تم اغلاق البوابة",
@@ -118,19 +111,19 @@
     "type": "dprtr",
     "airlineCode": "RO"
   },
-  "RJ 408-2025-11-02": {
-    "flightNumber": "RJ 408",
-    "status": "",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 275-2025-11-02": {
     "flightNumber": "ME 275",
     "status": "",
     "actualTime": "06:00",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "RJ 408-2025-11-02": {
+    "flightNumber": "RJ 408",
+    "status": "",
+    "actualTime": "06:00",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "ME 247-2025-11-02": {
     "flightNumber": "ME 247",
@@ -549,13 +542,6 @@
     "flightNumber": "ME 323",
     "status": "وصلت",
     "actualTime": "20:19",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 576-2025-11-01": {
-    "flightNumber": "ME 576",
-    "status": "وصلت",
-    "actualTime": "19:31",
     "type": "arivl",
     "airlineCode": "ME"
   },
