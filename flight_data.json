@@ -48,52 +48,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 247-2025-11-02": {
-    "flightNumber": "ME 247",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "05:57",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 265-2025-11-02": {
-    "flightNumber": "ME 265",
-    "status": "غادرت",
-    "actualTime": "06:24",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 310-2025-11-02": {
-    "flightNumber": "ME 310",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:02",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 211-2025-11-02": {
-    "flightNumber": "ME 211",
-    "status": "غادرت",
-    "actualTime": "06:51",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 424-2025-11-02": {
-    "flightNumber": "ME 424",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "07:46",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 404-2025-11-02": {
     "flightNumber": "ME 404",
-    "status": "",
+    "status": "غادرت",
     "actualTime": "08:40",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 364-2025-11-02": {
     "flightNumber": "ME 364",
-    "status": "",
-    "actualTime": "08:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "08:24",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -127,7 +92,7 @@
   },
   "UF 002-2025-11-02": {
     "flightNumber": "UF 002",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "UF"
@@ -832,19 +797,19 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 137-2025-11-02": {
-    "flightNumber": "IA 137",
-    "status": "",
-    "actualTime": "08:45",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "TK 830-2025-11-02": {
     "flightNumber": "TK 830",
     "status": "",
     "actualTime": "08:45",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "IA 137-2025-11-02": {
+    "flightNumber": "IA 137",
+    "status": "",
+    "actualTime": "08:45",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "PC 1824-2025-11-02": {
     "flightNumber": "PC 1824",
