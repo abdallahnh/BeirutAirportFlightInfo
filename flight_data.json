@@ -13,24 +13,17 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 134-2025-11-02": {
-    "flightNumber": "IA 134",
-    "status": "غادرت",
-    "actualTime": "09:38",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "PC 1825-2025-11-02": {
     "flightNumber": "PC 1825",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:09",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "MS 710-2025-11-02": {
     "flightNumber": "MS 710",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:00",
+    "status": "غادرت",
+    "actualTime": "09:53",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -71,7 +64,7 @@
   },
   "EK 958-2025-11-02": {
     "flightNumber": "EK 958",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -741,19 +734,19 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 137-2025-11-02": {
-    "flightNumber": "IA 137",
-    "status": "وصلت",
-    "actualTime": "09:02",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "TK 830-2025-11-02": {
     "flightNumber": "TK 830",
     "status": "وصلت",
     "actualTime": "08:33",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "IA 137-2025-11-02": {
+    "flightNumber": "IA 137",
+    "status": "وصلت",
+    "actualTime": "09:02",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "PC 1824-2025-11-02": {
     "flightNumber": "PC 1824",
