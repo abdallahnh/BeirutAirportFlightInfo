@@ -8,7 +8,7 @@
   },
   "TK 831-2025-11-02": {
     "flightNumber": "TK 831",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "08:56",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -741,19 +741,19 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 137-2025-11-02": {
-    "flightNumber": "IA 137",
-    "status": "وصلت",
-    "actualTime": "09:02",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "TK 830-2025-11-02": {
     "flightNumber": "TK 830",
     "status": "وصلت",
     "actualTime": "08:33",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "IA 137-2025-11-02": {
+    "flightNumber": "IA 137",
+    "status": "وصلت",
+    "actualTime": "09:02",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "PC 1824-2025-11-02": {
     "flightNumber": "PC 1824",
@@ -764,15 +764,15 @@
   },
   "MS 709-2025-11-02": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "09:15",
+    "status": "وصلت",
+    "actualTime": "09:22",
     "type": "arivl",
     "airlineCode": "MS"
   },
   "EK 957-2025-11-02": {
     "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "09:15",
+    "status": "وصلت",
+    "actualTime": "09:20",
     "type": "arivl",
     "airlineCode": "EK"
   },
