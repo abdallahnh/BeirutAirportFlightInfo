@@ -36,14 +36,14 @@
   },
   "EK 954-2025-11-02": {
     "flightNumber": "EK 954",
-    "status": "",
-    "actualTime": "19:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:35",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "RJ 404-2025-11-02": {
     "flightNumber": "RJ 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:55",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -517,26 +517,12 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "LH 1308-2025-11-02": {
-    "flightNumber": "LH 1308",
-    "status": "",
-    "actualTime": "23:50",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "ME 218-2025-11-02": {
     "flightNumber": "ME 218",
     "status": "وصلت",
     "actualTime": "17:16",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "CY 120-2025-11-02": {
-    "flightNumber": "CY 120",
-    "status": "وصلت",
-    "actualTime": "16:35",
-    "type": "arivl",
-    "airlineCode": "CY"
   },
   "EK 953-2025-11-02": {
     "flightNumber": "EK 953",
@@ -575,8 +561,8 @@
   },
   "RJ 403-2025-11-02": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "19:05",
+    "status": "وصلت",
+    "actualTime": "18:26",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -712,6 +698,13 @@
     "actualTime": "23:45",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "LH 1308-2025-11-02": {
+    "flightNumber": "LH 1308",
+    "status": "",
+    "actualTime": "23:50",
+    "type": "arivl",
+    "airlineCode": "LH"
   },
   "ME 230-2025-11-02": {
     "flightNumber": "ME 230",
