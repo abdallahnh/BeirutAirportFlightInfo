@@ -15,17 +15,10 @@
   },
   "PC 1825-2025-11-02": {
     "flightNumber": "PC 1825",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "10:09",
     "type": "dprtr",
     "airlineCode": "PC"
-  },
-  "MS 710-2025-11-02": {
-    "flightNumber": "MS 710",
-    "status": "غادرت",
-    "actualTime": "09:53",
-    "type": "dprtr",
-    "airlineCode": "MS"
   },
   "UF 002-2025-11-02": {
     "flightNumber": "UF 002",
@@ -36,14 +29,14 @@
   },
   "IA 132-2025-11-02": {
     "flightNumber": "IA 132",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "ME 304-2025-11-02": {
     "flightNumber": "ME 304",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -734,13 +727,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "TK 830-2025-11-02": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:33",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "IA 137-2025-11-02": {
     "flightNumber": "IA 137",
     "status": "وصلت",
@@ -778,22 +764,22 @@
   },
   "IA 131-2025-11-02": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "وصلت",
+    "actualTime": "10:29",
     "type": "arivl",
     "airlineCode": "IA"
   },
   "ME 311-2025-11-02": {
     "flightNumber": "ME 311",
-    "status": "",
-    "actualTime": "10:40",
+    "status": "وصلت",
+    "actualTime": "10:24",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "EY 581-2025-11-02": {
     "flightNumber": "EY 581",
-    "status": "",
-    "actualTime": "10:45",
+    "status": "وصلت",
+    "actualTime": "10:31",
     "type": "arivl",
     "airlineCode": "EY"
   },
