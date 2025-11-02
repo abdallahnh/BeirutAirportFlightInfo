@@ -1,11 +1,4 @@
 {
-  "ME 434-2025-11-02": {
-    "flightNumber": "ME 434",
-    "status": "غادرت",
-    "actualTime": "22:51",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "QR 419-2025-11-03": {
     "flightNumber": "QR 419",
     "status": "تم فتح البوابة",
@@ -29,6 +22,13 @@
   },
   "PC 761-2025-11-03": {
     "flightNumber": "PC 761",
+    "status": "",
+    "actualTime": "02:35",
+    "type": "dprtr",
+    "airlineCode": "PC"
+  },
+  "PC 759-2025-11-03": {
+    "flightNumber": "PC 759",
     "status": "",
     "actualTime": "02:35",
     "type": "dprtr",
@@ -477,8 +477,8 @@
   },
   "ME 423-2025-11-02": {
     "flightNumber": "ME 423",
-    "status": "تبكير",
-    "actualTime": "23:30",
+    "status": "وصلت",
+    "actualTime": "23:33",
     "type": "arivl",
     "airlineCode": "ME"
   },
