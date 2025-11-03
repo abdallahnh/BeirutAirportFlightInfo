@@ -15,15 +15,15 @@
   },
   "QR 417-2025-11-03": {
     "flightNumber": "QR 417",
-    "status": "",
-    "actualTime": "12:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:50",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "ME 229-2025-11-03": {
     "flightNumber": "ME 229",
-    "status": "تم فتح البوابة",
-    "actualTime": "13:30",
+    "status": "النداء الاخير",
+    "actualTime": "12:51",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -83,13 +83,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 312-2025-11-03": {
-    "flightNumber": "ME 312",
-    "status": "",
-    "actualTime": "16:25",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "IA 1302-2025-11-03": {
     "flightNumber": "IA 1302",
     "status": "",
@@ -103,6 +96,13 @@
     "actualTime": "16:55",
     "type": "dprtr",
     "airlineCode": "LH"
+  },
+  "ME 312-2025-11-03": {
+    "flightNumber": "ME 312",
+    "status": "",
+    "actualTime": "17:00",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 267-2025-11-03": {
     "flightNumber": "ME 267",
