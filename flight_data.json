@@ -36,28 +36,28 @@
   },
   "PC 757-2025-11-03": {
     "flightNumber": "PC 757",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "03:04",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "MS 714-2025-11-03": {
     "flightNumber": "MS 714",
-    "status": "",
-    "actualTime": "04:00",
+    "status": "النداء الاخير",
+    "actualTime": "04:02",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "VF 544-2025-11-03": {
     "flightNumber": "VF 544",
-    "status": "",
-    "actualTime": "04:15",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "03:30",
     "type": "dprtr",
     "airlineCode": "VF"
   },
   "RJ 408-2025-11-03": {
     "flightNumber": "RJ 408",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "06:00",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -832,13 +832,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "PC 758-2025-11-03": {
-    "flightNumber": "PC 758",
-    "status": "وصلت",
-    "actualTime": "01:42",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "ET 416-2025-11-03": {
     "flightNumber": "ET 416",
     "status": "",
@@ -846,38 +839,24 @@
     "type": "arivl",
     "airlineCode": "ET"
   },
-  "TK 828-2025-11-03": {
-    "flightNumber": "TK 828",
-    "status": "وصلت",
-    "actualTime": "02:17",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "PC 756-2025-11-03": {
-    "flightNumber": "PC 756",
-    "status": "وصلت",
-    "actualTime": "02:33",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "MS 713-2025-11-03": {
     "flightNumber": "MS 713",
-    "status": "",
-    "actualTime": "02:40",
+    "status": "وصلت",
+    "actualTime": "03:32",
     "type": "arivl",
     "airlineCode": "MS"
   },
   "ME 431-2025-11-03": {
     "flightNumber": "ME 431",
-    "status": "",
-    "actualTime": "04:45",
+    "status": "وصلت",
+    "actualTime": "04:24",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "RJ 407-2025-11-03": {
     "flightNumber": "RJ 407",
-    "status": "",
-    "actualTime": "05:00",
+    "status": "وصلت",
+    "actualTime": "04:20",
     "type": "arivl",
     "airlineCode": "RJ"
   },
