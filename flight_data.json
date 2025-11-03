@@ -1,38 +1,10 @@
 {
-  "TK 825-2025-11-03": {
-    "flightNumber": "TK 825",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "14:01",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "VF 1044-2025-11-03": {
-    "flightNumber": "VF 1044",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:30",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
-  "ME 322-2025-11-03": {
-    "flightNumber": "ME 322",
-    "status": "النداء الاخير",
-    "actualTime": "15:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "CY 121-2025-11-03": {
     "flightNumber": "CY 121",
     "status": "تم اغلاق البوابة",
     "actualTime": "15:16",
     "type": "dprtr",
     "airlineCode": "CY"
-  },
-  "AF 565-2025-11-03": {
-    "flightNumber": "AF 565",
-    "status": "النداء الاخير",
-    "actualTime": "15:30",
-    "type": "dprtr",
-    "airlineCode": "AF"
   },
   "IA 1302-2025-11-03": {
     "flightNumber": "IA 1302",
@@ -50,15 +22,15 @@
   },
   "ME 312-2025-11-03": {
     "flightNumber": "ME 312",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "16:40",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 267-2025-11-03": {
     "flightNumber": "ME 267",
-    "status": "",
-    "actualTime": "17:25",
+    "status": "غادرت",
+    "actualTime": "16:53",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -580,13 +552,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 1301-2025-11-03": {
-    "flightNumber": "IA 1301",
-    "status": "وصلت",
-    "actualTime": "15:12",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "LH 1308-2025-11-03": {
     "flightNumber": "LH 1308",
     "status": "وصلت",
@@ -624,22 +589,22 @@
   },
   "ME 216-2025-11-03": {
     "flightNumber": "ME 216",
-    "status": "",
-    "actualTime": "16:50",
+    "status": "وصلت",
+    "actualTime": "16:54",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "UF 001-2025-11-03": {
     "flightNumber": "UF 001",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "17:00",
     "type": "arivl",
     "airlineCode": "UF"
   },
   "EK 953-2025-11-03": {
     "flightNumber": "EK 953",
-    "status": "",
-    "actualTime": "17:00",
+    "status": "وصلت",
+    "actualTime": "17:05",
     "type": "arivl",
     "airlineCode": "EK"
   },
