@@ -13,37 +13,23 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "MS 710-2025-11-03": {
-    "flightNumber": "MS 710",
-    "status": "غادرت",
-    "actualTime": "09:37",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
-  "PC 3001-2025-11-03": {
-    "flightNumber": "PC 3001",
-    "status": "غادرت",
-    "actualTime": "10:00",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "RJ 402-2025-11-03": {
     "flightNumber": "RJ 402",
-    "status": "",
-    "actualTime": "11:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:40",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "KU 502-2025-11-03": {
     "flightNumber": "KU 502",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "KU"
   },
   "IA 132-2025-11-03": {
     "flightNumber": "IA 132",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -64,7 +50,7 @@
   },
   "ME 320-2025-11-03": {
     "flightNumber": "ME 320",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -715,29 +701,29 @@
   },
   "KU 501-2025-11-03": {
     "flightNumber": "KU 501",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "وصلت",
+    "actualTime": "10:22",
     "type": "arivl",
     "airlineCode": "KU"
   },
   "IA 131-2025-11-03": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "وصلت",
+    "actualTime": "10:19",
     "type": "arivl",
     "airlineCode": "IA"
   },
   "ME 311-2025-11-03": {
     "flightNumber": "ME 311",
-    "status": "تبكير",
-    "actualTime": "10:25",
+    "status": "وصلت",
+    "actualTime": "10:29",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "G9 385-2025-11-03": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "10:55",
+    "status": "وصلت",
+    "actualTime": "10:35",
     "type": "arivl",
     "airlineCode": "G9"
   },
