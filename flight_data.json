@@ -15,14 +15,14 @@
   },
   "IA 132-2025-11-04": {
     "flightNumber": "IA 132",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "غادرت",
+    "actualTime": "11:28",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "G9 386-2025-11-04": {
     "flightNumber": "G9 386",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "10:39",
     "type": "dprtr",
     "airlineCode": "G9"
@@ -36,7 +36,7 @@
   },
   "RJ 402-2025-11-04": {
     "flightNumber": "RJ 402",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:19",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -50,14 +50,14 @@
   },
   "EK 958-2025-11-04": {
     "flightNumber": "EK 958",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:10",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "ME 324-2025-11-04": {
     "flightNumber": "ME 324",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "11:24",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -272,6 +272,13 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
+  "ME 575-2025-11-05": {
+    "flightNumber": "ME 575",
+    "status": "",
+    "actualTime": "02:05",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "ET 407-2025-11-05": {
     "flightNumber": "ET 407",
     "status": "",
@@ -320,13 +327,6 @@
     "actualTime": "06:00",
     "type": "dprtr",
     "airlineCode": "RJ"
-  },
-  "ME 225-2025-11-05": {
-    "flightNumber": "ME 225",
-    "status": "",
-    "actualTime": "06:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "ME 235-2025-11-05": {
     "flightNumber": "ME 235",
@@ -1031,7 +1031,7 @@
   "ET 416-2025-11-05": {
     "flightNumber": "ET 416",
     "status": "",
-    "actualTime": "02:00",
+    "actualTime": "02:05",
     "type": "arivl",
     "airlineCode": "ET"
   },
@@ -1055,13 +1055,6 @@
     "actualTime": "02:40",
     "type": "arivl",
     "airlineCode": "MS"
-  },
-  "RO 167-2025-11-05": {
-    "flightNumber": "RO 167",
-    "status": "",
-    "actualTime": "03:05",
-    "type": "arivl",
-    "airlineCode": "RO"
   },
   "RJ 407-2025-11-05": {
     "flightNumber": "RJ 407",
@@ -1364,19 +1357,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "TK 826-2025-11-05": {
-    "flightNumber": "TK 826",
-    "status": "",
-    "actualTime": "20:15",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "ME 242-2025-11-05": {
     "flightNumber": "ME 242",
     "status": "",
     "actualTime": "20:15",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "TK 826-2025-11-05": {
+    "flightNumber": "TK 826",
+    "status": "",
+    "actualTime": "20:25",
+    "type": "arivl",
+    "airlineCode": "TK"
   },
   "FZ 159-2025-11-05": {
     "flightNumber": "FZ 159",
