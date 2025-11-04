@@ -13,20 +13,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "IA 132-2025-11-04": {
-    "flightNumber": "IA 132",
-    "status": "غادرت",
-    "actualTime": "11:28",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "G9 386-2025-11-04": {
-    "flightNumber": "G9 386",
-    "status": "غادرت",
-    "actualTime": "10:39",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "ME 304-2025-11-04": {
     "flightNumber": "ME 304",
     "status": "النداء الاخير",
@@ -57,15 +43,15 @@
   },
   "ME 324-2025-11-04": {
     "flightNumber": "ME 324",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:24",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "QR 417-2025-11-04": {
     "flightNumber": "QR 417",
-    "status": "",
-    "actualTime": "12:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:53",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -1063,6 +1049,13 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
+  "UF 001-2025-11-05": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "UF"
+  },
   "TK 830-2025-11-05": {
     "flightNumber": "TK 830",
     "status": "",
@@ -1097,13 +1090,6 @@
     "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "EK"
-  },
-  "UF 001-2025-11-05": {
-    "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "UF"
   },
   "KU 501-2025-11-05": {
     "flightNumber": "KU 501",
