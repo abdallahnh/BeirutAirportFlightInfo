@@ -62,13 +62,6 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "EK 954-2025-11-04": {
-    "flightNumber": "EK 954",
-    "status": "غادرت",
-    "actualTime": "19:01",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
   "RJ 404-2025-11-04": {
     "flightNumber": "RJ 404",
     "status": "تم اغلاق البوابة",
@@ -78,14 +71,14 @@
   },
   "J9 262-2025-11-04": {
     "flightNumber": "J9 262",
-    "status": "تم فتح البوابة",
-    "actualTime": "20:50",
+    "status": "النداء الاخير",
+    "actualTime": "19:45",
     "type": "dprtr",
     "airlineCode": "J9"
   },
   "ME 261-2025-11-04": {
     "flightNumber": "ME 261",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -111,19 +104,19 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ME 575-2025-11-05": {
-    "flightNumber": "ME 575",
-    "status": "",
-    "actualTime": "02:05",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ET 407-2025-11-05": {
     "flightNumber": "ET 407",
     "status": "",
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ET"
+  },
+  "ME 575-2025-11-05": {
+    "flightNumber": "ME 575",
+    "status": "",
+    "actualTime": "02:05",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "PC 759-2025-11-05": {
     "flightNumber": "PC 759",
