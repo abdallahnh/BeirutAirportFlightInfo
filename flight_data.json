@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "AH"
   },
-  "ME 322-2025-11-04": {
-    "flightNumber": "ME 322",
-    "status": "غادرت",
-    "actualTime": "15:27",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "CY 121-2025-11-04": {
     "flightNumber": "CY 121",
     "status": "تم اغلاق البوابة",
@@ -50,7 +43,7 @@
   },
   "ME 428-2025-11-04": {
     "flightNumber": "ME 428",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "15:43",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -64,15 +57,15 @@
   },
   "ME 312-2025-11-04": {
     "flightNumber": "ME 312",
-    "status": "",
-    "actualTime": "16:45",
+    "status": "النداء الاخير",
+    "actualTime": "15:54",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "LH 1309-2025-11-04": {
     "flightNumber": "LH 1309",
-    "status": "",
-    "actualTime": "17:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:10",
     "type": "dprtr",
     "airlineCode": "LH"
   },
@@ -615,13 +608,6 @@
     "type": "arivl",
     "airlineCode": "AH"
   },
-  "AF 566-2025-11-04": {
-    "flightNumber": "AF 566",
-    "status": "وصلت",
-    "actualTime": "14:11",
-    "type": "arivl",
-    "airlineCode": "AF"
-  },
   "ME 405-2025-11-04": {
     "flightNumber": "ME 405",
     "status": "وصلت",
@@ -673,22 +659,22 @@
   },
   "ME 248-2025-11-04": {
     "flightNumber": "ME 248",
-    "status": "",
-    "actualTime": "15:50",
+    "status": "وصلت",
+    "actualTime": "16:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "LH 1308-2025-11-04": {
     "flightNumber": "LH 1308",
-    "status": "",
-    "actualTime": "15:50",
+    "status": "وصلت",
+    "actualTime": "15:40",
     "type": "arivl",
     "airlineCode": "LH"
   },
   "ME 321-2025-11-04": {
     "flightNumber": "ME 321",
-    "status": "",
-    "actualTime": "16:00",
+    "status": "وصلت",
+    "actualTime": "15:56",
     "type": "arivl",
     "airlineCode": "ME"
   },
