@@ -85,7 +85,7 @@
   },
   "ET 407-2025-11-05": {
     "flightNumber": "ET 407",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -930,13 +930,6 @@
     "type": "arivl",
     "airlineCode": "AH"
   },
-  "ME 419-2025-11-04": {
-    "flightNumber": "ME 419",
-    "status": "وصلت",
-    "actualTime": "22:53",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 369-2025-11-04": {
     "flightNumber": "ME 369",
     "status": "وصلت",
@@ -967,8 +960,8 @@
   },
   "ET 406-2025-11-05": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "01:05",
+    "status": "وصلت",
+    "actualTime": "00:52",
     "type": "arivl",
     "airlineCode": "ET"
   },
@@ -1021,13 +1014,6 @@
     "type": "arivl",
     "airlineCode": "UF"
   },
-  "IA 137-2025-11-05": {
-    "flightNumber": "IA 137",
-    "status": "",
-    "actualTime": "08:45",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "TK 830-2025-11-05": {
     "flightNumber": "TK 830",
     "status": "",
@@ -1035,12 +1021,12 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "EK 957-2025-11-05": {
-    "flightNumber": "EK 957",
+  "IA 137-2025-11-05": {
+    "flightNumber": "IA 137",
     "status": "",
-    "actualTime": "09:15",
+    "actualTime": "08:45",
     "type": "arivl",
-    "airlineCode": "EK"
+    "airlineCode": "IA"
   },
   "MS 709-2025-11-05": {
     "flightNumber": "MS 709",
@@ -1049,12 +1035,12 @@
     "type": "arivl",
     "airlineCode": "MS"
   },
-  "IA 131-2025-11-05": {
-    "flightNumber": "IA 131",
+  "EK 957-2025-11-05": {
+    "flightNumber": "EK 957",
     "status": "",
-    "actualTime": "10:30",
+    "actualTime": "09:15",
     "type": "arivl",
-    "airlineCode": "IA"
+    "airlineCode": "EK"
   },
   "KU 501-2025-11-05": {
     "flightNumber": "KU 501",
@@ -1062,6 +1048,13 @@
     "actualTime": "10:30",
     "type": "arivl",
     "airlineCode": "KU"
+  },
+  "IA 131-2025-11-05": {
+    "flightNumber": "IA 131",
+    "status": "",
+    "actualTime": "10:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "EY 581-2025-11-05": {
     "flightNumber": "EY 581",
@@ -1112,19 +1105,19 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "IA 133-2025-11-05": {
-    "flightNumber": "IA 133",
-    "status": "",
-    "actualTime": "14:15",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 425-2025-11-05": {
     "flightNumber": "ME 425",
     "status": "",
     "actualTime": "14:15",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "IA 133-2025-11-05": {
+    "flightNumber": "IA 133",
+    "status": "",
+    "actualTime": "14:15",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "AF 566-2025-11-05": {
     "flightNumber": "AF 566",
