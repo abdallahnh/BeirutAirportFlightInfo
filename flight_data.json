@@ -36,8 +36,8 @@
   },
   "RJ 408-2025-11-05": {
     "flightNumber": "RJ 408",
-    "status": "",
-    "actualTime": "06:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "05:04",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -832,31 +832,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ET 416-2025-11-05": {
-    "flightNumber": "ET 416",
-    "status": "وصلت",
-    "actualTime": "02:06",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
-  "PC 756-2025-11-05": {
-    "flightNumber": "PC 756",
-    "status": "وصلت",
-    "actualTime": "02:25",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "MS 713-2025-11-05": {
-    "flightNumber": "MS 713",
-    "status": "وصلت",
-    "actualTime": "02:28",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "RJ 407-2025-11-05": {
     "flightNumber": "RJ 407",
-    "status": "",
-    "actualTime": "05:00",
+    "status": "وصلت",
+    "actualTime": "04:12",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -958,19 +937,19 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "IA 133-2025-11-05": {
-    "flightNumber": "IA 133",
-    "status": "",
-    "actualTime": "14:15",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 425-2025-11-05": {
     "flightNumber": "ME 425",
     "status": "",
     "actualTime": "14:15",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "IA 133-2025-11-05": {
+    "flightNumber": "IA 133",
+    "status": "",
+    "actualTime": "14:15",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "AF 566-2025-11-05": {
     "flightNumber": "AF 566",
