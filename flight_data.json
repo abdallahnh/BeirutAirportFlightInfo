@@ -36,8 +36,8 @@
   },
   "MS 710-2025-11-05": {
     "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "10:15",
+    "status": "النداء الاخير",
+    "actualTime": "09:43",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -720,13 +720,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "UF 001-2025-11-05": {
-    "flightNumber": "UF 001",
-    "status": "وصلت",
-    "actualTime": "07:51",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "TK 830-2025-11-05": {
     "flightNumber": "TK 830",
     "status": "وصلت",
@@ -755,19 +748,19 @@
     "type": "arivl",
     "airlineCode": "EK"
   },
-  "IA 131-2025-11-05": {
-    "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "10:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "KU 501-2025-11-05": {
     "flightNumber": "KU 501",
     "status": "",
     "actualTime": "10:30",
     "type": "arivl",
     "airlineCode": "KU"
+  },
+  "IA 131-2025-11-05": {
+    "flightNumber": "IA 131",
+    "status": "",
+    "actualTime": "10:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "EY 581-2025-11-05": {
     "flightNumber": "EY 581",
