@@ -1,77 +1,35 @@
 {
-  "ET 407-2025-11-06": {
-    "flightNumber": "ET 407",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "01:20",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "ET 417-2025-11-06": {
-    "flightNumber": "ET 417",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:55",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "TK 829-2025-11-06": {
-    "flightNumber": "TK 829",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:58",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "RJ 408-2025-11-06": {
-    "flightNumber": "RJ 408",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "05:04",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
-  "ME 275-2025-11-06": {
-    "flightNumber": "ME 275",
-    "status": "النداء الاخير",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "EY 584-2025-11-06": {
-    "flightNumber": "EY 584",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "05:23",
-    "type": "dprtr",
-    "airlineCode": "EY"
-  },
   "ME 265-2025-11-06": {
     "flightNumber": "ME 265",
-    "status": "",
+    "status": "النداء الاخير",
     "actualTime": "07:05",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 217-2025-11-06": {
     "flightNumber": "ME 217",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:46",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 426-2025-11-06": {
     "flightNumber": "ME 426",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:20",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:42",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 231-2025-11-06": {
     "flightNumber": "ME 231",
-    "status": "",
-    "actualTime": "07:20",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:48",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 201-2025-11-06": {
     "flightNumber": "ME 201",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:35",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -125,19 +83,19 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "TK 831-2025-11-06": {
-    "flightNumber": "TK 831",
-    "status": "",
-    "actualTime": "10:10",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "MS 710-2025-11-06": {
     "flightNumber": "MS 710",
     "status": "",
     "actualTime": "10:15",
     "type": "dprtr",
     "airlineCode": "MS"
+  },
+  "TK 831-2025-11-06": {
+    "flightNumber": "TK 831",
+    "status": "",
+    "actualTime": "10:20",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "UF 002-2025-11-06": {
     "flightNumber": "UF 002",
@@ -866,20 +824,6 @@
     "actualTime": "23:10",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "RJ 407-2025-11-06": {
-    "flightNumber": "RJ 407",
-    "status": "وصلت",
-    "actualTime": "04:33",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
-  "EY 583-2025-11-06": {
-    "flightNumber": "EY 583",
-    "status": "وصلت",
-    "actualTime": "04:42",
-    "type": "arivl",
-    "airlineCode": "EY"
   },
   "TK 6316-2025-11-06": {
     "flightNumber": "TK 6316",
