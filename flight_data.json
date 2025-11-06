@@ -20,31 +20,24 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 211-2025-11-06": {
-    "flightNumber": "ME 211",
-    "status": "غادرت",
-    "actualTime": "07:08",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 251-2025-11-06": {
     "flightNumber": "ME 251",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "07:36",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 424-2025-11-06": {
     "flightNumber": "ME 424",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "07:48",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 404-2025-11-06": {
     "flightNumber": "ME 404",
-    "status": "",
-    "actualTime": "08:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "08:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -75,13 +68,6 @@
     "actualTime": "10:20",
     "type": "dprtr",
     "airlineCode": "TK"
-  },
-  "UF 002-2025-11-06": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
   },
   "IA 132-2025-11-06": {
     "flightNumber": "IA 132",
@@ -138,6 +124,13 @@
     "actualTime": "12:15",
     "type": "dprtr",
     "airlineCode": "LH"
+  },
+  "UF 002-2025-11-06": {
+    "flightNumber": "UF 002",
+    "status": "",
+    "actualTime": "12:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
   },
   "QR 417-2025-11-06": {
     "flightNumber": "QR 417",
