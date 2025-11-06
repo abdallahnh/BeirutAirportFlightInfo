@@ -36,7 +36,7 @@
   },
   "QR 419-2025-11-07": {
     "flightNumber": "QR 419",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "00:40",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -461,13 +461,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "KU 503-2025-11-06": {
-    "flightNumber": "KU 503",
-    "status": "وصلت",
-    "actualTime": "20:39",
-    "type": "arivl",
-    "airlineCode": "KU"
-  },
   "ME 327-2025-11-06": {
     "flightNumber": "ME 327",
     "status": "وصلت",
@@ -512,8 +505,8 @@
   },
   "QR 418-2025-11-06": {
     "flightNumber": "QR 418",
-    "status": "",
-    "actualTime": "22:55",
+    "status": "وصلت",
+    "actualTime": "22:41",
     "type": "arivl",
     "airlineCode": "QR"
   },
@@ -629,13 +622,6 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "EK 957-2025-11-07": {
-    "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "MS 709-2025-11-07": {
     "flightNumber": "MS 709",
     "status": "",
@@ -643,12 +629,12 @@
     "type": "arivl",
     "airlineCode": "MS"
   },
-  "IA 131-2025-11-07": {
-    "flightNumber": "IA 131",
+  "EK 957-2025-11-07": {
+    "flightNumber": "EK 957",
     "status": "",
-    "actualTime": "10:30",
+    "actualTime": "09:15",
     "type": "arivl",
-    "airlineCode": "IA"
+    "airlineCode": "EK"
   },
   "KU 501-2025-11-07": {
     "flightNumber": "KU 501",
@@ -656,6 +642,13 @@
     "actualTime": "10:30",
     "type": "arivl",
     "airlineCode": "KU"
+  },
+  "IA 131-2025-11-07": {
+    "flightNumber": "IA 131",
+    "status": "",
+    "actualTime": "10:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "ME 311-2025-11-07": {
     "flightNumber": "ME 311",
