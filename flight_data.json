@@ -6,20 +6,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 201-2025-11-06": {
-    "flightNumber": "ME 201",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:04",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 310-2025-11-06": {
-    "flightNumber": "ME 310",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:09",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 364-2025-11-06": {
     "flightNumber": "ME 364",
     "status": "تم اغلاق البوابة",
@@ -71,7 +57,7 @@
   },
   "RJ 402-2025-11-06": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -783,13 +769,6 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "FZ 157-2025-11-06": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "08:28",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "MS 709-2025-11-06": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -820,8 +799,8 @@
   },
   "IA 131-2025-11-06": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "وصلت",
+    "actualTime": "10:41",
     "type": "arivl",
     "airlineCode": "IA"
   },
