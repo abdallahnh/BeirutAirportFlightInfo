@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "MS 714-2025-11-07": {
-    "flightNumber": "MS 714",
-    "status": "تم فتح البوابة",
-    "actualTime": "03:45",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "RO 168-2025-11-07": {
     "flightNumber": "RO 168",
     "status": "تم اغلاق البوابة",
@@ -43,7 +36,7 @@
   },
   "RJ 408-2025-11-07": {
     "flightNumber": "RJ 408",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "06:00",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -62,15 +55,15 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 302-2025-11-07": {
-    "flightNumber": "ME 302",
+  "ME 217-2025-11-07": {
+    "flightNumber": "ME 217",
     "status": "",
     "actualTime": "07:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 217-2025-11-07": {
-    "flightNumber": "ME 217",
+  "ME 302-2025-11-07": {
+    "flightNumber": "ME 302",
     "status": "",
     "actualTime": "07:15",
     "type": "dprtr",
@@ -860,27 +853,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "PC 758-2025-11-07": {
-    "flightNumber": "PC 758",
-    "status": "وصلت",
-    "actualTime": "02:02",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "TK 828-2025-11-07": {
-    "flightNumber": "TK 828",
-    "status": "وصلت",
-    "actualTime": "02:21",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "PC 756-2025-11-07": {
-    "flightNumber": "PC 756",
-    "status": "وصلت",
-    "actualTime": "02:39",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "MS 713-2025-11-07": {
     "flightNumber": "MS 713",
     "status": "وصلت",
@@ -897,15 +869,15 @@
   },
   "ME 431-2025-11-07": {
     "flightNumber": "ME 431",
-    "status": "",
-    "actualTime": "04:45",
+    "status": "وصلت",
+    "actualTime": "04:43",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "RJ 407-2025-11-07": {
     "flightNumber": "RJ 407",
-    "status": "",
-    "actualTime": "05:00",
+    "status": "وصلت",
+    "actualTime": "04:17",
     "type": "arivl",
     "airlineCode": "RJ"
   },
