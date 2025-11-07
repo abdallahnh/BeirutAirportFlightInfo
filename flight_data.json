@@ -57,7 +57,7 @@
   },
   "J9 262-2025-11-07": {
     "flightNumber": "J9 262",
-    "status": "النداء الاخير",
+    "status": "الصعود الى الطائرة",
     "actualTime": "19:48",
     "type": "dprtr",
     "airlineCode": "J9"
@@ -78,7 +78,7 @@
   },
   "FZ 160-2025-11-07": {
     "flightNumber": "FZ 160",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "20:53",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -552,13 +552,6 @@
     "type": "arivl",
     "airlineCode": "MS"
   },
-  "J9 261-2025-11-07": {
-    "flightNumber": "J9 261",
-    "status": "وصلت",
-    "actualTime": "19:23",
-    "type": "arivl",
-    "airlineCode": "J9"
-  },
   "ME 323-2025-11-07": {
     "flightNumber": "ME 323",
     "status": "",
@@ -610,15 +603,15 @@
   },
   "CY 122-2025-11-07": {
     "flightNumber": "CY 122",
-    "status": "",
-    "actualTime": "22:00",
+    "status": "وصلت",
+    "actualTime": "21:31",
     "type": "arivl",
     "airlineCode": "CY"
   },
   "ME 437-2025-11-07": {
     "flightNumber": "ME 437",
-    "status": "",
-    "actualTime": "22:05",
+    "status": "وصلت",
+    "actualTime": "21:35",
     "type": "arivl",
     "airlineCode": "ME"
   },
