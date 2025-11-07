@@ -43,7 +43,7 @@
   },
   "ME 247-2025-11-07": {
     "flightNumber": "ME 247",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "05:45",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -71,7 +71,7 @@
   },
   "ME 426-2025-11-07": {
     "flightNumber": "ME 426",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -349,13 +349,6 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "MS 712-2025-11-07": {
-    "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "19:35",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "EK 954-2025-11-07": {
     "flightNumber": "EK 954",
     "status": "",
@@ -369,6 +362,13 @@
     "actualTime": "19:55",
     "type": "dprtr",
     "airlineCode": "RJ"
+  },
+  "MS 712-2025-11-07": {
+    "flightNumber": "MS 712",
+    "status": "",
+    "actualTime": "20:10",
+    "type": "dprtr",
+    "airlineCode": "MS"
   },
   "J9 262-2025-11-07": {
     "flightNumber": "J9 262",
@@ -860,13 +860,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "RJ 407-2025-11-07": {
-    "flightNumber": "RJ 407",
-    "status": "وصلت",
-    "actualTime": "04:17",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "TK 830-2025-11-07": {
     "flightNumber": "TK 830",
     "status": "",
@@ -1084,13 +1077,6 @@
     "type": "arivl",
     "airlineCode": "QR"
   },
-  "MS 711-2025-11-07": {
-    "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "18:35",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "ME 202-2025-11-07": {
     "flightNumber": "ME 202",
     "status": "",
@@ -1111,6 +1097,13 @@
     "actualTime": "19:05",
     "type": "arivl",
     "airlineCode": "RJ"
+  },
+  "MS 711-2025-11-07": {
+    "flightNumber": "MS 711",
+    "status": "",
+    "actualTime": "19:10",
+    "type": "arivl",
+    "airlineCode": "MS"
   },
   "ME 313-2025-11-07": {
     "flightNumber": "ME 313",
