@@ -43,15 +43,15 @@
   },
   "AF 565-2025-11-08": {
     "flightNumber": "AF 565",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "15:25",
     "type": "dprtr",
     "airlineCode": "AF"
   },
   "ME 428-2025-11-08": {
     "flightNumber": "ME 428",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "15:46",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -225,7 +225,7 @@
   },
   "MS 714-2025-11-09": {
     "flightNumber": "MS 714",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "04:00",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -664,13 +664,6 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "PC 3000-2025-11-08": {
-    "flightNumber": "PC 3000",
-    "status": "وصلت",
-    "actualTime": "13:45",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "ME 425-2025-11-08": {
     "flightNumber": "ME 425",
     "status": "وصلت",
@@ -995,7 +988,7 @@
   },
   "MS 713-2025-11-09": {
     "flightNumber": "MS 713",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "02:40",
     "type": "arivl",
     "airlineCode": "MS"
