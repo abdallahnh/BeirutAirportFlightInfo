@@ -69,19 +69,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "CY 121-2025-11-09": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "CY"
+  },
   "AF 565-2025-11-09": {
     "flightNumber": "AF 565",
     "status": "",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "AF"
-  },
-  "LH 1309-2025-11-09": {
-    "flightNumber": "LH 1309",
-    "status": "",
-    "actualTime": "16:10",
-    "type": "dprtr",
-    "airlineCode": "LH"
   },
   "ME 428-2025-11-09": {
     "flightNumber": "ME 428",
@@ -104,12 +104,12 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "CY 121-2025-11-09": {
-    "flightNumber": "CY 121",
+  "LH 1309-2025-11-09": {
+    "flightNumber": "LH 1309",
     "status": "",
-    "actualTime": "16:40",
+    "actualTime": "17:10",
     "type": "dprtr",
-    "airlineCode": "CY"
+    "airlineCode": "LH"
   },
   "ME 326-2025-11-09": {
     "flightNumber": "ME 326",
@@ -666,8 +666,8 @@
   },
   "UF 001-2025-11-09": {
     "flightNumber": "UF 001",
-    "status": "تبكير",
-    "actualTime": "13:00",
+    "status": "وصلت",
+    "actualTime": "13:47",
     "type": "arivl",
     "airlineCode": "UF"
   },
@@ -727,13 +727,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "LH 1308-2025-11-09": {
-    "flightNumber": "LH 1308",
-    "status": "",
-    "actualTime": "15:00",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "CY 120-2025-11-09": {
     "flightNumber": "CY 120",
     "status": "",
@@ -768,6 +761,13 @@
     "actualTime": "15:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "LH 1308-2025-11-09": {
+    "flightNumber": "LH 1308",
+    "status": "",
+    "actualTime": "15:35",
+    "type": "arivl",
+    "airlineCode": "LH"
   },
   "ME 248-2025-11-09": {
     "flightNumber": "ME 248",
