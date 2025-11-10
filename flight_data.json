@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "KU 502-2025-11-10": {
-    "flightNumber": "KU 502",
-    "status": "غادرت",
-    "actualTime": "10:55",
-    "type": "dprtr",
-    "airlineCode": "KU"
-  },
   "IA 132-2025-11-10": {
     "flightNumber": "IA 132",
     "status": "تم اغلاق البوابة",
@@ -27,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "RJ 402-2025-11-10": {
-    "flightNumber": "RJ 402",
-    "status": "غادرت",
-    "actualTime": "11:06",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 320-2025-11-10": {
     "flightNumber": "ME 320",
     "status": "النداء الاخير",
@@ -41,16 +27,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EK 958-2025-11-10": {
-    "flightNumber": "EK 958",
-    "status": "غادرت",
-    "actualTime": "11:06",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
   "UF 004-2025-11-10": {
     "flightNumber": "UF 004",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "UF"
@@ -701,15 +680,15 @@
   },
   "UF 003-2025-11-10": {
     "flightNumber": "UF 003",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "وصلت",
+    "actualTime": "11:44",
     "type": "arivl",
     "airlineCode": "UF"
   },
   "ME 266-2025-11-10": {
     "flightNumber": "ME 266",
     "status": "تبكير",
-    "actualTime": "11:45",
+    "actualTime": "11:53",
     "type": "arivl",
     "airlineCode": "ME"
   },
