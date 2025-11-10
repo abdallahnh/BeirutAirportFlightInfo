@@ -57,15 +57,15 @@
   },
   "TK 827-2025-11-10": {
     "flightNumber": "TK 827",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:10",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "21:17",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "FZ 160-2025-11-10": {
     "flightNumber": "FZ 160",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:45",
+    "status": "غادرت",
+    "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -226,7 +226,7 @@
   "MS 710-2025-11-11": {
     "flightNumber": "MS 710",
     "status": "",
-    "actualTime": "10:10",
+    "actualTime": "09:55",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -468,27 +468,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 212-2025-11-10": {
-    "flightNumber": "ME 212",
-    "status": "وصلت",
-    "actualTime": "18:58",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 313-2025-11-10": {
-    "flightNumber": "ME 313",
-    "status": "وصلت",
-    "actualTime": "19:02",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "J9 261-2025-11-10": {
-    "flightNumber": "J9 261",
-    "status": "وصلت",
-    "actualTime": "19:31",
-    "type": "arivl",
-    "airlineCode": "J9"
-  },
   "ME 323-2025-11-10": {
     "flightNumber": "ME 323",
     "status": "وصلت",
@@ -667,7 +646,7 @@
   "MS 709-2025-11-11": {
     "flightNumber": "MS 709",
     "status": "",
-    "actualTime": "09:10",
+    "actualTime": "08:55",
     "type": "arivl",
     "airlineCode": "MS"
   },
