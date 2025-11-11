@@ -1,21 +1,21 @@
 {
   "ME 261-2025-11-11": {
     "flightNumber": "ME 261",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:23",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 827-2025-11-11": {
     "flightNumber": "TK 827",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:10",
+    "status": "النداء الاخير",
+    "actualTime": "20:47",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "FZ 160-2025-11-11": {
     "flightNumber": "FZ 160",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:19",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -176,7 +176,7 @@
   },
   "UF 002-2025-11-12": {
     "flightNumber": "UF 002",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "09:00",
     "type": "dprtr",
     "airlineCode": "UF"
@@ -631,7 +631,7 @@
   },
   "UF 001-2025-11-12": {
     "flightNumber": "UF 001",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "UF"
