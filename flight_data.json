@@ -29,7 +29,7 @@
   },
   "EK 954-2025-11-11": {
     "flightNumber": "EK 954",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "18:40",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -43,7 +43,7 @@
   },
   "J9 262-2025-11-11": {
     "flightNumber": "J9 262",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:50",
     "type": "dprtr",
     "airlineCode": "J9"
@@ -65,7 +65,7 @@
   "FZ 160-2025-11-11": {
     "flightNumber": "FZ 160",
     "status": "",
-    "actualTime": "21:45",
+    "actualTime": "21:15",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -559,19 +559,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "FZ 159-2025-11-11": {
+    "flightNumber": "FZ 159",
+    "status": "",
+    "actualTime": "20:15",
+    "type": "arivl",
+    "airlineCode": "FZ"
+  },
   "TK 826-2025-11-11": {
     "flightNumber": "TK 826",
     "status": "",
     "actualTime": "20:25",
     "type": "arivl",
     "airlineCode": "TK"
-  },
-  "FZ 159-2025-11-11": {
-    "flightNumber": "FZ 159",
-    "status": "",
-    "actualTime": "20:45",
-    "type": "arivl",
-    "airlineCode": "FZ"
   },
   "ME 327-2025-11-11": {
     "flightNumber": "ME 327",
