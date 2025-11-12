@@ -1,64 +1,22 @@
 {
-  "ME 575-2025-11-12": {
-    "flightNumber": "ME 575",
-    "status": "النداء الاخير",
-    "actualTime": "01:23",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "PC 759-2025-11-12": {
-    "flightNumber": "PC 759",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:03",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
-  "ET 417-2025-11-12": {
-    "flightNumber": "ET 417",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:49",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "TK 829-2025-11-12": {
-    "flightNumber": "TK 829",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:01",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "MS 714-2025-11-12": {
-    "flightNumber": "MS 714",
-    "status": "النداء الاخير",
-    "actualTime": "02:59",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
-  "RJ 408-2025-11-12": {
-    "flightNumber": "RJ 408",
-    "status": "النداء الاخير",
-    "actualTime": "04:57",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 235-2025-11-12": {
     "flightNumber": "ME 235",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "06:14",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 215-2025-11-12": {
     "flightNumber": "ME 215",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:33",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 265-2025-11-12": {
     "flightNumber": "ME 265",
-    "status": "",
-    "actualTime": "07:05",
+    "status": "النداء الاخير",
+    "actualTime": "06:31",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -71,7 +29,7 @@
   },
   "ME 426-2025-11-12": {
     "flightNumber": "ME 426",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -853,13 +811,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "UF 001-2025-11-12": {
-    "flightNumber": "UF 001",
-    "status": "ألغيت",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "TK 830-2025-11-12": {
     "flightNumber": "TK 830",
     "status": "",
@@ -929,6 +880,13 @@
     "actualTime": "11:10",
     "type": "arivl",
     "airlineCode": "QR"
+  },
+  "UF 001-2025-11-12": {
+    "flightNumber": "UF 001",
+    "status": "ألغيت",
+    "actualTime": "11:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "KU 501-2025-11-12": {
     "flightNumber": "KU 501",
