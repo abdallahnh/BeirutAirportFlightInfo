@@ -118,19 +118,19 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
-  "KU 504-2025-11-15": {
-    "flightNumber": "KU 504",
-    "status": "تأخير",
-    "actualTime": "00:30",
-    "type": "dprtr",
-    "airlineCode": "KU"
-  },
   "G9 388-2025-11-15": {
     "flightNumber": "G9 388",
     "status": "تم فتح البوابة",
     "actualTime": "22:30",
     "type": "dprtr",
     "airlineCode": "G9"
+  },
+  "KU 504-2025-11-15": {
+    "flightNumber": "KU 504",
+    "status": "تأخير",
+    "actualTime": "00:30",
+    "type": "dprtr",
+    "airlineCode": "KU"
   },
   "RJ 404-2025-11-15": {
     "flightNumber": "RJ 404",
@@ -621,13 +621,6 @@
     "actualTime": "20:31",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "TK 826-2025-11-15": {
-    "flightNumber": "TK 826",
-    "status": "وصلت",
-    "actualTime": "19:55",
-    "type": "arivl",
-    "airlineCode": "TK"
   },
   "FZ 159-2025-11-15": {
     "flightNumber": "FZ 159",
