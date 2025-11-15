@@ -22,7 +22,7 @@
   },
   "QR 417-2025-11-15": {
     "flightNumber": "QR 417",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:00",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -71,8 +71,8 @@
   },
   "ME 322-2025-11-15": {
     "flightNumber": "ME 322",
-    "status": "",
-    "actualTime": "15:55",
+    "status": "تأخير",
+    "actualTime": "16:35",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -733,13 +733,6 @@
     "actualTime": "11:00",
     "type": "arivl",
     "airlineCode": "ET"
-  },
-  "QR 416-2025-11-15": {
-    "flightNumber": "QR 416",
-    "status": "وصلت",
-    "actualTime": "10:53",
-    "type": "arivl",
-    "airlineCode": "QR"
   },
   "ME 266-2025-11-15": {
     "flightNumber": "ME 266",
