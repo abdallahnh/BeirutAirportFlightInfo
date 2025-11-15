@@ -15,17 +15,10 @@
   },
   "IA 140-2025-11-15": {
     "flightNumber": "IA 140",
-    "status": "",
-    "actualTime": "15:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:51",
     "type": "dprtr",
     "airlineCode": "IA"
-  },
-  "AF 565-2025-11-15": {
-    "flightNumber": "AF 565",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "17:05",
-    "type": "dprtr",
-    "airlineCode": "AF"
   },
   "CY 121-2025-11-15": {
     "flightNumber": "CY 121",
@@ -33,6 +26,13 @@
     "actualTime": "15:18",
     "type": "dprtr",
     "airlineCode": "CY"
+  },
+  "AF 565-2025-11-15": {
+    "flightNumber": "AF 565",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "17:05",
+    "type": "dprtr",
+    "airlineCode": "AF"
   },
   "ME 428-2025-11-15": {
     "flightNumber": "ME 428",
@@ -78,21 +78,21 @@
   },
   "MS 712-2025-11-15": {
     "flightNumber": "MS 712",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:25",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "QR 427-2025-11-15": {
     "flightNumber": "QR 427",
-    "status": "",
-    "actualTime": "19:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:52",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "EK 954-2025-11-15": {
     "flightNumber": "EK 954",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:28",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -643,20 +643,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "ME 216-2025-11-15": {
-    "flightNumber": "ME 216",
-    "status": "وصلت",
-    "actualTime": "16:59",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "EK 953-2025-11-15": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "16:53",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "QR 426-2025-11-15": {
     "flightNumber": "QR 426",
     "status": "وصلت",
@@ -666,8 +652,8 @@
   },
   "MS 711-2025-11-15": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "18:25",
+    "status": "وصلت",
+    "actualTime": "18:49",
     "type": "arivl",
     "airlineCode": "MS"
   },
