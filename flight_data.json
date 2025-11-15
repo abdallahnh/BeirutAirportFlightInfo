@@ -48,13 +48,6 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "LH 1309-2025-11-15": {
-    "flightNumber": "LH 1309",
-    "status": "غادرت",
-    "actualTime": "16:26",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "ET 8802-2025-11-15": {
     "flightNumber": "ET 8802",
     "status": "تم اغلاق البوابة",
@@ -127,7 +120,7 @@
   },
   "RJ 404-2025-11-15": {
     "flightNumber": "RJ 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "23:45",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -645,7 +638,7 @@
   },
   "ME 419-2025-11-15": {
     "flightNumber": "ME 419",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "22:45",
     "type": "arivl",
     "airlineCode": "ME"
@@ -659,8 +652,8 @@
   },
   "QR 418-2025-11-15": {
     "flightNumber": "QR 418",
-    "status": "",
-    "actualTime": "22:55",
+    "status": "وصلت",
+    "actualTime": "22:44",
     "type": "arivl",
     "airlineCode": "QR"
   },
