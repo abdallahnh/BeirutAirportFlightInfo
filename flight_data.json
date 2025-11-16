@@ -22,7 +22,7 @@
   },
   "ME 364-2025-11-16": {
     "flightNumber": "ME 364",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "08:20",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -34,24 +34,17 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 134-2025-11-16": {
-    "flightNumber": "IA 134",
-    "status": "غادرت",
-    "actualTime": "09:45",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "MS 710-2025-11-16": {
     "flightNumber": "MS 710",
-    "status": "تم فتح البوابة",
-    "actualTime": "09:55",
+    "status": "النداء الاخير",
+    "actualTime": "09:41",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "PC 1825-2025-11-16": {
     "flightNumber": "PC 1825",
-    "status": "تأخير",
-    "actualTime": "10:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:52",
     "type": "dprtr",
     "airlineCode": "PC"
   },
@@ -146,19 +139,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 418-2025-11-16": {
-    "flightNumber": "ME 418",
-    "status": "",
-    "actualTime": "15:20",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "IA 140-2025-11-16": {
     "flightNumber": "IA 140",
     "status": "ألغيت",
     "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "ME 418-2025-11-16": {
+    "flightNumber": "ME 418",
+    "status": "",
+    "actualTime": "15:20",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "VF 1044-2025-11-16": {
     "flightNumber": "VF 1044",
