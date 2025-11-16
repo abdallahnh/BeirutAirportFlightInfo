@@ -29,7 +29,7 @@
   },
   "ME 229-2025-11-16": {
     "flightNumber": "ME 229",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "12:57",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -104,13 +104,6 @@
     "type": "dprtr",
     "airlineCode": "AF"
   },
-  "LH 1307-2025-11-16": {
-    "flightNumber": "LH 1307",
-    "status": "",
-    "actualTime": "16:10",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "ME 428-2025-11-16": {
     "flightNumber": "ME 428",
     "status": "",
@@ -138,6 +131,13 @@
     "actualTime": "16:50",
     "type": "dprtr",
     "airlineCode": "ET"
+  },
+  "LH 1309-2025-11-16": {
+    "flightNumber": "LH 1309",
+    "status": "",
+    "actualTime": "17:10",
+    "type": "dprtr",
+    "airlineCode": "LH"
   },
   "ME 326-2025-11-16": {
     "flightNumber": "ME 326",
@@ -573,19 +573,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "LH 1309-2025-11-17": {
-    "flightNumber": "LH 1309",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "IA 1302-2025-11-17": {
     "flightNumber": "IA 1302",
     "status": "",
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "LH 1309-2025-11-17": {
+    "flightNumber": "LH 1309",
+    "status": "",
+    "actualTime": "16:55",
+    "type": "dprtr",
+    "airlineCode": "LH"
   },
   "ME 267-2025-11-17": {
     "flightNumber": "ME 267",
@@ -671,20 +671,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 303-2025-11-16": {
-    "flightNumber": "ME 303",
-    "status": "وصلت",
-    "actualTime": "11:10",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "UF 001-2025-11-16": {
-    "flightNumber": "UF 001",
-    "status": "وصلت",
-    "actualTime": "11:18",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "ME 266-2025-11-16": {
     "flightNumber": "ME 266",
     "status": "وصلت",
@@ -755,13 +741,6 @@
     "type": "arivl",
     "airlineCode": "ET"
   },
-  "LH 1306-2025-11-16": {
-    "flightNumber": "LH 1306",
-    "status": "تأخير",
-    "actualTime": "15:30",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "CY 120-2025-11-16": {
     "flightNumber": "CY 120",
     "status": "",
@@ -782,6 +761,13 @@
     "actualTime": "15:00",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "LH 1308-2025-11-16": {
+    "flightNumber": "LH 1308",
+    "status": "",
+    "actualTime": "15:30",
+    "type": "arivl",
+    "airlineCode": "LH"
   },
   "IA 1301-2025-11-16": {
     "flightNumber": "IA 1301",
@@ -1203,13 +1189,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "LH 1306-2025-11-17": {
-    "flightNumber": "LH 1306",
-    "status": "",
-    "actualTime": "15:20",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "ME 305-2025-11-17": {
     "flightNumber": "ME 305",
     "status": "",
@@ -1230,6 +1209,13 @@
     "actualTime": "15:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "LH 1306-2025-11-17": {
+    "flightNumber": "LH 1306",
+    "status": "",
+    "actualTime": "15:45",
+    "type": "arivl",
+    "airlineCode": "LH"
   },
   "ME 321-2025-11-17": {
     "flightNumber": "ME 321",
