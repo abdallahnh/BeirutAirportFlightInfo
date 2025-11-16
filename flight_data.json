@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 138-2025-11-16": {
-    "flightNumber": "IA 138",
-    "status": "غادرت",
-    "actualTime": "14:03",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "IA 140-2025-11-16": {
     "flightNumber": "IA 140",
     "status": "ألغيت",
@@ -40,13 +33,6 @@
     "actualTime": "15:06",
     "type": "dprtr",
     "airlineCode": "CY"
-  },
-  "AF 565-2025-11-16": {
-    "flightNumber": "AF 565",
-    "status": "غادرت",
-    "actualTime": "15:43",
-    "type": "dprtr",
-    "airlineCode": "AF"
   },
   "ME 428-2025-11-16": {
     "flightNumber": "ME 428",
@@ -78,15 +64,15 @@
   },
   "LH 1309-2025-11-16": {
     "flightNumber": "LH 1309",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "16:04",
     "type": "dprtr",
     "airlineCode": "LH"
   },
   "ME 326-2025-11-16": {
     "flightNumber": "ME 326",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:20",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:39",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -615,41 +601,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "AF 566-2025-11-16": {
-    "flightNumber": "AF 566",
-    "status": "وصلت",
-    "actualTime": "15:00",
-    "type": "arivl",
-    "airlineCode": "AF"
-  },
-  "ME 405-2025-11-16": {
-    "flightNumber": "ME 405",
-    "status": "وصلت",
-    "actualTime": "14:34",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 365-2025-11-16": {
-    "flightNumber": "ME 365",
-    "status": "وصلت",
-    "actualTime": "14:47",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 427-2025-11-16": {
-    "flightNumber": "ME 427",
-    "status": "وصلت",
-    "actualTime": "15:07",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 232-2025-11-16": {
-    "flightNumber": "ME 232",
-    "status": "وصلت",
-    "actualTime": "14:56",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "LH 1308-2025-11-16": {
     "flightNumber": "LH 1308",
     "status": "وصلت",
@@ -680,7 +631,7 @@
   },
   "ME 218-2025-11-16": {
     "flightNumber": "ME 218",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "16:35",
     "type": "arivl",
     "airlineCode": "ME"
@@ -729,8 +680,8 @@
   },
   "ME 212-2025-11-16": {
     "flightNumber": "ME 212",
-    "status": "",
-    "actualTime": "18:55",
+    "status": "تبكير",
+    "actualTime": "18:20",
     "type": "arivl",
     "airlineCode": "ME"
   },
