@@ -64,21 +64,21 @@
   },
   "ME 404-2025-11-17": {
     "flightNumber": "ME 404",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "08:07",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 364-2025-11-17": {
     "flightNumber": "ME 364",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:55",
+    "status": "غادرت",
+    "actualTime": "08:23",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 241-2025-11-17": {
     "flightNumber": "ME 241",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "08:10",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -757,17 +757,10 @@
   },
   "TK 830-2025-11-17": {
     "flightNumber": "TK 830",
-    "status": "",
-    "actualTime": "08:45",
+    "status": "وصلت",
+    "actualTime": "08:37",
     "type": "arivl",
     "airlineCode": "TK"
-  },
-  "EK 957-2025-11-17": {
-    "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "EK"
   },
   "MS 709-2025-11-17": {
     "flightNumber": "MS 709",
@@ -776,6 +769,13 @@
     "type": "arivl",
     "airlineCode": "MS"
   },
+  "EK 957-2025-11-17": {
+    "flightNumber": "EK 957",
+    "status": "",
+    "actualTime": "09:15",
+    "type": "arivl",
+    "airlineCode": "EK"
+  },
   "PC 3000-2025-11-17": {
     "flightNumber": "PC 3000",
     "status": "",
@@ -783,19 +783,19 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "IA 131-2025-11-17": {
-    "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "10:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "KU 501-2025-11-17": {
     "flightNumber": "KU 501",
     "status": "",
     "actualTime": "10:30",
     "type": "arivl",
     "airlineCode": "KU"
+  },
+  "IA 131-2025-11-17": {
+    "flightNumber": "IA 131",
+    "status": "",
+    "actualTime": "10:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "ME 311-2025-11-17": {
     "flightNumber": "ME 311",
