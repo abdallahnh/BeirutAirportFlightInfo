@@ -8,15 +8,15 @@
   },
   "QR 427-2025-11-17": {
     "flightNumber": "QR 427",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:35",
+    "status": "النداء الاخير",
+    "actualTime": "18:44",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "EK 954-2025-11-17": {
     "flightNumber": "EK 954",
-    "status": "",
-    "actualTime": "19:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:49",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -475,13 +475,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 216-2025-11-17": {
-    "flightNumber": "ME 216",
-    "status": "وصلت",
-    "actualTime": "16:48",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "EK 953-2025-11-17": {
     "flightNumber": "EK 953",
     "status": "وصلت",
@@ -783,19 +776,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "AH 4016-2025-11-18": {
-    "flightNumber": "AH 4016",
-    "status": "",
-    "actualTime": "14:20",
-    "type": "arivl",
-    "airlineCode": "AH"
-  },
   "AF 566-2025-11-18": {
     "flightNumber": "AF 566",
     "status": "",
     "actualTime": "14:20",
     "type": "arivl",
     "airlineCode": "AF"
+  },
+  "AH 4016-2025-11-18": {
+    "flightNumber": "AH 4016",
+    "status": "",
+    "actualTime": "14:20",
+    "type": "arivl",
+    "airlineCode": "AH"
   },
   "ME 405-2025-11-18": {
     "flightNumber": "ME 405",
