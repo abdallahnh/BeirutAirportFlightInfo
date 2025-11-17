@@ -27,17 +27,10 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "PC 3001-2025-11-17": {
-    "flightNumber": "PC 3001",
-    "status": "غادرت",
-    "actualTime": "09:57",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "KU 502-2025-11-17": {
     "flightNumber": "KU 502",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:30",
+    "status": "النداء الاخير",
+    "actualTime": "10:43",
     "type": "dprtr",
     "airlineCode": "KU"
   },
@@ -50,8 +43,8 @@
   },
   "G9 386-2025-11-17": {
     "flightNumber": "G9 386",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:36",
     "type": "dprtr",
     "airlineCode": "G9"
   },
@@ -78,8 +71,8 @@
   },
   "EK 958-2025-11-17": {
     "flightNumber": "EK 958",
-    "status": "",
-    "actualTime": "11:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:56",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -692,12 +685,12 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "TK 830-2025-11-17": {
-    "flightNumber": "TK 830",
+  "EK 957-2025-11-17": {
+    "flightNumber": "EK 957",
     "status": "وصلت",
-    "actualTime": "08:37",
+    "actualTime": "09:08",
     "type": "arivl",
-    "airlineCode": "TK"
+    "airlineCode": "EK"
   },
   "MS 709-2025-11-17": {
     "flightNumber": "MS 709",
@@ -705,13 +698,6 @@
     "actualTime": "09:02",
     "type": "arivl",
     "airlineCode": "MS"
-  },
-  "EK 957-2025-11-17": {
-    "flightNumber": "EK 957",
-    "status": "وصلت",
-    "actualTime": "09:08",
-    "type": "arivl",
-    "airlineCode": "EK"
   },
   "PC 3000-2025-11-17": {
     "flightNumber": "PC 3000",
@@ -729,8 +715,8 @@
   },
   "IA 131-2025-11-17": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "وصلت",
+    "actualTime": "10:46",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -757,8 +743,8 @@
   },
   "QR 416-2025-11-17": {
     "flightNumber": "QR 416",
-    "status": "",
-    "actualTime": "11:10",
+    "status": "وصلت",
+    "actualTime": "10:48",
     "type": "arivl",
     "airlineCode": "QR"
   },
