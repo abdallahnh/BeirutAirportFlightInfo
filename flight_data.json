@@ -1,32 +1,4 @@
 {
-  "QR 427-2025-11-18": {
-    "flightNumber": "QR 427",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "18:44",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
-  "TK 827-2025-11-18": {
-    "flightNumber": "TK 827",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "20:35",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "FZ 160-2025-11-18": {
-    "flightNumber": "FZ 160",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "20:16",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
-  "ME 575-2025-11-19": {
-    "flightNumber": "ME 575",
-    "status": "النداء الاخير",
-    "actualTime": "01:32",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ET 407-2025-11-19": {
     "flightNumber": "ET 407",
     "status": "تم اغلاق البوابة",
@@ -36,36 +8,36 @@
   },
   "PC 759-2025-11-19": {
     "flightNumber": "PC 759",
-    "status": "",
-    "actualTime": "02:35",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "02:31",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "ET 417-2025-11-19": {
     "flightNumber": "ET 417",
-    "status": "",
-    "actualTime": "02:55",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "02:44",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "TK 829-2025-11-19": {
     "flightNumber": "TK 829",
-    "status": "",
-    "actualTime": "03:25",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "02:53",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "PC 757-2025-11-19": {
     "flightNumber": "PC 757",
-    "status": "",
-    "actualTime": "03:40",
+    "status": "النداء الاخير",
+    "actualTime": "02:48",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "MS 714-2025-11-19": {
     "flightNumber": "MS 714",
-    "status": "",
-    "actualTime": "03:45",
+    "status": "النداء الاخير",
+    "actualTime": "02:58",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -202,19 +174,19 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "KU 502-2025-11-19": {
-    "flightNumber": "KU 502",
-    "status": "",
-    "actualTime": "11:40",
-    "type": "dprtr",
-    "airlineCode": "KU"
-  },
   "ME 304-2025-11-19": {
     "flightNumber": "ME 304",
     "status": "",
     "actualTime": "11:40",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "KU 502-2025-11-19": {
+    "flightNumber": "KU 502",
+    "status": "",
+    "actualTime": "11:40",
+    "type": "dprtr",
+    "airlineCode": "KU"
   },
   "EK 958-2025-11-19": {
     "flightNumber": "EK 958",
@@ -825,15 +797,15 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "ME 430-2025-11-20": {
-    "flightNumber": "ME 430",
+  "ME 261-2025-11-20": {
+    "flightNumber": "ME 261",
     "status": "",
     "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 261-2025-11-20": {
-    "flightNumber": "ME 261",
+  "ME 430-2025-11-20": {
+    "flightNumber": "ME 430",
     "status": "",
     "actualTime": "21:00",
     "type": "dprtr",
@@ -874,45 +846,38 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ET 406-2025-11-19": {
-    "flightNumber": "ET 406",
-    "status": "وصلت",
-    "actualTime": "01:05",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
   "PC 758-2025-11-19": {
     "flightNumber": "PC 758",
-    "status": "",
-    "actualTime": "01:35",
+    "status": "وصلت",
+    "actualTime": "02:05",
     "type": "arivl",
     "airlineCode": "PC"
   },
   "ET 416-2025-11-19": {
     "flightNumber": "ET 416",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "وصلت",
+    "actualTime": "02:18",
     "type": "arivl",
     "airlineCode": "ET"
   },
   "TK 828-2025-11-19": {
     "flightNumber": "TK 828",
-    "status": "",
-    "actualTime": "02:30",
+    "status": "وصلت",
+    "actualTime": "02:23",
     "type": "arivl",
     "airlineCode": "TK"
   },
   "PC 756-2025-11-19": {
     "flightNumber": "PC 756",
-    "status": "",
-    "actualTime": "02:35",
+    "status": "وصلت",
+    "actualTime": "02:21",
     "type": "arivl",
     "airlineCode": "PC"
   },
   "MS 713-2025-11-19": {
     "flightNumber": "MS 713",
-    "status": "",
-    "actualTime": "02:40",
+    "status": "وصلت",
+    "actualTime": "02:29",
     "type": "arivl",
     "airlineCode": "MS"
   },
