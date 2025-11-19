@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "ME 322-2025-11-19": {
-    "flightNumber": "ME 322",
-    "status": "غادرت",
-    "actualTime": "15:26",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "AF 565-2025-11-19": {
     "flightNumber": "AF 565",
     "status": "تم اغلاق البوابة",
@@ -36,8 +29,8 @@
   },
   "ME 428-2025-11-19": {
     "flightNumber": "ME 428",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:15",
+    "status": "غادرت",
+    "actualTime": "16:11",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -587,34 +580,6 @@
     "type": "dprtr",
     "airlineCode": "KU"
   },
-  "PC 3000-2025-11-19": {
-    "flightNumber": "PC 3000",
-    "status": "وصلت",
-    "actualTime": "14:09",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "ME 425-2025-11-19": {
-    "flightNumber": "ME 425",
-    "status": "وصلت",
-    "actualTime": "14:10",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "AF 566-2025-11-19": {
-    "flightNumber": "AF 566",
-    "status": "وصلت",
-    "actualTime": "14:27",
-    "type": "arivl",
-    "airlineCode": "AF"
-  },
-  "ME 405-2025-11-19": {
-    "flightNumber": "ME 405",
-    "status": "وصلت",
-    "actualTime": "14:10",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 365-2025-11-19": {
     "flightNumber": "ME 365",
     "status": "وصلت",
@@ -673,20 +638,20 @@
   },
   "ME 214-2025-11-19": {
     "flightNumber": "ME 214",
-    "status": "",
-    "actualTime": "16:35",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 218-2025-11-19": {
-    "flightNumber": "ME 218",
-    "status": "",
-    "actualTime": "16:50",
+    "status": "وصلت",
+    "actualTime": "16:26",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 216-2025-11-19": {
     "flightNumber": "ME 216",
+    "status": "",
+    "actualTime": "16:50",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 218-2025-11-19": {
+    "flightNumber": "ME 218",
     "status": "",
     "actualTime": "16:50",
     "type": "arivl",
