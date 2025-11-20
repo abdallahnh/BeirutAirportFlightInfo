@@ -1,14 +1,7 @@
 {
-  "J9 262-2025-11-20": {
-    "flightNumber": "J9 262",
-    "status": "غادرت",
-    "actualTime": "20:14",
-    "type": "dprtr",
-    "airlineCode": "J9"
-  },
   "ME 430-2025-11-20": {
     "flightNumber": "ME 430",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:29",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -20,16 +13,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "RJ 404-2025-11-20": {
-    "flightNumber": "RJ 404",
-    "status": "غادرت",
-    "actualTime": "20:24",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "TK 827-2025-11-20": {
     "flightNumber": "TK 827",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:32",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -43,8 +29,8 @@
   },
   "FZ 160-2025-11-20": {
     "flightNumber": "FZ 160",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:45",
+    "status": "النداء الاخير",
+    "actualTime": "20:43",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -251,19 +237,19 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "KU 502-2025-11-21": {
-    "flightNumber": "KU 502",
-    "status": "",
-    "actualTime": "11:40",
-    "type": "dprtr",
-    "airlineCode": "KU"
-  },
   "ME 304-2025-11-21": {
     "flightNumber": "ME 304",
     "status": "",
     "actualTime": "11:40",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "KU 502-2025-11-21": {
+    "flightNumber": "KU 502",
+    "status": "",
+    "actualTime": "11:40",
+    "type": "dprtr",
+    "airlineCode": "KU"
   },
   "RJ 402-2025-11-21": {
     "flightNumber": "RJ 402",
@@ -272,19 +258,19 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "EK 958-2025-11-21": {
-    "flightNumber": "EK 958",
-    "status": "",
-    "actualTime": "11:55",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
   "ME 320-2025-11-21": {
     "flightNumber": "ME 320",
     "status": "",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "EK 958-2025-11-21": {
+    "flightNumber": "EK 958",
+    "status": "",
+    "actualTime": "11:55",
+    "type": "dprtr",
+    "airlineCode": "EK"
   },
   "QR 417-2025-11-21": {
     "flightNumber": "QR 417",
@@ -547,8 +533,8 @@
   },
   "KU 503-2025-11-20": {
     "flightNumber": "KU 503",
-    "status": "",
-    "actualTime": "21:00",
+    "status": "وصلت",
+    "actualTime": "20:41",
     "type": "arivl",
     "airlineCode": "KU"
   },
