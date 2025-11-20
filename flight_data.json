@@ -293,15 +293,15 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "ME 225-2025-11-21": {
-    "flightNumber": "ME 225",
+  "ME 247-2025-11-21": {
+    "flightNumber": "ME 247",
     "status": "",
     "actualTime": "06:30",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 247-2025-11-21": {
-    "flightNumber": "ME 247",
+  "ME 225-2025-11-21": {
+    "flightNumber": "ME 225",
     "status": "",
     "actualTime": "06:30",
     "type": "dprtr",
@@ -314,15 +314,15 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 217-2025-11-21": {
-    "flightNumber": "ME 217",
+  "ME 302-2025-11-21": {
+    "flightNumber": "ME 302",
     "status": "",
     "actualTime": "07:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 302-2025-11-21": {
-    "flightNumber": "ME 302",
+  "ME 217-2025-11-21": {
+    "flightNumber": "ME 217",
     "status": "",
     "actualTime": "07:15",
     "type": "dprtr",
@@ -384,15 +384,15 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 241-2025-11-21": {
-    "flightNumber": "ME 241",
+  "ME 364-2025-11-21": {
+    "flightNumber": "ME 364",
     "status": "",
     "actualTime": "08:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 364-2025-11-21": {
-    "flightNumber": "ME 364",
+  "ME 241-2025-11-21": {
+    "flightNumber": "ME 241",
     "status": "",
     "actualTime": "08:55",
     "type": "dprtr",
@@ -419,12 +419,12 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "IA 132-2025-11-21": {
-    "flightNumber": "IA 132",
+  "UF 002-2025-11-21": {
+    "flightNumber": "UF 002",
     "status": "",
     "actualTime": "11:30",
     "type": "dprtr",
-    "airlineCode": "IA"
+    "airlineCode": "UF"
   },
   "KU 502-2025-11-21": {
     "flightNumber": "KU 502",
@@ -433,12 +433,12 @@
     "type": "dprtr",
     "airlineCode": "KU"
   },
-  "UF 002-2025-11-21": {
-    "flightNumber": "UF 002",
+  "IA 132-2025-11-21": {
+    "flightNumber": "IA 132",
     "status": "",
     "actualTime": "11:30",
     "type": "dprtr",
-    "airlineCode": "UF"
+    "airlineCode": "IA"
   },
   "G9 386-2025-11-21": {
     "flightNumber": "G9 386",
@@ -454,19 +454,19 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "EK 958-2025-11-21": {
-    "flightNumber": "EK 958",
-    "status": "",
-    "actualTime": "11:55",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
   "ME 320-2025-11-21": {
     "flightNumber": "ME 320",
     "status": "",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "EK 958-2025-11-21": {
+    "flightNumber": "EK 958",
+    "status": "",
+    "actualTime": "11:55",
+    "type": "dprtr",
+    "airlineCode": "EK"
   },
   "ME 304-2025-11-21": {
     "flightNumber": "ME 304",
@@ -489,19 +489,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "AH 4017-2025-11-21": {
-    "flightNumber": "AH 4017",
-    "status": "",
-    "actualTime": "13:50",
-    "type": "dprtr",
-    "airlineCode": "AH"
-  },
   "EY 582-2025-11-21": {
     "flightNumber": "EY 582",
     "status": "",
     "actualTime": "13:50",
     "type": "dprtr",
     "airlineCode": "EY"
+  },
+  "AH 4017-2025-11-21": {
+    "flightNumber": "AH 4017",
+    "status": "",
+    "actualTime": "13:50",
+    "type": "dprtr",
+    "airlineCode": "AH"
   },
   "TK 825-2025-11-21": {
     "flightNumber": "TK 825",
@@ -552,19 +552,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 1302-2025-11-21": {
-    "flightNumber": "IA 1302",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "UF 004-2025-11-21": {
     "flightNumber": "UF 004",
     "status": "",
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "UF"
+  },
+  "IA 1302-2025-11-21": {
+    "flightNumber": "IA 1302",
+    "status": "",
+    "actualTime": "16:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "CY 121-2025-11-21": {
     "flightNumber": "CY 121",
@@ -677,13 +677,6 @@
     "actualTime": "23:10",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "PC 1824-2025-11-20": {
-    "flightNumber": "PC 1824",
-    "status": "وصلت",
-    "actualTime": "10:50",
-    "type": "arivl",
-    "airlineCode": "PC"
   },
   "QR 416-2025-11-20": {
     "flightNumber": "QR 416",
