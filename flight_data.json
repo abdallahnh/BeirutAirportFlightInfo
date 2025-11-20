@@ -1,18 +1,4 @@
 {
-  "IA 140-2025-11-20": {
-    "flightNumber": "IA 140",
-    "status": "غادرت",
-    "actualTime": "17:21",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "ME 322-2025-11-20": {
-    "flightNumber": "ME 322",
-    "status": "غادرت",
-    "actualTime": "15:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "CY 121-2025-11-20": {
     "flightNumber": "CY 121",
     "status": "تم اغلاق البوابة",
@@ -55,23 +41,16 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 306-2025-11-20": {
-    "flightNumber": "ME 306",
-    "status": "غادرت",
-    "actualTime": "17:42",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "MS 712-2025-11-20": {
     "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "19:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:31",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "QR 427-2025-11-20": {
     "flightNumber": "QR 427",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:35",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -120,7 +99,7 @@
   },
   "G9 388-2025-11-20": {
     "flightNumber": "G9 388",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "21:30",
     "type": "dprtr",
     "airlineCode": "G9"
@@ -594,24 +573,10 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "LH 1308-2025-11-20": {
-    "flightNumber": "LH 1308",
-    "status": "وصلت",
-    "actualTime": "16:08",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "ME 218-2025-11-20": {
     "flightNumber": "ME 218",
     "status": "وصلت",
     "actualTime": "16:54",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 325-2025-11-20": {
-    "flightNumber": "ME 325",
-    "status": "وصلت",
-    "actualTime": "16:28",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -638,8 +603,8 @@
   },
   "MS 711-2025-11-20": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "18:15",
+    "status": "وصلت",
+    "actualTime": "18:07",
     "type": "arivl",
     "airlineCode": "MS"
   },
