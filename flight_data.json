@@ -20,31 +20,24 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 310-2025-11-20": {
-    "flightNumber": "ME 310",
-    "status": "غادرت",
-    "actualTime": "07:27",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 211-2025-11-20": {
     "flightNumber": "ME 211",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "07:24",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 251-2025-11-20": {
     "flightNumber": "ME 251",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "07:41",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 424-2025-11-20": {
     "flightNumber": "ME 424",
-    "status": "",
-    "actualTime": "08:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:50",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -57,7 +50,7 @@
   },
   "ME 364-2025-11-20": {
     "flightNumber": "ME 364",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -138,6 +131,13 @@
     "actualTime": "12:15",
     "type": "dprtr",
     "airlineCode": "LH"
+  },
+  "1ME868-2025-11-20": {
+    "flightNumber": "1ME868",
+    "status": "",
+    "actualTime": "12:25",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "UF 002-2025-11-20": {
     "flightNumber": "UF 002",
