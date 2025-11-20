@@ -15,7 +15,7 @@
   },
   "ME 201-2025-11-20": {
     "flightNumber": "ME 201",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "07:07",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -29,8 +29,8 @@
   },
   "FZ 158-2025-11-20": {
     "flightNumber": "FZ 158",
-    "status": "تم فتح البوابة",
-    "actualTime": "09:50",
+    "status": "النداء الاخير",
+    "actualTime": "08:58",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -43,7 +43,7 @@
   },
   "TK 831-2025-11-20": {
     "flightNumber": "TK 831",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:20",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -208,6 +208,13 @@
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "LH 1309-2025-11-20": {
+    "flightNumber": "LH 1309",
+    "status": "",
+    "actualTime": "17:05",
+    "type": "dprtr",
+    "airlineCode": "LH"
   },
   "ME 326-2025-11-20": {
     "flightNumber": "ME 326",
@@ -799,8 +806,8 @@
   },
   "MS 709-2025-11-20": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "09:00",
+    "status": "وصلت",
+    "actualTime": "08:56",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -957,6 +964,13 @@
     "actualTime": "15:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "LH 1308-2025-11-20": {
+    "flightNumber": "LH 1308",
+    "status": "",
+    "actualTime": "15:55",
+    "type": "arivl",
+    "airlineCode": "LH"
   },
   "ME 321-2025-11-20": {
     "flightNumber": "ME 321",
