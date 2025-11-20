@@ -41,19 +41,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "CY 121-2025-11-20": {
-    "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "dprtr",
-    "airlineCode": "CY"
-  },
   "AF 565-2025-11-20": {
     "flightNumber": "AF 565",
     "status": "",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "AF"
+  },
+  "CY 121-2025-11-20": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "CY"
   },
   "ME 428-2025-11-20": {
     "flightNumber": "ME 428",
@@ -219,7 +219,7 @@
   "ET 407-2025-11-21": {
     "flightNumber": "ET 407",
     "status": "",
-    "actualTime": "02:00",
+    "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ET"
   },
@@ -377,26 +377,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 831-2025-11-21": {
-    "flightNumber": "TK 831",
-    "status": "",
-    "actualTime": "09:40",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "FZ 158-2025-11-21": {
-    "flightNumber": "FZ 158",
-    "status": "",
-    "actualTime": "09:50",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
   "MS 710-2025-11-21": {
     "flightNumber": "MS 710",
     "status": "",
     "actualTime": "10:15",
     "type": "dprtr",
     "airlineCode": "MS"
+  },
+  "TK 831-2025-11-21": {
+    "flightNumber": "TK 831",
+    "status": "",
+    "actualTime": "10:20",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "UF 002-2025-11-21": {
     "flightNumber": "UF 002",
@@ -517,6 +510,13 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "CY 121-2025-11-21": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "CY"
+  },
   "AF 565-2025-11-21": {
     "flightNumber": "AF 565",
     "status": "",
@@ -544,13 +544,6 @@
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "IA"
-  },
-  "CY 121-2025-11-21": {
-    "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "16:40",
-    "type": "dprtr",
-    "airlineCode": "CY"
   },
   "ME 312-2025-11-21": {
     "flightNumber": "ME 312",
@@ -680,8 +673,8 @@
   },
   "ME 425-2025-11-20": {
     "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
+    "status": "وصلت",
+    "actualTime": "13:51",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -694,8 +687,8 @@
   },
   "ME 405-2025-11-20": {
     "flightNumber": "ME 405",
-    "status": "",
-    "actualTime": "14:25",
+    "status": "وصلت",
+    "actualTime": "13:55",
     "type": "arivl",
     "airlineCode": "ME"
   },
