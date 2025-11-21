@@ -20,38 +20,31 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "SK 282-2025-11-21": {
-    "flightNumber": "SK 282",
-    "status": "غادرت",
-    "actualTime": "18:13",
-    "type": "dprtr",
-    "airlineCode": "SK"
-  },
   "QR 427-2025-11-21": {
     "flightNumber": "QR 427",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "18:46",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "MS 712-2025-11-21": {
     "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "19:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:18",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "EK 954-2025-11-21": {
     "flightNumber": "EK 954",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:51",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "RJ 404-2025-11-21": {
     "flightNumber": "RJ 404",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:55",
+    "status": "النداء الاخير",
+    "actualTime": "18:58",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -538,20 +531,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "ME 218-2025-11-21": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "17:17",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "EK 953-2025-11-21": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:12",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "SK 281-2025-11-21": {
     "flightNumber": "SK 281",
     "status": "وصلت",
@@ -582,8 +561,8 @@
   },
   "ME 212-2025-11-21": {
     "flightNumber": "ME 212",
-    "status": "",
-    "actualTime": "18:55",
+    "status": "وصلت",
+    "actualTime": "19:01",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -596,8 +575,8 @@
   },
   "ME 313-2025-11-21": {
     "flightNumber": "ME 313",
-    "status": "تبكير",
-    "actualTime": "19:00",
+    "status": "وصلت",
+    "actualTime": "18:58",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -909,19 +888,19 @@
     "type": "arivl",
     "airlineCode": "AF"
   },
-  "UF 001-2025-11-22": {
-    "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "14:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 139-2025-11-22": {
     "flightNumber": "IA 139",
     "status": "",
     "actualTime": "14:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "UF 001-2025-11-22": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "14:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "ME 365-2025-11-22": {
     "flightNumber": "ME 365",
