@@ -20,16 +20,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 217-2025-11-21": {
-    "flightNumber": "ME 217",
-    "status": "غادرت",
-    "actualTime": "07:15",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 426-2025-11-21": {
     "flightNumber": "ME 426",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "06:46",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -43,22 +36,22 @@
   },
   "ME 201-2025-11-21": {
     "flightNumber": "ME 201",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "07:08",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 310-2025-11-21": {
     "flightNumber": "ME 310",
-    "status": "",
-    "actualTime": "07:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:17",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 211-2025-11-21": {
     "flightNumber": "ME 211",
-    "status": "",
-    "actualTime": "07:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:23",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -78,7 +71,7 @@
   },
   "ME 404-2025-11-21": {
     "flightNumber": "ME 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -117,13 +110,6 @@
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "IA"
-  },
-  "G9 386-2025-11-21": {
-    "flightNumber": "G9 386",
-    "status": "",
-    "actualTime": "11:35",
-    "type": "dprtr",
-    "airlineCode": "G9"
   },
   "ME 304-2025-11-21": {
     "flightNumber": "ME 304",
@@ -208,6 +194,13 @@
     "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "G9 386-2025-11-21": {
+    "flightNumber": "G9 386",
+    "status": "",
+    "actualTime": "15:20",
+    "type": "dprtr",
+    "airlineCode": "G9"
   },
   "VF 1044-2025-11-21": {
     "flightNumber": "VF 1044",
@@ -888,13 +881,6 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "G9 385-2025-11-21": {
-    "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "10:55",
-    "type": "arivl",
-    "airlineCode": "G9"
-  },
   "ME 303-2025-11-21": {
     "flightNumber": "ME 303",
     "status": "",
@@ -971,6 +957,13 @@
     "actualTime": "14:25",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "G9 385-2025-11-21": {
+    "flightNumber": "G9 385",
+    "status": "",
+    "actualTime": "14:30",
+    "type": "arivl",
+    "airlineCode": "G9"
   },
   "VF 1043-2025-11-21": {
     "flightNumber": "VF 1043",
