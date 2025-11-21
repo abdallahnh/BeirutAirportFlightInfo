@@ -6,26 +6,12 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ME 571-2025-11-21": {
-    "flightNumber": "ME 571",
-    "status": "غادرت",
-    "actualTime": "01:29",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ET 407-2025-11-21": {
     "flightNumber": "ET 407",
-    "status": "تم فتح البوابة",
-    "actualTime": "02:30",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "02:18",
     "type": "dprtr",
     "airlineCode": "ET"
-  },
-  "PC 759-2025-11-21": {
-    "flightNumber": "PC 759",
-    "status": "",
-    "actualTime": "02:35",
-    "type": "dprtr",
-    "airlineCode": "PC"
   },
   "ET 417-2025-11-21": {
     "flightNumber": "ET 417",
@@ -36,29 +22,22 @@
   },
   "TK 829-2025-11-21": {
     "flightNumber": "TK 829",
-    "status": "",
-    "actualTime": "03:25",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "02:50",
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "PC 757-2025-11-21": {
-    "flightNumber": "PC 757",
-    "status": "",
-    "actualTime": "03:40",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "MS 714-2025-11-21": {
     "flightNumber": "MS 714",
-    "status": "",
-    "actualTime": "03:40",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "02:57",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "RO 168-2025-11-21": {
     "flightNumber": "RO 168",
-    "status": "",
-    "actualTime": "04:05",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "03:27",
     "type": "dprtr",
     "airlineCode": "RO"
   },
@@ -244,19 +223,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EY 582-2025-11-21": {
-    "flightNumber": "EY 582",
-    "status": "",
-    "actualTime": "13:50",
-    "type": "dprtr",
-    "airlineCode": "EY"
-  },
   "AH 4017-2025-11-21": {
     "flightNumber": "AH 4017",
     "status": "",
     "actualTime": "13:50",
     "type": "dprtr",
     "airlineCode": "AH"
+  },
+  "EY 582-2025-11-21": {
+    "flightNumber": "EY 582",
+    "status": "",
+    "actualTime": "13:50",
+    "type": "dprtr",
+    "airlineCode": "EY"
   },
   "TK 825-2025-11-21": {
     "flightNumber": "TK 825",
@@ -293,19 +272,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "CY 121-2025-11-21": {
-    "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "dprtr",
-    "airlineCode": "CY"
-  },
   "AF 565-2025-11-21": {
     "flightNumber": "AF 565",
     "status": "",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "AF"
+  },
+  "CY 121-2025-11-21": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "CY"
   },
   "UF 002-2025-11-21": {
     "flightNumber": "UF 002",
@@ -902,52 +881,31 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 429-2025-11-20": {
-    "flightNumber": "ME 429",
-    "status": "وصلت",
-    "actualTime": "00:12",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ET 406-2025-11-21": {
-    "flightNumber": "ET 406",
-    "status": "وصلت",
-    "actualTime": "01:45",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
-  "PC 758-2025-11-21": {
-    "flightNumber": "PC 758",
-    "status": "وصلت",
-    "actualTime": "01:46",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "TK 828-2025-11-21": {
     "flightNumber": "TK 828",
-    "status": "",
-    "actualTime": "02:30",
+    "status": "وصلت",
+    "actualTime": "02:21",
     "type": "arivl",
     "airlineCode": "TK"
   },
   "PC 756-2025-11-21": {
     "flightNumber": "PC 756",
-    "status": "",
-    "actualTime": "02:35",
+    "status": "وصلت",
+    "actualTime": "02:34",
     "type": "arivl",
     "airlineCode": "PC"
   },
   "MS 713-2025-11-21": {
     "flightNumber": "MS 713",
-    "status": "",
-    "actualTime": "02:40",
+    "status": "وصلت",
+    "actualTime": "02:25",
     "type": "arivl",
     "airlineCode": "MS"
   },
   "RO 167-2025-11-21": {
     "flightNumber": "RO 167",
-    "status": "",
-    "actualTime": "03:05",
+    "status": "وصلت",
+    "actualTime": "03:01",
     "type": "arivl",
     "airlineCode": "RO"
   },
