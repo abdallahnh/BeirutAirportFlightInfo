@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "ME 304-2025-11-21": {
-    "flightNumber": "ME 304",
-    "status": "غادرت",
-    "actualTime": "11:07",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "KU 502-2025-11-21": {
     "flightNumber": "KU 502",
     "status": "تم اغلاق البوابة",
@@ -43,21 +36,21 @@
   },
   "ME 229-2025-11-21": {
     "flightNumber": "ME 229",
-    "status": "تم فتح البوابة",
-    "actualTime": "13:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "13:02",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EY 582-2025-11-21": {
     "flightNumber": "EY 582",
-    "status": "",
-    "actualTime": "13:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "13:02",
     "type": "dprtr",
     "airlineCode": "EY"
   },
   "AH 4017-2025-11-21": {
     "flightNumber": "AH 4017",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:50",
     "type": "dprtr",
     "airlineCode": "AH"
@@ -76,19 +69,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "G9 386-2025-11-21": {
-    "flightNumber": "G9 386",
-    "status": "",
-    "actualTime": "15:20",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "ME 418-2025-11-21": {
     "flightNumber": "ME 418",
     "status": "",
     "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "G9 386-2025-11-21": {
+    "flightNumber": "G9 386",
+    "status": "",
+    "actualTime": "15:20",
+    "type": "dprtr",
+    "airlineCode": "G9"
   },
   "VF 1044-2025-11-21": {
     "flightNumber": "VF 1044",
@@ -223,15 +216,15 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "ME 261-2025-11-21": {
-    "flightNumber": "ME 261",
+  "ME 430-2025-11-21": {
+    "flightNumber": "ME 430",
     "status": "",
     "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 430-2025-11-21": {
-    "flightNumber": "ME 430",
+  "ME 261-2025-11-21": {
+    "flightNumber": "ME 261",
     "status": "",
     "actualTime": "21:00",
     "type": "dprtr",
@@ -698,13 +691,6 @@
     "actualTime": "23:55",
     "type": "dprtr",
     "airlineCode": "RJ"
-  },
-  "QR 416-2025-11-21": {
-    "flightNumber": "QR 416",
-    "status": "وصلت",
-    "actualTime": "11:04",
-    "type": "arivl",
-    "airlineCode": "QR"
   },
   "TK 6158-2025-11-21": {
     "flightNumber": "TK 6158",
