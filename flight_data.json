@@ -43,7 +43,7 @@
   },
   "ME 229-2025-11-21": {
     "flightNumber": "ME 229",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:30",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -76,19 +76,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 418-2025-11-21": {
-    "flightNumber": "ME 418",
-    "status": "",
-    "actualTime": "15:20",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "G9 386-2025-11-21": {
     "flightNumber": "G9 386",
     "status": "",
     "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "G9"
+  },
+  "ME 418-2025-11-21": {
+    "flightNumber": "ME 418",
+    "status": "",
+    "actualTime": "15:20",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "VF 1044-2025-11-21": {
     "flightNumber": "VF 1044",
@@ -699,20 +699,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "IA 131-2025-11-21": {
-    "flightNumber": "IA 131",
-    "status": "وصلت",
-    "actualTime": "10:41",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "ME 303-2025-11-21": {
-    "flightNumber": "ME 303",
-    "status": "وصلت",
-    "actualTime": "10:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "QR 416-2025-11-21": {
     "flightNumber": "QR 416",
     "status": "وصلت",
@@ -736,8 +722,8 @@
   },
   "AH 4016-2025-11-21": {
     "flightNumber": "AH 4016",
-    "status": "",
-    "actualTime": "12:50",
+    "status": "وصلت",
+    "actualTime": "12:48",
     "type": "arivl",
     "airlineCode": "AH"
   },
