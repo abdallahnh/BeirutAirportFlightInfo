@@ -50,7 +50,7 @@
   },
   "RJ 404-2025-11-22": {
     "flightNumber": "RJ 404",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "23:28",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -575,8 +575,8 @@
   },
   "KU 503-2025-11-22": {
     "flightNumber": "KU 503",
-    "status": "",
-    "actualTime": "23:30",
+    "status": "وصلت",
+    "actualTime": "23:53",
     "type": "arivl",
     "airlineCode": "KU"
   },
@@ -596,7 +596,7 @@
   },
   "ME 230-2025-11-22": {
     "flightNumber": "ME 230",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "23:55",
     "type": "arivl",
     "airlineCode": "ME"
@@ -685,19 +685,19 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "EK 957-2025-11-23": {
-    "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "MS 709-2025-11-23": {
     "flightNumber": "MS 709",
     "status": "",
     "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "MS"
+  },
+  "EK 957-2025-11-23": {
+    "flightNumber": "EK 957",
+    "status": "",
+    "actualTime": "09:15",
+    "type": "arivl",
+    "airlineCode": "EK"
   },
   "IA 131-2025-11-23": {
     "flightNumber": "IA 131",
