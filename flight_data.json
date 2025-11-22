@@ -48,13 +48,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "J9 262-2025-11-22": {
-    "flightNumber": "J9 262",
-    "status": "غادرت",
-    "actualTime": "22:35",
-    "type": "dprtr",
-    "airlineCode": "J9"
-  },
   "RJ 404-2025-11-22": {
     "flightNumber": "RJ 404",
     "status": "",
@@ -552,66 +545,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 216-2025-11-22": {
-    "flightNumber": "ME 216",
-    "status": "",
-    "actualTime": "16:50",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "FZ 159-2025-11-22": {
-    "flightNumber": "FZ 159",
-    "status": "وصلت",
-    "actualTime": "21:32",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
-  "G9 387-2025-11-22": {
-    "flightNumber": "G9 387",
-    "status": "وصلت",
-    "actualTime": "21:16",
-    "type": "arivl",
-    "airlineCode": "G9"
-  },
-  "ME 307-2025-11-22": {
-    "flightNumber": "ME 307",
-    "status": "وصلت",
-    "actualTime": "22:25",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 437-2025-11-22": {
-    "flightNumber": "ME 437",
-    "status": "وصلت",
-    "actualTime": "22:16",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "J9 261-2025-11-22": {
-    "flightNumber": "J9 261",
-    "status": "وصلت",
-    "actualTime": "22:21",
-    "type": "arivl",
-    "airlineCode": "J9"
-  },
-  "ME 268-2025-11-22": {
-    "flightNumber": "ME 268",
-    "status": "وصلت",
-    "actualTime": "22:13",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 419-2025-11-22": {
     "flightNumber": "ME 419",
-    "status": "",
-    "actualTime": "22:45",
+    "status": "وصلت",
+    "actualTime": "23:17",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "RJ 403-2025-11-22": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "22:55",
+    "status": "وصلت",
+    "actualTime": "23:01",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -720,13 +664,6 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "IA 137-2025-11-23": {
-    "flightNumber": "IA 137",
-    "status": "",
-    "actualTime": "08:45",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "TK 830-2025-11-23": {
     "flightNumber": "TK 830",
     "status": "",
@@ -734,12 +671,12 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "PC 1824-2025-11-23": {
-    "flightNumber": "PC 1824",
+  "IA 137-2025-11-23": {
+    "flightNumber": "IA 137",
     "status": "",
-    "actualTime": "09:15",
+    "actualTime": "08:45",
     "type": "arivl",
-    "airlineCode": "PC"
+    "airlineCode": "IA"
   },
   "MS 709-2025-11-23": {
     "flightNumber": "MS 709",
@@ -747,6 +684,13 @@
     "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "MS"
+  },
+  "PC 1824-2025-11-23": {
+    "flightNumber": "PC 1824",
+    "status": "",
+    "actualTime": "09:15",
+    "type": "arivl",
+    "airlineCode": "PC"
   },
   "EK 957-2025-11-23": {
     "flightNumber": "EK 957",
