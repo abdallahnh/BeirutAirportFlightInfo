@@ -43,21 +43,21 @@
   },
   "ME 265-2025-11-23": {
     "flightNumber": "ME 265",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "06:27",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 302-2025-11-23": {
     "flightNumber": "ME 302",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "06:38",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 217-2025-11-23": {
     "flightNumber": "ME 217",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "06:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -71,7 +71,7 @@
   },
   "ME 231-2025-11-23": {
     "flightNumber": "ME 231",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "06:48",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -881,19 +881,19 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "IA 137-2025-11-23": {
-    "flightNumber": "IA 137",
-    "status": "",
-    "actualTime": "08:45",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "TK 830-2025-11-23": {
     "flightNumber": "TK 830",
     "status": "",
     "actualTime": "08:45",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "IA 137-2025-11-23": {
+    "flightNumber": "IA 137",
+    "status": "",
+    "actualTime": "08:45",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "PC 1824-2025-11-23": {
     "flightNumber": "PC 1824",
