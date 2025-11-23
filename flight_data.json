@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "IA 140-2025-11-23": {
-    "flightNumber": "IA 140",
-    "status": "غادرت",
-    "actualTime": "15:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "CY 121-2025-11-23": {
     "flightNumber": "CY 121",
     "status": "تم اغلاق البوابة",
@@ -43,29 +36,29 @@
   },
   "ME 326-2025-11-23": {
     "flightNumber": "ME 326",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "16:37",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 267-2025-11-23": {
     "flightNumber": "ME 267",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "16:49",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 442-2025-11-23": {
     "flightNumber": "ME 442",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:56",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 402-2025-11-23": {
     "flightNumber": "ME 402",
-    "status": "",
-    "actualTime": "17:40",
+    "status": "النداء الاخير",
+    "actualTime": "17:05",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -78,7 +71,7 @@
   },
   "ME 422-2025-11-23": {
     "flightNumber": "ME 422",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -593,27 +586,6 @@
     "actualTime": "15:12",
     "type": "arivl",
     "airlineCode": "AF"
-  },
-  "IA 139-2025-11-23": {
-    "flightNumber": "IA 139",
-    "status": "وصلت",
-    "actualTime": "14:55",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "ME 427-2025-11-23": {
-    "flightNumber": "ME 427",
-    "status": "وصلت",
-    "actualTime": "14:59",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 232-2025-11-23": {
-    "flightNumber": "ME 232",
-    "status": "وصلت",
-    "actualTime": "15:09",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "LH 1308-2025-11-23": {
     "flightNumber": "LH 1308",
