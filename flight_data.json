@@ -6,16 +6,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 136-2025-11-23": {
-    "flightNumber": "IA 136",
-    "status": "غادرت",
-    "actualTime": "19:00",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "MS 712-2025-11-23": {
     "flightNumber": "MS 712",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "19:08",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -36,7 +29,7 @@
   },
   "RJ 404-2025-11-23": {
     "flightNumber": "RJ 404",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:57",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -503,13 +496,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "ME 218-2025-11-23": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "17:15",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 135-2025-11-23": {
     "flightNumber": "IA 135",
     "status": "وصلت",
@@ -561,8 +547,8 @@
   },
   "J9 261-2025-11-23": {
     "flightNumber": "J9 261",
-    "status": "",
-    "actualTime": "19:45",
+    "status": "وصلت",
+    "actualTime": "19:18",
     "type": "arivl",
     "airlineCode": "J9"
   },
