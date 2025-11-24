@@ -1,35 +1,28 @@
 {
-  "QR 417-2025-11-24": {
-    "flightNumber": "QR 417",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "11:57",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "ME 229-2025-11-24": {
     "flightNumber": "ME 229",
-    "status": "تم اغلاق البوابة",
+    "status": "غادرت",
     "actualTime": "13:10",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 825-2025-11-24": {
     "flightNumber": "TK 825",
-    "status": "تم فتح البوابة",
-    "actualTime": "14:50",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "14:08",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "ME 436-2025-11-24": {
     "flightNumber": "ME 436",
-    "status": "",
-    "actualTime": "15:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "14:58",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "VF 1044-2025-11-24": {
     "flightNumber": "VF 1044",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:30",
     "type": "dprtr",
     "airlineCode": "VF"
@@ -43,7 +36,7 @@
   },
   "CY 121-2025-11-24": {
     "flightNumber": "CY 121",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -128,7 +121,7 @@
   "MS 712-2025-11-24": {
     "flightNumber": "MS 712",
     "status": "",
-    "actualTime": "19:15",
+    "actualTime": "19:25",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -617,29 +610,29 @@
   },
   "AF 566-2025-11-24": {
     "flightNumber": "AF 566",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "وصلت",
+    "actualTime": "14:30",
     "type": "arivl",
     "airlineCode": "AF"
   },
   "ME 405-2025-11-24": {
     "flightNumber": "ME 405",
-    "status": "تبكير",
-    "actualTime": "14:10",
+    "status": "وصلت",
+    "actualTime": "14:07",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "VF 1043-2025-11-24": {
     "flightNumber": "VF 1043",
-    "status": "",
-    "actualTime": "14:40",
+    "status": "وصلت",
+    "actualTime": "14:48",
     "type": "arivl",
     "airlineCode": "VF"
   },
   "ME 365-2025-11-24": {
     "flightNumber": "ME 365",
-    "status": "تبكير",
-    "actualTime": "14:40",
+    "status": "وصلت",
+    "actualTime": "14:41",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -652,27 +645,27 @@
   },
   "CY 120-2025-11-24": {
     "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "15:00",
+    "status": "وصلت",
+    "actualTime": "14:36",
     "type": "arivl",
     "airlineCode": "CY"
   },
   "ME 427-2025-11-24": {
     "flightNumber": "ME 427",
-    "status": "تبكير",
-    "actualTime": "14:50",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 236-2025-11-24": {
-    "flightNumber": "ME 236",
-    "status": "",
-    "actualTime": "15:25",
+    "status": "وصلت",
+    "actualTime": "14:45",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 305-2025-11-24": {
     "flightNumber": "ME 305",
+    "status": "",
+    "actualTime": "15:25",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 236-2025-11-24": {
+    "flightNumber": "ME 236",
     "status": "",
     "actualTime": "15:25",
     "type": "arivl",
@@ -729,8 +722,8 @@
   },
   "EK 953-2025-11-24": {
     "flightNumber": "EK 953",
-    "status": "",
-    "actualTime": "17:00",
+    "status": "تبكير",
+    "actualTime": "16:40",
     "type": "arivl",
     "airlineCode": "EK"
   },
@@ -744,14 +737,14 @@
   "MS 711-2025-11-24": {
     "flightNumber": "MS 711",
     "status": "",
-    "actualTime": "18:15",
+    "actualTime": "18:25",
     "type": "arivl",
     "airlineCode": "MS"
   },
   "ME 202-2025-11-24": {
     "flightNumber": "ME 202",
-    "status": "",
-    "actualTime": "18:45",
+    "status": "تبكير",
+    "actualTime": "18:30",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -796,13 +789,6 @@
     "actualTime": "20:15",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "TK 826-2025-11-24": {
-    "flightNumber": "TK 826",
-    "status": "",
-    "actualTime": "20:25",
-    "type": "arivl",
-    "airlineCode": "TK"
   },
   "ME 572-2025-11-24": {
     "flightNumber": "ME 572",
@@ -888,13 +874,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "VF 543-2025-11-25": {
-    "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "00:30",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "ET 406-2025-11-25": {
     "flightNumber": "ET 406",
     "status": "",
@@ -912,7 +891,7 @@
   "ET 416-2025-11-25": {
     "flightNumber": "ET 416",
     "status": "",
-    "actualTime": "02:00",
+    "actualTime": "02:05",
     "type": "arivl",
     "airlineCode": "ET"
   },
@@ -1182,6 +1161,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "ME 212-2025-11-25": {
+    "flightNumber": "ME 212",
+    "status": "",
+    "actualTime": "18:55",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
   "RJ 403-2025-11-25": {
     "flightNumber": "RJ 403",
     "status": "",
@@ -1210,19 +1196,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "TK 826-2025-11-25": {
-    "flightNumber": "TK 826",
-    "status": "",
-    "actualTime": "20:15",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "FZ 159-2025-11-25": {
     "flightNumber": "FZ 159",
     "status": "",
     "actualTime": "20:15",
     "type": "arivl",
     "airlineCode": "FZ"
+  },
+  "TK 826-2025-11-25": {
+    "flightNumber": "TK 826",
+    "status": "",
+    "actualTime": "20:25",
+    "type": "arivl",
+    "airlineCode": "TK"
   },
   "ME 327-2025-11-25": {
     "flightNumber": "ME 327",
@@ -1272,13 +1258,6 @@
     "actualTime": "23:10",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "EK 955-2025-11-25": {
-    "flightNumber": "EK 955",
-    "status": "",
-    "actualTime": "23:20",
-    "type": "arivl",
-    "airlineCode": "EK"
   },
   "ME 443-2025-11-25": {
     "flightNumber": "ME 443",
