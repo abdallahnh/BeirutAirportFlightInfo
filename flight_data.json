@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 201-2025-11-24": {
-    "flightNumber": "ME 201",
-    "status": "غادرت",
-    "actualTime": "07:07",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 310-2025-11-24": {
     "flightNumber": "ME 310",
     "status": "غادرت",
@@ -36,7 +29,7 @@
   },
   "ME 211-2025-11-24": {
     "flightNumber": "ME 211",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "07:17",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -64,7 +57,7 @@
   },
   "ME 241-2025-11-24": {
     "flightNumber": "ME 241",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -813,8 +806,8 @@
   },
   "G9 385-2025-11-24": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "10:55",
+    "status": "تبكير",
+    "actualTime": "10:10",
     "type": "arivl",
     "airlineCode": "G9"
   },
