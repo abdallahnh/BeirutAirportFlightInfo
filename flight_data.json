@@ -8,22 +8,22 @@
   },
   "ME 368-2025-11-24": {
     "flightNumber": "ME 368",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "17:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 422-2025-11-24": {
     "flightNumber": "ME 422",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "17:21",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 306-2025-11-24": {
     "flightNumber": "ME 306",
-    "status": "تم فتح البوابة",
-    "actualTime": "18:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:39",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -167,15 +167,15 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 426-2025-11-25": {
-    "flightNumber": "ME 426",
+  "ME 231-2025-11-25": {
+    "flightNumber": "ME 231",
     "status": "",
     "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 231-2025-11-25": {
-    "flightNumber": "ME 231",
+  "ME 426-2025-11-25": {
+    "flightNumber": "ME 426",
     "status": "",
     "actualTime": "07:20",
     "type": "dprtr",
@@ -328,12 +328,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 418-2025-11-25": {
-    "flightNumber": "ME 418",
+  "AH 4017-2025-11-25": {
+    "flightNumber": "AH 4017",
     "status": "",
     "actualTime": "15:20",
     "type": "dprtr",
-    "airlineCode": "ME"
+    "airlineCode": "AH"
   },
   "IA 140-2025-11-25": {
     "flightNumber": "IA 140",
@@ -342,12 +342,12 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "AH 4017-2025-11-25": {
-    "flightNumber": "AH 4017",
+  "ME 418-2025-11-25": {
+    "flightNumber": "ME 418",
     "status": "",
     "actualTime": "15:20",
     "type": "dprtr",
-    "airlineCode": "AH"
+    "airlineCode": "ME"
   },
   "ME 322-2025-11-25": {
     "flightNumber": "ME 322",
@@ -356,19 +356,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "CY 121-2025-11-25": {
-    "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "dprtr",
-    "airlineCode": "CY"
-  },
   "AF 565-2025-11-25": {
     "flightNumber": "AF 565",
     "status": "",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "AF"
+  },
+  "CY 121-2025-11-25": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "CY"
   },
   "ME 428-2025-11-25": {
     "flightNumber": "ME 428",
@@ -505,31 +505,10 @@
   },
   "TK 6312-2025-11-24": {
     "flightNumber": "TK 6312",
-    "status": "",
-    "actualTime": "14:55",
+    "status": "وصلت",
+    "actualTime": "17:40",
     "type": "arivl",
     "airlineCode": "TK"
-  },
-  "ME 236-2025-11-24": {
-    "flightNumber": "ME 236",
-    "status": "وصلت",
-    "actualTime": "15:38",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "IA 1301-2025-11-24": {
-    "flightNumber": "IA 1301",
-    "status": "وصلت",
-    "actualTime": "15:32",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "LH 1308-2025-11-24": {
-    "flightNumber": "LH 1308",
-    "status": "وصلت",
-    "actualTime": "15:35",
-    "type": "arivl",
-    "airlineCode": "LH"
   },
   "ME 214-2025-11-24": {
     "flightNumber": "ME 214",
@@ -561,8 +540,8 @@
   },
   "QR 426-2025-11-24": {
     "flightNumber": "QR 426",
-    "status": "",
-    "actualTime": "18:05",
+    "status": "وصلت",
+    "actualTime": "17:44",
     "type": "arivl",
     "airlineCode": "QR"
   },
