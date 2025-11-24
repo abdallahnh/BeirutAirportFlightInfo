@@ -265,12 +265,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 418-2025-11-25": {
-    "flightNumber": "ME 418",
+  "AH 4017-2025-11-25": {
+    "flightNumber": "AH 4017",
     "status": "",
     "actualTime": "15:20",
     "type": "dprtr",
-    "airlineCode": "ME"
+    "airlineCode": "AH"
   },
   "IA 140-2025-11-25": {
     "flightNumber": "IA 140",
@@ -279,12 +279,12 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "AH 4017-2025-11-25": {
-    "flightNumber": "AH 4017",
+  "ME 418-2025-11-25": {
+    "flightNumber": "ME 418",
     "status": "",
     "actualTime": "15:20",
     "type": "dprtr",
-    "airlineCode": "AH"
+    "airlineCode": "ME"
   },
   "ME 322-2025-11-25": {
     "flightNumber": "ME 322",
@@ -293,19 +293,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "CY 121-2025-11-25": {
-    "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "dprtr",
-    "airlineCode": "CY"
-  },
   "AF 565-2025-11-25": {
     "flightNumber": "AF 565",
     "status": "",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "AF"
+  },
+  "CY 121-2025-11-25": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "CY"
   },
   "ME 428-2025-11-25": {
     "flightNumber": "ME 428",
@@ -463,15 +463,15 @@
   },
   "QR 418-2025-11-24": {
     "flightNumber": "QR 418",
-    "status": "",
-    "actualTime": "22:55",
+    "status": "وصلت",
+    "actualTime": "22:45",
     "type": "arivl",
     "airlineCode": "QR"
   },
   "ME 262-2025-11-24": {
     "flightNumber": "ME 262",
-    "status": "",
-    "actualTime": "23:10",
+    "status": "وصلت",
+    "actualTime": "22:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
