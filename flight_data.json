@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 364-2025-11-24": {
-    "flightNumber": "ME 364",
-    "status": "غادرت",
-    "actualTime": "08:14",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 241-2025-11-24": {
     "flightNumber": "ME 241",
     "status": "تم اغلاق البوابة",
@@ -43,8 +36,8 @@
   },
   "MS 710-2025-11-24": {
     "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "10:15",
+    "status": "تم فتح البوابة",
+    "actualTime": "09:05",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -181,6 +174,13 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "UF 002-2025-11-24": {
+    "flightNumber": "UF 002",
+    "status": "",
+    "actualTime": "16:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
+  },
   "IA 1302-2025-11-24": {
     "flightNumber": "IA 1302",
     "status": "",
@@ -201,13 +201,6 @@
     "actualTime": "17:25",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "UF 004-2025-11-24": {
-    "flightNumber": "UF 004",
-    "status": "",
-    "actualTime": "17:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
   },
   "ME 368-2025-11-24": {
     "flightNumber": "ME 368",
@@ -874,6 +867,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "UF 001-2025-11-24": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "15:30",
+    "type": "arivl",
+    "airlineCode": "UF"
+  },
   "IA 1301-2025-11-24": {
     "flightNumber": "IA 1301",
     "status": "",
@@ -894,13 +894,6 @@
     "actualTime": "16:00",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "UF 003-2025-11-24": {
-    "flightNumber": "UF 003",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "arivl",
-    "airlineCode": "UF"
   },
   "ME 214-2025-11-24": {
     "flightNumber": "ME 214",
