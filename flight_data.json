@@ -1,14 +1,14 @@
 {
   "ET 407-2025-11-27": {
     "flightNumber": "ET 407",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "01:39",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "PC 759-2025-11-27": {
     "flightNumber": "PC 759",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:35",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -909,13 +909,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 429-2025-11-26": {
-    "flightNumber": "ME 429",
-    "status": "وصلت",
-    "actualTime": "23:43",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ET 406-2025-11-27": {
     "flightNumber": "ET 406",
     "status": "وصلت",
@@ -993,19 +986,19 @@
     "type": "arivl",
     "airlineCode": "FZ"
   },
-  "MS 709-2025-11-27": {
-    "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "EK 957-2025-11-27": {
     "flightNumber": "EK 957",
     "status": "",
     "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "EK"
+  },
+  "MS 709-2025-11-27": {
+    "flightNumber": "MS 709",
+    "status": "",
+    "actualTime": "09:15",
+    "type": "arivl",
+    "airlineCode": "MS"
   },
   "IA 131-2025-11-27": {
     "flightNumber": "IA 131",
