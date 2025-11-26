@@ -1,21 +1,14 @@
 {
-  "LH 1309-2025-11-26": {
-    "flightNumber": "LH 1309",
-    "status": "غادرت",
-    "actualTime": "16:31",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "ME 267-2025-11-26": {
     "flightNumber": "ME 267",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "16:52",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 402-2025-11-26": {
     "flightNumber": "ME 402",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "16:58",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -29,8 +22,8 @@
   },
   "ME 422-2025-11-26": {
     "flightNumber": "ME 422",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -559,20 +552,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 305-2025-11-26": {
-    "flightNumber": "ME 305",
-    "status": "وصلت",
-    "actualTime": "15:21",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 236-2025-11-26": {
-    "flightNumber": "ME 236",
-    "status": "وصلت",
-    "actualTime": "15:24",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "LH 1308-2025-11-26": {
     "flightNumber": "LH 1308",
     "status": "وصلت",
@@ -603,8 +582,8 @@
   },
   "EK 953-2025-11-26": {
     "flightNumber": "EK 953",
-    "status": "",
-    "actualTime": "17:00",
+    "status": "وصلت",
+    "actualTime": "17:04",
     "type": "arivl",
     "airlineCode": "EK"
   },
