@@ -1,15 +1,15 @@
 {
   "ME 402-2025-11-27": {
     "flightNumber": "ME 402",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "17:12",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 368-2025-11-27": {
     "flightNumber": "ME 368",
-    "status": "تأخير",
-    "actualTime": "18:10",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:48",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -22,9 +22,9 @@
   },
   "TK 6146-2025-11-27": {
     "flightNumber": "TK 6146",
-    "status": "وصلت",
-    "actualTime": "15:48",
-    "type": "arivl",
+    "status": "",
+    "actualTime": "18:15",
+    "type": "dprtr",
     "airlineCode": "TK"
   },
   "ME 306-2025-11-27": {
@@ -551,13 +551,6 @@
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
-  },
-  "ME 321-2025-11-27": {
-    "flightNumber": "ME 321",
-    "status": "وصلت",
-    "actualTime": "15:40",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 218-2025-11-27": {
     "flightNumber": "ME 218",
