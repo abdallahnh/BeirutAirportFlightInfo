@@ -8,7 +8,7 @@
   },
   "PC 1825-2025-11-27": {
     "flightNumber": "PC 1825",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:17",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -29,7 +29,7 @@
   },
   "TK 825-2025-11-27": {
     "flightNumber": "TK 825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "14:50",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -412,26 +412,12 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "FZ 158-2025-11-28": {
-    "flightNumber": "FZ 158",
-    "status": "",
-    "actualTime": "09:50",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
   "MS 710-2025-11-28": {
     "flightNumber": "MS 710",
     "status": "",
     "actualTime": "10:15",
     "type": "dprtr",
     "airlineCode": "MS"
-  },
-  "UF 002-2025-11-28": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
   },
   "KU 502-2025-11-28": {
     "flightNumber": "KU 502",
@@ -454,6 +440,13 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
+  "ME 304-2025-11-28": {
+    "flightNumber": "ME 304",
+    "status": "",
+    "actualTime": "11:40",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "RJ 402-2025-11-28": {
     "flightNumber": "RJ 402",
     "status": "",
@@ -474,13 +467,6 @@
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "EK"
-  },
-  "ME 304-2025-11-28": {
-    "flightNumber": "ME 304",
-    "status": "",
-    "actualTime": "12:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "QR 417-2025-11-28": {
     "flightNumber": "QR 417",
@@ -537,6 +523,13 @@
     "actualTime": "15:30",
     "type": "dprtr",
     "airlineCode": "VF"
+  },
+  "UF 002-2025-11-28": {
+    "flightNumber": "UF 002",
+    "status": "",
+    "actualTime": "15:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
   },
   "ME 322-2025-11-28": {
     "flightNumber": "ME 322",
