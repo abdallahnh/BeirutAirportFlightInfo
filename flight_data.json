@@ -36,35 +36,35 @@
   },
   "ME 430-2025-11-28": {
     "flightNumber": "ME 430",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "20:26",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 261-2025-11-28": {
     "flightNumber": "ME 261",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "20:10",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 827-2025-11-28": {
     "flightNumber": "TK 827",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:10",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:41",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "FZ 160-2025-11-28": {
     "flightNumber": "FZ 160",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:15",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "20:38",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
   "CY 123-2025-11-28": {
     "flightNumber": "CY 123",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -545,13 +545,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "RJ 403-2025-11-28": {
-    "flightNumber": "RJ 403",
-    "status": "وصلت",
-    "actualTime": "18:32",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "ME 313-2025-11-28": {
     "flightNumber": "ME 313",
     "status": "وصلت",
@@ -603,8 +596,8 @@
   },
   "CY 122-2025-11-28": {
     "flightNumber": "CY 122",
-    "status": "",
-    "actualTime": "20:50",
+    "status": "وصلت",
+    "actualTime": "20:46",
     "type": "arivl",
     "airlineCode": "CY"
   },
