@@ -36,7 +36,7 @@
   },
   "TK 831-2025-11-28": {
     "flightNumber": "TK 831",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "09:13",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -307,10 +307,10 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ET 407-2025-11-29": {
-    "flightNumber": "ET 407",
+  "ET 8801-2025-11-29": {
+    "flightNumber": "ET 8801",
     "status": "",
-    "actualTime": "02:00",
+    "actualTime": "01:40",
     "type": "dprtr",
     "airlineCode": "ET"
   },
@@ -320,6 +320,13 @@
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "ET 407-2025-11-29": {
+    "flightNumber": "ET 407",
+    "status": "",
+    "actualTime": "02:05",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "PC 759-2025-11-29": {
     "flightNumber": "PC 759",
@@ -360,13 +367,6 @@
     "flightNumber": "VF 544",
     "status": "",
     "actualTime": "04:15",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
-  "VF 1628-2025-11-29": {
-    "flightNumber": "VF 1628",
-    "status": "",
-    "actualTime": "05:15",
     "type": "dprtr",
     "airlineCode": "VF"
   },
@@ -778,7 +778,7 @@
   },
   "EK 957-2025-11-28": {
     "flightNumber": "EK 957",
-    "status": "تأخير",
+    "status": "وصلت",
     "actualTime": "09:25",
     "type": "arivl",
     "airlineCode": "EK"
