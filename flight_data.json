@@ -1,11 +1,4 @@
 {
-  "RJ 402-2025-11-28": {
-    "flightNumber": "RJ 402",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "11:06",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 229-2025-11-28": {
     "flightNumber": "ME 229",
     "status": "",
@@ -22,8 +15,8 @@
   },
   "TK 825-2025-11-28": {
     "flightNumber": "TK 825",
-    "status": "تم فتح البوابة",
-    "actualTime": "14:50",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "14:01",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -36,7 +29,7 @@
   },
   "ME 418-2025-11-28": {
     "flightNumber": "ME 418",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -57,7 +50,7 @@
   },
   "AF 565-2025-11-28": {
     "flightNumber": "AF 565",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "AF"
@@ -664,13 +657,6 @@
     "type": "dprtr",
     "airlineCode": "KU"
   },
-  "AH 4016-2025-11-28": {
-    "flightNumber": "AH 4016",
-    "status": "وصلت",
-    "actualTime": "12:44",
-    "type": "arivl",
-    "airlineCode": "AH"
-  },
   "ME 252-2025-11-28": {
     "flightNumber": "ME 252",
     "status": "تأخير",
@@ -687,15 +673,15 @@
   },
   "ME 425-2025-11-28": {
     "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
+    "status": "وصلت",
+    "actualTime": "14:24",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "AF 566-2025-11-28": {
     "flightNumber": "AF 566",
-    "status": "تأخير",
-    "actualTime": "14:40",
+    "status": "وصلت",
+    "actualTime": "14:47",
     "type": "arivl",
     "airlineCode": "AF"
   },
@@ -708,8 +694,8 @@
   },
   "UF 001-2025-11-28": {
     "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "14:30",
+    "status": "وصلت",
+    "actualTime": "14:36",
     "type": "arivl",
     "airlineCode": "UF"
   },
@@ -778,8 +764,8 @@
   },
   "SK 2827-2025-11-28": {
     "flightNumber": "SK 2827",
-    "status": "",
-    "actualTime": "17:20",
+    "status": "تأخير",
+    "actualTime": "17:35",
     "type": "arivl",
     "airlineCode": "SK"
   },
