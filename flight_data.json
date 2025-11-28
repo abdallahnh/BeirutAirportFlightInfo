@@ -43,8 +43,8 @@
   },
   "MS 710-2025-11-28": {
     "flightNumber": "MS 710",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:15",
+    "status": "النداء الاخير",
+    "actualTime": "09:40",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -551,6 +551,13 @@
     "actualTime": "12:00",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "ET 3407-2025-11-29": {
+    "flightNumber": "ET 3407",
+    "status": "",
+    "actualTime": "12:00",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "QR 417-2025-11-29": {
     "flightNumber": "QR 417",
@@ -1154,13 +1161,6 @@
     "type": "arivl",
     "airlineCode": "ET"
   },
-  "VF 1627-2025-11-29": {
-    "flightNumber": "VF 1627",
-    "status": "",
-    "actualTime": "01:30",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "PC 758-2025-11-29": {
     "flightNumber": "PC 758",
     "status": "",
@@ -1171,7 +1171,7 @@
   "ET 416-2025-11-29": {
     "flightNumber": "ET 416",
     "status": "",
-    "actualTime": "02:00",
+    "actualTime": "02:05",
     "type": "arivl",
     "airlineCode": "ET"
   },
@@ -1293,6 +1293,13 @@
     "actualTime": "11:00",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "ET 3406-2025-11-29": {
+    "flightNumber": "ET 3406",
+    "status": "",
+    "actualTime": "11:00",
+    "type": "arivl",
+    "airlineCode": "ET"
   },
   "QR 416-2025-11-29": {
     "flightNumber": "QR 416",
@@ -1500,7 +1507,7 @@
   "TK 826-2025-11-29": {
     "flightNumber": "TK 826",
     "status": "",
-    "actualTime": "20:15",
+    "actualTime": "20:25",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -1573,13 +1580,6 @@
     "actualTime": "22:55",
     "type": "arivl",
     "airlineCode": "QR"
-  },
-  "EK 955-2025-11-29": {
-    "flightNumber": "EK 955",
-    "status": "",
-    "actualTime": "23:20",
-    "type": "arivl",
-    "airlineCode": "EK"
   },
   "ME 403-2025-11-29": {
     "flightNumber": "ME 403",
