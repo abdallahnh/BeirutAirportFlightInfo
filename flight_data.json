@@ -48,13 +48,6 @@
     "type": "dprtr",
     "airlineCode": "LH"
   },
-  "ME 267-2025-11-29": {
-    "flightNumber": "ME 267",
-    "status": "غادرت",
-    "actualTime": "16:51",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 402-2025-11-29": {
     "flightNumber": "ME 402",
     "status": "",
@@ -71,8 +64,8 @@
   },
   "ME 422-2025-11-29": {
     "flightNumber": "ME 422",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:22",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -636,20 +629,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "ME 427-2025-11-29": {
-    "flightNumber": "ME 427",
-    "status": "وصلت",
-    "actualTime": "15:18",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 305-2025-11-29": {
-    "flightNumber": "ME 305",
-    "status": "وصلت",
-    "actualTime": "15:15",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 236-2025-11-29": {
     "flightNumber": "ME 236",
     "status": "وصلت",
@@ -701,8 +680,8 @@
   },
   "ME 216-2025-11-29": {
     "flightNumber": "ME 216",
-    "status": "",
-    "actualTime": "16:50",
+    "status": "وصلت",
+    "actualTime": "17:28",
     "type": "arivl",
     "airlineCode": "ME"
   },
