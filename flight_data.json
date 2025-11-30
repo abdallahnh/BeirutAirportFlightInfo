@@ -1,14 +1,14 @@
 {
   "IA 132-2025-11-30": {
     "flightNumber": "IA 132",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "RJ 402-2025-11-30": {
     "flightNumber": "RJ 402",
-    "status": "تم اغلاق البوابة",
+    "status": "غادرت",
     "actualTime": "11:10",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -258,19 +258,19 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ET 407-2025-12-01": {
-    "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "02:00",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "ME 571-2025-12-01": {
     "flightNumber": "ME 571",
     "status": "",
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "ET 407-2025-12-01": {
+    "flightNumber": "ET 407",
+    "status": "",
+    "actualTime": "02:05",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "PC 759-2025-12-01": {
     "flightNumber": "PC 759",
@@ -311,13 +311,6 @@
     "flightNumber": "VF 544",
     "status": "",
     "actualTime": "04:15",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
-  "VF 1628-2025-12-01": {
-    "flightNumber": "VF 1628",
-    "status": "",
-    "actualTime": "05:15",
     "type": "dprtr",
     "airlineCode": "VF"
   },
@@ -426,13 +419,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "FZ 158-2025-12-01": {
-    "flightNumber": "FZ 158",
-    "status": "",
-    "actualTime": "09:50",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
   "MS 710-2025-12-01": {
     "flightNumber": "MS 710",
     "status": "",
@@ -524,19 +510,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "VF 1044-2025-12-01": {
-    "flightNumber": "VF 1044",
-    "status": "",
-    "actualTime": "15:30",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
   "ME 322-2025-12-01": {
     "flightNumber": "ME 322",
     "status": "",
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "CY 121-2025-12-01": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "CY"
   },
   "AF 565-2025-12-01": {
     "flightNumber": "AF 565",
@@ -573,12 +559,12 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "CY 121-2025-12-01": {
-    "flightNumber": "CY 121",
+  "LH 1309-2025-12-01": {
+    "flightNumber": "LH 1309",
     "status": "",
-    "actualTime": "16:40",
+    "actualTime": "17:15",
     "type": "dprtr",
-    "airlineCode": "CY"
+    "airlineCode": "LH"
   },
   "ME 267-2025-12-01": {
     "flightNumber": "ME 267",
@@ -663,6 +649,13 @@
     "actualTime": "21:45",
     "type": "dprtr",
     "airlineCode": "FZ"
+  },
+  "CY 123-2025-12-01": {
+    "flightNumber": "CY 123",
+    "status": "",
+    "actualTime": "21:50",
+    "type": "dprtr",
+    "airlineCode": "CY"
   },
   "ME 266-2025-11-30": {
     "flightNumber": "ME 266",
@@ -1000,13 +993,6 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "MS 713-2025-12-01": {
-    "flightNumber": "MS 713",
-    "status": "",
-    "actualTime": "02:40",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "ET 416-2025-12-01": {
     "flightNumber": "ET 416",
     "status": "",
@@ -1027,6 +1013,13 @@
     "actualTime": "02:35",
     "type": "arivl",
     "airlineCode": "PC"
+  },
+  "MS 713-2025-12-01": {
+    "flightNumber": "MS 713",
+    "status": "",
+    "actualTime": "02:40",
+    "type": "arivl",
+    "airlineCode": "MS"
   },
   "ME 431-2025-12-01": {
     "flightNumber": "ME 431",
