@@ -1,21 +1,21 @@
 {
   "ME 302-2025-11-30": {
     "flightNumber": "ME 302",
-    "status": "",
+    "status": "غادرت",
     "actualTime": "07:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 426-2025-11-30": {
     "flightNumber": "ME 426",
-    "status": "تم اغلاق البوابة",
+    "status": "غادرت",
     "actualTime": "06:44",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 211-2025-11-30": {
     "flightNumber": "ME 211",
-    "status": "",
+    "status": "غادرت",
     "actualTime": "07:50",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -50,7 +50,7 @@
   },
   "MS 710-2025-11-30": {
     "flightNumber": "MS 710",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "09:48",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -792,8 +792,8 @@
   },
   "EK 957-2025-11-30": {
     "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "09:15",
+    "status": "وصلت",
+    "actualTime": "10:13",
     "type": "arivl",
     "airlineCode": "EK"
   },
@@ -813,8 +813,8 @@
   },
   "EY 581-2025-11-30": {
     "flightNumber": "EY 581",
-    "status": "",
-    "actualTime": "10:45",
+    "status": "وصلت",
+    "actualTime": "10:15",
     "type": "arivl",
     "airlineCode": "EY"
   },
