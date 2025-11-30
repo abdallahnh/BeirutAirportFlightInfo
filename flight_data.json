@@ -15,7 +15,7 @@
   },
   "QR 419-2025-12-01": {
     "flightNumber": "QR 419",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "00:40",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -412,13 +412,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 307-2025-11-30": {
-    "flightNumber": "ME 307",
-    "status": "وصلت",
-    "actualTime": "21:47",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 437-2025-11-30": {
     "flightNumber": "ME 437",
     "status": "وصلت",
@@ -477,15 +470,15 @@
   },
   "ME 369-2025-11-30": {
     "flightNumber": "ME 369",
-    "status": "",
-    "actualTime": "23:40",
+    "status": "وصلت",
+    "actualTime": "23:41",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 423-2025-11-30": {
     "flightNumber": "ME 423",
-    "status": "",
-    "actualTime": "23:45",
+    "status": "وصلت",
+    "actualTime": "23:44",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -580,19 +573,19 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "MS 709-2025-12-01": {
-    "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "EK 957-2025-12-01": {
     "flightNumber": "EK 957",
     "status": "",
     "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "EK"
+  },
+  "MS 709-2025-12-01": {
+    "flightNumber": "MS 709",
+    "status": "",
+    "actualTime": "09:15",
+    "type": "arivl",
+    "airlineCode": "MS"
   },
   "PC 3000-2025-12-01": {
     "flightNumber": "PC 3000",
