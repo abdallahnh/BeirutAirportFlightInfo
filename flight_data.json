@@ -29,8 +29,8 @@
   },
   "IA 1302-2025-12-01": {
     "flightNumber": "IA 1302",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:30",
+    "status": "النداء الاخير",
+    "actualTime": "20:11",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -64,8 +64,8 @@
   },
   "J9 262-2025-12-01": {
     "flightNumber": "J9 262",
-    "status": "تم فتح البوابة",
-    "actualTime": "20:50",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "20:01",
     "type": "dprtr",
     "airlineCode": "J9"
   },
@@ -78,21 +78,21 @@
   },
   "TK 827-2025-12-01": {
     "flightNumber": "TK 827",
-    "status": "",
-    "actualTime": "21:10",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:43",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "RJ 404-2025-12-01": {
     "flightNumber": "RJ 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:10",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "FZ 160-2025-12-01": {
     "flightNumber": "FZ 160",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:45",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -531,13 +531,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "MS 711-2025-12-01": {
-    "flightNumber": "MS 711",
-    "status": "وصلت",
-    "actualTime": "18:35",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "ME 202-2025-12-01": {
     "flightNumber": "ME 202",
     "status": "وصلت",
@@ -554,8 +547,8 @@
   },
   "RJ 403-2025-12-01": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "19:05",
+    "status": "وصلت",
+    "actualTime": "20:32",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -582,15 +575,15 @@
   },
   "ME 242-2025-12-01": {
     "flightNumber": "ME 242",
-    "status": "",
-    "actualTime": "20:15",
+    "status": "وصلت",
+    "actualTime": "20:18",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "TK 826-2025-12-01": {
     "flightNumber": "TK 826",
-    "status": "",
-    "actualTime": "20:25",
+    "status": "وصلت",
+    "actualTime": "20:05",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -603,8 +596,8 @@
   },
   "FZ 159-2025-12-01": {
     "flightNumber": "FZ 159",
-    "status": "",
-    "actualTime": "20:45",
+    "status": "وصلت",
+    "actualTime": "20:27",
     "type": "arivl",
     "airlineCode": "FZ"
   },
