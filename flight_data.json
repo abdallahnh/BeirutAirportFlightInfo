@@ -57,15 +57,15 @@
   },
   "ME 422-2025-12-01": {
     "flightNumber": "ME 422",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "17:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 306-2025-12-01": {
     "flightNumber": "ME 306",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "18:15",
+    "status": "النداء الاخير",
+    "actualTime": "17:39",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -85,7 +85,7 @@
   },
   "EK 954-2025-12-01": {
     "flightNumber": "EK 954",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:45",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -558,27 +558,6 @@
     "actualTime": "21:15",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "ME 236-2025-12-01": {
-    "flightNumber": "ME 236",
-    "status": "وصلت",
-    "actualTime": "15:40",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "IA 1301-2025-12-01": {
-    "flightNumber": "IA 1301",
-    "status": "وصلت",
-    "actualTime": "15:34",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "ME 321-2025-12-01": {
-    "flightNumber": "ME 321",
-    "status": "وصلت",
-    "actualTime": "15:46",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "LH 1308-2025-12-01": {
     "flightNumber": "LH 1308",
