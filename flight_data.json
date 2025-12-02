@@ -1,74 +1,4 @@
 {
-  "ET 407-2025-12-02": {
-    "flightNumber": "ET 407",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:09",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "PC 759-2025-12-02": {
-    "flightNumber": "PC 759",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:12",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
-  "TK 829-2025-12-02": {
-    "flightNumber": "TK 829",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:51",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "VF 1628-2025-12-02": {
-    "flightNumber": "VF 1628",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "04:18",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
-  "ME 426-2025-12-02": {
-    "flightNumber": "ME 426",
-    "status": "النداء الاخير",
-    "actualTime": "07:20",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 231-2025-12-02": {
-    "flightNumber": "ME 231",
-    "status": "",
-    "actualTime": "07:20",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 310-2025-12-02": {
-    "flightNumber": "ME 310",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:13",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 251-2025-12-02": {
-    "flightNumber": "ME 251",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:45",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 424-2025-12-02": {
-    "flightNumber": "ME 424",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "08:01",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 404-2025-12-02": {
-    "flightNumber": "ME 404",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "08:02",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2025-12-02": {
     "flightNumber": "TK 831",
     "status": "تم اغلاق البوابة",
@@ -85,35 +15,35 @@
   },
   "IA 132-2025-12-02": {
     "flightNumber": "IA 132",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:55",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "G9 386-2025-12-02": {
     "flightNumber": "G9 386",
-    "status": "",
-    "actualTime": "11:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:54",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "ME 304-2025-12-02": {
     "flightNumber": "ME 304",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:40",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 402-2025-12-02": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "ME 320-2025-12-02": {
     "flightNumber": "ME 320",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -356,10 +286,17 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
+  "ME 575-2025-12-03": {
+    "flightNumber": "ME 575",
+    "status": "",
+    "actualTime": "02:05",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "ET 407-2025-12-03": {
     "flightNumber": "ET 407",
     "status": "",
-    "actualTime": "02:00",
+    "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ET"
   },
@@ -397,13 +334,6 @@
     "actualTime": "04:00",
     "type": "dprtr",
     "airlineCode": "MS"
-  },
-  "RO 168-2025-12-03": {
-    "flightNumber": "RO 168",
-    "status": "",
-    "actualTime": "04:05",
-    "type": "dprtr",
-    "airlineCode": "RO"
   },
   "VF 1628-2025-12-03": {
     "flightNumber": "VF 1628",
@@ -803,13 +733,6 @@
     "actualTime": "21:45",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "TK 830-2025-12-02": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:48",
-    "type": "arivl",
-    "airlineCode": "TK"
   },
   "MS 709-2025-12-02": {
     "flightNumber": "MS 709",
