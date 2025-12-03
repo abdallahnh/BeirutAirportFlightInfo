@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "AF"
   },
-  "ME 428-2025-12-03": {
-    "flightNumber": "ME 428",
-    "status": "غادرت",
-    "actualTime": "16:03",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 312-2025-12-03": {
     "flightNumber": "ME 312",
     "status": "تم اغلاق البوابة",
@@ -36,15 +29,15 @@
   },
   "LH 1309-2025-12-03": {
     "flightNumber": "LH 1309",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:51",
     "type": "dprtr",
     "airlineCode": "LH"
   },
   "ME 267-2025-12-03": {
     "flightNumber": "ME 267",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:25",
+    "status": "النداء الاخير",
+    "actualTime": "16:53",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -608,13 +601,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 365-2025-12-03": {
-    "flightNumber": "ME 365",
-    "status": "وصلت",
-    "actualTime": "14:51",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 427-2025-12-03": {
     "flightNumber": "ME 427",
     "status": "وصلت",
@@ -659,8 +645,8 @@
   },
   "ME 218-2025-12-03": {
     "flightNumber": "ME 218",
-    "status": "تأخير",
-    "actualTime": "17:00",
+    "status": "وصلت",
+    "actualTime": "16:57",
     "type": "arivl",
     "airlineCode": "ME"
   },
