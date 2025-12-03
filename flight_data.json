@@ -27,37 +27,23 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 364-2025-12-03": {
-    "flightNumber": "ME 364",
-    "status": "غادرت",
-    "actualTime": "08:12",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 241-2025-12-03": {
-    "flightNumber": "ME 241",
-    "status": "غادرت",
-    "actualTime": "08:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2025-12-03": {
     "flightNumber": "TK 831",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:40",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "IA 134-2025-12-03": {
     "flightNumber": "IA 134",
-    "status": "",
-    "actualTime": "09:45",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "09:02",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "MS 710-2025-12-03": {
     "flightNumber": "MS 710",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:15",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -97,19 +83,19 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "EK 958-2025-12-03": {
-    "flightNumber": "EK 958",
-    "status": "",
-    "actualTime": "11:55",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
   "ME 320-2025-12-03": {
     "flightNumber": "ME 320",
     "status": "",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "EK 958-2025-12-03": {
+    "flightNumber": "EK 958",
+    "status": "",
+    "actualTime": "11:55",
+    "type": "dprtr",
+    "airlineCode": "EK"
   },
   "QR 417-2025-12-03": {
     "flightNumber": "QR 417",
@@ -785,22 +771,22 @@
   },
   "MS 709-2025-12-03": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "09:15",
+    "status": "وصلت",
+    "actualTime": "09:01",
     "type": "arivl",
     "airlineCode": "MS"
   },
   "EK 957-2025-12-03": {
     "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "09:15",
+    "status": "وصلت",
+    "actualTime": "09:24",
     "type": "arivl",
     "airlineCode": "EK"
   },
   "KU 501-2025-12-03": {
     "flightNumber": "KU 501",
-    "status": "",
-    "actualTime": "09:30",
+    "status": "وصلت",
+    "actualTime": "09:21",
     "type": "arivl",
     "airlineCode": "KU"
   },
