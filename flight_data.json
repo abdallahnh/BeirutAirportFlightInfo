@@ -27,24 +27,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "QR 417-2025-12-03": {
-    "flightNumber": "QR 417",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "12:40",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "ME 229-2025-12-03": {
     "flightNumber": "ME 229",
-    "status": "تم فتح البوابة",
+    "status": "غادرت",
     "actualTime": "13:30",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EY 582-2025-12-03": {
     "flightNumber": "EY 582",
-    "status": "",
-    "actualTime": "13:50",
+    "status": "النداء الاخير",
+    "actualTime": "13:00",
     "type": "dprtr",
     "airlineCode": "EY"
   },
@@ -289,7 +282,7 @@
   "ME 231-2025-12-04": {
     "flightNumber": "ME 231",
     "status": "",
-    "actualTime": "06:00",
+    "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -391,19 +384,19 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "UF 002-2025-12-04": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "IA 132-2025-12-04": {
     "flightNumber": "IA 132",
     "status": "",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "ME 304-2025-12-04": {
+    "flightNumber": "ME 304",
+    "status": "",
+    "actualTime": "11:40",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "PC 1825-2025-12-04": {
     "flightNumber": "PC 1825",
@@ -435,13 +428,6 @@
   },
   "ME 324-2025-12-04": {
     "flightNumber": "ME 324",
-    "status": "",
-    "actualTime": "12:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 304-2025-12-04": {
-    "flightNumber": "ME 304",
     "status": "",
     "actualTime": "12:00",
     "type": "dprtr",
@@ -517,12 +503,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "UF 004-2025-12-04": {
-    "flightNumber": "UF 004",
+  "ME 312-2025-12-04": {
+    "flightNumber": "ME 312",
     "status": "",
-    "actualTime": "16:30",
+    "actualTime": "16:25",
     "type": "dprtr",
-    "airlineCode": "UF"
+    "airlineCode": "ME"
   },
   "IA 1302-2025-12-04": {
     "flightNumber": "IA 1302",
@@ -538,13 +524,6 @@
     "type": "dprtr",
     "airlineCode": "CY"
   },
-  "ME 312-2025-12-04": {
-    "flightNumber": "ME 312",
-    "status": "",
-    "actualTime": "16:45",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 267-2025-12-04": {
     "flightNumber": "ME 267",
     "status": "",
@@ -556,13 +535,6 @@
     "flightNumber": "ME 442",
     "status": "",
     "actualTime": "17:35",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 402-2025-12-04": {
-    "flightNumber": "ME 402",
-    "status": "",
-    "actualTime": "17:40",
     "type": "dprtr",
     "airlineCode": "ME"
   },
