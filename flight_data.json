@@ -1,18 +1,4 @@
 {
-  "TK 831-2025-12-03": {
-    "flightNumber": "TK 831",
-    "status": "غادرت",
-    "actualTime": "09:40",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "IA 134-2025-12-03": {
-    "flightNumber": "IA 134",
-    "status": "غادرت",
-    "actualTime": "09:02",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "KU 502-2025-12-03": {
     "flightNumber": "KU 502",
     "status": "النداء الاخير",
@@ -36,7 +22,7 @@
   },
   "ME 304-2025-12-03": {
     "flightNumber": "ME 304",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -50,7 +36,7 @@
   },
   "ME 320-2025-12-03": {
     "flightNumber": "ME 320",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -720,13 +706,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 830-2025-12-03": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:50",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "MS 709-2025-12-03": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -750,8 +729,8 @@
   },
   "IA 131-2025-12-03": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "وصلت",
+    "actualTime": "10:38",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -778,8 +757,8 @@
   },
   "G9 385-2025-12-03": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "10:55",
+    "status": "وصلت",
+    "actualTime": "10:54",
     "type": "arivl",
     "airlineCode": "G9"
   },
