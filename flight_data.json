@@ -57,28 +57,28 @@
   },
   "ME 265-2025-12-04": {
     "flightNumber": "ME 265",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "06:27",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 217-2025-12-04": {
     "flightNumber": "ME 217",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "06:40",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 426-2025-12-04": {
     "flightNumber": "ME 426",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:20",
+    "status": "النداء الاخير",
+    "actualTime": "06:43",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 231-2025-12-04": {
     "flightNumber": "ME 231",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "06:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -166,6 +166,13 @@
     "actualTime": "11:40",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "CY 121-2025-12-04": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "11:40",
+    "type": "dprtr",
+    "airlineCode": "CY"
   },
   "PC 1825-2025-12-04": {
     "flightNumber": "PC 1825",
@@ -271,13 +278,6 @@
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "CY 121-2025-12-04": {
-    "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "dprtr",
-    "airlineCode": "CY"
   },
   "AF 565-2025-12-04": {
     "flightNumber": "AF 565",
@@ -958,6 +958,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "CY 120-2025-12-04": {
+    "flightNumber": "CY 120",
+    "status": "",
+    "actualTime": "10:40",
+    "type": "arivl",
+    "airlineCode": "CY"
+  },
   "RJ 401-2025-12-04": {
     "flightNumber": "RJ 401",
     "status": "",
@@ -1055,13 +1062,6 @@
     "actualTime": "14:50",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "CY 120-2025-12-04": {
-    "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "15:00",
-    "type": "arivl",
-    "airlineCode": "CY"
   },
   "ME 427-2025-12-04": {
     "flightNumber": "ME 427",
