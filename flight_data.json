@@ -142,7 +142,7 @@
   "MS 714-2025-12-05": {
     "flightNumber": "MS 714",
     "status": "",
-    "actualTime": "04:00",
+    "actualTime": "03:40",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -482,13 +482,6 @@
     "type": "dprtr",
     "airlineCode": "SK"
   },
-  "MS 712-2025-12-05": {
-    "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "19:15",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "QR 427-2025-12-05": {
     "flightNumber": "QR 427",
     "status": "",
@@ -509,6 +502,13 @@
     "actualTime": "19:55",
     "type": "dprtr",
     "airlineCode": "RJ"
+  },
+  "MS 712-2025-12-05": {
+    "flightNumber": "MS 712",
+    "status": "",
+    "actualTime": "20:00",
+    "type": "dprtr",
+    "airlineCode": "MS"
   },
   "J9 262-2025-12-05": {
     "flightNumber": "J9 262",
@@ -1028,20 +1028,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "QR 418-2025-12-04": {
-    "flightNumber": "QR 418",
-    "status": "وصلت",
-    "actualTime": "22:36",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
-  "ME 262-2025-12-04": {
-    "flightNumber": "ME 262",
-    "status": "وصلت",
-    "actualTime": "22:38",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 443-2025-12-04": {
     "flightNumber": "ME 443",
     "status": "وصلت",
@@ -1385,13 +1371,6 @@
     "type": "arivl",
     "airlineCode": "QR"
   },
-  "MS 711-2025-12-05": {
-    "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "18:15",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "ME 202-2025-12-05": {
     "flightNumber": "ME 202",
     "status": "",
@@ -1405,6 +1384,13 @@
     "actualTime": "18:55",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "MS 711-2025-12-05": {
+    "flightNumber": "MS 711",
+    "status": "",
+    "actualTime": "19:00",
+    "type": "arivl",
+    "airlineCode": "MS"
   },
   "RJ 403-2025-12-05": {
     "flightNumber": "RJ 403",
