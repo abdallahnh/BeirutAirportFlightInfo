@@ -1,11 +1,4 @@
 {
-  "ME 424-2025-12-05": {
-    "flightNumber": "ME 424",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "07:48",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2025-12-05": {
     "flightNumber": "TK 831",
     "status": "تم اغلاق البوابة",
@@ -15,8 +8,8 @@
   },
   "MS 710-2025-12-05": {
     "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "10:15",
+    "status": "النداء الاخير",
+    "actualTime": "10:01",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -43,7 +36,7 @@
   },
   "RJ 402-2025-12-05": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -76,19 +69,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "AH 4017-2025-12-05": {
-    "flightNumber": "AH 4017",
-    "status": "",
-    "actualTime": "13:50",
-    "type": "dprtr",
-    "airlineCode": "AH"
-  },
   "EY 582-2025-12-05": {
     "flightNumber": "EY 582",
     "status": "",
     "actualTime": "13:50",
     "type": "dprtr",
     "airlineCode": "EY"
+  },
+  "AH 4017-2025-12-05": {
+    "flightNumber": "AH 4017",
+    "status": "",
+    "actualTime": "13:50",
+    "type": "dprtr",
+    "airlineCode": "AH"
   },
   "TK 825-2025-12-05": {
     "flightNumber": "TK 825",
@@ -785,22 +778,22 @@
   },
   "IA 131-2025-12-05": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "وصلت",
+    "actualTime": "10:24",
     "type": "arivl",
     "airlineCode": "IA"
   },
   "ME 311-2025-12-05": {
     "flightNumber": "ME 311",
-    "status": "",
-    "actualTime": "10:40",
+    "status": "وصلت",
+    "actualTime": "10:20",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "EY 581-2025-12-05": {
     "flightNumber": "EY 581",
-    "status": "",
-    "actualTime": "10:45",
+    "status": "وصلت",
+    "actualTime": "10:13",
     "type": "arivl",
     "airlineCode": "EY"
   },
@@ -813,8 +806,8 @@
   },
   "G9 385-2025-12-05": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "10:55",
+    "status": "وصلت",
+    "actualTime": "10:19",
     "type": "arivl",
     "airlineCode": "G9"
   },
