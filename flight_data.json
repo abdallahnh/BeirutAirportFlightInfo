@@ -15,29 +15,29 @@
   },
   "IA 132-2025-12-05": {
     "flightNumber": "IA 132",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "النداء الاخير",
+    "actualTime": "10:58",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "G9 386-2025-12-05": {
     "flightNumber": "G9 386",
-    "status": "",
-    "actualTime": "11:35",
+    "status": "غادرت",
+    "actualTime": "10:40",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "ME 304-2025-12-05": {
     "flightNumber": "ME 304",
-    "status": "",
-    "actualTime": "11:40",
+    "status": "النداء الاخير",
+    "actualTime": "10:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 402-2025-12-05": {
     "flightNumber": "RJ 402",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:50",
+    "status": "غادرت",
+    "actualTime": "11:08",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -50,14 +50,14 @@
   },
   "EK 958-2025-12-05": {
     "flightNumber": "EK 958",
-    "status": "",
-    "actualTime": "11:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:07",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "QR 417-2025-12-05": {
     "flightNumber": "QR 417",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:40",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -293,19 +293,19 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ET 407-2025-12-06": {
-    "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "02:00",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "ME 575-2025-12-06": {
     "flightNumber": "ME 575",
     "status": "",
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "ET 407-2025-12-06": {
+    "flightNumber": "ET 407",
+    "status": "",
+    "actualTime": "02:05",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "PC 759-2025-12-06": {
     "flightNumber": "PC 759",
@@ -748,13 +748,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 830-2025-12-05": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:41",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "MS 709-2025-12-05": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -799,8 +792,8 @@
   },
   "RJ 401-2025-12-05": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "10:50",
+    "status": "وصلت",
+    "actualTime": "10:36",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -813,15 +806,15 @@
   },
   "ME 303-2025-12-05": {
     "flightNumber": "ME 303",
-    "status": "",
-    "actualTime": "11:00",
+    "status": "وصلت",
+    "actualTime": "10:49",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "QR 416-2025-12-05": {
     "flightNumber": "QR 416",
-    "status": "",
-    "actualTime": "11:10",
+    "status": "وصلت",
+    "actualTime": "11:04",
     "type": "arivl",
     "airlineCode": "QR"
   },
