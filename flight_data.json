@@ -6,24 +6,10 @@
     "type": "dprtr",
     "airlineCode": "CY"
   },
-  "ME 430-2025-12-05": {
-    "flightNumber": "ME 430",
-    "status": "غادرت",
-    "actualTime": "20:36",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 261-2025-12-05": {
-    "flightNumber": "ME 261",
-    "status": "غادرت",
-    "actualTime": "20:18",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 827-2025-12-05": {
     "flightNumber": "TK 827",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:10",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "21:15",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -526,8 +512,8 @@
   },
   "CY 120-2025-12-05": {
     "flightNumber": "CY 120",
-    "status": "تأخير",
-    "actualTime": "20:50",
+    "status": "وصلت",
+    "actualTime": "21:25",
     "type": "arivl",
     "airlineCode": "CY"
   },
