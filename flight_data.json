@@ -43,21 +43,21 @@
   },
   "VF 1628-2025-12-06": {
     "flightNumber": "VF 1628",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "04:20",
     "type": "dprtr",
     "airlineCode": "VF"
   },
   "RJ 408-2025-12-06": {
     "flightNumber": "RJ 408",
-    "status": "",
-    "actualTime": "06:00",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "05:13",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "EY 584-2025-12-06": {
     "flightNumber": "EY 584",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "06:15",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -937,20 +937,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "PC 756-2025-12-06": {
-    "flightNumber": "PC 756",
-    "status": "وصلت",
-    "actualTime": "03:12",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "MS 713-2025-12-06": {
-    "flightNumber": "MS 713",
-    "status": "وصلت",
-    "actualTime": "03:06",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "ME 431-2025-12-06": {
     "flightNumber": "ME 431",
     "status": "وصلت",
@@ -967,8 +953,8 @@
   },
   "EY 583-2025-12-06": {
     "flightNumber": "EY 583",
-    "status": "",
-    "actualTime": "05:05",
+    "status": "وصلت",
+    "actualTime": "04:45",
     "type": "arivl",
     "airlineCode": "EY"
   },
