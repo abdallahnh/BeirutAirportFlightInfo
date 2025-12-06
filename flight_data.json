@@ -307,6 +307,13 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
+  "ME 435-2025-12-07": {
+    "flightNumber": "ME 435",
+    "status": "",
+    "actualTime": "06:00",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
   "ME 247-2025-12-07": {
     "flightNumber": "ME 247",
     "status": "",
@@ -559,13 +566,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "UF 004-2025-12-07": {
-    "flightNumber": "UF 004",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "IA 1302-2025-12-07": {
     "flightNumber": "IA 1302",
     "status": "",
@@ -579,6 +579,20 @@
     "actualTime": "16:40",
     "type": "dprtr",
     "airlineCode": "CY"
+  },
+  "LH 1309-2025-12-07": {
+    "flightNumber": "LH 1309",
+    "status": "",
+    "actualTime": "17:10",
+    "type": "dprtr",
+    "airlineCode": "LH"
+  },
+  "ME 326-2025-12-07": {
+    "flightNumber": "ME 326",
+    "status": "",
+    "actualTime": "17:20",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 267-2025-12-07": {
     "flightNumber": "ME 267",
@@ -615,13 +629,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 326-2025-12-07": {
-    "flightNumber": "ME 326",
-    "status": "",
-    "actualTime": "18:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 253-2025-12-07": {
     "flightNumber": "ME 253",
     "status": "",
@@ -643,13 +650,6 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "MS 712-2025-12-07": {
-    "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "19:15",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "QR 427-2025-12-07": {
     "flightNumber": "QR 427",
     "status": "",
@@ -664,19 +664,19 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
+  "MS 712-2025-12-07": {
+    "flightNumber": "MS 712",
+    "status": "",
+    "actualTime": "19:50",
+    "type": "dprtr",
+    "airlineCode": "MS"
+  },
   "RJ 404-2025-12-07": {
     "flightNumber": "RJ 404",
     "status": "",
     "actualTime": "19:55",
     "type": "dprtr",
     "airlineCode": "RJ"
-  },
-  "J9 262-2025-12-07": {
-    "flightNumber": "J9 262",
-    "status": "",
-    "actualTime": "20:50",
-    "type": "dprtr",
-    "airlineCode": "J9"
   },
   "ME 430-2025-12-07": {
     "flightNumber": "ME 430",
@@ -1090,13 +1090,6 @@
     "actualTime": "05:00",
     "type": "arivl",
     "airlineCode": "RJ"
-  },
-  "ME 435-2025-12-07": {
-    "flightNumber": "ME 435",
-    "status": "",
-    "actualTime": "06:00",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "TK 830-2025-12-07": {
     "flightNumber": "TK 830",
