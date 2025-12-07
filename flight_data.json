@@ -43,22 +43,22 @@
   },
   "AF 565-2025-12-07": {
     "flightNumber": "AF 565",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "15:29",
     "type": "dprtr",
     "airlineCode": "AF"
   },
   "ME 428-2025-12-07": {
     "flightNumber": "ME 428",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "15:54",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 312-2025-12-07": {
     "flightNumber": "ME 312",
-    "status": "",
-    "actualTime": "16:25",
+    "status": "النداء الاخير",
+    "actualTime": "15:51",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -146,19 +146,19 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
+  "MS 712-2025-12-07": {
+    "flightNumber": "MS 712",
+    "status": "",
+    "actualTime": "19:40",
+    "type": "dprtr",
+    "airlineCode": "MS"
+  },
   "EK 954-2025-12-07": {
     "flightNumber": "EK 954",
     "status": "",
     "actualTime": "19:45",
     "type": "dprtr",
     "airlineCode": "EK"
-  },
-  "MS 712-2025-12-07": {
-    "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "19:50",
-    "type": "dprtr",
-    "airlineCode": "MS"
   },
   "RJ 404-2025-12-07": {
     "flightNumber": "RJ 404",
@@ -614,13 +614,6 @@
     "actualTime": "14:48",
     "type": "arivl",
     "airlineCode": "TK"
-  },
-  "ME 425-2025-12-07": {
-    "flightNumber": "ME 425",
-    "status": "وصلت",
-    "actualTime": "13:52",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "AF 566-2025-12-07": {
     "flightNumber": "AF 566",
