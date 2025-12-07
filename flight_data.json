@@ -50,14 +50,14 @@
   },
   "ME 302-2025-12-07": {
     "flightNumber": "ME 302",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "06:27",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 217-2025-12-07": {
     "flightNumber": "ME 217",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "06:41",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -78,21 +78,21 @@
   },
   "ME 201-2025-12-07": {
     "flightNumber": "ME 201",
-    "status": "",
-    "actualTime": "07:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 310-2025-12-07": {
     "flightNumber": "ME 310",
-    "status": "",
-    "actualTime": "07:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:06",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 211-2025-12-07": {
     "flightNumber": "ME 211",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:50",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -142,7 +142,7 @@
   "MS 710-2025-12-07": {
     "flightNumber": "MS 710",
     "status": "",
-    "actualTime": "10:15",
+    "actualTime": "10:00",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -866,13 +866,6 @@
     "actualTime": "21:45",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "ME 431-2025-12-07": {
-    "flightNumber": "ME 431",
-    "status": "وصلت",
-    "actualTime": "04:51",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 435-2025-12-07": {
     "flightNumber": "ME 435",
