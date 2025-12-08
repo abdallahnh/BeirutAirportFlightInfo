@@ -29,7 +29,7 @@
   },
   "QR 417-2025-12-08": {
     "flightNumber": "QR 417",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:53",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -450,8 +450,8 @@
   "TK 6294-2025-12-09": {
     "flightNumber": "TK 6294",
     "status": "",
-    "actualTime": "15:20",
-    "type": "dprtr",
+    "actualTime": "13:50",
+    "type": "arivl",
     "airlineCode": "TK"
   },
   "ME 418-2025-12-09": {
@@ -642,13 +642,6 @@
     "actualTime": "10:25",
     "type": "arivl",
     "airlineCode": "IA"
-  },
-  "ME 311-2025-12-08": {
-    "flightNumber": "ME 311",
-    "status": "وصلت",
-    "actualTime": "10:22",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "RJ 401-2025-12-08": {
     "flightNumber": "RJ 401",
@@ -1291,6 +1284,13 @@
     "flightNumber": "TK 826",
     "status": "",
     "actualTime": "20:25",
+    "type": "arivl",
+    "airlineCode": "TK"
+  },
+  "TK 6297-2025-12-09": {
+    "flightNumber": "TK 6297",
+    "status": "",
+    "actualTime": "21:50",
     "type": "arivl",
     "airlineCode": "TK"
   },
