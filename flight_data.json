@@ -272,19 +272,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 140-2025-12-09": {
-    "flightNumber": "IA 140",
-    "status": "",
-    "actualTime": "15:20",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "AH 4017-2025-12-09": {
     "flightNumber": "AH 4017",
     "status": "",
     "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "AH"
+  },
+  "IA 140-2025-12-09": {
+    "flightNumber": "IA 140",
+    "status": "",
+    "actualTime": "15:20",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "ME 322-2025-12-09": {
     "flightNumber": "ME 322",
@@ -447,13 +447,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 242-2025-12-08": {
-    "flightNumber": "ME 242",
-    "status": "وصلت",
-    "actualTime": "20:39",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 307-2025-12-08": {
     "flightNumber": "ME 307",
     "status": "وصلت",
@@ -477,8 +470,8 @@
   },
   "QR 418-2025-12-08": {
     "flightNumber": "QR 418",
-    "status": "",
-    "actualTime": "22:55",
+    "status": "وصلت",
+    "actualTime": "22:43",
     "type": "arivl",
     "airlineCode": "QR"
   },
