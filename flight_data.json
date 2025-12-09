@@ -6,40 +6,19 @@
     "type": "dprtr",
     "airlineCode": "ET"
   },
-  "PC 759-2025-12-09": {
-    "flightNumber": "PC 759",
-    "status": "تأخير",
-    "actualTime": "03:45",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "ET 417-2025-12-09": {
     "flightNumber": "ET 417",
-    "status": "",
-    "actualTime": "02:55",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "02:27",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "TK 829-2025-12-09": {
     "flightNumber": "TK 829",
-    "status": "",
-    "actualTime": "03:25",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "03:01",
     "type": "dprtr",
     "airlineCode": "TK"
-  },
-  "PC 757-2025-12-09": {
-    "flightNumber": "PC 757",
-    "status": "تأخير",
-    "actualTime": "04:10",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
-  "MS 714-2025-12-09": {
-    "flightNumber": "MS 714",
-    "status": "",
-    "actualTime": "04:00",
-    "type": "dprtr",
-    "airlineCode": "MS"
   },
   "VF 1628-2025-12-09": {
     "flightNumber": "VF 1628",
@@ -244,19 +223,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 418-2025-12-09": {
-    "flightNumber": "ME 418",
-    "status": "",
-    "actualTime": "15:20",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 6294-2025-12-09": {
     "flightNumber": "TK 6294",
     "status": "",
     "actualTime": "13:50",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "ME 418-2025-12-09": {
+    "flightNumber": "ME 418",
+    "status": "",
+    "actualTime": "15:20",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "IA 140-2025-12-09": {
     "flightNumber": "IA 140",
@@ -895,59 +874,31 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 429-2025-12-08": {
-    "flightNumber": "ME 429",
-    "status": "وصلت",
-    "actualTime": "00:32",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ET 406-2025-12-09": {
-    "flightNumber": "ET 406",
-    "status": "وصلت",
-    "actualTime": "01:02",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
-  "VF 1627-2025-12-09": {
-    "flightNumber": "VF 1627",
-    "status": "وصلت",
-    "actualTime": "01:50",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "PC 758-2025-12-09": {
     "flightNumber": "PC 758",
-    "status": "تأخير",
-    "actualTime": "03:10",
+    "status": "وصلت",
+    "actualTime": "02:52",
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "ET 416-2025-12-09": {
-    "flightNumber": "ET 416",
-    "status": "وصلت",
-    "actualTime": "01:54",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
   "TK 828-2025-12-09": {
     "flightNumber": "TK 828",
-    "status": "",
-    "actualTime": "02:30",
+    "status": "وصلت",
+    "actualTime": "02:28",
     "type": "arivl",
     "airlineCode": "TK"
   },
   "PC 756-2025-12-09": {
     "flightNumber": "PC 756",
-    "status": "تأخير",
+    "status": "وصلت",
     "actualTime": "03:10",
     "type": "arivl",
     "airlineCode": "PC"
   },
   "MS 713-2025-12-09": {
     "flightNumber": "MS 713",
-    "status": "",
-    "actualTime": "02:40",
+    "status": "وصلت",
+    "actualTime": "03:07",
     "type": "arivl",
     "airlineCode": "MS"
   },
