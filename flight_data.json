@@ -1,18 +1,4 @@
 {
-  "ME 265-2025-12-10": {
-    "flightNumber": "ME 265",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:05",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 310-2025-12-10": {
-    "flightNumber": "ME 310",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:05",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 404-2025-12-10": {
     "flightNumber": "ME 404",
     "status": "الصعود الى الطائرة",
@@ -20,24 +6,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 364-2025-12-10": {
-    "flightNumber": "ME 364",
-    "status": "غادرت",
-    "actualTime": "08:27",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 241-2025-12-10": {
-    "flightNumber": "ME 241",
-    "status": "غادرت",
-    "actualTime": "08:28",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2025-12-10": {
     "flightNumber": "TK 831",
-    "status": "",
-    "actualTime": "09:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:18",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -771,7 +743,7 @@
   },
   "TK 830-2025-12-10": {
     "flightNumber": "TK 830",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "08:55",
     "type": "arivl",
     "airlineCode": "TK"
@@ -786,7 +758,7 @@
   "EK 957-2025-12-10": {
     "flightNumber": "EK 957",
     "status": "",
-    "actualTime": "09:15",
+    "actualTime": "09:25",
     "type": "arivl",
     "airlineCode": "EK"
   },
