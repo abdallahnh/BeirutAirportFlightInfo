@@ -36,15 +36,15 @@
   },
   "ME 229-2025-12-10": {
     "flightNumber": "ME 229",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "12:57",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EY 582-2025-12-10": {
     "flightNumber": "EY 582",
-    "status": "",
-    "actualTime": "13:50",
+    "status": "النداء الاخير",
+    "actualTime": "12:59",
     "type": "dprtr",
     "airlineCode": "EY"
   },
@@ -120,7 +120,7 @@
   },
   "IA 1302-2025-12-10": {
     "flightNumber": "IA 1302",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -699,13 +699,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "QR 416-2025-12-10": {
-    "flightNumber": "QR 416",
-    "status": "وصلت",
-    "actualTime": "11:10",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "ME 266-2025-12-10": {
     "flightNumber": "ME 266",
     "status": "وصلت",
@@ -806,7 +799,7 @@
   },
   "LH 1308-2025-12-10": {
     "flightNumber": "LH 1308",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "15:45",
     "type": "arivl",
     "airlineCode": "LH"
