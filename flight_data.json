@@ -1,11 +1,4 @@
 {
-  "TK 831-2025-12-11": {
-    "flightNumber": "TK 831",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "10:10",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "IA 132-2025-12-11": {
     "flightNumber": "IA 132",
     "status": "",
@@ -15,7 +8,7 @@
   },
   "ME 304-2025-12-11": {
     "flightNumber": "ME 304",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -29,21 +22,21 @@
   },
   "RJ 402-2025-12-11": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "ME 320-2025-12-11": {
     "flightNumber": "ME 320",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2025-12-11": {
     "flightNumber": "EK 958",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -83,19 +76,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 140-2025-12-11": {
-    "flightNumber": "IA 140",
-    "status": "",
-    "actualTime": "15:20",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "ME 418-2025-12-11": {
     "flightNumber": "ME 418",
     "status": "",
     "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "IA 140-2025-12-11": {
+    "flightNumber": "IA 140",
+    "status": "",
+    "actualTime": "15:20",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "VF 1044-2025-12-11": {
     "flightNumber": "VF 1044",
@@ -792,8 +785,8 @@
   },
   "PC 1824-2025-12-11": {
     "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "11:00",
+    "status": "وصلت",
+    "actualTime": "10:49",
     "type": "arivl",
     "airlineCode": "PC"
   },
