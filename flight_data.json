@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 312-2025-12-12": {
-    "flightNumber": "ME 312",
-    "status": "غادرت",
-    "actualTime": "15:53",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 326-2025-12-12": {
     "flightNumber": "ME 326",
     "status": "تم فتح البوابة",
@@ -29,7 +22,7 @@
   },
   "ME 267-2025-12-12": {
     "flightNumber": "ME 267",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:25",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -622,13 +615,6 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "AF 566-2025-12-12": {
-    "flightNumber": "AF 566",
-    "status": "وصلت",
-    "actualTime": "14:19",
-    "type": "arivl",
-    "airlineCode": "AF"
-  },
   "ME 365-2025-12-12": {
     "flightNumber": "ME 365",
     "status": "وصلت",
@@ -666,7 +652,7 @@
   },
   "ME 214-2025-12-12": {
     "flightNumber": "ME 214",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "16:35",
     "type": "arivl",
     "airlineCode": "ME"
