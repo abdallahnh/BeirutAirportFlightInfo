@@ -22,15 +22,15 @@
   },
   "QR 427-2025-12-13": {
     "flightNumber": "QR 427",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "18:52",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "EK 954-2025-12-13": {
     "flightNumber": "EK 954",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:45",
+    "status": "النداء الاخير",
+    "actualTime": "18:55",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -167,19 +167,19 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "ME 275-2025-12-14": {
-    "flightNumber": "ME 275",
-    "status": "",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "RJ 408-2025-12-14": {
     "flightNumber": "RJ 408",
     "status": "",
     "actualTime": "06:00",
     "type": "dprtr",
     "airlineCode": "RJ"
+  },
+  "ME 275-2025-12-14": {
+    "flightNumber": "ME 275",
+    "status": "",
+    "actualTime": "06:00",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "ME 247-2025-12-14": {
     "flightNumber": "ME 247",
@@ -587,27 +587,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 218-2025-12-13": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "17:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 216-2025-12-13": {
-    "flightNumber": "ME 216",
-    "status": "وصلت",
-    "actualTime": "17:15",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "EK 953-2025-12-13": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:00",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "IA 1301-2025-12-13": {
     "flightNumber": "IA 1301",
     "status": "وصلت",
@@ -631,7 +610,7 @@
   },
   "ME 212-2025-12-13": {
     "flightNumber": "ME 212",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "18:57",
     "type": "arivl",
     "airlineCode": "ME"
@@ -660,7 +639,7 @@
   "ME 313-2025-12-13": {
     "flightNumber": "ME 313",
     "status": "",
-    "actualTime": "20:05",
+    "actualTime": "19:18",
     "type": "arivl",
     "airlineCode": "ME"
   },
