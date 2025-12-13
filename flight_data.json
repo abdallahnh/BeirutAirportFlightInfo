@@ -50,21 +50,21 @@
   },
   "G9 388-2025-12-13": {
     "flightNumber": "G9 388",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:59",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "FZ 160-2025-12-13": {
     "flightNumber": "FZ 160",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "21:02",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
   "MS 712-2025-12-13": {
     "flightNumber": "MS 712",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:55",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -583,7 +583,7 @@
   "RJ 403-2025-12-13": {
     "flightNumber": "RJ 403",
     "status": "",
-    "actualTime": "19:30",
+    "actualTime": "21:27",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -605,13 +605,6 @@
     "flightNumber": "ME 576",
     "status": "وصلت",
     "actualTime": "19:39",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 313-2025-12-13": {
-    "flightNumber": "ME 313",
-    "status": "وصلت",
-    "actualTime": "19:18",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -653,7 +646,7 @@
   "ME 307-2025-12-13": {
     "flightNumber": "ME 307",
     "status": "",
-    "actualTime": "22:00",
+    "actualTime": "21:45",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -666,15 +659,15 @@
   },
   "ME 268-2025-12-13": {
     "flightNumber": "ME 268",
-    "status": "",
-    "actualTime": "22:20",
+    "status": "تبكير",
+    "actualTime": "22:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 419-2025-12-13": {
     "flightNumber": "ME 419",
-    "status": "",
-    "actualTime": "22:45",
+    "status": "تأخير",
+    "actualTime": "23:15",
     "type": "arivl",
     "airlineCode": "ME"
   },
