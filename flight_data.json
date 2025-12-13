@@ -167,19 +167,19 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "RJ 408-2025-12-14": {
-    "flightNumber": "RJ 408",
-    "status": "",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 275-2025-12-14": {
     "flightNumber": "ME 275",
     "status": "",
     "actualTime": "06:00",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "RJ 408-2025-12-14": {
+    "flightNumber": "RJ 408",
+    "status": "",
+    "actualTime": "06:00",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "ME 247-2025-12-14": {
     "flightNumber": "ME 247",
@@ -617,15 +617,15 @@
   },
   "J9 261-2025-12-13": {
     "flightNumber": "J9 261",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "19:36",
     "type": "arivl",
     "airlineCode": "J9"
   },
   "ME 576-2025-12-13": {
     "flightNumber": "ME 576",
-    "status": "",
-    "actualTime": "20:05",
+    "status": "وصلت",
+    "actualTime": "19:39",
     "type": "arivl",
     "airlineCode": "ME"
   },
