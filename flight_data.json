@@ -1,7 +1,7 @@
 {
   "RJ 404-2025-12-13": {
     "flightNumber": "RJ 404",
-    "status": "تأخير",
+    "status": "النداء الاخير",
     "actualTime": "22:15",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -29,15 +29,15 @@
   },
   "MS 712-2025-12-13": {
     "flightNumber": "MS 712",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "21:30",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "KU 504-2025-12-13": {
     "flightNumber": "KU 504",
-    "status": "",
-    "actualTime": "22:20",
+    "status": "تأخير",
+    "actualTime": "23:15",
     "type": "dprtr",
     "airlineCode": "KU"
   },
@@ -538,13 +538,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 202-2025-12-13": {
-    "flightNumber": "ME 202",
-    "status": "وصلت",
-    "actualTime": "19:51",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "RJ 403-2025-12-13": {
     "flightNumber": "RJ 403",
     "status": "وصلت",
@@ -559,13 +552,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "TK 826-2025-12-13": {
-    "flightNumber": "TK 826",
-    "status": "وصلت",
-    "actualTime": "19:49",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "FZ 159-2025-12-13": {
     "flightNumber": "FZ 159",
     "status": "وصلت",
@@ -575,8 +561,8 @@
   },
   "KU 503-2025-12-13": {
     "flightNumber": "KU 503",
-    "status": "",
-    "actualTime": "20:50",
+    "status": "وصلت",
+    "actualTime": "22:01",
     "type": "arivl",
     "airlineCode": "KU"
   },
@@ -603,15 +589,15 @@
   },
   "ME 437-2025-12-13": {
     "flightNumber": "ME 437",
-    "status": "",
-    "actualTime": "22:05",
+    "status": "وصلت",
+    "actualTime": "21:53",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 268-2025-12-13": {
     "flightNumber": "ME 268",
-    "status": "تبكير",
-    "actualTime": "22:00",
+    "status": "وصلت",
+    "actualTime": "22:05",
     "type": "arivl",
     "airlineCode": "ME"
   },
