@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 402-2025-12-13": {
-    "flightNumber": "ME 402",
-    "status": "غادرت",
-    "actualTime": "18:15",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 306-2025-12-13": {
     "flightNumber": "ME 306",
     "status": "تم اغلاق البوابة",
@@ -29,8 +22,8 @@
   },
   "QR 427-2025-12-13": {
     "flightNumber": "QR 427",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:52",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -65,7 +58,7 @@
   "TK 827-2025-12-13": {
     "flightNumber": "TK 827",
     "status": "",
-    "actualTime": "21:10",
+    "actualTime": "21:30",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -174,19 +167,19 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "RJ 408-2025-12-14": {
-    "flightNumber": "RJ 408",
-    "status": "",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 275-2025-12-14": {
     "flightNumber": "ME 275",
     "status": "",
     "actualTime": "06:00",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "RJ 408-2025-12-14": {
+    "flightNumber": "RJ 408",
+    "status": "",
+    "actualTime": "06:00",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "ME 247-2025-12-14": {
     "flightNumber": "ME 247",
@@ -594,13 +587,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 214-2025-12-13": {
-    "flightNumber": "ME 214",
-    "status": "وصلت",
-    "actualTime": "16:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 218-2025-12-13": {
     "flightNumber": "ME 218",
     "status": "وصلت",
@@ -646,7 +632,7 @@
   "ME 212-2025-12-13": {
     "flightNumber": "ME 212",
     "status": "",
-    "actualTime": "18:55",
+    "actualTime": "18:57",
     "type": "arivl",
     "airlineCode": "ME"
   },
