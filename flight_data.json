@@ -29,7 +29,7 @@
   },
   "ME 418-2025-12-13": {
     "flightNumber": "ME 418",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "15:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -57,14 +57,14 @@
   },
   "AF 565-2025-12-13": {
     "flightNumber": "AF 565",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "15:39",
     "type": "dprtr",
     "airlineCode": "AF"
   },
   "ME 428-2025-12-13": {
     "flightNumber": "ME 428",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "15:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -776,13 +776,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 313-2025-12-13": {
-    "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "20:05",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "RJ 403-2025-12-13": {
     "flightNumber": "RJ 403",
     "status": "",
@@ -799,6 +792,13 @@
   },
   "ME 576-2025-12-13": {
     "flightNumber": "ME 576",
+    "status": "",
+    "actualTime": "20:05",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 313-2025-12-13": {
+    "flightNumber": "ME 313",
     "status": "",
     "actualTime": "20:05",
     "type": "arivl",
