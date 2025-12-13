@@ -1,7 +1,7 @@
 {
   "RJ 404-2025-12-13": {
     "flightNumber": "RJ 404",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "22:15",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "MS 712-2025-12-13": {
-    "flightNumber": "MS 712",
-    "status": "غادرت",
-    "actualTime": "21:30",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "KU 504-2025-12-13": {
     "flightNumber": "KU 504",
     "status": "تأخير",
@@ -43,7 +36,7 @@
   },
   "ME 434-2025-12-13": {
     "flightNumber": "ME 434",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "23:10",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -118,19 +111,19 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "RJ 408-2025-12-14": {
-    "flightNumber": "RJ 408",
-    "status": "",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 275-2025-12-14": {
     "flightNumber": "ME 275",
     "status": "",
     "actualTime": "06:00",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "RJ 408-2025-12-14": {
+    "flightNumber": "RJ 408",
+    "status": "",
+    "actualTime": "06:00",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "ME 247-2025-12-14": {
     "flightNumber": "ME 247",
@@ -545,33 +538,12 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "ME 323-2025-12-13": {
-    "flightNumber": "ME 323",
-    "status": "وصلت",
-    "actualTime": "20:22",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "FZ 159-2025-12-13": {
-    "flightNumber": "FZ 159",
-    "status": "وصلت",
-    "actualTime": "20:26",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "KU 503-2025-12-13": {
     "flightNumber": "KU 503",
     "status": "وصلت",
     "actualTime": "22:01",
     "type": "arivl",
     "airlineCode": "KU"
-  },
-  "G9 387-2025-12-13": {
-    "flightNumber": "G9 387",
-    "status": "وصلت",
-    "actualTime": "20:29",
-    "type": "arivl",
-    "airlineCode": "G9"
   },
   "MS 711-2025-12-13": {
     "flightNumber": "MS 711",
