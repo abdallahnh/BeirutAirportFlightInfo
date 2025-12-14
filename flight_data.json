@@ -34,20 +34,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "PC 1825-2025-12-14": {
-    "flightNumber": "PC 1825",
-    "status": "النداء الاخير",
-    "actualTime": "10:00",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
-  "MS 710-2025-12-14": {
-    "flightNumber": "MS 710",
-    "status": "النداء الاخير",
-    "actualTime": "10:00",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "IA 132-2025-12-14": {
     "flightNumber": "IA 132",
     "status": "",
@@ -78,7 +64,7 @@
   },
   "EK 958-2025-12-14": {
     "flightNumber": "EK 958",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -790,13 +776,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "FZ 157-2025-12-14": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "08:18",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "MS 709-2025-12-14": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -848,8 +827,8 @@
   },
   "ME 303-2025-12-14": {
     "flightNumber": "ME 303",
-    "status": "",
-    "actualTime": "11:00",
+    "status": "وصلت",
+    "actualTime": "10:41",
     "type": "arivl",
     "airlineCode": "ME"
   },
