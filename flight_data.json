@@ -43,35 +43,35 @@
   },
   "ME 304-2025-12-14": {
     "flightNumber": "ME 304",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:10",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 402-2025-12-14": {
     "flightNumber": "RJ 402",
-    "status": "تأخير",
-    "actualTime": "12:30",
+    "status": "النداء الاخير",
+    "actualTime": "12:08",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "ME 320-2025-12-14": {
-    "flightNumber": "ME 320",
+  "ME 324-2025-12-14": {
+    "flightNumber": "ME 324",
     "status": "غادرت",
-    "actualTime": "11:21",
+    "actualTime": "11:56",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 324-2025-12-14": {
-    "flightNumber": "ME 324",
-    "status": "",
-    "actualTime": "12:00",
+  "ME 275-2025-12-14": {
+    "flightNumber": "ME 275",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:01",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "QR 417-2025-12-14": {
     "flightNumber": "QR 417",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:40",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -85,7 +85,7 @@
   },
   "EY 582-2025-12-14": {
     "flightNumber": "EY 582",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:50",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -757,8 +757,8 @@
   },
   "IA 131-2025-12-14": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "وصلت",
+    "actualTime": "12:08",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -797,13 +797,6 @@
     "type": "arivl",
     "airlineCode": "QR"
   },
-  "ME 276-2025-12-14": {
-    "flightNumber": "ME 276",
-    "status": "وصلت",
-    "actualTime": "10:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 266-2025-12-14": {
     "flightNumber": "ME 266",
     "status": "وصلت",
@@ -813,8 +806,8 @@
   },
   "SK 2967-2025-12-14": {
     "flightNumber": "SK 2967",
-    "status": "",
-    "actualTime": "12:55",
+    "status": "وصلت",
+    "actualTime": "12:16",
     "type": "arivl",
     "airlineCode": "SK"
   },
