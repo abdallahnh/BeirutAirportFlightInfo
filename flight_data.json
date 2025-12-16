@@ -6,38 +6,24 @@
     "type": "dprtr",
     "airlineCode": "EY"
   },
-  "ME 211-2025-12-16": {
-    "flightNumber": "ME 211",
-    "status": "غادرت",
-    "actualTime": "07:21",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 251-2025-12-16": {
-    "flightNumber": "ME 251",
-    "status": "النداء الاخير",
-    "actualTime": "07:48",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 424-2025-12-16": {
     "flightNumber": "ME 424",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "07:45",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 404-2025-12-16": {
     "flightNumber": "ME 404",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:40",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "08:06",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 364-2025-12-16": {
     "flightNumber": "ME 364",
-    "status": "",
-    "actualTime": "08:55",
+    "status": "غادرت",
+    "actualTime": "08:16",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -167,19 +153,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "CY 121-2025-12-16": {
-    "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "dprtr",
-    "airlineCode": "CY"
-  },
   "AF 565-2025-12-16": {
     "flightNumber": "AF 565",
     "status": "",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "AF"
+  },
+  "CY 121-2025-12-16": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "CY"
   },
   "ME 428-2025-12-16": {
     "flightNumber": "ME 428",
@@ -813,8 +799,8 @@
   },
   "FZ 157-2025-12-16": {
     "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "08:50",
+    "status": "وصلت",
+    "actualTime": "08:30",
     "type": "arivl",
     "airlineCode": "FZ"
   },
