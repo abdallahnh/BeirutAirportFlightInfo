@@ -20,16 +20,9 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "MS 710-2025-12-16": {
-    "flightNumber": "MS 710",
-    "status": "النداء الاخير",
-    "actualTime": "09:46",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "IA 132-2025-12-16": {
     "flightNumber": "IA 132",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -776,13 +769,6 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "FZ 157-2025-12-16": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "08:30",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "MS 709-2025-12-16": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -799,7 +785,7 @@
   },
   "IA 131-2025-12-16": {
     "flightNumber": "IA 131",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "10:30",
     "type": "arivl",
     "airlineCode": "IA"
@@ -820,8 +806,8 @@
   },
   "G9 385-2025-12-16": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "10:55",
+    "status": "وصلت",
+    "actualTime": "10:35",
     "type": "arivl",
     "airlineCode": "G9"
   },
@@ -860,19 +846,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "AH 4016-2025-12-16": {
-    "flightNumber": "AH 4016",
-    "status": "",
-    "actualTime": "14:20",
-    "type": "arivl",
-    "airlineCode": "AH"
-  },
   "AF 566-2025-12-16": {
     "flightNumber": "AF 566",
     "status": "",
     "actualTime": "14:20",
     "type": "arivl",
     "airlineCode": "AF"
+  },
+  "AH 4016-2025-12-16": {
+    "flightNumber": "AH 4016",
+    "status": "",
+    "actualTime": "14:20",
+    "type": "arivl",
+    "airlineCode": "AH"
   },
   "ME 405-2025-12-16": {
     "flightNumber": "ME 405",
