@@ -132,13 +132,6 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "QR 427-2025-12-16": {
-    "flightNumber": "QR 427",
-    "status": "غادرت",
-    "actualTime": "18:59",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "EK 954-2025-12-16": {
     "flightNumber": "EK 954",
     "status": "تم اغلاق البوابة",
@@ -148,7 +141,7 @@
   },
   "RJ 404-2025-12-16": {
     "flightNumber": "RJ 404",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "19:20",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -708,15 +701,15 @@
   },
   "ME 323-2025-12-16": {
     "flightNumber": "ME 323",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "19:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "FZ 159-2025-12-16": {
     "flightNumber": "FZ 159",
     "status": "",
-    "actualTime": "20:15",
+    "actualTime": "19:53",
     "type": "arivl",
     "airlineCode": "FZ"
   },
