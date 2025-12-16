@@ -64,7 +64,7 @@
   },
   "IA 140-2025-12-16": {
     "flightNumber": "IA 140",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:45",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -78,22 +78,15 @@
   },
   "AF 565-2025-12-16": {
     "flightNumber": "AF 565",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "15:48",
     "type": "dprtr",
     "airlineCode": "AF"
   },
   "ME 428-2025-12-16": {
     "flightNumber": "ME 428",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "15:57",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 312-2025-12-16": {
-    "flightNumber": "ME 312",
-    "status": "",
-    "actualTime": "16:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -113,8 +106,8 @@
   },
   "PC 1825-2025-12-16": {
     "flightNumber": "PC 1825",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:10",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "16:29",
     "type": "dprtr",
     "airlineCode": "PC"
   },
@@ -127,7 +120,7 @@
   },
   "ME 267-2025-12-16": {
     "flightNumber": "ME 267",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:25",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -701,8 +694,8 @@
   },
   "IA 139-2025-12-16": {
     "flightNumber": "IA 139",
-    "status": "",
-    "actualTime": "14:30",
+    "status": "وصلت",
+    "actualTime": "16:15",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -729,22 +722,22 @@
   },
   "ME 248-2025-12-16": {
     "flightNumber": "ME 248",
-    "status": "",
-    "actualTime": "15:50",
+    "status": "وصلت",
+    "actualTime": "16:11",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 321-2025-12-16": {
     "flightNumber": "ME 321",
-    "status": "",
-    "actualTime": "16:00",
+    "status": "وصلت",
+    "actualTime": "16:26",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "PC 1824-2025-12-16": {
     "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "16:25",
+    "status": "وصلت",
+    "actualTime": "16:06",
     "type": "arivl",
     "airlineCode": "PC"
   },
