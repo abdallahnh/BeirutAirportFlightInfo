@@ -121,7 +121,7 @@
   "MS 714-2025-12-18": {
     "flightNumber": "MS 714",
     "status": "",
-    "actualTime": "04:00",
+    "actualTime": "03:45",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -153,19 +153,19 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "RJ 408-2025-12-18": {
-    "flightNumber": "RJ 408",
-    "status": "",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 275-2025-12-18": {
     "flightNumber": "ME 275",
     "status": "",
     "actualTime": "06:00",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "RJ 408-2025-12-18": {
+    "flightNumber": "RJ 408",
+    "status": "",
+    "actualTime": "06:00",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "ME 406-2025-12-18": {
     "flightNumber": "ME 406",
@@ -615,20 +615,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 323-2025-12-17": {
-    "flightNumber": "ME 323",
-    "status": "وصلت",
-    "actualTime": "19:53",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 576-2025-12-17": {
-    "flightNumber": "ME 576",
-    "status": "وصلت",
-    "actualTime": "19:49",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 242-2025-12-17": {
     "flightNumber": "ME 242",
     "status": "وصلت",
@@ -652,15 +638,15 @@
   },
   "ME 307-2025-12-17": {
     "flightNumber": "ME 307",
-    "status": "",
-    "actualTime": "22:00",
+    "status": "وصلت",
+    "actualTime": "21:53",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 437-2025-12-17": {
     "flightNumber": "ME 437",
-    "status": "",
-    "actualTime": "22:05",
+    "status": "وصلت",
+    "actualTime": "21:48",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -748,19 +734,19 @@
     "type": "arivl",
     "airlineCode": "VF"
   },
-  "PC 758-2025-12-18": {
-    "flightNumber": "PC 758",
-    "status": "",
-    "actualTime": "01:35",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "ME 1423-2025-12-18": {
     "flightNumber": "ME 1423",
     "status": "",
     "actualTime": "01:35",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "PC 758-2025-12-18": {
+    "flightNumber": "PC 758",
+    "status": "",
+    "actualTime": "01:35",
+    "type": "arivl",
+    "airlineCode": "PC"
   },
   "ET 416-2025-12-18": {
     "flightNumber": "ET 416",
