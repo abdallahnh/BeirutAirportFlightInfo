@@ -41,13 +41,6 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "RJ 408-2025-12-17": {
-    "flightNumber": "RJ 408",
-    "status": "غادرت",
-    "actualTime": "05:08",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 235-2025-12-17": {
     "flightNumber": "ME 235",
     "status": "",
@@ -57,7 +50,7 @@
   },
   "ME 215-2025-12-17": {
     "flightNumber": "ME 215",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -85,7 +78,7 @@
   },
   "ME 213-2025-12-17": {
     "flightNumber": "ME 213",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:25",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -953,8 +946,8 @@
   },
   "ME 435-2025-12-17": {
     "flightNumber": "ME 435",
-    "status": "",
-    "actualTime": "06:00",
+    "status": "وصلت",
+    "actualTime": "05:39",
     "type": "arivl",
     "airlineCode": "ME"
   },
