@@ -8,14 +8,14 @@
   },
   "ET 407-2025-12-18": {
     "flightNumber": "ET 407",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "PC 759-2025-12-18": {
     "flightNumber": "PC 759",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:35",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -1028,13 +1028,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 369-2025-12-17": {
-    "flightNumber": "ME 369",
-    "status": "وصلت",
-    "actualTime": "23:48",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 230-2025-12-17": {
     "flightNumber": "ME 230",
     "status": "وصلت",
@@ -1224,19 +1217,19 @@
     "type": "arivl",
     "airlineCode": "EY"
   },
-  "RJ 401-2025-12-18": {
-    "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "10:50",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "ME 1425-2025-12-18": {
     "flightNumber": "ME 1425",
     "status": "",
     "actualTime": "10:50",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "RJ 401-2025-12-18": {
+    "flightNumber": "RJ 401",
+    "status": "",
+    "actualTime": "10:50",
+    "type": "arivl",
+    "airlineCode": "RJ"
   },
   "PC 1824-2025-12-18": {
     "flightNumber": "PC 1824",
