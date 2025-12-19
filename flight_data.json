@@ -1,18 +1,4 @@
 {
-  "EY 582-2025-12-19": {
-    "flightNumber": "EY 582",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "13:00",
-    "type": "dprtr",
-    "airlineCode": "EY"
-  },
-  "AH 4017-2025-12-19": {
-    "flightNumber": "AH 4017",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "13:50",
-    "type": "dprtr",
-    "airlineCode": "AH"
-  },
   "TK 825-2025-12-19": {
     "flightNumber": "TK 825",
     "status": "تم اغلاق البوابة",
@@ -57,7 +43,7 @@
   },
   "ME 312-2025-12-19": {
     "flightNumber": "ME 312",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "16:19",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -155,8 +141,8 @@
   },
   "RJ 404-2025-12-19": {
     "flightNumber": "RJ 404",
-    "status": "",
-    "actualTime": "19:55",
+    "status": "تأخير",
+    "actualTime": "21:55",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -225,7 +211,7 @@
   },
   "ME 1428-2025-12-19": {
     "flightNumber": "ME 1428",
-    "status": "",
+    "status": "Ferry Flt.",
     "actualTime": "23:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -797,17 +783,10 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "CY 120-2025-12-19": {
-    "flightNumber": "CY 120",
-    "status": "وصلت",
-    "actualTime": "14:43",
-    "type": "arivl",
-    "airlineCode": "CY"
-  },
   "ME 427-2025-12-19": {
     "flightNumber": "ME 427",
-    "status": "تأخير",
-    "actualTime": "16:40",
+    "status": "وصلت",
+    "actualTime": "16:35",
     "type": "arivl",
     "airlineCode": "ME"
   },
