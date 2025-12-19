@@ -43,8 +43,8 @@
   },
   "ME 229-2025-12-19": {
     "flightNumber": "ME 229",
-    "status": "تم فتح البوابة",
-    "actualTime": "13:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:56",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -57,7 +57,7 @@
   },
   "AH 4017-2025-12-19": {
     "flightNumber": "AH 4017",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:50",
     "type": "dprtr",
     "airlineCode": "AH"
@@ -113,8 +113,8 @@
   },
   "ME 312-2025-12-19": {
     "flightNumber": "ME 312",
-    "status": "",
-    "actualTime": "16:25",
+    "status": "تأخير",
+    "actualTime": "17:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -804,13 +804,6 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "ME 303-2025-12-19": {
-    "flightNumber": "ME 303",
-    "status": "وصلت",
-    "actualTime": "10:55",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "QR 416-2025-12-19": {
     "flightNumber": "QR 416",
     "status": "وصلت",
@@ -827,7 +820,7 @@
   },
   "AH 4016-2025-12-19": {
     "flightNumber": "AH 4016",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "12:47",
     "type": "arivl",
     "airlineCode": "AH"
