@@ -71,7 +71,7 @@
   },
   "SK 2828-2025-12-19": {
     "flightNumber": "SK 2828",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "17:51",
     "type": "dprtr",
     "airlineCode": "SK"
@@ -85,8 +85,8 @@
   },
   "RJ 404-2025-12-19": {
     "flightNumber": "RJ 404",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "21:26",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -120,7 +120,7 @@
   },
   "CY 123-2025-12-19": {
     "flightNumber": "CY 123",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "21:01",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -134,7 +134,7 @@
   },
   "TK 4921-2025-12-19": {
     "flightNumber": "TK 4921",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "22:20",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -729,15 +729,8 @@
   },
   "ME 202-2025-12-19": {
     "flightNumber": "ME 202",
-    "status": "",
-    "actualTime": "18:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 212-2025-12-19": {
-    "flightNumber": "ME 212",
     "status": "وصلت",
-    "actualTime": "19:21",
+    "actualTime": "21:28",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -747,13 +740,6 @@
     "actualTime": "20:57",
     "type": "arivl",
     "airlineCode": "RJ"
-  },
-  "ME 313-2025-12-19": {
-    "flightNumber": "ME 313",
-    "status": "وصلت",
-    "actualTime": "19:26",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "J9 261-2025-12-19": {
     "flightNumber": "J9 261",
@@ -806,7 +792,7 @@
   },
   "TK 4920-2025-12-19": {
     "flightNumber": "TK 4920",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "21:22",
     "type": "arivl",
     "airlineCode": "TK"
