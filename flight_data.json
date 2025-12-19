@@ -15,7 +15,7 @@
   },
   "PC 759-2025-12-19": {
     "flightNumber": "PC 759",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "01:54",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -83,13 +83,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 213-2025-12-19": {
-    "flightNumber": "ME 213",
-    "status": "غادرت",
-    "actualTime": "06:58",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 201-2025-12-19": {
     "flightNumber": "ME 201",
     "status": "",
@@ -106,22 +99,22 @@
   },
   "ME 211-2025-12-19": {
     "flightNumber": "ME 211",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "07:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 209-2025-12-19": {
     "flightNumber": "ME 209",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "07:16",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 251-2025-12-19": {
     "flightNumber": "ME 251",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:45",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -141,14 +134,14 @@
   },
   "ME 364-2025-12-19": {
     "flightNumber": "ME 364",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 241-2025-12-19": {
     "flightNumber": "ME 241",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -948,20 +941,6 @@
     "flightNumber": "ME 1431",
     "status": "تأخير",
     "actualTime": "08:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "RJ 407-2025-12-19": {
-    "flightNumber": "RJ 407",
-    "status": "وصلت",
-    "actualTime": "05:50",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
-  "ME 435-2025-12-19": {
-    "flightNumber": "ME 435",
-    "status": "وصلت",
-    "actualTime": "05:46",
     "type": "arivl",
     "airlineCode": "ME"
   },
