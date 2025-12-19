@@ -92,14 +92,14 @@
   },
   "ET 407-2025-12-20": {
     "flightNumber": "ET 407",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "PC 759-2025-12-20": {
     "flightNumber": "PC 759",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:35",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -1140,13 +1140,6 @@
     "type": "arivl",
     "airlineCode": "EK"
   },
-  "SK 2967-2025-12-19": {
-    "flightNumber": "SK 2967",
-    "status": "وصلت",
-    "actualTime": "23:25",
-    "type": "arivl",
-    "airlineCode": "SK"
-  },
   "ME 369-2025-12-19": {
     "flightNumber": "ME 369",
     "status": "وصلت",
@@ -1158,13 +1151,6 @@
     "flightNumber": "ME 423",
     "status": "وصلت",
     "actualTime": "00:47",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 230-2025-12-19": {
-    "flightNumber": "ME 230",
-    "status": "وصلت",
-    "actualTime": "23:33",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1198,8 +1184,8 @@
   },
   "PC 758-2025-12-20": {
     "flightNumber": "PC 758",
-    "status": "",
-    "actualTime": "01:35",
+    "status": "وصلت",
+    "actualTime": "01:23",
     "type": "arivl",
     "airlineCode": "PC"
   },
