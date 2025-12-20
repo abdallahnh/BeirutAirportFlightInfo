@@ -13,20 +13,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 424-2025-12-20": {
-    "flightNumber": "ME 424",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "08:06",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 364-2025-12-20": {
-    "flightNumber": "ME 364",
-    "status": "غادرت",
-    "actualTime": "07:48",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "FZ 158-2025-12-20": {
     "flightNumber": "FZ 158",
     "status": "",
@@ -36,8 +22,8 @@
   },
   "TK 831-2025-12-20": {
     "flightNumber": "TK 831",
-    "status": "",
-    "actualTime": "10:10",
+    "status": "تأخير",
+    "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -867,24 +853,10 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "ME 578-2025-12-20": {
-    "flightNumber": "ME 578",
-    "status": "وصلت",
-    "actualTime": "07:14",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 1429-2025-12-20": {
-    "flightNumber": "ME 1429",
-    "status": "وصلت",
-    "actualTime": "07:20",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "TK 830-2025-12-20": {
     "flightNumber": "TK 830",
-    "status": "",
-    "actualTime": "08:45",
+    "status": "تأخير",
+    "actualTime": "10:30",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -895,17 +867,10 @@
     "type": "arivl",
     "airlineCode": "FZ"
   },
-  "EK 957-2025-12-20": {
-    "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "MS 709-2025-12-20": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "09:20",
+    "status": "تأخير",
+    "actualTime": "09:35",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -943,6 +908,13 @@
     "actualTime": "10:40",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "EK 957-2025-12-20": {
+    "flightNumber": "EK 957",
+    "status": "",
+    "actualTime": "10:40",
+    "type": "arivl",
+    "airlineCode": "EK"
   },
   "RJ 401-2025-12-20": {
     "flightNumber": "RJ 401",
