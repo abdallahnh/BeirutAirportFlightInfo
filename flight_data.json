@@ -15,7 +15,7 @@
   },
   "ME 304-2025-12-20": {
     "flightNumber": "ME 304",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "ME 320-2025-12-20": {
-    "flightNumber": "ME 320",
-    "status": "غادرت",
-    "actualTime": "11:07",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EK 958-2025-12-20": {
     "flightNumber": "EK 958",
     "status": "تم فتح البوابة",
@@ -43,7 +36,7 @@
   },
   "ME 324-2025-12-20": {
     "flightNumber": "ME 324",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "12:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -57,14 +50,14 @@
   },
   "ME 263-2025-12-20": {
     "flightNumber": "ME 263",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "11:44",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "QR 417-2025-12-20": {
     "flightNumber": "QR 417",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:40",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -818,13 +811,6 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "MS 709-2025-12-20": {
-    "flightNumber": "MS 709",
-    "status": "وصلت",
-    "actualTime": "09:48",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "PC 1824-2025-12-20": {
     "flightNumber": "PC 1824",
     "status": "وصلت",
@@ -972,19 +958,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 1301-2025-12-20": {
-    "flightNumber": "IA 1301",
-    "status": "",
-    "actualTime": "15:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "UF 001-2025-12-20": {
     "flightNumber": "UF 001",
     "status": "",
     "actualTime": "15:30",
     "type": "arivl",
     "airlineCode": "UF"
+  },
+  "IA 1301-2025-12-20": {
+    "flightNumber": "IA 1301",
+    "status": "",
+    "actualTime": "15:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "ME 248-2025-12-20": {
     "flightNumber": "ME 248",
@@ -1336,12 +1322,12 @@
     "type": "arivl",
     "airlineCode": "FZ"
   },
-  "PC 1824-2025-12-21": {
-    "flightNumber": "PC 1824",
+  "EK 957-2025-12-21": {
+    "flightNumber": "EK 957",
     "status": "",
     "actualTime": "09:15",
     "type": "arivl",
-    "airlineCode": "PC"
+    "airlineCode": "EK"
   },
   "MS 709-2025-12-21": {
     "flightNumber": "MS 709",
@@ -1350,12 +1336,12 @@
     "type": "arivl",
     "airlineCode": "MS"
   },
-  "EK 957-2025-12-21": {
-    "flightNumber": "EK 957",
+  "PC 1824-2025-12-21": {
+    "flightNumber": "PC 1824",
     "status": "",
     "actualTime": "09:15",
     "type": "arivl",
-    "airlineCode": "EK"
+    "airlineCode": "PC"
   },
   "UF 001-2025-12-21": {
     "flightNumber": "UF 001",
