@@ -1,7 +1,7 @@
 {
   "FZ 158-2025-12-20": {
     "flightNumber": "FZ 158",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "09:34",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -855,8 +855,8 @@
   },
   "MS 709-2025-12-20": {
     "flightNumber": "MS 709",
-    "status": "تأخير",
-    "actualTime": "09:35",
+    "status": "وصلت",
+    "actualTime": "09:48",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -993,13 +993,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 236-2025-12-20": {
-    "flightNumber": "ME 236",
-    "status": "",
-    "actualTime": "15:25",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 305-2025-12-20": {
     "flightNumber": "ME 305",
     "status": "",
@@ -1007,12 +1000,12 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 1301-2025-12-20": {
-    "flightNumber": "IA 1301",
+  "ME 236-2025-12-20": {
+    "flightNumber": "ME 236",
     "status": "",
-    "actualTime": "15:30",
+    "actualTime": "15:25",
     "type": "arivl",
-    "airlineCode": "IA"
+    "airlineCode": "ME"
   },
   "UF 001-2025-12-20": {
     "flightNumber": "UF 001",
@@ -1020,6 +1013,13 @@
     "actualTime": "15:30",
     "type": "arivl",
     "airlineCode": "UF"
+  },
+  "IA 1301-2025-12-20": {
+    "flightNumber": "IA 1301",
+    "status": "",
+    "actualTime": "15:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "ME 248-2025-12-20": {
     "flightNumber": "ME 248",
@@ -1049,15 +1049,15 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 216-2025-12-20": {
-    "flightNumber": "ME 216",
+  "ME 218-2025-12-20": {
+    "flightNumber": "ME 218",
     "status": "",
     "actualTime": "16:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 218-2025-12-20": {
-    "flightNumber": "ME 218",
+  "ME 216-2025-12-20": {
+    "flightNumber": "ME 216",
     "status": "",
     "actualTime": "16:50",
     "type": "arivl",
@@ -1098,19 +1098,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 212-2025-12-20": {
-    "flightNumber": "ME 212",
-    "status": "",
-    "actualTime": "18:55",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "MS 711-2025-12-20": {
     "flightNumber": "MS 711",
     "status": "",
     "actualTime": "18:55",
     "type": "arivl",
     "airlineCode": "MS"
+  },
+  "ME 212-2025-12-20": {
+    "flightNumber": "ME 212",
+    "status": "",
+    "actualTime": "18:55",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "ME 313-2025-12-20": {
     "flightNumber": "ME 313",
