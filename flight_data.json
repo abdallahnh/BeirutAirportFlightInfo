@@ -13,19 +13,19 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "MS 714-2025-12-20": {
-    "flightNumber": "MS 714",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:11",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "RO 2168-2025-12-20": {
     "flightNumber": "RO 2168",
     "status": "تم اغلاق البوابة",
     "actualTime": "03:04",
     "type": "dprtr",
     "airlineCode": "RO"
+  },
+  "MS 714-2025-12-20": {
+    "flightNumber": "MS 714",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "03:11",
+    "type": "dprtr",
+    "airlineCode": "MS"
   },
   "RO 168-2025-12-20": {
     "flightNumber": "RO 168",
@@ -92,49 +92,49 @@
   },
   "ME 426-2025-12-20": {
     "flightNumber": "ME 426",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "06:47",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 213-2025-12-20": {
     "flightNumber": "ME 213",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "07:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 201-2025-12-20": {
     "flightNumber": "ME 201",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "06:54",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 310-2025-12-20": {
     "flightNumber": "ME 310",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "07:08",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 211-2025-12-20": {
     "flightNumber": "ME 211",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:24",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 251-2025-12-20": {
     "flightNumber": "ME 251",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:05",
+    "status": "النداء الاخير",
+    "actualTime": "07:28",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 271-2025-12-20": {
     "flightNumber": "ME 271",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -148,7 +148,7 @@
   },
   "ME 364-2025-12-20": {
     "flightNumber": "ME 364",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:30",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -1037,8 +1037,8 @@
   },
   "ME 1429-2025-12-20": {
     "flightNumber": "ME 1429",
-    "status": "",
-    "actualTime": "07:00",
+    "status": "وصلت",
+    "actualTime": "07:20",
     "type": "arivl",
     "airlineCode": "ME"
   },
