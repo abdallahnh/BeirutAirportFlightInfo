@@ -1,11 +1,4 @@
 {
-  "SK 2968-2025-12-20": {
-    "flightNumber": "SK 2968",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "00:05",
-    "type": "dprtr",
-    "airlineCode": "SK"
-  },
   "QR 419-2025-12-20": {
     "flightNumber": "QR 419",
     "status": "تم اغلاق البوابة",
@@ -36,8 +29,8 @@
   },
   "PC 759-2025-12-20": {
     "flightNumber": "PC 759",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:35",
+    "status": "تأخير",
+    "actualTime": "05:20",
     "type": "dprtr",
     "airlineCode": "PC"
   },
@@ -50,78 +43,71 @@
   },
   "TK 829-2025-12-20": {
     "flightNumber": "TK 829",
-    "status": "تم فتح البوابة",
-    "actualTime": "03:25",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "03:00",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "PC 757-2025-12-20": {
     "flightNumber": "PC 757",
-    "status": "",
-    "actualTime": "03:40",
+    "status": "تأخير",
+    "actualTime": "06:10",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "RO 2168-2025-12-20": {
     "flightNumber": "RO 2168",
-    "status": "تم فتح البوابة",
-    "actualTime": "03:45",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "03:04",
     "type": "dprtr",
     "airlineCode": "RO"
   },
   "MS 714-2025-12-20": {
     "flightNumber": "MS 714",
-    "status": "تم فتح البوابة",
-    "actualTime": "03:45",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "03:11",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "RO 168-2025-12-20": {
     "flightNumber": "RO 168",
-    "status": "",
-    "actualTime": "04:05",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "03:31",
     "type": "dprtr",
     "airlineCode": "RO"
   },
   "VF 544-2025-12-20": {
     "flightNumber": "VF 544",
-    "status": "",
+    "status": "تم اغلاق البوابة",
     "actualTime": "04:15",
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "LH 1309-2025-12-20": {
-    "flightNumber": "LH 1309",
-    "status": "",
-    "actualTime": "04:25",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "ME 1364-2025-12-20": {
     "flightNumber": "ME 1364",
-    "status": "",
+    "status": "النداء الاخير",
     "actualTime": "04:40",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "VF 1628-2025-12-20": {
     "flightNumber": "VF 1628",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "05:15",
     "type": "dprtr",
     "airlineCode": "VF"
   },
   "RJ 5006-2025-12-20": {
     "flightNumber": "RJ 5006",
-    "status": "",
-    "actualTime": "05:35",
+    "status": "تأخير",
+    "actualTime": "07:00",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "RJ 408-2025-12-20": {
     "flightNumber": "RJ 408",
-    "status": "",
-    "actualTime": "06:00",
+    "status": "تأخير",
+    "actualTime": "07:00",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -1070,59 +1056,17 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "ET 406-2025-12-20": {
-    "flightNumber": "ET 406",
-    "status": "وصلت",
-    "actualTime": "01:19",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
-  "PC 758-2025-12-20": {
-    "flightNumber": "PC 758",
-    "status": "وصلت",
-    "actualTime": "01:23",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "ET 416-2025-12-20": {
-    "flightNumber": "ET 416",
-    "status": "وصلت",
-    "actualTime": "02:11",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
-  "TK 828-2025-12-20": {
-    "flightNumber": "TK 828",
-    "status": "وصلت",
-    "actualTime": "02:23",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "PC 756-2025-12-20": {
-    "flightNumber": "PC 756",
-    "status": "وصلت",
-    "actualTime": "02:19",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "MS 713-2025-12-20": {
-    "flightNumber": "MS 713",
-    "status": "وصلت",
-    "actualTime": "02:41",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "RO 167-2025-12-20": {
     "flightNumber": "RO 167",
     "status": "وصلت",
-    "actualTime": "02:38",
+    "actualTime": "03:02",
     "type": "arivl",
     "airlineCode": "RO"
   },
   "LH 1308-2025-12-20": {
     "flightNumber": "LH 1308",
-    "status": "",
-    "actualTime": "03:10",
+    "status": "وصلت",
+    "actualTime": "03:08",
     "type": "arivl",
     "airlineCode": "LH"
   },
