@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "ME 229-2025-12-20": {
-    "flightNumber": "ME 229",
-    "status": "غادرت",
-    "actualTime": "12:56",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 825-2025-12-20": {
     "flightNumber": "TK 825",
     "status": "",
@@ -22,7 +15,7 @@
   },
   "PC 3001-2025-12-20": {
     "flightNumber": "PC 3001",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "14:50",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -695,8 +688,8 @@
   "TK 6336-2025-12-21": {
     "flightNumber": "TK 6336",
     "status": "",
-    "actualTime": "20:45",
-    "type": "dprtr",
+    "actualTime": "19:15",
+    "type": "arivl",
     "airlineCode": "TK"
   },
   "J9 262-2025-12-21": {
@@ -762,13 +755,6 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "RJ 401-2025-12-20": {
-    "flightNumber": "RJ 401",
-    "status": "وصلت",
-    "actualTime": "11:31",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "ET 3406-2025-12-20": {
     "flightNumber": "ET 3406",
     "status": "",
@@ -799,8 +785,8 @@
   },
   "PC 3000-2025-12-20": {
     "flightNumber": "PC 3000",
-    "status": "",
-    "actualTime": "14:05",
+    "status": "وصلت",
+    "actualTime": "13:40",
     "type": "arivl",
     "airlineCode": "PC"
   },
@@ -1220,7 +1206,7 @@
   "FZ 157-2025-12-21": {
     "flightNumber": "FZ 157",
     "status": "",
-    "actualTime": "08:50",
+    "actualTime": "08:45",
     "type": "arivl",
     "airlineCode": "FZ"
   },
@@ -1308,13 +1294,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "VF 1043-2025-12-21": {
-    "flightNumber": "VF 1043",
-    "status": "",
-    "actualTime": "13:35",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "TK 824-2025-12-21": {
     "flightNumber": "TK 824",
     "status": "",
@@ -1356,6 +1335,13 @@
     "actualTime": "14:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "VF 1043-2025-12-21": {
+    "flightNumber": "VF 1043",
+    "status": "",
+    "actualTime": "14:40",
+    "type": "arivl",
+    "airlineCode": "VF"
   },
   "ME 365-2025-12-21": {
     "flightNumber": "ME 365",
@@ -1500,7 +1486,7 @@
   "TK 826-2025-12-21": {
     "flightNumber": "TK 826",
     "status": "",
-    "actualTime": "20:15",
+    "actualTime": "20:25",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -1517,6 +1503,13 @@
     "actualTime": "20:50",
     "type": "arivl",
     "airlineCode": "G9"
+  },
+  "TK 4908-2025-12-21": {
+    "flightNumber": "TK 4908",
+    "status": "",
+    "actualTime": "21:25",
+    "type": "arivl",
+    "airlineCode": "TK"
   },
   "ME 307-2025-12-21": {
     "flightNumber": "ME 307",
