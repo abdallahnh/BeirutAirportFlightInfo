@@ -13,12 +13,12 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "PC 757-2025-12-20": {
-    "flightNumber": "PC 757",
-    "status": "النداء الاخير",
-    "actualTime": "06:10",
+  "MS 714-2025-12-20": {
+    "flightNumber": "MS 714",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "03:11",
     "type": "dprtr",
-    "airlineCode": "PC"
+    "airlineCode": "MS"
   },
   "RO 2168-2025-12-20": {
     "flightNumber": "RO 2168",
@@ -26,13 +26,6 @@
     "actualTime": "03:04",
     "type": "dprtr",
     "airlineCode": "RO"
-  },
-  "MS 714-2025-12-20": {
-    "flightNumber": "MS 714",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:11",
-    "type": "dprtr",
-    "airlineCode": "MS"
   },
   "RO 168-2025-12-20": {
     "flightNumber": "RO 168",
@@ -57,15 +50,15 @@
   },
   "VF 1628-2025-12-20": {
     "flightNumber": "VF 1628",
-    "status": "تم فتح البوابة",
-    "actualTime": "05:15",
+    "status": "النداء الاخير",
+    "actualTime": "05:49",
     "type": "dprtr",
     "airlineCode": "VF"
   },
   "RJ 5006-2025-12-20": {
     "flightNumber": "RJ 5006",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "05:59",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -78,21 +71,21 @@
   },
   "EY 584-2025-12-20": {
     "flightNumber": "EY 584",
-    "status": "تم فتح البوابة",
-    "actualTime": "06:15",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "05:46",
     "type": "dprtr",
     "airlineCode": "EY"
   },
   "ME 247-2025-12-20": {
     "flightNumber": "ME 247",
-    "status": "تم فتح البوابة",
-    "actualTime": "06:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "05:50",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 235-2025-12-20": {
     "flightNumber": "ME 235",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "06:50",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -1021,6 +1014,13 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
+  "RJ 5005-2025-12-20": {
+    "flightNumber": "RJ 5005",
+    "status": "وصلت",
+    "actualTime": "05:57",
+    "type": "arivl",
+    "airlineCode": "RJ"
+  },
   "ME 431-2025-12-20": {
     "flightNumber": "ME 431",
     "status": "",
@@ -1028,10 +1028,24 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "RJ 407-2025-12-20": {
+    "flightNumber": "RJ 407",
+    "status": "وصلت",
+    "actualTime": "05:57",
+    "type": "arivl",
+    "airlineCode": "RJ"
+  },
+  "EY 583-2025-12-20": {
+    "flightNumber": "EY 583",
+    "status": "وصلت",
+    "actualTime": "05:57",
+    "type": "arivl",
+    "airlineCode": "EY"
+  },
   "ME 435-2025-12-20": {
     "flightNumber": "ME 435",
-    "status": "",
-    "actualTime": "06:00",
+    "status": "وصلت",
+    "actualTime": "05:44",
     "type": "arivl",
     "airlineCode": "ME"
   },
