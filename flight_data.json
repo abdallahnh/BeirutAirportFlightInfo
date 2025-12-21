@@ -15,7 +15,7 @@
   },
   "ME 402-2025-12-21": {
     "flightNumber": "ME 402",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "17:11",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -29,29 +29,29 @@
   },
   "ME 368-2025-12-21": {
     "flightNumber": "ME 368",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "17:07",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 422-2025-12-21": {
     "flightNumber": "ME 422",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "17:18",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 253-2025-12-21": {
     "flightNumber": "ME 253",
-    "status": "تم فتح البوابة",
-    "actualTime": "18:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:38",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 306-2025-12-21": {
     "flightNumber": "ME 306",
-    "status": "",
-    "actualTime": "18:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:42",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -629,10 +629,17 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 1214-2025-12-21": {
-    "flightNumber": "ME 1214",
+  "QR 411-2025-12-21": {
+    "flightNumber": "QR 411",
+    "status": "",
+    "actualTime": "16:50",
+    "type": "arivl",
+    "airlineCode": "QR"
+  },
+  "ME 218-2025-12-21": {
+    "flightNumber": "ME 218",
     "status": "وصلت",
-    "actualTime": "16:37",
+    "actualTime": "16:56",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -643,19 +650,12 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 218-2025-12-21": {
-    "flightNumber": "ME 218",
+  "ME 1214-2025-12-21": {
+    "flightNumber": "ME 1214",
     "status": "وصلت",
-    "actualTime": "16:56",
+    "actualTime": "16:37",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "QR 411-2025-12-21": {
-    "flightNumber": "QR 411",
-    "status": "",
-    "actualTime": "16:50",
-    "type": "arivl",
-    "airlineCode": "QR"
   },
   "ME 325-2025-12-21": {
     "flightNumber": "ME 325",
