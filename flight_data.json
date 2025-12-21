@@ -36,8 +36,8 @@
   },
   "QR 427-2025-12-21": {
     "flightNumber": "QR 427",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:58",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -50,7 +50,7 @@
   },
   "RJ 404-2025-12-21": {
     "flightNumber": "RJ 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:55",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -174,19 +174,19 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
+  "MS 714-2025-12-22": {
+    "flightNumber": "MS 714",
+    "status": "",
+    "actualTime": "03:45",
+    "type": "dprtr",
+    "airlineCode": "MS"
+  },
   "LH 1309-2025-12-22": {
     "flightNumber": "LH 1309",
     "status": "",
     "actualTime": "03:45",
     "type": "dprtr",
     "airlineCode": "LH"
-  },
-  "MS 714-2025-12-22": {
-    "flightNumber": "MS 714",
-    "status": "",
-    "actualTime": "04:00",
-    "type": "dprtr",
-    "airlineCode": "MS"
   },
   "RO 168-2025-12-22": {
     "flightNumber": "RO 168",
@@ -328,19 +328,19 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
+  "MS 710-2025-12-22": {
+    "flightNumber": "MS 710",
+    "status": "",
+    "actualTime": "10:00",
+    "type": "dprtr",
+    "airlineCode": "MS"
+  },
   "KU 502-2025-12-22": {
     "flightNumber": "KU 502",
     "status": "",
     "actualTime": "10:00",
     "type": "dprtr",
     "airlineCode": "KU"
-  },
-  "MS 710-2025-12-22": {
-    "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "10:15",
-    "type": "dprtr",
-    "airlineCode": "MS"
   },
   "PC 3001-2025-12-22": {
     "flightNumber": "PC 3001",
@@ -610,8 +610,8 @@
   },
   "IA 135-2025-12-21": {
     "flightNumber": "IA 135",
-    "status": "",
-    "actualTime": "18:00",
+    "status": "وصلت",
+    "actualTime": "18:55",
     "type": "arivl",
     "airlineCode": "IA"
   },
