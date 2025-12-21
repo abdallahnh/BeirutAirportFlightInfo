@@ -15,7 +15,7 @@
   },
   "IA 132-2025-12-21": {
     "flightNumber": "IA 132",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:04",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -29,7 +29,7 @@
   },
   "RJ 402-2025-12-21": {
     "flightNumber": "RJ 402",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "10:54",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -57,8 +57,8 @@
   },
   "UF 002-2025-12-21": {
     "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "12:30",
+    "status": "النداء الاخير",
+    "actualTime": "11:28",
     "type": "dprtr",
     "airlineCode": "UF"
   },
@@ -768,13 +768,6 @@
     "actualTime": "23:35",
     "type": "dprtr",
     "airlineCode": "G9"
-  },
-  "PC 1824-2025-12-21": {
-    "flightNumber": "PC 1824",
-    "status": "وصلت",
-    "actualTime": "09:32",
-    "type": "arivl",
-    "airlineCode": "PC"
   },
   "MS 709-2025-12-21": {
     "flightNumber": "MS 709",
