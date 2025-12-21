@@ -15,29 +15,22 @@
   },
   "ME 436-2025-12-21": {
     "flightNumber": "ME 436",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "15:01",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 418-2025-12-21": {
-    "flightNumber": "ME 418",
-    "status": "غادرت",
-    "actualTime": "14:45",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "VF 1044-2025-12-21": {
     "flightNumber": "VF 1044",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "15:11",
     "type": "dprtr",
     "airlineCode": "VF"
   },
   "IA 140-2025-12-21": {
     "flightNumber": "IA 140",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:45",
+    "status": "النداء الاخير",
+    "actualTime": "15:27",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -50,22 +43,22 @@
   },
   "CY 121-2025-12-21": {
     "flightNumber": "CY 121",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:00",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "15:21",
     "type": "dprtr",
     "airlineCode": "CY"
   },
   "AF 565-2025-12-21": {
     "flightNumber": "AF 565",
-    "status": "",
-    "actualTime": "16:00",
+    "status": "النداء الاخير",
+    "actualTime": "15:23",
     "type": "dprtr",
     "airlineCode": "AF"
   },
   "ME 428-2025-12-21": {
     "flightNumber": "ME 428",
-    "status": "",
-    "actualTime": "16:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "15:39",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -155,8 +148,8 @@
   },
   "EK 954-2025-12-21": {
     "flightNumber": "EK 954",
-    "status": "",
-    "actualTime": "19:45",
+    "status": "تأخير",
+    "actualTime": "20:50",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -785,8 +778,8 @@
   },
   "ME 305-2025-12-21": {
     "flightNumber": "ME 305",
-    "status": "",
-    "actualTime": "15:25",
+    "status": "وصلت",
+    "actualTime": "15:37",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -810,6 +803,13 @@
     "actualTime": "16:45",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "QR 411-2025-12-21": {
+    "flightNumber": "QR 411",
+    "status": "",
+    "actualTime": "16:50",
+    "type": "arivl",
+    "airlineCode": "QR"
   },
   "ME 218-2025-12-21": {
     "flightNumber": "ME 218",
@@ -841,8 +841,8 @@
   },
   "EK 953-2025-12-21": {
     "flightNumber": "EK 953",
-    "status": "",
-    "actualTime": "17:00",
+    "status": "تأخير",
+    "actualTime": "19:40",
     "type": "arivl",
     "airlineCode": "EK"
   },
