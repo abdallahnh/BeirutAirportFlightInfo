@@ -1,77 +1,63 @@
 {
   "ME 215-2025-12-21": {
     "flightNumber": "ME 215",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "06:27",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 265-2025-12-21": {
-    "flightNumber": "ME 265",
-    "status": "النداء الاخير",
-    "actualTime": "06:29",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 302-2025-12-21": {
-    "flightNumber": "ME 302",
-    "status": "النداء الاخير",
-    "actualTime": "07:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 217-2025-12-21": {
     "flightNumber": "ME 217",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "06:45",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 426-2025-12-21": {
     "flightNumber": "ME 426",
-    "status": "",
-    "actualTime": "07:20",
+    "status": "غادرت",
+    "actualTime": "06:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 231-2025-12-21": {
     "flightNumber": "ME 231",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "06:44",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 201-2025-12-21": {
     "flightNumber": "ME 201",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:07",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 1213-2025-12-21": {
     "flightNumber": "ME 1213",
-    "status": "",
-    "actualTime": "07:35",
+    "status": "غادرت",
+    "actualTime": "07:04",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 310-2025-12-21": {
     "flightNumber": "ME 310",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:16",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 211-2025-12-21": {
     "flightNumber": "ME 211",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:14",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 251-2025-12-21": {
     "flightNumber": "ME 251",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -97,13 +83,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 831-2025-12-21": {
-    "flightNumber": "TK 831",
-    "status": "",
-    "actualTime": "09:40",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "IA 134-2025-12-21": {
     "flightNumber": "IA 134",
     "status": "",
@@ -117,6 +96,13 @@
     "actualTime": "09:45",
     "type": "dprtr",
     "airlineCode": "FZ"
+  },
+  "TK 831-2025-12-21": {
+    "flightNumber": "TK 831",
+    "status": "",
+    "actualTime": "10:00",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "PC 1825-2025-12-21": {
     "flightNumber": "PC 1825",
@@ -1749,19 +1735,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "QR 418-2025-12-22": {
-    "flightNumber": "QR 418",
-    "status": "",
-    "actualTime": "22:55",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "G9 408-2025-12-22": {
     "flightNumber": "G9 408",
     "status": "",
     "actualTime": "22:55",
     "type": "arivl",
     "airlineCode": "G9"
+  },
+  "QR 418-2025-12-22": {
+    "flightNumber": "QR 418",
+    "status": "",
+    "actualTime": "22:55",
+    "type": "arivl",
+    "airlineCode": "QR"
   },
   "ME 262-2025-12-22": {
     "flightNumber": "ME 262",
