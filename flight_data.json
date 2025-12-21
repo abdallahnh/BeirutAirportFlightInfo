@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 132-2025-12-21": {
-    "flightNumber": "IA 132",
-    "status": "غادرت",
-    "actualTime": "11:04",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "ME 304-2025-12-21": {
     "flightNumber": "ME 304",
     "status": "تم اغلاق البوابة",
@@ -36,14 +29,14 @@
   },
   "ME 320-2025-12-21": {
     "flightNumber": "ME 320",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2025-12-21": {
     "flightNumber": "EK 958",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "10:54",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -769,48 +762,6 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "MS 709-2025-12-21": {
-    "flightNumber": "MS 709",
-    "status": "وصلت",
-    "actualTime": "09:57",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
-  "UF 001-2025-12-21": {
-    "flightNumber": "UF 001",
-    "status": "وصلت",
-    "actualTime": "11:17",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
-  "IA 131-2025-12-21": {
-    "flightNumber": "IA 131",
-    "status": "وصلت",
-    "actualTime": "10:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "ME 311-2025-12-21": {
-    "flightNumber": "ME 311",
-    "status": "وصلت",
-    "actualTime": "10:27",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "EY 581-2025-12-21": {
-    "flightNumber": "EY 581",
-    "status": "وصلت",
-    "actualTime": "10:24",
-    "type": "arivl",
-    "airlineCode": "EY"
-  },
-  "RJ 401-2025-12-21": {
-    "flightNumber": "RJ 401",
-    "status": "وصلت",
-    "actualTime": "10:20",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "ME 303-2025-12-21": {
     "flightNumber": "ME 303",
     "status": "وصلت",
@@ -834,8 +785,8 @@
   },
   "ME 266-2025-12-21": {
     "flightNumber": "ME 266",
-    "status": "",
-    "actualTime": "12:00",
+    "status": "وصلت",
+    "actualTime": "11:53",
     "type": "arivl",
     "airlineCode": "ME"
   },
