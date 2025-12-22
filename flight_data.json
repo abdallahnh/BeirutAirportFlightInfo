@@ -22,14 +22,14 @@
   },
   "FZ 160-2025-12-22": {
     "flightNumber": "FZ 160",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:45",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "21:13",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
   "CY 123-2025-12-22": {
     "flightNumber": "CY 123",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "21:07",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -43,7 +43,7 @@
   },
   "SK 2968-2025-12-22": {
     "flightNumber": "SK 2968",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "22:35",
     "type": "dprtr",
     "airlineCode": "SK"
@@ -538,13 +538,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "MS 711-2025-12-22": {
-    "flightNumber": "MS 711",
-    "status": "وصلت",
-    "actualTime": "19:18",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "J9 261-2025-12-22": {
     "flightNumber": "J9 261",
     "status": "وصلت",
@@ -603,8 +596,8 @@
   },
   "SK 2967-2025-12-22": {
     "flightNumber": "SK 2967",
-    "status": "",
-    "actualTime": "21:35",
+    "status": "وصلت",
+    "actualTime": "21:18",
     "type": "arivl",
     "airlineCode": "SK"
   },
