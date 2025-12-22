@@ -13,16 +13,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 213-2025-12-22": {
-    "flightNumber": "ME 213",
-    "status": "غادرت",
-    "actualTime": "06:59",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 201-2025-12-22": {
     "flightNumber": "ME 201",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "07:02",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -36,28 +29,28 @@
   },
   "ME 211-2025-12-22": {
     "flightNumber": "ME 211",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "07:23",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 209-2025-12-22": {
     "flightNumber": "ME 209",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "07:16",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 424-2025-12-22": {
     "flightNumber": "ME 424",
-    "status": "",
-    "actualTime": "08:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:45",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 404-2025-12-22": {
     "flightNumber": "ME 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -818,13 +811,6 @@
     "type": "arivl",
     "airlineCode": "KU"
   },
-  "TK 830-2025-12-22": {
-    "flightNumber": "TK 830",
-    "status": "",
-    "actualTime": "08:45",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "FZ 157-2025-12-22": {
     "flightNumber": "FZ 157",
     "status": "",
@@ -832,12 +818,12 @@
     "type": "arivl",
     "airlineCode": "FZ"
   },
-  "MS 709-2025-12-22": {
-    "flightNumber": "MS 709",
+  "TK 830-2025-12-22": {
+    "flightNumber": "TK 830",
     "status": "",
-    "actualTime": "09:15",
+    "actualTime": "08:45",
     "type": "arivl",
-    "airlineCode": "MS"
+    "airlineCode": "TK"
   },
   "EK 957-2025-12-22": {
     "flightNumber": "EK 957",
@@ -845,6 +831,13 @@
     "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "EK"
+  },
+  "MS 709-2025-12-22": {
+    "flightNumber": "MS 709",
+    "status": "",
+    "actualTime": "09:15",
+    "type": "arivl",
+    "airlineCode": "MS"
   },
   "PC 3000-2025-12-22": {
     "flightNumber": "PC 3000",
