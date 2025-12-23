@@ -1,17 +1,10 @@
 {
   "IA 140-2025-12-23": {
     "flightNumber": "IA 140",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "16:03",
     "type": "dprtr",
     "airlineCode": "IA"
-  },
-  "ME 322-2025-12-23": {
-    "flightNumber": "ME 322",
-    "status": "غادرت",
-    "actualTime": "15:49",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "CY 121-2025-12-23": {
     "flightNumber": "CY 121",
@@ -22,28 +15,21 @@
   },
   "AF 565-2025-12-23": {
     "flightNumber": "AF 565",
-    "status": "تأخير",
-    "actualTime": "16:30",
+    "status": "النداء الاخير",
+    "actualTime": "16:19",
     "type": "dprtr",
     "airlineCode": "AF"
   },
   "ME 428-2025-12-23": {
     "flightNumber": "ME 428",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "16:11",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 312-2025-12-23": {
-    "flightNumber": "ME 312",
-    "status": "النداء الاخير",
-    "actualTime": "16:10",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "PC 1825-2025-12-23": {
     "flightNumber": "PC 1825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:10",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -64,7 +50,7 @@
   },
   "ME 442-2025-12-23": {
     "flightNumber": "ME 442",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:35",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -657,13 +643,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "TK 824-2025-12-23": {
-    "flightNumber": "TK 824",
-    "status": "وصلت",
-    "actualTime": "14:17",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "AH 4016-2025-12-23": {
     "flightNumber": "AH 4016",
     "status": "وصلت",
@@ -750,8 +729,8 @@
   },
   "PC 1824-2025-12-23": {
     "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "16:25",
+    "status": "وصلت",
+    "actualTime": "16:26",
     "type": "arivl",
     "airlineCode": "PC"
   },
