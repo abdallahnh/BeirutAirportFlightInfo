@@ -1,21 +1,7 @@
 {
-  "G9 386-2025-12-23": {
-    "flightNumber": "G9 386",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "11:11",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
-  "ME 320-2025-12-23": {
-    "flightNumber": "ME 320",
-    "status": "غادرت",
-    "actualTime": "11:14",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EK 958-2025-12-23": {
     "flightNumber": "EK 958",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "11:48",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -29,8 +15,8 @@
   },
   "QR 417-2025-12-23": {
     "flightNumber": "QR 417",
-    "status": "",
-    "actualTime": "12:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:11",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -62,19 +48,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 140-2025-12-23": {
-    "flightNumber": "IA 140",
-    "status": "",
-    "actualTime": "15:20",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "AH 4017-2025-12-23": {
     "flightNumber": "AH 4017",
     "status": "",
     "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "AH"
+  },
+  "IA 140-2025-12-23": {
+    "flightNumber": "IA 140",
+    "status": "",
+    "actualTime": "15:20",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "ME 1304-2025-12-23": {
     "flightNumber": "ME 1304",
