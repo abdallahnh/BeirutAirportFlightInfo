@@ -1,50 +1,22 @@
 {
-  "ME 235-2025-12-24": {
-    "flightNumber": "ME 235",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "06:32",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 265-2025-12-24": {
-    "flightNumber": "ME 265",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:25",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 310-2025-12-24": {
-    "flightNumber": "ME 310",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:14",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 211-2025-12-24": {
-    "flightNumber": "ME 211",
-    "status": "غادرت",
-    "actualTime": "07:16",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 424-2025-12-24": {
     "flightNumber": "ME 424",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "07:52",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 404-2025-12-24": {
     "flightNumber": "ME 404",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:40",
+    "status": "غادرت",
+    "actualTime": "08:01",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 364-2025-12-24": {
     "flightNumber": "ME 364",
-    "status": "",
-    "actualTime": "08:55",
+    "status": "النداء الاخير",
+    "actualTime": "08:32",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -320,6 +292,13 @@
     "actualTime": "19:45",
     "type": "dprtr",
     "airlineCode": "EK"
+  },
+  "UF 002-2025-12-24": {
+    "flightNumber": "UF 002",
+    "status": "",
+    "actualTime": "20:00",
+    "type": "dprtr",
+    "airlineCode": "UF"
   },
   "RJ 404-2025-12-24": {
     "flightNumber": "RJ 404",
@@ -848,8 +827,8 @@
   },
   "FZ 157-2025-12-24": {
     "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "08:45",
+    "status": "وصلت",
+    "actualTime": "08:24",
     "type": "arivl",
     "airlineCode": "FZ"
   },
@@ -1021,13 +1000,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "UF 003-2025-12-24": {
-    "flightNumber": "UF 003",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "ME 214-2025-12-24": {
     "flightNumber": "ME 214",
     "status": "",
@@ -1111,6 +1083,13 @@
     "actualTime": "18:55",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "UF 001-2025-12-24": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "19:00",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "RJ 403-2025-12-24": {
     "flightNumber": "RJ 403",
