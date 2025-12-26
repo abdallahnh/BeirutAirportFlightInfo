@@ -29,7 +29,7 @@
   },
   "ME 261-2025-12-26": {
     "flightNumber": "ME 261",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:20",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -43,7 +43,7 @@
   },
   "FZ 160-2025-12-26": {
     "flightNumber": "FZ 160",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:23",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -601,20 +601,6 @@
     "type": "arivl",
     "airlineCode": "MS"
   },
-  "ME 212-2025-12-26": {
-    "flightNumber": "ME 212",
-    "status": "وصلت",
-    "actualTime": "18:53",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "RJ 403-2025-12-26": {
-    "flightNumber": "RJ 403",
-    "status": "وصلت",
-    "actualTime": "18:43",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "ME 313-2025-12-26": {
     "flightNumber": "ME 313",
     "status": "وصلت",
@@ -624,8 +610,8 @@
   },
   "UF 003-2025-12-26": {
     "flightNumber": "UF 003",
-    "status": "",
-    "actualTime": "19:30",
+    "status": "وصلت",
+    "actualTime": "20:38",
     "type": "arivl",
     "airlineCode": "UF"
   },
