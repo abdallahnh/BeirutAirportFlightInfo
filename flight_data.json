@@ -729,8 +729,8 @@
   },
   "TK 824-2025-12-26": {
     "flightNumber": "TK 824",
-    "status": "",
-    "actualTime": "13:55",
+    "status": "وصلت",
+    "actualTime": "13:49",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -818,19 +818,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "RJ 051-2025-12-26": {
-    "flightNumber": "RJ 051",
-    "status": "",
-    "actualTime": "17:00",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "EK 953-2025-12-26": {
     "flightNumber": "EK 953",
     "status": "",
     "actualTime": "17:00",
     "type": "arivl",
     "airlineCode": "EK"
+  },
+  "RJ 051-2025-12-26": {
+    "flightNumber": "RJ 051",
+    "status": "",
+    "actualTime": "17:00",
+    "type": "arivl",
+    "airlineCode": "RJ"
   },
   "ME 264-2025-12-26": {
     "flightNumber": "ME 264",
@@ -1203,6 +1203,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "ET 3406-2025-12-27": {
+    "flightNumber": "ET 3406",
+    "status": "",
+    "actualTime": "11:00",
+    "type": "arivl",
+    "airlineCode": "ET"
+  },
   "QR 416-2025-12-27": {
     "flightNumber": "QR 416",
     "status": "",
@@ -1409,7 +1416,7 @@
   "TK 826-2025-12-27": {
     "flightNumber": "TK 826",
     "status": "",
-    "actualTime": "20:15",
+    "actualTime": "20:25",
     "type": "arivl",
     "airlineCode": "TK"
   },
