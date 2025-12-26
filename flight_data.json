@@ -1,11 +1,4 @@
 {
-  "QR 417-2025-12-26": {
-    "flightNumber": "QR 417",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "12:07",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "ME 229-2025-12-26": {
     "flightNumber": "ME 229",
     "status": "النداء الاخير",
@@ -15,7 +8,7 @@
   },
   "IA 1314-2025-12-26": {
     "flightNumber": "IA 1314",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "13:13",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -29,7 +22,7 @@
   },
   "AH 4017-2025-12-26": {
     "flightNumber": "AH 4017",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "13:18",
     "type": "dprtr",
     "airlineCode": "AH"
@@ -254,7 +247,7 @@
   "ET 407-2025-12-27": {
     "flightNumber": "ET 407",
     "status": "",
-    "actualTime": "02:00",
+    "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ET"
   },
@@ -496,6 +489,13 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "ET 3407-2025-12-27": {
+    "flightNumber": "ET 3407",
+    "status": "",
+    "actualTime": "12:00",
+    "type": "dprtr",
+    "airlineCode": "ET"
+  },
   "QR 417-2025-12-27": {
     "flightNumber": "QR 417",
     "status": "",
@@ -704,20 +704,6 @@
     "status": "",
     "actualTime": "23:10",
     "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "IA 131-2025-12-26": {
-    "flightNumber": "IA 131",
-    "status": "وصلت",
-    "actualTime": "11:27",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "ME 266-2025-12-26": {
-    "flightNumber": "ME 266",
-    "status": "وصلت",
-    "actualTime": "11:35",
-    "type": "arivl",
     "airlineCode": "ME"
   },
   "IA 1313-2025-12-26": {
