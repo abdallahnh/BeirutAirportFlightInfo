@@ -1,14 +1,14 @@
 {
   "QR 417-2025-12-27": {
     "flightNumber": "QR 417",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:31",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "ME 229-2025-12-27": {
     "flightNumber": "ME 229",
-    "status": "تم فتح البوابة",
+    "status": "غادرت",
     "actualTime": "13:30",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -321,13 +321,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "ME 231-2025-12-28": {
-    "flightNumber": "ME 231",
-    "status": "",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 247-2025-12-28": {
     "flightNumber": "ME 247",
     "status": "",
@@ -358,6 +351,13 @@
   },
   "ME 426-2025-12-28": {
     "flightNumber": "ME 426",
+    "status": "",
+    "actualTime": "07:20",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 231-2025-12-28": {
+    "flightNumber": "ME 231",
     "status": "",
     "actualTime": "07:20",
     "type": "dprtr",
@@ -440,19 +440,19 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "UF 002-2025-12-28": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "IA 132-2025-12-28": {
     "flightNumber": "IA 132",
     "status": "",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "ME 304-2025-12-28": {
+    "flightNumber": "ME 304",
+    "status": "",
+    "actualTime": "11:40",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "RJ 402-2025-12-28": {
     "flightNumber": "RJ 402",
@@ -477,13 +477,6 @@
   },
   "ME 324-2025-12-28": {
     "flightNumber": "ME 324",
-    "status": "",
-    "actualTime": "12:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 304-2025-12-28": {
-    "flightNumber": "ME 304",
     "status": "",
     "actualTime": "12:00",
     "type": "dprtr",
@@ -517,19 +510,19 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
+  "IA 138-2025-12-28": {
+    "flightNumber": "IA 138",
+    "status": "",
+    "actualTime": "15:00",
+    "type": "dprtr",
+    "airlineCode": "IA"
+  },
   "ME 436-2025-12-28": {
     "flightNumber": "ME 436",
     "status": "",
     "actualTime": "15:15",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "IA 138-2025-12-28": {
-    "flightNumber": "IA 138",
-    "status": "",
-    "actualTime": "15:15",
-    "type": "dprtr",
-    "airlineCode": "IA"
   },
   "ME 418-2025-12-28": {
     "flightNumber": "ME 418",
@@ -656,6 +649,13 @@
     "actualTime": "18:15",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "UF 002-2025-12-28": {
+    "flightNumber": "UF 002",
+    "status": "",
+    "actualTime": "18:30",
+    "type": "dprtr",
+    "airlineCode": "UF"
   },
   "IA 136-2025-12-28": {
     "flightNumber": "IA 136",
