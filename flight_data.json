@@ -29,14 +29,14 @@
   },
   "G9 388-2025-12-27": {
     "flightNumber": "G9 388",
-    "status": "تأخير",
-    "actualTime": "01:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:46",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "ET 407-2025-12-28": {
     "flightNumber": "ET 407",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "01:42",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -1014,13 +1014,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 230-2025-12-27": {
-    "flightNumber": "ME 230",
-    "status": "وصلت",
-    "actualTime": "23:54",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 429-2025-12-27": {
     "flightNumber": "ME 429",
     "status": "وصلت",
@@ -1037,7 +1030,7 @@
   },
   "VF 1627-2025-12-28": {
     "flightNumber": "VF 1627",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "01:45",
     "type": "arivl",
     "airlineCode": "VF"
