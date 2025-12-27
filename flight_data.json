@@ -1,7 +1,7 @@
 {
   "IA 1302-2025-12-27": {
     "flightNumber": "IA 1302",
-    "status": "تم اغلاق البوابة",
+    "status": "غادرت",
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -15,14 +15,14 @@
   },
   "ME 402-2025-12-27": {
     "flightNumber": "ME 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:40",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 368-2025-12-27": {
     "flightNumber": "ME 368",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "17:10",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -43,7 +43,7 @@
   },
   "UF 002-2025-12-27": {
     "flightNumber": "UF 002",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "18:30",
     "type": "dprtr",
     "airlineCode": "UF"
@@ -664,13 +664,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 305-2025-12-27": {
-    "flightNumber": "ME 305",
-    "status": "وصلت",
-    "actualTime": "15:30",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 236-2025-12-27": {
     "flightNumber": "ME 236",
     "status": "وصلت",
@@ -771,8 +764,8 @@
   },
   "MS 711-2025-12-27": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "18:55",
+    "status": "تبكير",
+    "actualTime": "18:20",
     "type": "arivl",
     "airlineCode": "MS"
   },
