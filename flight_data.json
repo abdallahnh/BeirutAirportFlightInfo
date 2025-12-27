@@ -29,7 +29,7 @@
   },
   "ME 434-2025-12-27": {
     "flightNumber": "ME 434",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "22:30",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -566,13 +566,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 1351-2025-12-27": {
-    "flightNumber": "IA 1351",
-    "status": "وصلت",
-    "actualTime": "20:51",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "KU 503-2025-12-27": {
     "flightNumber": "KU 503",
     "status": "وصلت",
@@ -610,8 +603,8 @@
   },
   "QR 418-2025-12-27": {
     "flightNumber": "QR 418",
-    "status": "",
-    "actualTime": "22:55",
+    "status": "وصلت",
+    "actualTime": "22:51",
     "type": "arivl",
     "airlineCode": "QR"
   },
