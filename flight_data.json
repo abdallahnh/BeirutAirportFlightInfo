@@ -1,22 +1,15 @@
 {
   "ME 267-2025-12-27": {
     "flightNumber": "ME 267",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "16:48",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 402-2025-12-27": {
     "flightNumber": "ME 402",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "18:05",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 422-2025-12-27": {
-    "flightNumber": "ME 422",
-    "status": "النداء الاخير",
-    "actualTime": "17:49",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -29,8 +22,8 @@
   },
   "UF 002-2025-12-27": {
     "flightNumber": "UF 002",
-    "status": "تم فتح البوابة",
-    "actualTime": "18:30",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "18:20",
     "type": "dprtr",
     "airlineCode": "UF"
   },
@@ -57,7 +50,7 @@
   },
   "EK 954-2025-12-27": {
     "flightNumber": "EK 954",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:45",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -166,13 +159,6 @@
     "actualTime": "03:25",
     "type": "dprtr",
     "airlineCode": "TK"
-  },
-  "J9 264-2025-12-28": {
-    "flightNumber": "J9 264",
-    "status": "",
-    "actualTime": "03:30",
-    "type": "dprtr",
-    "airlineCode": "J9"
   },
   "PC 757-2025-12-28": {
     "flightNumber": "PC 757",
@@ -729,8 +715,8 @@
   },
   "MS 711-2025-12-27": {
     "flightNumber": "MS 711",
-    "status": "تبكير",
-    "actualTime": "18:20",
+    "status": "وصلت",
+    "actualTime": "18:16",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -743,15 +729,15 @@
   },
   "ME 313-2025-12-27": {
     "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "19:25",
+    "status": "تبكير",
+    "actualTime": "19:10",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "RJ 403-2025-12-27": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "19:30",
+    "status": "وصلت",
+    "actualTime": "18:41",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -929,13 +915,6 @@
     "actualTime": "02:30",
     "type": "arivl",
     "airlineCode": "LH"
-  },
-  "J9 263-2025-12-28": {
-    "flightNumber": "J9 263",
-    "status": "",
-    "actualTime": "02:30",
-    "type": "arivl",
-    "airlineCode": "J9"
   },
   "PC 756-2025-12-28": {
     "flightNumber": "PC 756",
