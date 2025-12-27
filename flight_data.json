@@ -741,20 +741,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 266-2025-12-27": {
-    "flightNumber": "ME 266",
-    "status": "وصلت",
-    "actualTime": "11:40",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 252-2025-12-27": {
-    "flightNumber": "ME 252",
-    "status": "وصلت",
-    "actualTime": "12:37",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 1317-2025-12-27": {
     "flightNumber": "IA 1317",
     "status": "",
@@ -771,8 +757,8 @@
   },
   "PC 3000-2025-12-27": {
     "flightNumber": "PC 3000",
-    "status": "",
-    "actualTime": "14:05",
+    "status": "وصلت",
+    "actualTime": "13:40",
     "type": "arivl",
     "airlineCode": "PC"
   },
@@ -1217,19 +1203,19 @@
     "type": "arivl",
     "airlineCode": "EK"
   },
-  "UF 001-2025-12-28": {
-    "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 131-2025-12-28": {
     "flightNumber": "IA 131",
     "status": "",
     "actualTime": "10:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "ME 311-2025-12-28": {
+    "flightNumber": "ME 311",
+    "status": "",
+    "actualTime": "10:40",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "EY 581-2025-12-28": {
     "flightNumber": "EY 581",
@@ -1244,13 +1230,6 @@
     "actualTime": "10:50",
     "type": "arivl",
     "airlineCode": "RJ"
-  },
-  "ME 311-2025-12-28": {
-    "flightNumber": "ME 311",
-    "status": "",
-    "actualTime": "11:00",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 303-2025-12-28": {
     "flightNumber": "ME 303",
@@ -1412,6 +1391,13 @@
     "actualTime": "17:00",
     "type": "arivl",
     "airlineCode": "EK"
+  },
+  "UF 001-2025-12-28": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "17:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "IA 135-2025-12-28": {
     "flightNumber": "IA 135",
