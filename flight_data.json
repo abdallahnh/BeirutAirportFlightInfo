@@ -1,18 +1,4 @@
 {
-  "ME 267-2025-12-27": {
-    "flightNumber": "ME 267",
-    "status": "غادرت",
-    "actualTime": "16:48",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 402-2025-12-27": {
-    "flightNumber": "ME 402",
-    "status": "غادرت",
-    "actualTime": "18:05",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 306-2025-12-27": {
     "flightNumber": "ME 306",
     "status": "النداء الاخير",
@@ -29,8 +15,8 @@
   },
   "MS 712-2025-12-27": {
     "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "19:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:53",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -50,14 +36,14 @@
   },
   "EK 954-2025-12-27": {
     "flightNumber": "EK 954",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:45",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "RJ 404-2025-12-27": {
     "flightNumber": "RJ 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:55",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -661,13 +647,6 @@
     "flightNumber": "ME 216",
     "status": "وصلت",
     "actualTime": "17:12",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 325-2025-12-27": {
-    "flightNumber": "ME 325",
-    "status": "وصلت",
-    "actualTime": "16:41",
     "type": "arivl",
     "airlineCode": "ME"
   },
