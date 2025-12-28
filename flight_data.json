@@ -41,13 +41,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 368-2025-12-28": {
-    "flightNumber": "ME 368",
-    "status": "غادرت",
-    "actualTime": "17:02",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 422-2025-12-28": {
     "flightNumber": "ME 422",
     "status": "النداء الاخير",
@@ -57,7 +50,7 @@
   },
   "ME 253-2025-12-28": {
     "flightNumber": "ME 253",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "17:39",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -629,13 +622,6 @@
     "type": "dprtr",
     "airlineCode": "CY"
   },
-  "IA 1301-2025-12-28": {
-    "flightNumber": "IA 1301",
-    "status": "وصلت",
-    "actualTime": "15:43",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 248-2025-12-28": {
     "flightNumber": "ME 248",
     "status": "وصلت",
@@ -680,8 +666,8 @@
   },
   "UF 001-2025-12-28": {
     "flightNumber": "UF 001",
-    "status": "تأخير",
-    "actualTime": "17:50",
+    "status": "وصلت",
+    "actualTime": "17:48",
     "type": "arivl",
     "airlineCode": "UF"
   },
