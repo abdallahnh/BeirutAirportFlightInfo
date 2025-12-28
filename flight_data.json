@@ -8,14 +8,14 @@
   },
   "ME 364-2025-12-28": {
     "flightNumber": "ME 364",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "08:12",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 831-2025-12-28": {
     "flightNumber": "TK 831",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:40",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -29,8 +29,8 @@
   },
   "FZ 158-2025-12-28": {
     "flightNumber": "FZ 158",
-    "status": "تم فتح البوابة",
-    "actualTime": "09:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "08:52",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -792,15 +792,15 @@
   },
   "TK 830-2025-12-28": {
     "flightNumber": "TK 830",
-    "status": "",
-    "actualTime": "08:45",
+    "status": "وصلت",
+    "actualTime": "08:40",
     "type": "arivl",
     "airlineCode": "TK"
   },
   "IA 137-2025-12-28": {
     "flightNumber": "IA 137",
-    "status": "",
-    "actualTime": "08:45",
+    "status": "وصلت",
+    "actualTime": "08:52",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -1241,7 +1241,7 @@
   "ET 416-2025-12-29": {
     "flightNumber": "ET 416",
     "status": "",
-    "actualTime": "02:00",
+    "actualTime": "02:05",
     "type": "arivl",
     "airlineCode": "ET"
   },
@@ -1297,7 +1297,7 @@
   "FZ 157-2025-12-29": {
     "flightNumber": "FZ 157",
     "status": "",
-    "actualTime": "08:50",
+    "actualTime": "08:45",
     "type": "arivl",
     "airlineCode": "FZ"
   },
@@ -1378,13 +1378,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "VF 1043-2025-12-29": {
-    "flightNumber": "VF 1043",
-    "status": "",
-    "actualTime": "13:35",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "TK 824-2025-12-29": {
     "flightNumber": "TK 824",
     "status": "",
@@ -1412,6 +1405,13 @@
     "actualTime": "14:25",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "VF 1043-2025-12-29": {
+    "flightNumber": "VF 1043",
+    "status": "",
+    "actualTime": "14:40",
+    "type": "arivl",
+    "airlineCode": "VF"
   },
   "ME 365-2025-12-29": {
     "flightNumber": "ME 365",
