@@ -6,16 +6,9 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "QR 419-2025-12-29": {
-    "flightNumber": "QR 419",
-    "status": "غادرت",
-    "actualTime": "23:53",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "EK 956-2025-12-29": {
     "flightNumber": "EK 956",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "00:21",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -36,8 +29,8 @@
   },
   "PC 759-2025-12-29": {
     "flightNumber": "PC 759",
-    "status": "",
-    "actualTime": "02:35",
+    "status": "تأخير",
+    "actualTime": "03:05",
     "type": "dprtr",
     "airlineCode": "PC"
   },
@@ -923,33 +916,12 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 419-2025-12-28": {
-    "flightNumber": "ME 419",
-    "status": "وصلت",
-    "actualTime": "22:41",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 254-2025-12-28": {
-    "flightNumber": "ME 254",
-    "status": "وصلت",
-    "actualTime": "22:43",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "QR 418-2025-12-28": {
     "flightNumber": "QR 418",
     "status": "وصلت",
     "actualTime": "23:06",
     "type": "arivl",
     "airlineCode": "QR"
-  },
-  "ME 262-2025-12-28": {
-    "flightNumber": "ME 262",
-    "status": "وصلت",
-    "actualTime": "22:46",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "EK 955-2025-12-28": {
     "flightNumber": "EK 955",
@@ -1023,8 +995,8 @@
   },
   "PC 758-2025-12-29": {
     "flightNumber": "PC 758",
-    "status": "",
-    "actualTime": "01:35",
+    "status": "تأخير",
+    "actualTime": "02:05",
     "type": "arivl",
     "airlineCode": "PC"
   },
