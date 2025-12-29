@@ -55,6 +55,13 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
+  "PC 757-2025-12-30": {
+    "flightNumber": "PC 757",
+    "status": "",
+    "actualTime": "03:40",
+    "type": "dprtr",
+    "airlineCode": "PC"
+  },
   "MS 714-2025-12-30": {
     "flightNumber": "MS 714",
     "status": "",
@@ -475,31 +482,24 @@
     "type": "arivl",
     "airlineCode": "FZ"
   },
-  "CY 122-2025-12-29": {
-    "flightNumber": "CY 122",
-    "status": "وصلت",
-    "actualTime": "20:20",
-    "type": "arivl",
-    "airlineCode": "CY"
-  },
   "ME 307-2025-12-29": {
     "flightNumber": "ME 307",
-    "status": "",
-    "actualTime": "22:00",
+    "status": "وصلت",
+    "actualTime": "22:06",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 437-2025-12-29": {
     "flightNumber": "ME 437",
-    "status": "",
-    "actualTime": "22:05",
+    "status": "وصلت",
+    "actualTime": "22:12",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 268-2025-12-29": {
     "flightNumber": "ME 268",
-    "status": "",
-    "actualTime": "22:20",
+    "status": "وصلت",
+    "actualTime": "22:22",
     "type": "arivl",
     "airlineCode": "ME"
   },
