@@ -692,20 +692,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "EY 581-2025-12-29": {
-    "flightNumber": "EY 581",
-    "status": "وصلت",
-    "actualTime": "10:32",
-    "type": "arivl",
-    "airlineCode": "EY"
-  },
-  "RJ 401-2025-12-29": {
-    "flightNumber": "RJ 401",
-    "status": "وصلت",
-    "actualTime": "10:36",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "G9 385-2025-12-29": {
     "flightNumber": "G9 385",
     "status": "وصلت",
@@ -1129,7 +1115,7 @@
   "UF 001-2025-12-30": {
     "flightNumber": "UF 001",
     "status": "",
-    "actualTime": "11:30",
+    "actualTime": "10:30",
     "type": "arivl",
     "airlineCode": "UF"
   },
@@ -1139,6 +1125,13 @@
     "actualTime": "10:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "ME 311-2025-12-30": {
+    "flightNumber": "ME 311",
+    "status": "",
+    "actualTime": "10:40",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "RJ 401-2025-12-30": {
     "flightNumber": "RJ 401",
@@ -1153,13 +1146,6 @@
     "actualTime": "10:55",
     "type": "arivl",
     "airlineCode": "G9"
-  },
-  "ME 311-2025-12-30": {
-    "flightNumber": "ME 311",
-    "status": "",
-    "actualTime": "11:00",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "QR 416-2025-12-30": {
     "flightNumber": "QR 416",
@@ -1227,7 +1213,7 @@
   "ME 365-2025-12-30": {
     "flightNumber": "ME 365",
     "status": "",
-    "actualTime": "14:35",
+    "actualTime": "14:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1254,7 +1240,7 @@
   },
   "UF 003-2025-12-30": {
     "flightNumber": "UF 003",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "15:30",
     "type": "arivl",
     "airlineCode": "UF"
