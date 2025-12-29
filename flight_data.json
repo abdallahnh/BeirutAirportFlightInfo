@@ -1,11 +1,4 @@
 {
-  "QR 419-2025-12-30": {
-    "flightNumber": "QR 419",
-    "status": "غادرت",
-    "actualTime": "23:50",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "ET 407-2025-12-30": {
     "flightNumber": "ET 407",
     "status": "",
@@ -40,6 +33,13 @@
     "actualTime": "03:40",
     "type": "dprtr",
     "airlineCode": "PC"
+  },
+  "LH 1309-2025-12-30": {
+    "flightNumber": "LH 1309",
+    "status": "",
+    "actualTime": "03:45",
+    "type": "dprtr",
+    "airlineCode": "LH"
   },
   "MS 714-2025-12-30": {
     "flightNumber": "MS 714",
@@ -960,8 +960,8 @@
   },
   "VF 543-2025-12-30": {
     "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "00:30",
+    "status": "وصلت",
+    "actualTime": "00:27",
     "type": "arivl",
     "airlineCode": "VF"
   },
