@@ -1,11 +1,4 @@
 {
-  "ME 368-2025-12-30": {
-    "flightNumber": "ME 368",
-    "status": "النداء الاخير",
-    "actualTime": "17:06",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "IA 136-2025-12-30": {
     "flightNumber": "IA 136",
     "status": "",
@@ -29,8 +22,8 @@
   },
   "EK 954-2025-12-30": {
     "flightNumber": "EK 954",
-    "status": "",
-    "actualTime": "19:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:50",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -545,24 +538,10 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "ME 305-2025-12-30": {
-    "flightNumber": "ME 305",
-    "status": "وصلت",
-    "actualTime": "16:47",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 218-2025-12-30": {
     "flightNumber": "ME 218",
     "status": "وصلت",
     "actualTime": "16:58",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 325-2025-12-30": {
-    "flightNumber": "ME 325",
-    "status": "وصلت",
-    "actualTime": "16:44",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -610,8 +589,8 @@
   },
   "RJ 403-2025-12-30": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "19:05",
+    "status": "وصلت",
+    "actualTime": "18:42",
     "type": "arivl",
     "airlineCode": "RJ"
   },
