@@ -36,7 +36,7 @@
   },
   "ET 407-2025-12-31": {
     "flightNumber": "ET 407",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "01:26",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -965,24 +965,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 443-2025-12-30": {
-    "flightNumber": "ME 443",
-    "status": "وصلت",
-    "actualTime": "23:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 369-2025-12-30": {
     "flightNumber": "ME 369",
     "status": "وصلت",
     "actualTime": "00:10",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 423-2025-12-30": {
-    "flightNumber": "ME 423",
-    "status": "وصلت",
-    "actualTime": "23:49",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1009,8 +995,8 @@
   },
   "VF 1627-2025-12-31": {
     "flightNumber": "VF 1627",
-    "status": "",
-    "actualTime": "01:30",
+    "status": "وصلت",
+    "actualTime": "01:53",
     "type": "arivl",
     "airlineCode": "VF"
   },
