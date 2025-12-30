@@ -1,49 +1,42 @@
 {
   "TK 825-2025-12-30": {
     "flightNumber": "TK 825",
-    "status": "تم اغلاق البوابة",
+    "status": "غادرت",
     "actualTime": "14:20",
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "ME 436-2025-12-30": {
-    "flightNumber": "ME 436",
-    "status": "غادرت",
-    "actualTime": "14:40",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "AH 4017-2025-12-30": {
     "flightNumber": "AH 4017",
-    "status": "تم فتح البوابة",
-    "actualTime": "15:20",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "15:35",
     "type": "dprtr",
     "airlineCode": "AH"
   },
   "IA 140-2025-12-30": {
     "flightNumber": "IA 140",
-    "status": "",
-    "actualTime": "15:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "15:43",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "ME 322-2025-12-30": {
     "flightNumber": "ME 322",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "15:30",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "CY 121-2025-12-30": {
     "flightNumber": "CY 121",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "15:13",
     "type": "dprtr",
     "airlineCode": "CY"
   },
   "AF 565-2025-12-30": {
     "flightNumber": "AF 565",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "15:19",
     "type": "dprtr",
     "airlineCode": "AF"
@@ -671,19 +664,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "AF 566-2025-12-30": {
-    "flightNumber": "AF 566",
-    "status": "وصلت",
-    "actualTime": "14:17",
-    "type": "arivl",
-    "airlineCode": "AF"
-  },
   "AH 4016-2025-12-30": {
     "flightNumber": "AH 4016",
     "status": "وصلت",
     "actualTime": "14:53",
     "type": "arivl",
     "airlineCode": "AH"
+  },
+  "AF 566-2025-12-30": {
+    "flightNumber": "AF 566",
+    "status": "وصلت",
+    "actualTime": "14:17",
+    "type": "arivl",
+    "airlineCode": "AF"
   },
   "ME 405-2025-12-30": {
     "flightNumber": "ME 405",
@@ -729,8 +722,8 @@
   },
   "ME 305-2025-12-30": {
     "flightNumber": "ME 305",
-    "status": "",
-    "actualTime": "15:25",
+    "status": "تأخير",
+    "actualTime": "16:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -750,8 +743,8 @@
   },
   "ME 321-2025-12-30": {
     "flightNumber": "ME 321",
-    "status": "تبكير",
-    "actualTime": "15:45",
+    "status": "وصلت",
+    "actualTime": "15:47",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1059,7 +1052,7 @@
   "FZ 157-2025-12-31": {
     "flightNumber": "FZ 157",
     "status": "",
-    "actualTime": "08:50",
+    "actualTime": "08:45",
     "type": "arivl",
     "airlineCode": "FZ"
   },
@@ -1315,13 +1308,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "TK 826-2025-12-31": {
-    "flightNumber": "TK 826",
-    "status": "",
-    "actualTime": "20:15",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "ME 242-2025-12-31": {
     "flightNumber": "ME 242",
     "status": "",
@@ -1329,12 +1315,26 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "TK 826-2025-12-31": {
+    "flightNumber": "TK 826",
+    "status": "",
+    "actualTime": "20:25",
+    "type": "arivl",
+    "airlineCode": "TK"
+  },
   "FZ 159-2025-12-31": {
     "flightNumber": "FZ 159",
     "status": "",
     "actualTime": "20:45",
     "type": "arivl",
     "airlineCode": "FZ"
+  },
+  "CY 122-2025-12-31": {
+    "flightNumber": "CY 122",
+    "status": "",
+    "actualTime": "20:50",
+    "type": "arivl",
+    "airlineCode": "CY"
   },
   "ME 307-2025-12-31": {
     "flightNumber": "ME 307",
