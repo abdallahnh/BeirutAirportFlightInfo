@@ -1,11 +1,4 @@
 {
-  "QR 417-2025-12-30": {
-    "flightNumber": "QR 417",
-    "status": "غادرت",
-    "actualTime": "12:52",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "ME 229-2025-12-30": {
     "flightNumber": "ME 229",
     "status": "تم اغلاق البوابة",
@@ -223,13 +216,6 @@
     "type": "dprtr",
     "airlineCode": "ET"
   },
-  "ME 575-2025-12-31": {
-    "flightNumber": "ME 575",
-    "status": "",
-    "actualTime": "02:05",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "PC 759-2025-12-31": {
     "flightNumber": "PC 759",
     "status": "",
@@ -292,13 +278,6 @@
     "actualTime": "06:00",
     "type": "dprtr",
     "airlineCode": "RJ"
-  },
-  "ME 225-2025-12-31": {
-    "flightNumber": "ME 225",
-    "status": "",
-    "actualTime": "06:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "ME 235-2025-12-31": {
     "flightNumber": "ME 235",
@@ -363,13 +342,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 251-2025-12-31": {
-    "flightNumber": "ME 251",
-    "status": "",
-    "actualTime": "08:15",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 424-2025-12-31": {
     "flightNumber": "ME 424",
     "status": "",
@@ -426,17 +398,10 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "UF 002-2025-12-31": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "KU 502-2025-12-31": {
     "flightNumber": "KU 502",
     "status": "",
-    "actualTime": "11:30",
+    "actualTime": "11:00",
     "type": "dprtr",
     "airlineCode": "KU"
   },
@@ -453,6 +418,13 @@
     "actualTime": "11:35",
     "type": "dprtr",
     "airlineCode": "G9"
+  },
+  "ME 304-2025-12-31": {
+    "flightNumber": "ME 304",
+    "status": "",
+    "actualTime": "11:40",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "RJ 402-2025-12-31": {
     "flightNumber": "RJ 402",
@@ -474,13 +446,6 @@
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "EK"
-  },
-  "ME 304-2025-12-31": {
-    "flightNumber": "ME 304",
-    "status": "",
-    "actualTime": "12:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "QR 417-2025-12-31": {
     "flightNumber": "QR 417",
@@ -678,13 +643,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "QR 416-2025-12-30": {
-    "flightNumber": "QR 416",
-    "status": "وصلت",
-    "actualTime": "11:52",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "UF 001-2025-12-30": {
     "flightNumber": "UF 001",
     "status": "وصلت",
@@ -708,8 +666,8 @@
   },
   "TK 824-2025-12-30": {
     "flightNumber": "TK 824",
-    "status": "",
-    "actualTime": "13:55",
+    "status": "وصلت",
+    "actualTime": "13:53",
     "type": "arivl",
     "airlineCode": "TK"
   },
