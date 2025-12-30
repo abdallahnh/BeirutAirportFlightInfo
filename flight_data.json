@@ -1,14 +1,14 @@
 {
   "IA 132-2025-12-30": {
     "flightNumber": "IA 132",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:43",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "G9 386-2025-12-30": {
     "flightNumber": "G9 386",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:20",
     "type": "dprtr",
     "airlineCode": "G9"
@@ -29,7 +29,7 @@
   },
   "ME 320-2025-12-30": {
     "flightNumber": "ME 320",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:17",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -740,13 +740,6 @@
     "actualTime": "21:45",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "EK 957-2025-12-30": {
-    "flightNumber": "EK 957",
-    "status": "وصلت",
-    "actualTime": "09:35",
-    "type": "arivl",
-    "airlineCode": "EK"
   },
   "IA 131-2025-12-30": {
     "flightNumber": "IA 131",
