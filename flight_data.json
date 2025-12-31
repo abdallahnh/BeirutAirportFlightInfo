@@ -57,7 +57,7 @@
   },
   "QR 417-2025-12-31": {
     "flightNumber": "QR 417",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:11",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -71,8 +71,8 @@
   },
   "EY 582-2025-12-31": {
     "flightNumber": "EY 582",
-    "status": "",
-    "actualTime": "13:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:48",
     "type": "dprtr",
     "airlineCode": "EY"
   },
@@ -727,26 +727,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 131-2025-12-31": {
-    "flightNumber": "IA 131",
-    "status": "وصلت",
-    "actualTime": "10:45",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "EY 581-2025-12-31": {
     "flightNumber": "EY 581",
     "status": "وصلت",
     "actualTime": "11:18",
     "type": "arivl",
     "airlineCode": "EY"
-  },
-  "RJ 401-2025-12-31": {
-    "flightNumber": "RJ 401",
-    "status": "وصلت",
-    "actualTime": "10:52",
-    "type": "arivl",
-    "airlineCode": "RJ"
   },
   "G9 385-2025-12-31": {
     "flightNumber": "G9 385",
