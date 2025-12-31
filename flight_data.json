@@ -50,7 +50,7 @@
   },
   "EY 582-2025-12-31": {
     "flightNumber": "EY 582",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:48",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -1052,7 +1052,7 @@
   "LH 1308-2026-01-01": {
     "flightNumber": "LH 1308",
     "status": "",
-    "actualTime": "22:40",
+    "actualTime": "02:35",
     "type": "arivl",
     "airlineCode": "LH"
   },
@@ -1378,6 +1378,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "IA 1317-2026-01-01": {
+    "flightNumber": "IA 1317",
+    "status": "",
+    "actualTime": "20:00",
+    "type": "arivl",
+    "airlineCode": "IA"
+  },
   "TK 826-2026-01-01": {
     "flightNumber": "TK 826",
     "status": "",
@@ -1399,6 +1406,20 @@
     "type": "arivl",
     "airlineCode": "G9"
   },
+  "IA 1323-2026-01-01": {
+    "flightNumber": "IA 1323",
+    "status": "",
+    "actualTime": "21:30",
+    "type": "arivl",
+    "airlineCode": "IA"
+  },
+  "ME 327-2026-01-01": {
+    "flightNumber": "ME 327",
+    "status": "",
+    "actualTime": "21:45",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
   "ME 307-2026-01-01": {
     "flightNumber": "ME 307",
     "status": "",
@@ -1417,13 +1438,6 @@
     "flightNumber": "ME 268",
     "status": "",
     "actualTime": "22:20",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 327-2026-01-01": {
-    "flightNumber": "ME 327",
-    "status": "",
-    "actualTime": "22:25",
     "type": "arivl",
     "airlineCode": "ME"
   },
