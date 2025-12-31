@@ -545,27 +545,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 307-2025-12-31": {
-    "flightNumber": "ME 307",
-    "status": "وصلت",
-    "actualTime": "22:20",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "IA 1307-2025-12-31": {
-    "flightNumber": "IA 1307",
-    "status": "وصلت",
-    "actualTime": "22:24",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "ME 437-2025-12-31": {
-    "flightNumber": "ME 437",
-    "status": "وصلت",
-    "actualTime": "22:02",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 268-2025-12-31": {
     "flightNumber": "ME 268",
     "status": "وصلت",
@@ -596,8 +575,8 @@
   },
   "ME 369-2025-12-31": {
     "flightNumber": "ME 369",
-    "status": "",
-    "actualTime": "23:40",
+    "status": "وصلت",
+    "actualTime": "23:42",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -610,7 +589,7 @@
   },
   "ME 230-2025-12-31": {
     "flightNumber": "ME 230",
-    "status": "تبكير",
+    "status": "وصلت",
     "actualTime": "23:45",
     "type": "arivl",
     "airlineCode": "ME"
@@ -657,19 +636,19 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "LH 1308-2026-01-01": {
-    "flightNumber": "LH 1308",
-    "status": "",
-    "actualTime": "02:35",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "PC 756-2026-01-01": {
     "flightNumber": "PC 756",
     "status": "",
     "actualTime": "02:35",
     "type": "arivl",
     "airlineCode": "PC"
+  },
+  "LH 1308-2026-01-01": {
+    "flightNumber": "LH 1308",
+    "status": "",
+    "actualTime": "02:35",
+    "type": "arivl",
+    "airlineCode": "LH"
   },
   "MS 713-2026-01-01": {
     "flightNumber": "MS 713",
