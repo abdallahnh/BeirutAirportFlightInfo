@@ -118,19 +118,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "AF 565-2025-12-31": {
-    "flightNumber": "AF 565",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "dprtr",
-    "airlineCode": "AF"
-  },
   "CY 121-2025-12-31": {
     "flightNumber": "CY 121",
     "status": "",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "CY"
+  },
+  "AF 565-2025-12-31": {
+    "flightNumber": "AF 565",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "AF"
   },
   "ME 428-2025-12-31": {
     "flightNumber": "ME 428",
@@ -733,13 +733,6 @@
     "actualTime": "10:45",
     "type": "arivl",
     "airlineCode": "IA"
-  },
-  "ME 311-2025-12-31": {
-    "flightNumber": "ME 311",
-    "status": "وصلت",
-    "actualTime": "10:32",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "EY 581-2025-12-31": {
     "flightNumber": "EY 581",
