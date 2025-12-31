@@ -1014,13 +1014,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 419-2025-12-31": {
-    "flightNumber": "ME 419",
-    "status": "وصلت",
-    "actualTime": "23:15",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 369-2025-12-31": {
     "flightNumber": "ME 369",
     "status": "وصلت",
@@ -1051,22 +1044,22 @@
   },
   "ET 406-2026-01-01": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "01:05",
+    "status": "وصلت",
+    "actualTime": "01:16",
     "type": "arivl",
     "airlineCode": "ET"
   },
   "VF 1627-2026-01-01": {
     "flightNumber": "VF 1627",
-    "status": "",
-    "actualTime": "01:30",
+    "status": "وصلت",
+    "actualTime": "01:26",
     "type": "arivl",
     "airlineCode": "VF"
   },
   "PC 758-2026-01-01": {
     "flightNumber": "PC 758",
-    "status": "",
-    "actualTime": "01:35",
+    "status": "وصلت",
+    "actualTime": "01:30",
     "type": "arivl",
     "airlineCode": "PC"
   },
@@ -1147,19 +1140,19 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "EK 957-2026-01-01": {
-    "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "MS 709-2026-01-01": {
     "flightNumber": "MS 709",
     "status": "",
     "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "MS"
+  },
+  "EK 957-2026-01-01": {
+    "flightNumber": "EK 957",
+    "status": "",
+    "actualTime": "09:15",
+    "type": "arivl",
+    "airlineCode": "EK"
   },
   "IA 131-2026-01-01": {
     "flightNumber": "IA 131",
