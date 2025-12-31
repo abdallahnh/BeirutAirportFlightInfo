@@ -57,29 +57,29 @@
   },
   "ME 304-2025-12-31": {
     "flightNumber": "ME 304",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:40",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 402-2025-12-31": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "ME 320-2025-12-31": {
     "flightNumber": "ME 320",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2025-12-31": {
     "flightNumber": "EK 958",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:50",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -755,33 +755,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 262-2025-12-31": {
-    "flightNumber": "ME 262",
-    "status": "وصلت",
-    "actualTime": "08:41",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "TK 830-2025-12-31": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:52",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "IA 137-2025-12-31": {
     "flightNumber": "IA 137",
     "status": "وصلت",
     "actualTime": "09:00",
     "type": "arivl",
     "airlineCode": "IA"
-  },
-  "FZ 157-2025-12-31": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "08:37",
-    "type": "arivl",
-    "airlineCode": "FZ"
   },
   "MS 709-2025-12-31": {
     "flightNumber": "MS 709",
@@ -806,8 +785,8 @@
   },
   "IA 131-2025-12-31": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "وصلت",
+    "actualTime": "10:45",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -827,14 +806,14 @@
   },
   "RJ 401-2025-12-31": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "10:50",
+    "status": "وصلت",
+    "actualTime": "10:52",
     "type": "arivl",
     "airlineCode": "RJ"
   },
   "G9 385-2025-12-31": {
     "flightNumber": "G9 385",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "10:55",
     "type": "arivl",
     "airlineCode": "G9"
