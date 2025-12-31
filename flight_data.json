@@ -545,20 +545,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "FZ 159-2025-12-31": {
-    "flightNumber": "FZ 159",
-    "status": "وصلت",
-    "actualTime": "20:34",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
-  "CY 122-2025-12-31": {
-    "flightNumber": "CY 122",
-    "status": "وصلت",
-    "actualTime": "20:31",
-    "type": "arivl",
-    "airlineCode": "CY"
-  },
   "ME 307-2025-12-31": {
     "flightNumber": "ME 307",
     "status": "وصلت",
@@ -582,8 +568,8 @@
   },
   "ME 268-2025-12-31": {
     "flightNumber": "ME 268",
-    "status": "",
-    "actualTime": "22:26",
+    "status": "وصلت",
+    "actualTime": "22:28",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -734,19 +720,19 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "EK 957-2026-01-01": {
-    "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "MS 709-2026-01-01": {
     "flightNumber": "MS 709",
     "status": "",
     "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "MS"
+  },
+  "EK 957-2026-01-01": {
+    "flightNumber": "EK 957",
+    "status": "",
+    "actualTime": "09:15",
+    "type": "arivl",
+    "airlineCode": "EK"
   },
   "IA 131-2026-01-01": {
     "flightNumber": "IA 131",
