@@ -1,29 +1,22 @@
 {
-  "IA 1322-2026-01-01": {
-    "flightNumber": "IA 1322",
-    "status": "غادرت",
-    "actualTime": "12:34",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "QR 417-2026-01-01": {
     "flightNumber": "QR 417",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "12:17",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "ME 229-2026-01-01": {
     "flightNumber": "ME 229",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "12:54",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EY 582-2026-01-01": {
     "flightNumber": "EY 582",
-    "status": "",
-    "actualTime": "13:50",
+    "status": "النداء الاخير",
+    "actualTime": "12:57",
     "type": "dprtr",
     "airlineCode": "EY"
   },
@@ -62,6 +55,13 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "AF 565-2026-01-01": {
+    "flightNumber": "AF 565",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "AF"
+  },
   "CY 121-2026-01-01": {
     "flightNumber": "CY 121",
     "status": "",
@@ -69,12 +69,12 @@
     "type": "dprtr",
     "airlineCode": "CY"
   },
-  "AF 565-2026-01-01": {
-    "flightNumber": "AF 565",
+  "ME 428-2026-01-01": {
+    "flightNumber": "ME 428",
     "status": "",
-    "actualTime": "16:00",
+    "actualTime": "16:15",
     "type": "dprtr",
-    "airlineCode": "AF"
+    "airlineCode": "ME"
   },
   "ME 312-2026-01-01": {
     "flightNumber": "ME 312",
