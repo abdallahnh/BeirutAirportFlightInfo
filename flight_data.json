@@ -20,31 +20,17 @@
     "type": "dprtr",
     "airlineCode": "KU"
   },
-  "ME 275-2026-01-01": {
-    "flightNumber": "ME 275",
-    "status": "غادرت",
-    "actualTime": "20:12",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "J9 262-2026-01-01": {
     "flightNumber": "J9 262",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:18",
     "type": "dprtr",
     "airlineCode": "J9"
   },
   "ME 430-2026-01-01": {
     "flightNumber": "ME 430",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "20:20",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 261-2026-01-01": {
-    "flightNumber": "ME 261",
-    "status": "",
-    "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -55,9 +41,16 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
+  "ME 261-2026-01-01": {
+    "flightNumber": "ME 261",
+    "status": "",
+    "actualTime": "21:00",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "TK 827-2026-01-01": {
     "flightNumber": "TK 827",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:10",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -166,6 +159,13 @@
     "actualTime": "05:15",
     "type": "dprtr",
     "airlineCode": "VF"
+  },
+  "IA 1306-2026-01-02": {
+    "flightNumber": "IA 1306",
+    "status": "",
+    "actualTime": "05:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "RJ 408-2026-01-02": {
     "flightNumber": "RJ 408",
@@ -285,6 +285,13 @@
     "actualTime": "09:00",
     "type": "dprtr",
     "airlineCode": "TK"
+  },
+  "IA 1314-2026-01-02": {
+    "flightNumber": "IA 1314",
+    "status": "",
+    "actualTime": "09:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "TK 831-2026-01-02": {
     "flightNumber": "TK 831",
@@ -524,6 +531,13 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
+  "IA 1326-2026-01-02": {
+    "flightNumber": "IA 1326",
+    "status": "",
+    "actualTime": "18:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
+  },
   "MS 712-2026-01-02": {
     "flightNumber": "MS 712",
     "status": "",
@@ -565,6 +579,13 @@
     "actualTime": "20:25",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "IA 1312-2026-01-02": {
+    "flightNumber": "IA 1312",
+    "status": "",
+    "actualTime": "20:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "RJ 5008-2026-01-02": {
     "flightNumber": "RJ 5008",
@@ -694,15 +715,15 @@
   },
   "FZ 159-2026-01-01": {
     "flightNumber": "FZ 159",
-    "status": "",
-    "actualTime": "20:45",
+    "status": "وصلت",
+    "actualTime": "20:44",
     "type": "arivl",
     "airlineCode": "FZ"
   },
   "G9 387-2026-01-01": {
     "flightNumber": "G9 387",
-    "status": "",
-    "actualTime": "20:50",
+    "status": "تبكير",
+    "actualTime": "19:15",
     "type": "arivl",
     "airlineCode": "G9"
   },
@@ -895,6 +916,13 @@
     "type": "arivl",
     "airlineCode": "RO"
   },
+  "IA 1305-2026-01-02": {
+    "flightNumber": "IA 1305",
+    "status": "",
+    "actualTime": "04:30",
+    "type": "arivl",
+    "airlineCode": "IA"
+  },
   "ME 431-2026-01-02": {
     "flightNumber": "ME 431",
     "status": "",
@@ -915,6 +943,13 @@
     "actualTime": "06:00",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "IA 1313-2026-01-02": {
+    "flightNumber": "IA 1313",
+    "status": "",
+    "actualTime": "08:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "TK 830-2026-01-02": {
     "flightNumber": "TK 830",
@@ -1175,6 +1210,13 @@
     "type": "arivl",
     "airlineCode": "SK"
   },
+  "IA 1325-2026-01-02": {
+    "flightNumber": "IA 1325",
+    "status": "",
+    "actualTime": "17:30",
+    "type": "arivl",
+    "airlineCode": "IA"
+  },
   "QR 426-2026-01-02": {
     "flightNumber": "QR 426",
     "status": "",
@@ -1216,6 +1258,13 @@
     "actualTime": "20:05",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "IA 1311-2026-01-02": {
+    "flightNumber": "IA 1311",
+    "status": "",
+    "actualTime": "19:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "RJ 5007-2026-01-02": {
     "flightNumber": "RJ 5007",
