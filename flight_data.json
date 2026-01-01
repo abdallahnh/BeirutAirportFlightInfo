@@ -15,8 +15,8 @@
   },
   "MS 712-2026-01-01": {
     "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "19:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:52",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -29,14 +29,14 @@
   },
   "EK 954-2026-01-01": {
     "flightNumber": "EK 954",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:38",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "RJ 404-2026-01-01": {
     "flightNumber": "RJ 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:55",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -103,6 +103,13 @@
     "actualTime": "21:45",
     "type": "dprtr",
     "airlineCode": "FZ"
+  },
+  "IA 1310-2026-01-01": {
+    "flightNumber": "IA 1310",
+    "status": "",
+    "actualTime": "22:00",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "ME 434-2026-01-01": {
     "flightNumber": "ME 434",
@@ -663,13 +670,6 @@
     "actualTime": "16:30",
     "type": "arivl",
     "airlineCode": "UF"
-  },
-  "ME 218-2026-01-01": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "16:44",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 325-2026-01-01": {
     "flightNumber": "ME 325",
