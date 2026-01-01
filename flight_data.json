@@ -29,50 +29,36 @@
   },
   "ME 265-2026-01-01": {
     "flightNumber": "ME 265",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "06:26",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 217-2026-01-01": {
     "flightNumber": "ME 217",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "07:01",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 426-2026-01-01": {
-    "flightNumber": "ME 426",
-    "status": "النداء الاخير",
-    "actualTime": "06:44",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 231-2026-01-01": {
-    "flightNumber": "ME 231",
-    "status": "النداء الاخير",
-    "actualTime": "06:48",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 201-2026-01-01": {
     "flightNumber": "ME 201",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:35",
+    "status": "غادرت",
+    "actualTime": "07:09",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 310-2026-01-01": {
     "flightNumber": "ME 310",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:40",
+    "status": "النداء الاخير",
+    "actualTime": "07:08",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 211-2026-01-01": {
     "flightNumber": "ME 211",
-    "status": "",
-    "actualTime": "07:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:31",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -111,6 +97,13 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
+  "MS 710-2026-01-01": {
+    "flightNumber": "MS 710",
+    "status": "",
+    "actualTime": "10:00",
+    "type": "dprtr",
+    "airlineCode": "MS"
+  },
   "IA 1320-2026-01-01": {
     "flightNumber": "IA 1320",
     "status": "",
@@ -124,13 +117,6 @@
     "actualTime": "10:10",
     "type": "dprtr",
     "airlineCode": "TK"
-  },
-  "MS 710-2026-01-01": {
-    "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "10:15",
-    "type": "dprtr",
-    "airlineCode": "MS"
   },
   "IA 132-2026-01-01": {
     "flightNumber": "IA 132",
@@ -181,10 +167,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 1312-2026-01-01": {
-    "flightNumber": "IA 1312",
+  "IA 1322-2026-01-01": {
+    "flightNumber": "IA 1322",
     "status": "",
-    "actualTime": "17:30",
+    "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -299,6 +285,13 @@
     "actualTime": "17:25",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "IA 1312-2026-01-01": {
+    "flightNumber": "IA 1312",
+    "status": "",
+    "actualTime": "17:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "ME 442-2026-01-01": {
     "flightNumber": "ME 442",
@@ -937,26 +930,19 @@
     "type": "arivl",
     "airlineCode": "FZ"
   },
+  "MS 709-2026-01-01": {
+    "flightNumber": "MS 709",
+    "status": "",
+    "actualTime": "09:00",
+    "type": "arivl",
+    "airlineCode": "MS"
+  },
   "IA 1319-2026-01-01": {
     "flightNumber": "IA 1319",
     "status": "",
     "actualTime": "09:00",
     "type": "arivl",
     "airlineCode": "IA"
-  },
-  "EK 957-2026-01-01": {
-    "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
-  "MS 709-2026-01-01": {
-    "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "MS"
   },
   "IA 131-2026-01-01": {
     "flightNumber": "IA 131",
