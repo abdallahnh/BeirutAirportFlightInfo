@@ -15,7 +15,7 @@
   },
   "ME 402-2026-01-01": {
     "flightNumber": "ME 402",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "17:02",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -34,16 +34,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "UF 004-2026-01-01": {
-    "flightNumber": "UF 004",
-    "status": "غادرت",
-    "actualTime": "17:24",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "ME 306-2026-01-01": {
     "flightNumber": "ME 306",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "17:36",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -820,6 +813,13 @@
   },
   "IA 1323-2026-01-01": {
     "flightNumber": "IA 1323",
+    "status": "",
+    "actualTime": "21:30",
+    "type": "arivl",
+    "airlineCode": "IA"
+  },
+  "IA 1309-2026-01-01": {
+    "flightNumber": "IA 1309",
     "status": "",
     "actualTime": "21:30",
     "type": "arivl",
