@@ -1,14 +1,14 @@
 {
   "IA 1310-2026-01-01": {
     "flightNumber": "IA 1310",
-    "status": "تم فتح البوابة",
+    "status": "غادرت",
     "actualTime": "22:00",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "ME 434-2026-01-01": {
     "flightNumber": "ME 434",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "22:45",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -596,7 +596,7 @@
   },
   "IA 1323-2026-01-01": {
     "flightNumber": "IA 1323",
-    "status": "",
+    "status": "تأخير",
     "actualTime": "21:30",
     "type": "arivl",
     "airlineCode": "IA"
