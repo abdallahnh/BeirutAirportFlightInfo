@@ -1,42 +1,21 @@
 {
-  "ME 320-2026-01-02": {
-    "flightNumber": "ME 320",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "11:44",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "EK 958-2026-01-02": {
-    "flightNumber": "EK 958",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "10:49",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
-  "QR 417-2026-01-02": {
-    "flightNumber": "QR 417",
-    "status": "غادرت",
-    "actualTime": "12:15",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "ME 229-2026-01-02": {
     "flightNumber": "ME 229",
-    "status": "تم فتح البوابة",
-    "actualTime": "13:30",
+    "status": "النداء الاخير",
+    "actualTime": "12:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EY 582-2026-01-02": {
     "flightNumber": "EY 582",
-    "status": "تم فتح البوابة",
-    "actualTime": "13:50",
+    "status": "النداء الاخير",
+    "actualTime": "13:00",
     "type": "dprtr",
     "airlineCode": "EY"
   },
   "AH 4017-2026-01-02": {
     "flightNumber": "AH 4017",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:50",
     "type": "dprtr",
     "airlineCode": "AH"
@@ -83,19 +62,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "CY 121-2026-01-02": {
-    "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "dprtr",
-    "airlineCode": "CY"
-  },
   "AF 565-2026-01-02": {
     "flightNumber": "AF 565",
     "status": "",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "AF"
+  },
+  "CY 121-2026-01-02": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "CY"
   },
   "ME 428-2026-01-02": {
     "flightNumber": "ME 428",
@@ -797,13 +776,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "G9 385-2026-01-02": {
-    "flightNumber": "G9 385",
-    "status": "وصلت",
-    "actualTime": "11:09",
-    "type": "arivl",
-    "airlineCode": "G9"
-  },
   "ME 303-2026-01-02": {
     "flightNumber": "ME 303",
     "status": "وصلت",
@@ -827,15 +799,15 @@
   },
   "AH 4016-2026-01-02": {
     "flightNumber": "AH 4016",
-    "status": "",
-    "actualTime": "12:50",
+    "status": "وصلت",
+    "actualTime": "13:09",
     "type": "arivl",
     "airlineCode": "AH"
   },
   "QR 3062-2026-01-02": {
     "flightNumber": "QR 3062",
-    "status": "",
-    "actualTime": "13:00",
+    "status": "وصلت",
+    "actualTime": "13:06",
     "type": "arivl",
     "airlineCode": "QR"
   },
