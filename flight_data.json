@@ -57,17 +57,10 @@
   },
   "EK 956-2026-01-03": {
     "flightNumber": "EK 956",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "00:31",
     "type": "dprtr",
     "airlineCode": "EK"
-  },
-  "PC 755-2026-01-03": {
-    "flightNumber": "PC 755",
-    "status": "غادرت",
-    "actualTime": "00:52",
-    "type": "dprtr",
-    "airlineCode": "PC"
   },
   "IA 1324-2026-01-03": {
     "flightNumber": "IA 1324",
@@ -85,7 +78,7 @@
   },
   "ET 407-2026-01-03": {
     "flightNumber": "ET 407",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "01:31",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -1202,13 +1195,6 @@
     "actualTime": "23:10",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "EK 955-2026-01-02": {
-    "flightNumber": "EK 955",
-    "status": "وصلت",
-    "actualTime": "23:36",
-    "type": "arivl",
-    "airlineCode": "EK"
   },
   "ME 369-2026-01-02": {
     "flightNumber": "ME 369",
