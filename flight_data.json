@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 241-2026-01-02": {
-    "flightNumber": "ME 241",
-    "status": "غادرت",
-    "actualTime": "08:26",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 4909-2026-01-02": {
     "flightNumber": "TK 4909",
     "status": "تم اغلاق البوابة",
@@ -43,7 +36,7 @@
   },
   "FZ 158-2026-01-02": {
     "flightNumber": "FZ 158",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "08:57",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -215,13 +208,6 @@
     "actualTime": "16:25",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "IA 1302-2026-01-02": {
-    "flightNumber": "IA 1302",
-    "status": "",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
   },
   "ME 326-2026-01-02": {
     "flightNumber": "ME 326",
@@ -953,17 +939,10 @@
   },
   "KU 501-2026-01-02": {
     "flightNumber": "KU 501",
-    "status": "تبكير",
-    "actualTime": "09:20",
+    "status": "وصلت",
+    "actualTime": "09:28",
     "type": "arivl",
     "airlineCode": "KU"
-  },
-  "IA 131-2026-01-02": {
-    "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "10:30",
-    "type": "arivl",
-    "airlineCode": "IA"
   },
   "UF 001-2026-01-02": {
     "flightNumber": "UF 001",
@@ -971,6 +950,13 @@
     "actualTime": "10:30",
     "type": "arivl",
     "airlineCode": "UF"
+  },
+  "IA 131-2026-01-02": {
+    "flightNumber": "IA 131",
+    "status": "",
+    "actualTime": "10:30",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "ME 311-2026-01-02": {
     "flightNumber": "ME 311",
@@ -1111,13 +1097,6 @@
     "actualTime": "15:25",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "IA 1301-2026-01-02": {
-    "flightNumber": "IA 1301",
-    "status": "",
-    "actualTime": "15:30",
-    "type": "arivl",
-    "airlineCode": "IA"
   },
   "ME 248-2026-01-02": {
     "flightNumber": "ME 248",
