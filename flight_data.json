@@ -1,28 +1,14 @@
 {
-  "IA 132-2026-01-02": {
-    "flightNumber": "IA 132",
-    "status": "غادرت",
-    "actualTime": "11:22",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "G9 386-2026-01-02": {
     "flightNumber": "G9 386",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "ME 304-2026-01-02": {
-    "flightNumber": "ME 304",
-    "status": "غادرت",
-    "actualTime": "11:17",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 320-2026-01-02": {
     "flightNumber": "ME 320",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:44",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -36,8 +22,8 @@
   },
   "ME 263-2026-01-02": {
     "flightNumber": "ME 263",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:20",
+    "status": "النداء الاخير",
+    "actualTime": "11:52",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -55,19 +41,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "EY 582-2026-01-02": {
+    "flightNumber": "EY 582",
+    "status": "تم فتح البوابة",
+    "actualTime": "13:50",
+    "type": "dprtr",
+    "airlineCode": "EY"
+  },
   "AH 4017-2026-01-02": {
     "flightNumber": "AH 4017",
     "status": "",
     "actualTime": "13:50",
     "type": "dprtr",
     "airlineCode": "AH"
-  },
-  "EY 582-2026-01-02": {
-    "flightNumber": "EY 582",
-    "status": "",
-    "actualTime": "13:50",
-    "type": "dprtr",
-    "airlineCode": "EY"
   },
   "QR 3063-2026-01-02": {
     "flightNumber": "QR 3063",
@@ -825,20 +811,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 830-2026-01-02": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "09:53",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "MS 709-2026-01-02": {
-    "flightNumber": "MS 709",
-    "status": "وصلت",
-    "actualTime": "09:54",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "UF 001-2026-01-02": {
     "flightNumber": "UF 001",
     "status": "وصلت",
@@ -897,7 +869,7 @@
   },
   "ME 266-2026-01-02": {
     "flightNumber": "ME 266",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "11:52",
     "type": "arivl",
     "airlineCode": "ME"
