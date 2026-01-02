@@ -8,8 +8,8 @@
   },
   "QR 3063-2026-01-02": {
     "flightNumber": "QR 3063",
-    "status": "تم فتح البوابة",
-    "actualTime": "14:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "13:55",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -48,19 +48,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "AF 565-2026-01-02": {
-    "flightNumber": "AF 565",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "dprtr",
-    "airlineCode": "AF"
-  },
   "CY 121-2026-01-02": {
     "flightNumber": "CY 121",
     "status": "",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "CY"
+  },
+  "AF 565-2026-01-02": {
+    "flightNumber": "AF 565",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "AF"
   },
   "ME 428-2026-01-02": {
     "flightNumber": "ME 428",
@@ -762,13 +762,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 266-2026-01-02": {
-    "flightNumber": "ME 266",
-    "status": "وصلت",
-    "actualTime": "11:52",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "AH 4016-2026-01-02": {
     "flightNumber": "AH 4016",
     "status": "وصلت",
@@ -792,7 +785,7 @@
   },
   "TK 824-2026-01-02": {
     "flightNumber": "TK 824",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "13:47",
     "type": "arivl",
     "airlineCode": "TK"
