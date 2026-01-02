@@ -34,33 +34,12 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "ME 414-2026-01-02": {
-    "flightNumber": "ME 414",
-    "status": "غادرت",
-    "actualTime": "20:23",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "J9 262-2026-01-02": {
     "flightNumber": "J9 262",
     "status": "النداء الاخير",
     "actualTime": "20:50",
     "type": "dprtr",
     "airlineCode": "J9"
-  },
-  "ME 430-2026-01-02": {
-    "flightNumber": "ME 430",
-    "status": "غادرت",
-    "actualTime": "20:27",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 261-2026-01-02": {
-    "flightNumber": "ME 261",
-    "status": "غادرت",
-    "actualTime": "20:23",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "TK 827-2026-01-02": {
     "flightNumber": "TK 827",
@@ -69,23 +48,16 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "RJ 5008-2026-01-02": {
-    "flightNumber": "RJ 5008",
-    "status": "النداء الاخير",
-    "actualTime": "20:30",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "FZ 160-2026-01-02": {
     "flightNumber": "FZ 160",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:49",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
   "ME 1422-2026-01-02": {
     "flightNumber": "ME 1422",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "20:54",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -99,7 +71,7 @@
   },
   "CY 123-2026-01-02": {
     "flightNumber": "CY 123",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:55",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -790,13 +762,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 202-2026-01-02": {
-    "flightNumber": "ME 202",
-    "status": "وصلت",
-    "actualTime": "19:01",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 313-2026-01-02": {
     "flightNumber": "ME 313",
     "status": "وصلت",
@@ -855,8 +820,8 @@
   },
   "IA 1325-2026-01-02": {
     "flightNumber": "IA 1325",
-    "status": "",
-    "actualTime": "20:30",
+    "status": "وصلت",
+    "actualTime": "21:12",
     "type": "arivl",
     "airlineCode": "IA"
   },
