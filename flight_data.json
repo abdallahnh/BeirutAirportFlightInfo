@@ -55,37 +55,30 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 1418-2026-01-03": {
-    "flightNumber": "ME 1418",
-    "status": "غادرت",
-    "actualTime": "23:38",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "SK 2968-2026-01-03": {
     "flightNumber": "SK 2968",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "23:55",
     "type": "dprtr",
     "airlineCode": "SK"
   },
   "QR 419-2026-01-03": {
     "flightNumber": "QR 419",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "23:52",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "EK 956-2026-01-03": {
     "flightNumber": "EK 956",
-    "status": "تم فتح البوابة",
-    "actualTime": "00:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "00:31",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "PC 755-2026-01-03": {
     "flightNumber": "PC 755",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "01:30",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -1317,8 +1310,8 @@
   },
   "PC 754-2026-01-03": {
     "flightNumber": "PC 754",
-    "status": "",
-    "actualTime": "00:30",
+    "status": "وصلت",
+    "actualTime": "00:20",
     "type": "arivl",
     "airlineCode": "PC"
   },
