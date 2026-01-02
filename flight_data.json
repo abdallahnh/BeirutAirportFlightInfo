@@ -1,25 +1,4 @@
 {
-  "TK 825-2026-01-02": {
-    "flightNumber": "TK 825",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "14:28",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "ME 418-2026-01-02": {
-    "flightNumber": "ME 418",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "14:51",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "VF 1044-2026-01-02": {
-    "flightNumber": "VF 1044",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "15:25",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
   "CY 121-2026-01-02": {
     "flightNumber": "CY 121",
     "status": "النداء الاخير",
@@ -29,15 +8,15 @@
   },
   "ME 428-2026-01-02": {
     "flightNumber": "ME 428",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 312-2026-01-02": {
     "flightNumber": "ME 312",
-    "status": "تأخير",
-    "actualTime": "16:45",
+    "status": "النداء الاخير",
+    "actualTime": "16:23",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -50,7 +29,7 @@
   },
   "ME 267-2026-01-02": {
     "flightNumber": "ME 267",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:25",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -853,13 +832,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 405-2026-01-02": {
-    "flightNumber": "ME 405",
-    "status": "وصلت",
-    "actualTime": "14:19",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "VF 1043-2026-01-02": {
     "flightNumber": "VF 1043",
     "status": "وصلت",
@@ -880,13 +852,6 @@
     "actualTime": "15:03",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "CY 120-2026-01-02": {
-    "flightNumber": "CY 120",
-    "status": "وصلت",
-    "actualTime": "14:33",
-    "type": "arivl",
-    "airlineCode": "CY"
   },
   "ME 427-2026-01-02": {
     "flightNumber": "ME 427",
