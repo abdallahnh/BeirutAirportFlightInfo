@@ -6,23 +6,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 422-2026-01-02": {
-    "flightNumber": "ME 422",
-    "status": "غادرت",
-    "actualTime": "17:13",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 306-2026-01-02": {
-    "flightNumber": "ME 306",
-    "status": "النداء الاخير",
-    "actualTime": "17:39",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "SK 2828-2026-01-02": {
     "flightNumber": "SK 2828",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "17:50",
     "type": "dprtr",
     "airlineCode": "SK"
@@ -36,7 +22,7 @@
   },
   "EK 954-2026-01-02": {
     "flightNumber": "EK 954",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:45",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -797,13 +783,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 248-2026-01-02": {
-    "flightNumber": "ME 248",
-    "status": "وصلت",
-    "actualTime": "15:58",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 214-2026-01-02": {
     "flightNumber": "ME 214",
     "status": "وصلت",
@@ -841,8 +820,8 @@
   },
   "QR 426-2026-01-02": {
     "flightNumber": "QR 426",
-    "status": "",
-    "actualTime": "18:05",
+    "status": "وصلت",
+    "actualTime": "18:12",
     "type": "arivl",
     "airlineCode": "QR"
   },
