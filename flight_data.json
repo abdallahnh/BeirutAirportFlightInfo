@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "MS 712-2026-01-02": {
-    "flightNumber": "MS 712",
-    "status": "غادرت",
-    "actualTime": "19:21",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "IA 1312-2026-01-02": {
     "flightNumber": "IA 1312",
     "status": "تم اغلاق البوابة",
@@ -71,7 +64,7 @@
   },
   "PC 755-2026-01-03": {
     "flightNumber": "PC 755",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "00:52",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -85,15 +78,15 @@
   },
   "ME 575-2026-01-03": {
     "flightNumber": "ME 575",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:30",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ET 407-2026-01-03": {
     "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:31",
     "type": "dprtr",
     "airlineCode": "ET"
   },
@@ -1217,13 +1210,6 @@
     "type": "arivl",
     "airlineCode": "EK"
   },
-  "SK 2967-2026-01-02": {
-    "flightNumber": "SK 2967",
-    "status": "وصلت",
-    "actualTime": "23:27",
-    "type": "arivl",
-    "airlineCode": "SK"
-  },
   "ME 369-2026-01-02": {
     "flightNumber": "ME 369",
     "status": "وصلت",
@@ -1231,24 +1217,10 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 423-2026-01-02": {
-    "flightNumber": "ME 423",
-    "status": "وصلت",
-    "actualTime": "23:24",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 1305-2026-01-02": {
     "flightNumber": "ME 1305",
     "status": "وصلت",
     "actualTime": "23:54",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 230-2026-01-02": {
-    "flightNumber": "ME 230",
-    "status": "وصلت",
-    "actualTime": "23:30",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1289,8 +1261,8 @@
   },
   "VF 1627-2026-01-03": {
     "flightNumber": "VF 1627",
-    "status": "",
-    "actualTime": "01:30",
+    "status": "وصلت",
+    "actualTime": "01:25",
     "type": "arivl",
     "airlineCode": "VF"
   },
