@@ -1,53 +1,4 @@
 {
-  "ET 417-2026-01-03": {
-    "flightNumber": "ET 417",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:22",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "TK 829-2026-01-03": {
-    "flightNumber": "TK 829",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:53",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "PC 757-2026-01-03": {
-    "flightNumber": "PC 757",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:43",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
-  "RO 168-2026-01-03": {
-    "flightNumber": "RO 168",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:35",
-    "type": "dprtr",
-    "airlineCode": "RO"
-  },
-  "VF 544-2026-01-03": {
-    "flightNumber": "VF 544",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:44",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
-  "VF 1628-2026-01-03": {
-    "flightNumber": "VF 1628",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "04:32",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
-  "RJ 5010-2026-01-03": {
-    "flightNumber": "RJ 5010",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:14",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "EY 584-2026-01-03": {
     "flightNumber": "EY 584",
     "status": "تم اغلاق البوابة",
@@ -97,59 +48,38 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 201-2026-01-03": {
-    "flightNumber": "ME 201",
-    "status": "النداء الاخير",
-    "actualTime": "07:22",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 310-2026-01-03": {
     "flightNumber": "ME 310",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "07:35",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 211-2026-01-03": {
-    "flightNumber": "ME 211",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "07:19",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 251-2026-01-03": {
-    "flightNumber": "ME 251",
-    "status": "النداء الاخير",
-    "actualTime": "07:28",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 271-2026-01-03": {
     "flightNumber": "ME 271",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "07:46",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 424-2026-01-03": {
     "flightNumber": "ME 424",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:25",
+    "status": "غادرت",
+    "actualTime": "07:53",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 364-2026-01-03": {
     "flightNumber": "ME 364",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "08:17",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 4909-2026-01-03": {
     "flightNumber": "TK 4909",
-    "status": "تم فتح البوابة",
-    "actualTime": "09:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "08:16",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -181,13 +111,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 1318-2026-01-03": {
-    "flightNumber": "IA 1318",
-    "status": "",
-    "actualTime": "10:00",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "PC 1825-2026-01-03": {
     "flightNumber": "PC 1825",
     "status": "",
@@ -204,7 +127,7 @@
   },
   "G9 386-2026-01-03": {
     "flightNumber": "G9 386",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "11:35",
     "type": "dprtr",
     "airlineCode": "G9"
@@ -250,6 +173,13 @@
     "actualTime": "12:00",
     "type": "dprtr",
     "airlineCode": "ET"
+  },
+  "IA 1318-2026-01-03": {
+    "flightNumber": "IA 1318",
+    "status": "",
+    "actualTime": "12:30",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "IA 1316-2026-01-03": {
     "flightNumber": "IA 1316",
@@ -1075,13 +1005,6 @@
     "status": "",
     "actualTime": "23:10",
     "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 417-2026-01-03": {
-    "flightNumber": "ME 417",
-    "status": "وصلت",
-    "actualTime": "06:06",
-    "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 1419-2026-01-03": {
