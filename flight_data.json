@@ -99,15 +99,15 @@
   },
   "ME 201-2026-01-03": {
     "flightNumber": "ME 201",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "07:22",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 310-2026-01-03": {
     "flightNumber": "ME 310",
-    "status": "",
-    "actualTime": "07:40",
+    "status": "النداء الاخير",
+    "actualTime": "07:35",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -120,21 +120,21 @@
   },
   "ME 251-2026-01-03": {
     "flightNumber": "ME 251",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "07:28",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 271-2026-01-03": {
     "flightNumber": "ME 271",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:46",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 424-2026-01-03": {
     "flightNumber": "ME 424",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:25",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -148,7 +148,7 @@
   },
   "TK 4909-2026-01-03": {
     "flightNumber": "TK 4909",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:00",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -542,6 +542,13 @@
     "flightNumber": "ME 2426",
     "status": "",
     "actualTime": "22:15",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 1434-2026-01-03": {
+    "flightNumber": "ME 1434",
+    "status": "",
+    "actualTime": "22:45",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -1070,13 +1077,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 435-2026-01-03": {
-    "flightNumber": "ME 435",
-    "status": "وصلت",
-    "actualTime": "05:37",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 417-2026-01-03": {
     "flightNumber": "ME 417",
     "status": "وصلت",
@@ -1093,8 +1093,8 @@
   },
   "TK 4908-2026-01-03": {
     "flightNumber": "TK 4908",
-    "status": "",
-    "actualTime": "08:05",
+    "status": "وصلت",
+    "actualTime": "07:38",
     "type": "arivl",
     "airlineCode": "TK"
   },
