@@ -43,7 +43,7 @@
   },
   "ME 430-2026-01-03": {
     "flightNumber": "ME 430",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:24",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -57,7 +57,7 @@
   },
   "ME 1364-2026-01-03": {
     "flightNumber": "ME 1364",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:26",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -71,15 +71,15 @@
   },
   "UF 002-2026-01-03": {
     "flightNumber": "UF 002",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:30",
     "type": "dprtr",
     "airlineCode": "UF"
   },
   "TK 827-2026-01-03": {
     "flightNumber": "TK 827",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:48",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -99,7 +99,7 @@
   },
   "ME 1424-2026-01-03": {
     "flightNumber": "ME 1424",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:45",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -264,6 +264,13 @@
     "actualTime": "06:00",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "EY 584-2026-01-04": {
+    "flightNumber": "EY 584",
+    "status": "",
+    "actualTime": "06:15",
+    "type": "dprtr",
+    "airlineCode": "EY"
   },
   "ME 247-2026-01-04": {
     "flightNumber": "ME 247",
@@ -813,8 +820,8 @@
   },
   "UF 001-2026-01-03": {
     "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "20:30",
+    "status": "وصلت",
+    "actualTime": "20:48",
     "type": "arivl",
     "airlineCode": "UF"
   },
@@ -1055,6 +1062,13 @@
     "actualTime": "05:00",
     "type": "arivl",
     "airlineCode": "RJ"
+  },
+  "EY 583-2026-01-04": {
+    "flightNumber": "EY 583",
+    "status": "",
+    "actualTime": "05:15",
+    "type": "arivl",
+    "airlineCode": "EY"
   },
   "ME 1435-2026-01-04": {
     "flightNumber": "ME 1435",
