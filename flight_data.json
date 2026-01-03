@@ -1,46 +1,4 @@
 {
-  "EY 584-2026-01-03": {
-    "flightNumber": "EY 584",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "05:23",
-    "type": "dprtr",
-    "airlineCode": "EY"
-  },
-  "ME 247-2026-01-03": {
-    "flightNumber": "ME 247",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "05:43",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 235-2026-01-03": {
-    "flightNumber": "ME 235",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:21",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 215-2026-01-03": {
-    "flightNumber": "ME 215",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:29",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 265-2026-01-03": {
-    "flightNumber": "ME 265",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:38",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 217-2026-01-03": {
-    "flightNumber": "ME 217",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:43",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 426-2026-01-03": {
     "flightNumber": "ME 426",
     "status": "النداء الاخير",
@@ -57,28 +15,28 @@
   },
   "MS 710-2026-01-03": {
     "flightNumber": "MS 710",
-    "status": "تم فتح البوابة",
-    "actualTime": "09:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:40",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "ME 446-2026-01-03": {
     "flightNumber": "ME 446",
-    "status": "تم اغلاق البوابة",
+    "status": "غادرت",
     "actualTime": "09:09",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "FZ 158-2026-01-03": {
     "flightNumber": "FZ 158",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "09:29",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
   "TK 831-2026-01-03": {
     "flightNumber": "TK 831",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "09:21",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -148,7 +106,7 @@
   },
   "IA 1318-2026-01-03": {
     "flightNumber": "IA 1318",
-    "status": "",
+    "status": "Ferry Flt.",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -979,13 +937,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 4908-2026-01-03": {
-    "flightNumber": "TK 4908",
-    "status": "وصلت",
-    "actualTime": "07:38",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "TK 830-2026-01-03": {
     "flightNumber": "TK 830",
     "status": "وصلت",
@@ -1009,8 +960,8 @@
   },
   "IA 1317-2026-01-03": {
     "flightNumber": "IA 1317",
-    "status": "",
-    "actualTime": "09:00",
+    "status": "وصلت",
+    "actualTime": "09:38",
     "type": "arivl",
     "airlineCode": "IA"
   },
