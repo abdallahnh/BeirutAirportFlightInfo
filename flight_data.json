@@ -92,7 +92,7 @@
   },
   "ME 1424-2026-01-03": {
     "flightNumber": "ME 1424",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "21:14",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -106,8 +106,8 @@
   },
   "ME 2426-2026-01-03": {
     "flightNumber": "ME 2426",
-    "status": "تم فتح البوابة",
-    "actualTime": "22:15",
+    "status": "النداء الاخير",
+    "actualTime": "21:38",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -734,13 +734,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "MS 711-2026-01-03": {
-    "flightNumber": "MS 711",
-    "status": "وصلت",
-    "actualTime": "19:35",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "RJ 403-2026-01-03": {
     "flightNumber": "RJ 403",
     "status": "وصلت",
@@ -754,13 +747,6 @@
     "actualTime": "19:52",
     "type": "arivl",
     "airlineCode": "IA"
-  },
-  "KU 503-2026-01-03": {
-    "flightNumber": "KU 503",
-    "status": "وصلت",
-    "actualTime": "19:41",
-    "type": "arivl",
-    "airlineCode": "KU"
   },
   "TK 826-2026-01-03": {
     "flightNumber": "TK 826",
@@ -799,8 +785,8 @@
   },
   "ME 264-2026-01-03": {
     "flightNumber": "ME 264",
-    "status": "",
-    "actualTime": "21:55",
+    "status": "وصلت",
+    "actualTime": "21:38",
     "type": "arivl",
     "airlineCode": "ME"
   },
