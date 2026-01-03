@@ -43,7 +43,7 @@
   },
   "IA 132-2026-01-03": {
     "flightNumber": "IA 132",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -64,7 +64,7 @@
   },
   "RJ 402-2026-01-03": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -930,20 +930,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "MS 709-2026-01-03": {
-    "flightNumber": "MS 709",
-    "status": "وصلت",
-    "actualTime": "08:57",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
-  "FZ 157-2026-01-03": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "08:53",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "IA 1317-2026-01-03": {
     "flightNumber": "IA 1317",
     "status": "وصلت",
@@ -953,8 +939,8 @@
   },
   "EK 957-2026-01-03": {
     "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "09:15",
+    "status": "وصلت",
+    "actualTime": "10:59",
     "type": "arivl",
     "airlineCode": "EK"
   },
@@ -988,8 +974,8 @@
   },
   "ME 311-2026-01-03": {
     "flightNumber": "ME 311",
-    "status": "تأخير",
-    "actualTime": "10:55",
+    "status": "وصلت",
+    "actualTime": "10:54",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1009,8 +995,8 @@
   },
   "ME 1305-2026-01-03": {
     "flightNumber": "ME 1305",
-    "status": "تأخير",
-    "actualTime": "11:20",
+    "status": "وصلت",
+    "actualTime": "11:12",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1023,8 +1009,8 @@
   },
   "QR 416-2026-01-03": {
     "flightNumber": "QR 416",
-    "status": "",
-    "actualTime": "11:10",
+    "status": "وصلت",
+    "actualTime": "11:02",
     "type": "arivl",
     "airlineCode": "QR"
   },
