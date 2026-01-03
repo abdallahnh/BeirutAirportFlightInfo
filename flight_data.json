@@ -62,17 +62,10 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ME 229-2026-01-03": {
-    "flightNumber": "ME 229",
-    "status": "غادرت",
-    "actualTime": "12:56",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "QR 3063-2026-01-03": {
     "flightNumber": "QR 3063",
-    "status": "تم فتح البوابة",
-    "actualTime": "14:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "13:45",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -92,7 +85,7 @@
   },
   "PC 3001-2026-01-03": {
     "flightNumber": "PC 3001",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "14:50",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -909,13 +902,6 @@
     "type": "arivl",
     "airlineCode": "ET"
   },
-  "IA 1315-2026-01-03": {
-    "flightNumber": "IA 1315",
-    "status": "وصلت",
-    "actualTime": "11:43",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 252-2026-01-03": {
     "flightNumber": "ME 252",
     "status": "وصلت",
@@ -1455,19 +1441,19 @@
     "type": "arivl",
     "airlineCode": "EK"
   },
-  "UF 001-2026-01-04": {
-    "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "15:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 131-2026-01-04": {
     "flightNumber": "IA 131",
     "status": "",
     "actualTime": "10:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "ME 311-2026-01-04": {
+    "flightNumber": "ME 311",
+    "status": "",
+    "actualTime": "10:40",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "EY 581-2026-01-04": {
     "flightNumber": "EY 581",
@@ -1482,13 +1468,6 @@
     "actualTime": "10:50",
     "type": "arivl",
     "airlineCode": "RJ"
-  },
-  "ME 311-2026-01-04": {
-    "flightNumber": "ME 311",
-    "status": "",
-    "actualTime": "11:00",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 303-2026-01-04": {
     "flightNumber": "ME 303",
@@ -1510,6 +1489,13 @@
     "actualTime": "11:10",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "UF 001-2026-01-04": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "15:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "ME 266-2026-01-04": {
     "flightNumber": "ME 266",
