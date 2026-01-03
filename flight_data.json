@@ -92,14 +92,14 @@
   },
   "ME 434-2026-01-03": {
     "flightNumber": "ME 434",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "22:41",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 1428-2026-01-03": {
     "flightNumber": "ME 1428",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "22:41",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -713,13 +713,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "UF 001-2026-01-03": {
-    "flightNumber": "UF 001",
-    "status": "وصلت",
-    "actualTime": "20:48",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "ME 264-2026-01-03": {
     "flightNumber": "ME 264",
     "status": "وصلت",
@@ -757,8 +750,8 @@
   },
   "QR 418-2026-01-03": {
     "flightNumber": "QR 418",
-    "status": "",
-    "actualTime": "22:55",
+    "status": "وصلت",
+    "actualTime": "22:48",
     "type": "arivl",
     "airlineCode": "QR"
   },
