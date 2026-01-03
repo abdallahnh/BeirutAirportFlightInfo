@@ -27,31 +27,24 @@
     "type": "dprtr",
     "airlineCode": "G9"
   },
-  "ME 304-2026-01-03": {
-    "flightNumber": "ME 304",
-    "status": "غادرت",
-    "actualTime": "11:40",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "RJ 402-2026-01-03": {
     "flightNumber": "RJ 402",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:47",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "ME 320-2026-01-03": {
     "flightNumber": "ME 320",
-    "status": "",
+    "status": "النداء الاخير",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2026-01-03": {
     "flightNumber": "EK 958",
-    "status": "تأخير",
-    "actualTime": "12:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:57",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -78,15 +71,15 @@
   },
   "IA 1316-2026-01-03": {
     "flightNumber": "IA 1316",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:30",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "QR 417-2026-01-03": {
     "flightNumber": "QR 417",
-    "status": "تم فتح البوابة",
-    "actualTime": "12:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "12:01",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -908,13 +901,6 @@
     "actualTime": "10:59",
     "type": "arivl",
     "airlineCode": "EK"
-  },
-  "PC 1824-2026-01-03": {
-    "flightNumber": "PC 1824",
-    "status": "وصلت",
-    "actualTime": "10:06",
-    "type": "arivl",
-    "airlineCode": "PC"
   },
   "ME 272-2026-01-03": {
     "flightNumber": "ME 272",
