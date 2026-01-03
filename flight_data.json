@@ -43,14 +43,14 @@
   },
   "ME 263-2026-01-03": {
     "flightNumber": "ME 263",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "17:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 267-2026-01-03": {
     "flightNumber": "ME 267",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "16:39",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -839,13 +839,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 365-2026-01-03": {
-    "flightNumber": "ME 365",
-    "status": "وصلت",
-    "actualTime": "15:06",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 427-2026-01-03": {
     "flightNumber": "ME 427",
     "status": "وصلت",
@@ -918,8 +911,8 @@
   },
   "EK 953-2026-01-03": {
     "flightNumber": "EK 953",
-    "status": "",
-    "actualTime": "17:00",
+    "status": "وصلت",
+    "actualTime": "16:57",
     "type": "arivl",
     "airlineCode": "EK"
   },
