@@ -62,13 +62,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 364-2026-01-03": {
-    "flightNumber": "ME 364",
-    "status": "النداء الاخير",
-    "actualTime": "08:17",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 4909-2026-01-03": {
     "flightNumber": "TK 4909",
     "status": "تم اغلاق البوابة",
@@ -85,14 +78,14 @@
   },
   "ME 446-2026-01-03": {
     "flightNumber": "ME 446",
-    "status": "تم فتح البوابة",
-    "actualTime": "09:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:09",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "FZ 158-2026-01-03": {
     "flightNumber": "FZ 158",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:50",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -1023,15 +1016,15 @@
   },
   "MS 709-2026-01-03": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "08:45",
+    "status": "وصلت",
+    "actualTime": "08:57",
     "type": "arivl",
     "airlineCode": "MS"
   },
   "FZ 157-2026-01-03": {
     "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "08:50",
+    "status": "وصلت",
+    "actualTime": "08:53",
     "type": "arivl",
     "airlineCode": "FZ"
   },
@@ -1093,7 +1086,7 @@
   },
   "G9 385-2026-01-03": {
     "flightNumber": "G9 385",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "10:55",
     "type": "arivl",
     "airlineCode": "G9"
