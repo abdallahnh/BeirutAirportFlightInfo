@@ -106,14 +106,14 @@
   },
   "ET 407-2026-01-04": {
     "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:44",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "ET 8612-2026-01-04": {
     "flightNumber": "ET 8612",
-    "status": "",
+    "status": "النداء الاخير",
     "actualTime": "02:30",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -1140,13 +1140,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "EK 955-2026-01-03": {
-    "flightNumber": "EK 955",
-    "status": "وصلت",
-    "actualTime": "23:40",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "ME 407-2026-01-03": {
     "flightNumber": "ME 407",
     "status": "",
@@ -1179,13 +1172,6 @@
     "flightNumber": "ME 230",
     "status": "وصلت",
     "actualTime": "23:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 429-2026-01-03": {
-    "flightNumber": "ME 429",
-    "status": "وصلت",
-    "actualTime": "23:42",
     "type": "arivl",
     "airlineCode": "ME"
   },
