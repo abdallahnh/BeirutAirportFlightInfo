@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 368-2026-01-03": {
-    "flightNumber": "ME 368",
-    "status": "غادرت",
-    "actualTime": "17:45",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 2364-2026-01-03": {
     "flightNumber": "ME 2364",
     "status": "تم اغلاق البوابة",
@@ -26,13 +19,6 @@
     "actualTime": "18:53",
     "type": "dprtr",
     "airlineCode": "QR"
-  },
-  "EK 954-2026-01-03": {
-    "flightNumber": "EK 954",
-    "status": "غادرت",
-    "actualTime": "18:49",
-    "type": "dprtr",
-    "airlineCode": "EK"
   },
   "RJ 404-2026-01-03": {
     "flightNumber": "RJ 404",
@@ -50,8 +36,8 @@
   },
   "IA 1330-2026-01-03": {
     "flightNumber": "IA 1330",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "النداء الاخير",
+    "actualTime": "19:44",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -78,7 +64,7 @@
   },
   "ME 430-2026-01-03": {
     "flightNumber": "ME 430",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -848,8 +834,8 @@
   },
   "KU 503-2026-01-03": {
     "flightNumber": "KU 503",
-    "status": "",
-    "actualTime": "20:10",
+    "status": "وصلت",
+    "actualTime": "19:41",
     "type": "arivl",
     "airlineCode": "KU"
   },
@@ -860,19 +846,19 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "UF 001-2026-01-03": {
-    "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "20:30",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "ME 323-2026-01-03": {
     "flightNumber": "ME 323",
     "status": "",
     "actualTime": "20:30",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "UF 001-2026-01-03": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "20:30",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "FZ 159-2026-01-03": {
     "flightNumber": "FZ 159",
