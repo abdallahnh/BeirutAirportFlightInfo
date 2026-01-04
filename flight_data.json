@@ -8,7 +8,7 @@
   },
   "RJ 404-2026-01-04": {
     "flightNumber": "RJ 404",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:13",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -22,21 +22,21 @@
   },
   "J9 262-2026-01-04": {
     "flightNumber": "J9 262",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:05",
     "type": "dprtr",
     "airlineCode": "J9"
   },
   "ME 261-2026-01-04": {
     "flightNumber": "ME 261",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "20:11",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 1364-2026-01-04": {
     "flightNumber": "ME 1364",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -71,8 +71,8 @@
   },
   "FZ 160-2026-01-04": {
     "flightNumber": "FZ 160",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:53",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -631,8 +631,8 @@
   },
   "IA 1319-2026-01-04": {
     "flightNumber": "IA 1319",
-    "status": "",
-    "actualTime": "19:00",
+    "status": "وصلت",
+    "actualTime": "20:51",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -680,15 +680,15 @@
   },
   "G9 387-2026-01-04": {
     "flightNumber": "G9 387",
-    "status": "",
-    "actualTime": "20:50",
+    "status": "وصلت",
+    "actualTime": "20:53",
     "type": "arivl",
     "airlineCode": "G9"
   },
   "TK 826-2026-01-04": {
     "flightNumber": "TK 826",
     "status": "",
-    "actualTime": "21:00",
+    "actualTime": "20:58",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -1084,15 +1084,15 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 305-2026-01-05": {
-    "flightNumber": "ME 305",
+  "ME 236-2026-01-05": {
+    "flightNumber": "ME 236",
     "status": "",
     "actualTime": "15:25",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 236-2026-01-05": {
-    "flightNumber": "ME 236",
+  "ME 305-2026-01-05": {
+    "flightNumber": "ME 305",
     "status": "",
     "actualTime": "15:25",
     "type": "arivl",
@@ -1112,13 +1112,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 218-2026-01-05": {
-    "flightNumber": "ME 218",
-    "status": "",
-    "actualTime": "16:50",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 216-2026-01-05": {
     "flightNumber": "ME 216",
     "status": "",
@@ -1126,10 +1119,10 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 321-2026-01-05": {
-    "flightNumber": "ME 321",
+  "ME 218-2026-01-05": {
+    "flightNumber": "ME 218",
     "status": "",
-    "actualTime": "17:00",
+    "actualTime": "16:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1139,6 +1132,13 @@
     "actualTime": "17:00",
     "type": "arivl",
     "airlineCode": "EK"
+  },
+  "ME 321-2026-01-05": {
+    "flightNumber": "ME 321",
+    "status": "",
+    "actualTime": "17:00",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "SK 2827-2026-01-05": {
     "flightNumber": "SK 2827",
