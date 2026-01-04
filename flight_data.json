@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 253-2026-01-04": {
-    "flightNumber": "ME 253",
-    "status": "غادرت",
-    "actualTime": "18:06",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 306-2026-01-04": {
     "flightNumber": "ME 306",
     "status": "تم اغلاق البوابة",
@@ -29,7 +22,7 @@
   },
   "IA 136-2026-01-04": {
     "flightNumber": "IA 136",
-    "status": "",
+    "status": "النداء الاخير",
     "actualTime": "19:00",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -50,8 +43,8 @@
   },
   "EK 954-2026-01-04": {
     "flightNumber": "EK 954",
-    "status": "",
-    "actualTime": "19:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "18:42",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -729,8 +722,8 @@
   },
   "MS 711-2026-01-04": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "18:15",
+    "status": "وصلت",
+    "actualTime": "18:40",
     "type": "arivl",
     "airlineCode": "MS"
   },
