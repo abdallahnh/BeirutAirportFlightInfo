@@ -1,14 +1,7 @@
 {
-  "TK 827-2026-01-04": {
-    "flightNumber": "TK 827",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "21:34",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "UF 002-2026-01-04": {
     "flightNumber": "UF 002",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "22:00",
     "type": "dprtr",
     "airlineCode": "UF"
@@ -22,7 +15,7 @@
   },
   "ME 434-2026-01-04": {
     "flightNumber": "ME 434",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "22:42",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -566,40 +559,12 @@
     "type": "dprtr",
     "airlineCode": "CY"
   },
-  "IA 1319-2026-01-04": {
-    "flightNumber": "IA 1319",
-    "status": "وصلت",
-    "actualTime": "20:51",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "G9 387-2026-01-04": {
-    "flightNumber": "G9 387",
-    "status": "وصلت",
-    "actualTime": "20:53",
-    "type": "arivl",
-    "airlineCode": "G9"
-  },
   "UF 001-2026-01-04": {
     "flightNumber": "UF 001",
-    "status": "تأخير",
-    "actualTime": "22:50",
+    "status": "وصلت",
+    "actualTime": "22:54",
     "type": "arivl",
     "airlineCode": "UF"
-  },
-  "TK 826-2026-01-04": {
-    "flightNumber": "TK 826",
-    "status": "وصلت",
-    "actualTime": "20:58",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "ME 327-2026-01-04": {
-    "flightNumber": "ME 327",
-    "status": "وصلت",
-    "actualTime": "21:16",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 307-2026-01-04": {
     "flightNumber": "ME 307",
@@ -624,7 +589,7 @@
   },
   "ME 419-2026-01-04": {
     "flightNumber": "ME 419",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "22:45",
     "type": "arivl",
     "airlineCode": "ME"
