@@ -1,14 +1,14 @@
 {
   "SK 2968-2026-01-06": {
     "flightNumber": "SK 2968",
-    "status": "تم فتح البوابة",
-    "actualTime": "00:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "00:29",
     "type": "dprtr",
     "airlineCode": "SK"
   },
   "QR 419-2026-01-06": {
     "flightNumber": "QR 419",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "23:54",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -979,13 +979,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 268-2026-01-05": {
-    "flightNumber": "ME 268",
-    "status": "وصلت",
-    "actualTime": "22:20",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "QR 418-2026-01-05": {
     "flightNumber": "QR 418",
     "status": "وصلت",
@@ -1037,8 +1030,8 @@
   },
   "ME 230-2026-01-05": {
     "flightNumber": "ME 230",
-    "status": "",
-    "actualTime": "23:55",
+    "status": "وصلت",
+    "actualTime": "00:17",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1051,8 +1044,8 @@
   },
   "VF 543-2026-01-06": {
     "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "00:30",
+    "status": "وصلت",
+    "actualTime": "00:21",
     "type": "arivl",
     "airlineCode": "VF"
   },
