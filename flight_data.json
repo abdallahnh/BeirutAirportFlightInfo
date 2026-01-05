@@ -6,20 +6,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "MS 710-2026-01-05": {
-    "flightNumber": "MS 710",
-    "status": "غادرت",
-    "actualTime": "09:46",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
-  "PC 3001-2026-01-05": {
-    "flightNumber": "PC 3001",
-    "status": "غادرت",
-    "actualTime": "10:14",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "KU 502-2026-01-05": {
     "flightNumber": "KU 502",
     "status": "النداء الاخير",
@@ -29,8 +15,8 @@
   },
   "IA 132-2026-01-05": {
     "flightNumber": "IA 132",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:56",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -50,15 +36,15 @@
   },
   "RJ 402-2026-01-05": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "EK 958-2026-01-05": {
     "flightNumber": "EK 958",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:47",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -125,19 +111,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "AF 565-2026-01-05": {
-    "flightNumber": "AF 565",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "dprtr",
-    "airlineCode": "AF"
-  },
   "CY 121-2026-01-05": {
     "flightNumber": "CY 121",
     "status": "",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "CY"
+  },
+  "AF 565-2026-01-05": {
+    "flightNumber": "AF 565",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "AF"
   },
   "ME 418-2026-01-05": {
     "flightNumber": "ME 418",
@@ -762,13 +748,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "TK 830-2026-01-05": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:49",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "MS 709-2026-01-05": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -820,15 +799,15 @@
   },
   "RJ 401-2026-01-05": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "10:50",
+    "status": "وصلت",
+    "actualTime": "10:53",
     "type": "arivl",
     "airlineCode": "RJ"
   },
   "G9 385-2026-01-05": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "10:55",
+    "status": "وصلت",
+    "actualTime": "10:53",
     "type": "arivl",
     "airlineCode": "G9"
   },
