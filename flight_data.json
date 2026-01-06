@@ -48,13 +48,6 @@
     "type": "dprtr",
     "airlineCode": "AF"
   },
-  "ME 428-2026-01-06": {
-    "flightNumber": "ME 428",
-    "status": "النداء الاخير",
-    "actualTime": "15:54",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "IA 1302-2026-01-06": {
     "flightNumber": "IA 1302",
     "status": "ألغيت",
@@ -64,7 +57,7 @@
   },
   "PC 1825-2026-01-06": {
     "flightNumber": "PC 1825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:10",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -78,28 +71,28 @@
   },
   "ME 267-2026-01-06": {
     "flightNumber": "ME 267",
-    "status": "",
-    "actualTime": "17:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:54",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 442-2026-01-06": {
     "flightNumber": "ME 442",
-    "status": "",
+    "status": "النداء الاخير",
     "actualTime": "17:35",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 368-2026-01-06": {
     "flightNumber": "ME 368",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:45",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 422-2026-01-06": {
     "flightNumber": "ME 422",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -664,27 +657,6 @@
     "type": "dprtr",
     "airlineCode": "CY"
   },
-  "ME 232-2026-01-06": {
-    "flightNumber": "ME 232",
-    "status": "وصلت",
-    "actualTime": "15:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 305-2026-01-06": {
-    "flightNumber": "ME 305",
-    "status": "وصلت",
-    "actualTime": "15:24",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "IA 1301-2026-01-06": {
-    "flightNumber": "IA 1301",
-    "status": "",
-    "actualTime": "15:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 248-2026-01-06": {
     "flightNumber": "ME 248",
     "status": "وصلت",
@@ -701,8 +673,8 @@
   },
   "PC 1824-2026-01-06": {
     "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "16:25",
+    "status": "وصلت",
+    "actualTime": "16:54",
     "type": "arivl",
     "airlineCode": "PC"
   },
