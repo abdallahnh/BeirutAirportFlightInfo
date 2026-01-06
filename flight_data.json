@@ -118,13 +118,6 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "ME 430-2026-01-06": {
-    "flightNumber": "ME 430",
-    "status": "النداء الاخير",
-    "actualTime": "20:23",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 827-2026-01-06": {
     "flightNumber": "TK 827",
     "status": "تم اغلاق البوابة",
@@ -141,7 +134,7 @@
   },
   "QR 419-2026-01-07": {
     "flightNumber": "QR 419",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "00:40",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -608,13 +601,6 @@
     "type": "dprtr",
     "airlineCode": "CY"
   },
-  "ME 327-2026-01-06": {
-    "flightNumber": "ME 327",
-    "status": "وصلت",
-    "actualTime": "21:18",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 307-2026-01-06": {
     "flightNumber": "ME 307",
     "status": "وصلت",
@@ -638,15 +624,15 @@
   },
   "ME 419-2026-01-06": {
     "flightNumber": "ME 419",
-    "status": "",
-    "actualTime": "22:45",
+    "status": "وصلت",
+    "actualTime": "23:13",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "QR 418-2026-01-06": {
     "flightNumber": "QR 418",
-    "status": "",
-    "actualTime": "22:55",
+    "status": "وصلت",
+    "actualTime": "22:59",
     "type": "arivl",
     "airlineCode": "QR"
   },
