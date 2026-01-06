@@ -83,24 +83,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 422-2026-01-06": {
-    "flightNumber": "ME 422",
-    "status": "غادرت",
-    "actualTime": "17:18",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 306-2026-01-06": {
     "flightNumber": "ME 306",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "17:34",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "UF 002-2026-01-06": {
     "flightNumber": "UF 002",
-    "status": "تم فتح البوابة",
-    "actualTime": "18:30",
+    "status": "غادرت",
+    "actualTime": "17:50",
     "type": "dprtr",
     "airlineCode": "UF"
   },
@@ -113,14 +106,14 @@
   },
   "MS 712-2026-01-06": {
     "flightNumber": "MS 712",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:15",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "QR 427-2026-01-06": {
     "flightNumber": "QR 427",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:35",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -650,20 +643,6 @@
     "type": "dprtr",
     "airlineCode": "CY"
   },
-  "ME 248-2026-01-06": {
-    "flightNumber": "ME 248",
-    "status": "وصلت",
-    "actualTime": "16:12",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 216-2026-01-06": {
-    "flightNumber": "ME 216",
-    "status": "وصلت",
-    "actualTime": "16:02",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 1824-2026-01-06": {
     "flightNumber": "PC 1824",
     "status": "وصلت",
@@ -708,15 +687,15 @@
   },
   "QR 426-2026-01-06": {
     "flightNumber": "QR 426",
-    "status": "",
-    "actualTime": "18:05",
+    "status": "وصلت",
+    "actualTime": "17:56",
     "type": "arivl",
     "airlineCode": "QR"
   },
   "MS 711-2026-01-06": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "18:15",
+    "status": "وصلت",
+    "actualTime": "18:08",
     "type": "arivl",
     "airlineCode": "MS"
   },
