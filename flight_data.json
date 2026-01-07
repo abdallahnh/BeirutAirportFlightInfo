@@ -8,49 +8,49 @@
   },
   "IA 132-2026-01-07": {
     "flightNumber": "IA 132",
-    "status": "",
+    "status": "النداء الاخير",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "G9 386-2026-01-07": {
     "flightNumber": "G9 386",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "10:54",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "ME 304-2026-01-07": {
     "flightNumber": "ME 304",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "10:57",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "RJ 402-2026-01-07": {
     "flightNumber": "RJ 402",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:50",
+    "status": "النداء الاخير",
+    "actualTime": "11:02",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "ME 320-2026-01-07": {
     "flightNumber": "ME 320",
-    "status": "",
-    "actualTime": "11:55",
+    "status": "النداء الاخير",
+    "actualTime": "11:16",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2026-01-07": {
     "flightNumber": "EK 958",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:55",
+    "status": "النداء الاخير",
+    "actualTime": "10:58",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "QR 417-2026-01-07": {
     "flightNumber": "QR 417",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:40",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -727,20 +727,6 @@
     "type": "arivl",
     "airlineCode": "EY"
   },
-  "EK 957-2026-01-07": {
-    "flightNumber": "EK 957",
-    "status": "وصلت",
-    "actualTime": "09:20",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
-  "KU 501-2026-01-07": {
-    "flightNumber": "KU 501",
-    "status": "وصلت",
-    "actualTime": "09:33",
-    "type": "arivl",
-    "airlineCode": "KU"
-  },
   "IA 131-2026-01-07": {
     "flightNumber": "IA 131",
     "status": "وصلت",
@@ -771,15 +757,15 @@
   },
   "G9 385-2026-01-07": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "10:55",
+    "status": "وصلت",
+    "actualTime": "10:58",
     "type": "arivl",
     "airlineCode": "G9"
   },
   "QR 416-2026-01-07": {
     "flightNumber": "QR 416",
-    "status": "",
-    "actualTime": "11:10",
+    "status": "وصلت",
+    "actualTime": "11:14",
     "type": "arivl",
     "airlineCode": "QR"
   },
