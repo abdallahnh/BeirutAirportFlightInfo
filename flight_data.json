@@ -1,36 +1,22 @@
 {
-  "ME 306-2026-01-07": {
-    "flightNumber": "ME 306",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "18:54",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "MS 712-2026-01-07": {
-    "flightNumber": "MS 712",
-    "status": "النداء الاخير",
-    "actualTime": "18:30",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "QR 427-2026-01-07": {
     "flightNumber": "QR 427",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "18:59",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "EK 954-2026-01-07": {
     "flightNumber": "EK 954",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:52",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "RJ 404-2026-01-07": {
     "flightNumber": "RJ 404",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:55",
+    "status": "النداء الاخير",
+    "actualTime": "19:21",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -113,7 +99,7 @@
   },
   "TK 829-2026-01-08": {
     "flightNumber": "TK 829",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "03:25",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -552,33 +538,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 218-2026-01-07": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "17:12",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 216-2026-01-07": {
     "flightNumber": "ME 216",
     "status": "وصلت",
     "actualTime": "18:25",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "EK 953-2026-01-07": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:17",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
-  "SK 2827-2026-01-07": {
-    "flightNumber": "SK 2827",
-    "status": "وصلت",
-    "actualTime": "17:02",
-    "type": "arivl",
-    "airlineCode": "SK"
   },
   "QR 426-2026-01-07": {
     "flightNumber": "QR 426",
@@ -617,8 +582,8 @@
   },
   "ME 313-2026-01-07": {
     "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "19:25",
+    "status": "وصلت",
+    "actualTime": "19:09",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -785,7 +750,7 @@
   },
   "TK 828-2026-01-08": {
     "flightNumber": "TK 828",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "02:30",
     "type": "arivl",
     "airlineCode": "TK"
