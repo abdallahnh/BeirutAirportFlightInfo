@@ -62,23 +62,16 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "RJ 408-2026-01-07": {
-    "flightNumber": "RJ 408",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "05:06",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "EY 584-2026-01-07": {
     "flightNumber": "EY 584",
-    "status": "",
-    "actualTime": "06:15",
+    "status": "غادرت",
+    "actualTime": "05:30",
     "type": "dprtr",
     "airlineCode": "EY"
   },
   "ME 235-2026-01-07": {
     "flightNumber": "ME 235",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "06:50",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -92,7 +85,7 @@
   },
   "ME 265-2026-01-07": {
     "flightNumber": "ME 265",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:05",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -921,13 +914,6 @@
     "status": "",
     "actualTime": "23:10",
     "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 431-2026-01-07": {
-    "flightNumber": "ME 431",
-    "status": "وصلت",
-    "actualTime": "03:55",
-    "type": "arivl",
     "airlineCode": "ME"
   },
   "RJ 407-2026-01-07": {
