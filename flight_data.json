@@ -1,25 +1,4 @@
 {
-  "RJ 404-2026-01-07": {
-    "flightNumber": "RJ 404",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "19:21",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
-  "J9 262-2026-01-07": {
-    "flightNumber": "J9 262",
-    "status": "النداء الاخير",
-    "actualTime": "21:11",
-    "type": "dprtr",
-    "airlineCode": "J9"
-  },
-  "TK 827-2026-01-07": {
-    "flightNumber": "TK 827",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "20:48",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "FZ 160-2026-01-07": {
     "flightNumber": "FZ 160",
     "status": "تم اغلاق البوابة",
@@ -29,7 +8,7 @@
   },
   "CY 123-2026-01-07": {
     "flightNumber": "CY 123",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:50",
     "type": "dprtr",
     "airlineCode": "CY"
@@ -139,15 +118,15 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 426-2026-01-08": {
-    "flightNumber": "ME 426",
+  "ME 231-2026-01-08": {
+    "flightNumber": "ME 231",
     "status": "",
     "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 231-2026-01-08": {
-    "flightNumber": "ME 231",
+  "ME 426-2026-01-08": {
+    "flightNumber": "ME 426",
     "status": "",
     "actualTime": "07:20",
     "type": "dprtr",
@@ -554,8 +533,8 @@
   },
   "CY 122-2026-01-07": {
     "flightNumber": "CY 122",
-    "status": "",
-    "actualTime": "20:50",
+    "status": "وصلت",
+    "actualTime": "21:47",
     "type": "arivl",
     "airlineCode": "CY"
   },
@@ -741,19 +720,19 @@
     "type": "arivl",
     "airlineCode": "FZ"
   },
-  "MS 709-2026-01-08": {
-    "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "EK 957-2026-01-08": {
     "flightNumber": "EK 957",
     "status": "",
     "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "EK"
+  },
+  "MS 709-2026-01-08": {
+    "flightNumber": "MS 709",
+    "status": "",
+    "actualTime": "09:15",
+    "type": "arivl",
+    "airlineCode": "MS"
   },
   "IA 131-2026-01-08": {
     "flightNumber": "IA 131",
