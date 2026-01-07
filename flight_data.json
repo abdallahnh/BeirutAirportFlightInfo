@@ -22,7 +22,7 @@
   },
   "ME 211-2026-01-07": {
     "flightNumber": "ME 211",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "07:47",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -41,13 +41,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 241-2026-01-07": {
-    "flightNumber": "ME 241",
-    "status": "",
-    "actualTime": "08:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 364-2026-01-07": {
     "flightNumber": "ME 364",
     "status": "",
@@ -55,9 +48,16 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "ME 241-2026-01-07": {
+    "flightNumber": "ME 241",
+    "status": "",
+    "actualTime": "08:55",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "TK 4901-2026-01-07": {
     "flightNumber": "TK 4901",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:00",
     "type": "dprtr",
     "airlineCode": "TK"
