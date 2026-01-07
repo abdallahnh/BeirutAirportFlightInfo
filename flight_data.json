@@ -13,23 +13,16 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 134-2026-01-07": {
-    "flightNumber": "IA 134",
-    "status": "غادرت",
-    "actualTime": "09:07",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "MS 710-2026-01-07": {
     "flightNumber": "MS 710",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:47",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "KU 502-2026-01-07": {
     "flightNumber": "KU 502",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:30",
     "type": "dprtr",
     "airlineCode": "KU"
@@ -97,19 +90,19 @@
     "type": "dprtr",
     "airlineCode": "EY"
   },
-  "TK 825-2026-01-07": {
-    "flightNumber": "TK 825",
-    "status": "",
-    "actualTime": "14:50",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "PC 3001-2026-01-07": {
     "flightNumber": "PC 3001",
     "status": "",
     "actualTime": "14:50",
     "type": "dprtr",
     "airlineCode": "PC"
+  },
+  "TK 825-2026-01-07": {
+    "flightNumber": "TK 825",
+    "status": "",
+    "actualTime": "14:50",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "IA 138-2026-01-07": {
     "flightNumber": "IA 138",
