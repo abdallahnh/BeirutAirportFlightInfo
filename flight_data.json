@@ -15,28 +15,28 @@
   },
   "ME 430-2026-01-07": {
     "flightNumber": "ME 430",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "20:26",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 261-2026-01-07": {
     "flightNumber": "ME 261",
-    "status": "",
-    "actualTime": "21:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "20:39",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 827-2026-01-07": {
     "flightNumber": "TK 827",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:10",
+    "status": "النداء الاخير",
+    "actualTime": "20:48",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "FZ 160-2026-01-07": {
     "flightNumber": "FZ 160",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:45",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -524,31 +524,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 202-2026-01-07": {
-    "flightNumber": "ME 202",
-    "status": "وصلت",
-    "actualTime": "18:43",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 212-2026-01-07": {
     "flightNumber": "ME 212",
     "status": "",
     "actualTime": "18:55",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "RJ 403-2026-01-07": {
-    "flightNumber": "RJ 403",
-    "status": "وصلت",
-    "actualTime": "18:41",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
-  "ME 313-2026-01-07": {
-    "flightNumber": "ME 313",
-    "status": "وصلت",
-    "actualTime": "19:09",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -589,8 +568,8 @@
   },
   "FZ 159-2026-01-07": {
     "flightNumber": "FZ 159",
-    "status": "",
-    "actualTime": "20:45",
+    "status": "وصلت",
+    "actualTime": "20:41",
     "type": "arivl",
     "airlineCode": "FZ"
   },
