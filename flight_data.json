@@ -29,21 +29,21 @@
   },
   "ME 304-2026-01-08": {
     "flightNumber": "ME 304",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:40",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "PC 1825-2026-01-08": {
     "flightNumber": "PC 1825",
-    "status": "",
-    "actualTime": "11:45",
+    "status": "تأخير",
+    "actualTime": "12:00",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "RJ 402-2026-01-08": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -57,8 +57,8 @@
   },
   "EK 958-2026-01-08": {
     "flightNumber": "EK 958",
-    "status": "",
-    "actualTime": "11:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "10:50",
     "type": "dprtr",
     "airlineCode": "EK"
   },
@@ -769,27 +769,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 830-2026-01-08": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:43",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "TK 6316-2026-01-08": {
-    "flightNumber": "TK 6316",
-    "status": "وصلت",
-    "actualTime": "08:42",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "FZ 157-2026-01-08": {
-    "flightNumber": "FZ 157",
-    "status": "وصلت",
-    "actualTime": "08:36",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "MS 709-2026-01-08": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -806,8 +785,8 @@
   },
   "IA 131-2026-01-08": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "وصلت",
+    "actualTime": "10:49",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -820,22 +799,22 @@
   },
   "EY 581-2026-01-08": {
     "flightNumber": "EY 581",
-    "status": "",
-    "actualTime": "10:45",
+    "status": "وصلت",
+    "actualTime": "10:41",
     "type": "arivl",
     "airlineCode": "EY"
   },
   "RJ 401-2026-01-08": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "10:50",
+    "status": "وصلت",
+    "actualTime": "10:32",
     "type": "arivl",
     "airlineCode": "RJ"
   },
   "PC 1824-2026-01-08": {
     "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "11:00",
+    "status": "تأخير",
+    "actualTime": "11:30",
     "type": "arivl",
     "airlineCode": "PC"
   },
