@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 132-2026-01-08": {
-    "flightNumber": "IA 132",
-    "status": "غادرت",
-    "actualTime": "11:21",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "ME 304-2026-01-08": {
     "flightNumber": "ME 304",
     "status": "تم اغلاق البوابة",
@@ -36,17 +29,10 @@
   },
   "PC 1825-2026-01-08": {
     "flightNumber": "PC 1825",
-    "status": "تأخير",
+    "status": "غادرت",
     "actualTime": "12:00",
     "type": "dprtr",
     "airlineCode": "PC"
-  },
-  "RJ 402-2026-01-08": {
-    "flightNumber": "RJ 402",
-    "status": "غادرت",
-    "actualTime": "11:07",
-    "type": "dprtr",
-    "airlineCode": "RJ"
   },
   "ME 320-2026-01-08": {
     "flightNumber": "ME 320",
@@ -55,30 +41,16 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EK 958-2026-01-08": {
-    "flightNumber": "EK 958",
-    "status": "النداء الاخير",
-    "actualTime": "10:50",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
-  "ME 324-2026-01-08": {
-    "flightNumber": "ME 324",
-    "status": "النداء الاخير",
-    "actualTime": "11:38",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "LH 8355-2026-01-08": {
     "flightNumber": "LH 8355",
-    "status": "",
+    "status": "CARGO Flt",
     "actualTime": "12:15",
     "type": "dprtr",
     "airlineCode": "LH"
   },
   "QR 417-2026-01-08": {
     "flightNumber": "QR 417",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "11:52",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -775,13 +747,6 @@
     "actualTime": "10:49",
     "type": "arivl",
     "airlineCode": "IA"
-  },
-  "ME 311-2026-01-08": {
-    "flightNumber": "ME 311",
-    "status": "وصلت",
-    "actualTime": "10:21",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "EY 581-2026-01-08": {
     "flightNumber": "EY 581",
