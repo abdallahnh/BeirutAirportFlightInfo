@@ -50,14 +50,14 @@
   },
   "ME 571-2026-01-09": {
     "flightNumber": "ME 571",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "01:05",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ET 407-2026-01-09": {
     "flightNumber": "ET 407",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "01:27",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -71,8 +71,8 @@
   },
   "PC 759-2026-01-09": {
     "flightNumber": "PC 759",
-    "status": "",
-    "actualTime": "02:35",
+    "status": "تأخير",
+    "actualTime": "03:40",
     "type": "dprtr",
     "airlineCode": "PC"
   },
@@ -307,19 +307,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "EY 582-2026-01-09": {
-    "flightNumber": "EY 582",
-    "status": "",
-    "actualTime": "13:50",
-    "type": "dprtr",
-    "airlineCode": "EY"
-  },
   "AH 4017-2026-01-09": {
     "flightNumber": "AH 4017",
     "status": "",
     "actualTime": "13:50",
     "type": "dprtr",
     "airlineCode": "AH"
+  },
+  "EY 582-2026-01-09": {
+    "flightNumber": "EY 582",
+    "status": "",
+    "actualTime": "13:50",
+    "type": "dprtr",
+    "airlineCode": "EY"
   },
   "TK 825-2026-01-09": {
     "flightNumber": "TK 825",
@@ -969,13 +969,6 @@
     "flightNumber": "ME 307",
     "status": "تبكير",
     "actualTime": "21:40",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 443-2026-01-08": {
-    "flightNumber": "ME 443",
-    "status": "وصلت",
-    "actualTime": "23:40",
     "type": "arivl",
     "airlineCode": "ME"
   },
