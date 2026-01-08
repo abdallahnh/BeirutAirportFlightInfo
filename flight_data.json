@@ -13,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "ME 430-2026-01-08": {
-    "flightNumber": "ME 430",
-    "status": "النداء الاخير",
-    "actualTime": "20:28",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 261-2026-01-08": {
     "flightNumber": "ME 261",
     "status": "تم اغلاق البوابة",
@@ -29,14 +22,14 @@
   },
   "TK 827-2026-01-08": {
     "flightNumber": "TK 827",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:10",
+    "status": "النداء الاخير",
+    "actualTime": "21:15",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "KU 504-2026-01-08": {
     "flightNumber": "KU 504",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:50",
     "type": "dprtr",
     "airlineCode": "KU"
@@ -50,8 +43,8 @@
   },
   "FZ 160-2026-01-08": {
     "flightNumber": "FZ 160",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:45",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "21:05",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -538,33 +531,12 @@
     "type": "arivl",
     "airlineCode": "MS"
   },
-  "ME 202-2026-01-08": {
-    "flightNumber": "ME 202",
-    "status": "وصلت",
-    "actualTime": "19:07",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 212-2026-01-08": {
-    "flightNumber": "ME 212",
-    "status": "وصلت",
-    "actualTime": "19:12",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "KU 503-2026-01-08": {
     "flightNumber": "KU 503",
     "status": "وصلت",
     "actualTime": "20:00",
     "type": "arivl",
     "airlineCode": "KU"
-  },
-  "ME 313-2026-01-08": {
-    "flightNumber": "ME 313",
-    "status": "وصلت",
-    "actualTime": "19:05",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 323-2026-01-08": {
     "flightNumber": "ME 323",
@@ -596,8 +568,8 @@
   },
   "G9 387-2026-01-08": {
     "flightNumber": "G9 387",
-    "status": "تأخير",
-    "actualTime": "21:30",
+    "status": "وصلت",
+    "actualTime": "21:19",
     "type": "arivl",
     "airlineCode": "G9"
   },
