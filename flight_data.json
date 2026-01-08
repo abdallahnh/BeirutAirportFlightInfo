@@ -1,21 +1,21 @@
 {
   "FZ 158-2026-01-08": {
     "flightNumber": "FZ 158",
-    "status": "تم اغلاق البوابة",
+    "status": "غادرت",
     "actualTime": "09:01",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
   "MS 710-2026-01-08": {
     "flightNumber": "MS 710",
-    "status": "تم اغلاق البوابة",
+    "status": "غادرت",
     "actualTime": "09:39",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "TK 831-2026-01-08": {
     "flightNumber": "TK 831",
-    "status": "تم اغلاق البوابة",
+    "status": "غادرت",
     "actualTime": "09:25",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -26,13 +26,6 @@
     "actualTime": "11:03",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "PC 1825-2026-01-08": {
-    "flightNumber": "PC 1825",
-    "status": "غادرت",
-    "actualTime": "12:00",
-    "type": "dprtr",
-    "airlineCode": "PC"
   },
   "ME 320-2026-01-08": {
     "flightNumber": "ME 320",
@@ -50,14 +43,14 @@
   },
   "QR 417-2026-01-08": {
     "flightNumber": "QR 417",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:52",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "ME 229-2026-01-08": {
     "flightNumber": "ME 229",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:30",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -110,6 +103,13 @@
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "CY"
+  },
+  "AF 565-2026-01-08": {
+    "flightNumber": "AF 565",
+    "status": "ألغيت",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "AF"
   },
   "ME 428-2026-01-08": {
     "flightNumber": "ME 428",
@@ -747,20 +747,6 @@
     "actualTime": "10:49",
     "type": "arivl",
     "airlineCode": "IA"
-  },
-  "EY 581-2026-01-08": {
-    "flightNumber": "EY 581",
-    "status": "وصلت",
-    "actualTime": "10:41",
-    "type": "arivl",
-    "airlineCode": "EY"
-  },
-  "RJ 401-2026-01-08": {
-    "flightNumber": "RJ 401",
-    "status": "وصلت",
-    "actualTime": "10:32",
-    "type": "arivl",
-    "airlineCode": "RJ"
   },
   "PC 1824-2026-01-08": {
     "flightNumber": "PC 1824",
