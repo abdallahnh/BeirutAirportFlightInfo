@@ -22,15 +22,15 @@
   },
   "IA 132-2026-01-08": {
     "flightNumber": "IA 132",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "النداء الاخير",
+    "actualTime": "11:21",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "ME 304-2026-01-08": {
     "flightNumber": "ME 304",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:40",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "11:03",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -43,28 +43,28 @@
   },
   "RJ 402-2026-01-08": {
     "flightNumber": "RJ 402",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:50",
+    "status": "النداء الاخير",
+    "actualTime": "11:07",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "ME 320-2026-01-08": {
     "flightNumber": "ME 320",
-    "status": "",
-    "actualTime": "11:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:16",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2026-01-08": {
     "flightNumber": "EK 958",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "10:50",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "ME 324-2026-01-08": {
     "flightNumber": "ME 324",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -769,20 +769,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "MS 709-2026-01-08": {
-    "flightNumber": "MS 709",
-    "status": "وصلت",
-    "actualTime": "09:02",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
-  "EK 957-2026-01-08": {
-    "flightNumber": "EK 957",
-    "status": "وصلت",
-    "actualTime": "09:17",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "IA 131-2026-01-08": {
     "flightNumber": "IA 131",
     "status": "وصلت",
@@ -813,15 +799,15 @@
   },
   "PC 1824-2026-01-08": {
     "flightNumber": "PC 1824",
-    "status": "تأخير",
-    "actualTime": "11:30",
+    "status": "وصلت",
+    "actualTime": "11:32",
     "type": "arivl",
     "airlineCode": "PC"
   },
   "QR 416-2026-01-08": {
     "flightNumber": "QR 416",
-    "status": "",
-    "actualTime": "11:10",
+    "status": "وصلت",
+    "actualTime": "11:01",
     "type": "arivl",
     "airlineCode": "QR"
   },
@@ -834,8 +820,8 @@
   },
   "LH 8354-2026-01-08": {
     "flightNumber": "LH 8354",
-    "status": "",
-    "actualTime": "11:15",
+    "status": "وصلت",
+    "actualTime": "11:12",
     "type": "arivl",
     "airlineCode": "LH"
   },
