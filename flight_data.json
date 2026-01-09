@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "J9"
   },
-  "ME 261-2026-01-09": {
-    "flightNumber": "ME 261",
-    "status": "غادرت",
-    "actualTime": "20:11",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 827-2026-01-09": {
     "flightNumber": "TK 827",
     "status": "تم اغلاق البوابة",
@@ -50,14 +43,14 @@
   },
   "PC 755-2026-01-10": {
     "flightNumber": "PC 755",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "01:12",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "ET 407-2026-01-10": {
     "flightNumber": "ET 407",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -1051,8 +1044,8 @@
   },
   "ET 406-2026-01-10": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "01:05",
+    "status": "وصلت",
+    "actualTime": "01:22",
     "type": "arivl",
     "airlineCode": "ET"
   },
@@ -1065,8 +1058,8 @@
   },
   "PC 758-2026-01-10": {
     "flightNumber": "PC 758",
-    "status": "",
-    "actualTime": "01:35",
+    "status": "وصلت",
+    "actualTime": "01:31",
     "type": "arivl",
     "airlineCode": "PC"
   },
