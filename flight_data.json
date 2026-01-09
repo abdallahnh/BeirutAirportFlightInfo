@@ -55,30 +55,23 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ME 229-2026-01-09": {
-    "flightNumber": "ME 229",
-    "status": "غادرت",
-    "actualTime": "13:06",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EY 582-2026-01-09": {
     "flightNumber": "EY 582",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "12:58",
     "type": "dprtr",
     "airlineCode": "EY"
   },
   "AH 4017-2026-01-09": {
     "flightNumber": "AH 4017",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "13:29",
     "type": "dprtr",
     "airlineCode": "AH"
   },
   "TK 825-2026-01-09": {
     "flightNumber": "TK 825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "14:50",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -748,13 +741,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 266-2026-01-09": {
-    "flightNumber": "ME 266",
-    "status": "وصلت",
-    "actualTime": "11:46",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "AH 4016-2026-01-09": {
     "flightNumber": "AH 4016",
     "status": "وصلت",
@@ -771,8 +757,8 @@
   },
   "TK 824-2026-01-09": {
     "flightNumber": "TK 824",
-    "status": "",
-    "actualTime": "13:55",
+    "status": "وصلت",
+    "actualTime": "13:43",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -1189,13 +1175,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "UF 001-2026-01-10": {
-    "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "19:00",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "IA 131-2026-01-10": {
     "flightNumber": "IA 131",
     "status": "",
@@ -1405,6 +1384,13 @@
     "actualTime": "18:55",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "UF 001-2026-01-10": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "19:00",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "RJ 403-2026-01-10": {
     "flightNumber": "RJ 403",
