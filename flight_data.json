@@ -22,7 +22,7 @@
   },
   "ME 261-2026-01-09": {
     "flightNumber": "ME 261",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:11",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -48,17 +48,10 @@
     "type": "dprtr",
     "airlineCode": "CY"
   },
-  "QR 419-2026-01-10": {
-    "flightNumber": "QR 419",
-    "status": "غادرت",
-    "actualTime": "23:45",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "PC 755-2026-01-10": {
     "flightNumber": "PC 755",
-    "status": "",
-    "actualTime": "01:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:12",
     "type": "dprtr",
     "airlineCode": "PC"
   },
@@ -1021,13 +1014,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "SK 2967-2026-01-09": {
-    "flightNumber": "SK 2967",
-    "status": "وصلت",
-    "actualTime": "23:08",
-    "type": "arivl",
-    "airlineCode": "SK"
-  },
   "ME 369-2026-01-09": {
     "flightNumber": "ME 369",
     "status": "وصلت",
@@ -1072,8 +1058,8 @@
   },
   "VF 1627-2026-01-10": {
     "flightNumber": "VF 1627",
-    "status": "",
-    "actualTime": "01:30",
+    "status": "وصلت",
+    "actualTime": "01:15",
     "type": "arivl",
     "airlineCode": "VF"
   },
