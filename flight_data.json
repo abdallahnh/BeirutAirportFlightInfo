@@ -8,14 +8,14 @@
   },
   "ME 368-2026-01-09": {
     "flightNumber": "ME 368",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "17:36",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 422-2026-01-09": {
     "flightNumber": "ME 422",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "17:21",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -29,7 +29,7 @@
   },
   "ME 306-2026-01-09": {
     "flightNumber": "ME 306",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "17:41",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -659,8 +659,8 @@
   },
   "MS 711-2026-01-09": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "18:15",
+    "status": "تأخير",
+    "actualTime": "18:25",
     "type": "arivl",
     "airlineCode": "MS"
   },
