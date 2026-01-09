@@ -50,7 +50,7 @@
   },
   "ME 426-2026-01-09": {
     "flightNumber": "ME 426",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "06:56",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -64,36 +64,36 @@
   },
   "ME 201-2026-01-09": {
     "flightNumber": "ME 201",
-    "status": "",
-    "actualTime": "07:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:38",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 310-2026-01-09": {
     "flightNumber": "ME 310",
-    "status": "",
-    "actualTime": "07:40",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "07:29",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 211-2026-01-09": {
     "flightNumber": "ME 211",
-    "status": "",
-    "actualTime": "07:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:27",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 251-2026-01-09": {
     "flightNumber": "ME 251",
-    "status": "",
-    "actualTime": "08:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:46",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 424-2026-01-09": {
     "flightNumber": "ME 424",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:45",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -106,7 +106,7 @@
   },
   "ME 364-2026-01-09": {
     "flightNumber": "ME 364",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -120,8 +120,8 @@
   },
   "TK 831-2026-01-09": {
     "flightNumber": "TK 831",
-    "status": "",
-    "actualTime": "09:40",
+    "status": "تأخير",
+    "actualTime": "10:40",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -851,13 +851,6 @@
     "status": "",
     "actualTime": "23:10",
     "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 435-2026-01-09": {
-    "flightNumber": "ME 435",
-    "status": "وصلت",
-    "actualTime": "05:45",
-    "type": "arivl",
     "airlineCode": "ME"
   },
   "TK 830-2026-01-09": {
