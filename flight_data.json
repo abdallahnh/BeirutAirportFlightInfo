@@ -1,14 +1,7 @@
 {
-  "MS 712-2026-01-10": {
-    "flightNumber": "MS 712",
-    "status": "غادرت",
-    "actualTime": "18:43",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "QR 427-2026-01-10": {
     "flightNumber": "QR 427",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "19:00",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -22,14 +15,14 @@
   },
   "RJ 404-2026-01-10": {
     "flightNumber": "RJ 404",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "19:14",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "G9 388-2026-01-10": {
     "flightNumber": "G9 388",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:30",
     "type": "dprtr",
     "airlineCode": "G9"
@@ -624,8 +617,8 @@
   },
   "G9 387-2026-01-10": {
     "flightNumber": "G9 387",
-    "status": "",
-    "actualTime": "19:30",
+    "status": "وصلت",
+    "actualTime": "19:40",
     "type": "arivl",
     "airlineCode": "G9"
   },
