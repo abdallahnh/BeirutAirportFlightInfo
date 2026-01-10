@@ -22,14 +22,14 @@
   },
   "TK 4913-2026-01-10": {
     "flightNumber": "TK 4913",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "08:23",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "TK 831-2026-01-10": {
     "flightNumber": "TK 831",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:40",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -43,7 +43,7 @@
   },
   "FZ 158-2026-01-10": {
     "flightNumber": "FZ 158",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:15",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -827,8 +827,8 @@
   },
   "TK 830-2026-01-10": {
     "flightNumber": "TK 830",
-    "status": "",
-    "actualTime": "08:45",
+    "status": "وصلت",
+    "actualTime": "08:43",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -1238,19 +1238,19 @@
     "type": "arivl",
     "airlineCode": "ET"
   },
-  "LH 1308-2026-01-11": {
-    "flightNumber": "LH 1308",
-    "status": "",
-    "actualTime": "22:50",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
   "TK 828-2026-01-11": {
     "flightNumber": "TK 828",
     "status": "",
     "actualTime": "02:30",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "LH 1308-2026-01-11": {
+    "flightNumber": "LH 1308",
+    "status": "",
+    "actualTime": "22:50",
+    "type": "arivl",
+    "airlineCode": "LH"
   },
   "PC 756-2026-01-11": {
     "flightNumber": "PC 756",
