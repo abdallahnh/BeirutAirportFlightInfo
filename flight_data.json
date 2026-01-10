@@ -6,45 +6,24 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 211-2026-01-10": {
-    "flightNumber": "ME 211",
-    "status": "غادرت",
-    "actualTime": "07:23",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 251-2026-01-10": {
-    "flightNumber": "ME 251",
-    "status": "النداء الاخير",
-    "actualTime": "07:37",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 271-2026-01-10": {
     "flightNumber": "ME 271",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "07:37",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 424-2026-01-10": {
-    "flightNumber": "ME 424",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "07:53",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 364-2026-01-10": {
     "flightNumber": "ME 364",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "08:22",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 4913-2026-01-10": {
     "flightNumber": "TK 4913",
-    "status": "",
-    "actualTime": "09:00",
+    "status": "النداء الاخير",
+    "actualTime": "08:23",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -65,7 +44,7 @@
   "FZ 158-2026-01-10": {
     "flightNumber": "FZ 158",
     "status": "",
-    "actualTime": "09:50",
+    "actualTime": "10:15",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -862,8 +841,8 @@
   },
   "FZ 157-2026-01-10": {
     "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "08:50",
+    "status": "وصلت",
+    "actualTime": "08:33",
     "type": "arivl",
     "airlineCode": "FZ"
   },
@@ -1259,19 +1238,19 @@
     "type": "arivl",
     "airlineCode": "ET"
   },
-  "TK 828-2026-01-11": {
-    "flightNumber": "TK 828",
-    "status": "",
-    "actualTime": "02:30",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "LH 1308-2026-01-11": {
     "flightNumber": "LH 1308",
     "status": "",
     "actualTime": "22:50",
     "type": "arivl",
     "airlineCode": "LH"
+  },
+  "TK 828-2026-01-11": {
+    "flightNumber": "TK 828",
+    "status": "",
+    "actualTime": "02:30",
+    "type": "arivl",
+    "airlineCode": "TK"
   },
   "PC 756-2026-01-11": {
     "flightNumber": "PC 756",
