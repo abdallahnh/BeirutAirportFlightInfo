@@ -6,24 +6,10 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "ME 418-2026-01-10": {
-    "flightNumber": "ME 418",
-    "status": "غادرت",
-    "actualTime": "15:34",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 322-2026-01-10": {
     "flightNumber": "ME 322",
-    "status": "",
-    "actualTime": "15:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 581-2026-01-10": {
-    "flightNumber": "ME 581",
-    "status": "غادرت",
-    "actualTime": "15:32",
+    "status": "النداء الاخير",
+    "actualTime": "16:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -36,7 +22,7 @@
   },
   "ME 428-2026-01-10": {
     "flightNumber": "ME 428",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "15:43",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -57,14 +43,14 @@
   },
   "IA 1302-2026-01-10": {
     "flightNumber": "IA 1302",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "ME 267-2026-01-10": {
     "flightNumber": "ME 267",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:25",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -184,7 +170,7 @@
   "ET 407-2026-01-11": {
     "flightNumber": "ET 407",
     "status": "",
-    "actualTime": "02:00",
+    "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ET"
   },
@@ -250,6 +236,13 @@
     "actualTime": "06:00",
     "type": "dprtr",
     "airlineCode": "RJ"
+  },
+  "ME 275-2026-01-11": {
+    "flightNumber": "ME 275",
+    "status": "",
+    "actualTime": "06:00",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "EY 584-2026-01-11": {
     "flightNumber": "EY 584",
@@ -356,13 +349,6 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "FZ 158-2026-01-11": {
-    "flightNumber": "FZ 158",
-    "status": "ألغيت",
-    "actualTime": "09:50",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
   "PC 1825-2026-01-11": {
     "flightNumber": "PC 1825",
     "status": "",
@@ -376,13 +362,6 @@
     "actualTime": "10:15",
     "type": "dprtr",
     "airlineCode": "MS"
-  },
-  "UF 002-2026-01-11": {
-    "flightNumber": "UF 002",
-    "status": "ألغيت",
-    "actualTime": "11:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
   },
   "IA 132-2026-01-11": {
     "flightNumber": "IA 132",
@@ -523,13 +502,6 @@
     "actualTime": "16:25",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "UF 004-2026-01-11": {
-    "flightNumber": "UF 004",
-    "status": "ألغيت",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
   },
   "IA 1302-2026-01-11": {
     "flightNumber": "IA 1302",
@@ -685,27 +657,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ET 3406-2026-01-10": {
-    "flightNumber": "ET 3406",
-    "status": "",
-    "actualTime": "11:00",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
-  "ME 425-2026-01-10": {
-    "flightNumber": "ME 425",
-    "status": "وصلت",
-    "actualTime": "14:26",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "AF 566-2026-01-10": {
-    "flightNumber": "AF 566",
-    "status": "وصلت",
-    "actualTime": "14:22",
-    "type": "arivl",
-    "airlineCode": "AF"
-  },
   "IA 139-2026-01-10": {
     "flightNumber": "IA 139",
     "status": "وصلت",
@@ -717,27 +668,6 @@
     "flightNumber": "ME 365",
     "status": "وصلت",
     "actualTime": "14:58",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "CY 120-2026-01-10": {
-    "flightNumber": "CY 120",
-    "status": "وصلت",
-    "actualTime": "14:34",
-    "type": "arivl",
-    "airlineCode": "CY"
-  },
-  "ME 427-2026-01-10": {
-    "flightNumber": "ME 427",
-    "status": "وصلت",
-    "actualTime": "14:54",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 305-2026-01-10": {
-    "flightNumber": "ME 305",
-    "status": "وصلت",
-    "actualTime": "15:27",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1077,13 +1007,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "FZ 157-2026-01-11": {
-    "flightNumber": "FZ 157",
-    "status": "ألغيت",
-    "actualTime": "08:50",
-    "type": "arivl",
-    "airlineCode": "FZ"
-  },
   "PC 1824-2026-01-11": {
     "flightNumber": "PC 1824",
     "status": "",
@@ -1104,13 +1027,6 @@
     "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "EK"
-  },
-  "UF 001-2026-01-11": {
-    "flightNumber": "UF 001",
-    "status": "ألغيت",
-    "actualTime": "11:30",
-    "type": "arivl",
-    "airlineCode": "UF"
   },
   "IA 131-2026-01-11": {
     "flightNumber": "IA 131",
@@ -1251,13 +1167,6 @@
     "actualTime": "15:25",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "UF 003-2026-01-11": {
-    "flightNumber": "UF 003",
-    "status": "ألغيت",
-    "actualTime": "15:30",
-    "type": "arivl",
-    "airlineCode": "UF"
   },
   "IA 1301-2026-01-11": {
     "flightNumber": "IA 1301",
