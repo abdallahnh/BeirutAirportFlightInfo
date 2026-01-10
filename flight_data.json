@@ -1,11 +1,4 @@
 {
-  "ME 402-2026-01-10": {
-    "flightNumber": "ME 402",
-    "status": "غادرت",
-    "actualTime": "18:29",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 306-2026-01-10": {
     "flightNumber": "ME 306",
     "status": "النداء الاخير",
@@ -22,8 +15,8 @@
   },
   "QR 427-2026-01-10": {
     "flightNumber": "QR 427",
-    "status": "",
-    "actualTime": "19:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "19:00",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -36,7 +29,7 @@
   },
   "RJ 404-2026-01-10": {
     "flightNumber": "RJ 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:55",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -587,33 +580,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 214-2026-01-10": {
-    "flightNumber": "ME 214",
-    "status": "وصلت",
-    "actualTime": "17:08",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 218-2026-01-10": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "17:56",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 216-2026-01-10": {
     "flightNumber": "ME 216",
     "status": "وصلت",
     "actualTime": "18:27",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "EK 953-2026-01-10": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:14",
-    "type": "arivl",
-    "airlineCode": "EK"
   },
   "QR 426-2026-01-10": {
     "flightNumber": "QR 426",
@@ -631,29 +603,29 @@
   },
   "ME 202-2026-01-10": {
     "flightNumber": "ME 202",
-    "status": "",
-    "actualTime": "18:45",
+    "status": "وصلت",
+    "actualTime": "19:03",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 212-2026-01-10": {
     "flightNumber": "ME 212",
-    "status": "",
-    "actualTime": "18:55",
+    "status": "وصلت",
+    "actualTime": "19:03",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "RJ 403-2026-01-10": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "19:05",
+    "status": "وصلت",
+    "actualTime": "18:58",
     "type": "arivl",
     "airlineCode": "RJ"
   },
   "ME 313-2026-01-10": {
     "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "19:25",
+    "status": "وصلت",
+    "actualTime": "19:05",
     "type": "arivl",
     "airlineCode": "ME"
   },
