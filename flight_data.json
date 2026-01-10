@@ -20,24 +20,10 @@
     "type": "dprtr",
     "airlineCode": "CY"
   },
-  "ME 312-2026-01-10": {
-    "flightNumber": "ME 312",
-    "status": "غادرت",
-    "actualTime": "15:56",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "IA 140-2026-01-10": {
-    "flightNumber": "IA 140",
-    "status": "غادرت",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "ME 267-2026-01-10": {
     "flightNumber": "ME 267",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:25",
+    "status": "النداء الاخير",
+    "actualTime": "17:02",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -50,7 +36,7 @@
   },
   "ME 368-2026-01-10": {
     "flightNumber": "ME 368",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:45",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -97,6 +83,13 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
+  "G9 388-2026-01-10": {
+    "flightNumber": "G9 388",
+    "status": "",
+    "actualTime": "20:30",
+    "type": "dprtr",
+    "airlineCode": "G9"
+  },
   "ME 430-2026-01-10": {
     "flightNumber": "ME 430",
     "status": "",
@@ -110,13 +103,6 @@
     "actualTime": "21:10",
     "type": "dprtr",
     "airlineCode": "TK"
-  },
-  "G9 388-2026-01-10": {
-    "flightNumber": "G9 388",
-    "status": "",
-    "actualTime": "21:30",
-    "type": "dprtr",
-    "airlineCode": "G9"
   },
   "KU 504-2026-01-10": {
     "flightNumber": "KU 504",
@@ -650,13 +636,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "ME 365-2026-01-10": {
-    "flightNumber": "ME 365",
-    "status": "وصلت",
-    "actualTime": "14:58",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 236-2026-01-10": {
     "flightNumber": "ME 236",
     "status": "وصلت",
@@ -762,6 +741,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "G9 387-2026-01-10": {
+    "flightNumber": "G9 387",
+    "status": "",
+    "actualTime": "19:30",
+    "type": "arivl",
+    "airlineCode": "G9"
+  },
   "ME 323-2026-01-10": {
     "flightNumber": "ME 323",
     "status": "",
@@ -789,13 +775,6 @@
     "actualTime": "20:45",
     "type": "arivl",
     "airlineCode": "FZ"
-  },
-  "G9 387-2026-01-10": {
-    "flightNumber": "G9 387",
-    "status": "",
-    "actualTime": "20:50",
-    "type": "arivl",
-    "airlineCode": "G9"
   },
   "UF 001-2026-01-10": {
     "flightNumber": "UF 001",
