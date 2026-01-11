@@ -1,91 +1,42 @@
 {
-  "ET 407-2026-01-11": {
-    "flightNumber": "ET 407",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:04",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "TK 829-2026-01-11": {
-    "flightNumber": "TK 829",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:03",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "LH 1309-2026-01-11": {
-    "flightNumber": "LH 1309",
-    "status": "",
-    "actualTime": "16:55",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
-  "RO 168-2026-01-11": {
-    "flightNumber": "RO 168",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:38",
-    "type": "dprtr",
-    "airlineCode": "RO"
-  },
-  "VF 1628-2026-01-11": {
-    "flightNumber": "VF 1628",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "04:28",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
-  "EY 584-2026-01-11": {
-    "flightNumber": "EY 584",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "05:23",
-    "type": "dprtr",
-    "airlineCode": "EY"
-  },
-  "ME 247-2026-01-11": {
-    "flightNumber": "ME 247",
-    "status": "تم فتح البوابة",
-    "actualTime": "06:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 265-2026-01-11": {
     "flightNumber": "ME 265",
-    "status": "",
-    "actualTime": "07:05",
+    "status": "النداء الاخير",
+    "actualTime": "06:35",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 302-2026-01-11": {
     "flightNumber": "ME 302",
-    "status": "",
-    "actualTime": "07:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:44",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 217-2026-01-11": {
     "flightNumber": "ME 217",
-    "status": "",
-    "actualTime": "07:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:43",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 426-2026-01-11": {
     "flightNumber": "ME 426",
-    "status": "",
-    "actualTime": "07:20",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:45",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 231-2026-01-11": {
     "flightNumber": "ME 231",
-    "status": "",
-    "actualTime": "07:20",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:50",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 201-2026-01-11": {
     "flightNumber": "ME 201",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:35",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -99,7 +50,7 @@
   },
   "ME 211-2026-01-11": {
     "flightNumber": "ME 211",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:50",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -149,7 +100,7 @@
   "MS 710-2026-01-11": {
     "flightNumber": "MS 710",
     "status": "",
-    "actualTime": "10:05",
+    "actualTime": "10:00",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -299,6 +250,13 @@
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "LH 1309-2026-01-11": {
+    "flightNumber": "LH 1309",
+    "status": "",
+    "actualTime": "16:55",
+    "type": "dprtr",
+    "airlineCode": "LH"
   },
   "ME 326-2026-01-11": {
     "flightNumber": "ME 326",
@@ -887,41 +845,6 @@
     "actualTime": "21:45",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "ME 431-2026-01-11": {
-    "flightNumber": "ME 431",
-    "status": "وصلت",
-    "actualTime": "04:35",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "RJ 407-2026-01-11": {
-    "flightNumber": "RJ 407",
-    "status": "وصلت",
-    "actualTime": "04:26",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
-  "EY 583-2026-01-11": {
-    "flightNumber": "EY 583",
-    "status": "وصلت",
-    "actualTime": "04:33",
-    "type": "arivl",
-    "airlineCode": "EY"
-  },
-  "ME 582-2026-01-11": {
-    "flightNumber": "ME 582",
-    "status": "وصلت",
-    "actualTime": "05:42",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 435-2026-01-11": {
-    "flightNumber": "ME 435",
-    "status": "وصلت",
-    "actualTime": "05:26",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "TK 830-2026-01-11": {
     "flightNumber": "TK 830",
