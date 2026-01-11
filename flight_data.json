@@ -20,23 +20,16 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
-  "ME 324-2026-01-11": {
-    "flightNumber": "ME 324",
-    "status": "غادرت",
-    "actualTime": "11:46",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "QR 417-2026-01-11": {
     "flightNumber": "QR 417",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "12:12",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "ME 229-2026-01-11": {
     "flightNumber": "ME 229",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:30",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -216,13 +209,6 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "J9 262-2026-01-11": {
-    "flightNumber": "J9 262",
-    "status": "",
-    "actualTime": "20:50",
-    "type": "dprtr",
-    "airlineCode": "J9"
-  },
   "ME 430-2026-01-11": {
     "flightNumber": "ME 430",
     "status": "",
@@ -257,6 +243,13 @@
     "actualTime": "21:45",
     "type": "dprtr",
     "airlineCode": "FZ"
+  },
+  "J9 262-2026-01-11": {
+    "flightNumber": "J9 262",
+    "status": "",
+    "actualTime": "22:25",
+    "type": "dprtr",
+    "airlineCode": "J9"
   },
   "ME 434-2026-01-11": {
     "flightNumber": "ME 434",
@@ -706,33 +699,12 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "IA 131-2026-01-11": {
-    "flightNumber": "IA 131",
-    "status": "وصلت",
-    "actualTime": "10:25",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 311-2026-01-11": {
     "flightNumber": "ME 311",
     "status": "وصلت",
     "actualTime": "11:03",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "EY 581-2026-01-11": {
-    "flightNumber": "EY 581",
-    "status": "وصلت",
-    "actualTime": "10:21",
-    "type": "arivl",
-    "airlineCode": "EY"
-  },
-  "RJ 401-2026-01-11": {
-    "flightNumber": "RJ 401",
-    "status": "وصلت",
-    "actualTime": "10:29",
-    "type": "arivl",
-    "airlineCode": "RJ"
   },
   "ME 303-2026-01-11": {
     "flightNumber": "ME 303",
