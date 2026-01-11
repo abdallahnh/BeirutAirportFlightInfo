@@ -50,7 +50,7 @@
   },
   "ME 430-2026-01-11": {
     "flightNumber": "ME 430",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:31",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -64,8 +64,8 @@
   },
   "TK 827-2026-01-11": {
     "flightNumber": "TK 827",
-    "status": "تأخير",
-    "actualTime": "21:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "21:18",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -531,20 +531,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "MS 711-2026-01-11": {
-    "flightNumber": "MS 711",
-    "status": "وصلت",
-    "actualTime": "18:56",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
-  "ME 313-2026-01-11": {
-    "flightNumber": "ME 313",
-    "status": "وصلت",
-    "actualTime": "19:08",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 323-2026-01-11": {
     "flightNumber": "ME 323",
     "status": "وصلت",
@@ -561,15 +547,15 @@
   },
   "FZ 159-2026-01-11": {
     "flightNumber": "FZ 159",
-    "status": "",
-    "actualTime": "20:45",
+    "status": "وصلت",
+    "actualTime": "20:56",
     "type": "arivl",
     "airlineCode": "FZ"
   },
   "G9 387-2026-01-11": {
     "flightNumber": "G9 387",
-    "status": "تبكير",
-    "actualTime": "20:50",
+    "status": "وصلت",
+    "actualTime": "21:10",
     "type": "arivl",
     "airlineCode": "G9"
   },
