@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "LH"
   },
-  "MS 714-2026-01-11": {
-    "flightNumber": "MS 714",
-    "status": "غادرت",
-    "actualTime": "03:35",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "RO 168-2026-01-11": {
     "flightNumber": "RO 168",
     "status": "تم اغلاق البوابة",
@@ -36,35 +29,21 @@
   },
   "VF 1628-2026-01-11": {
     "flightNumber": "VF 1628",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "04:28",
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "RJ 408-2026-01-11": {
-    "flightNumber": "RJ 408",
-    "status": "تم فتح البوابة",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
-  "ME 275-2026-01-11": {
-    "flightNumber": "ME 275",
-    "status": "",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EY 584-2026-01-11": {
     "flightNumber": "EY 584",
-    "status": "",
-    "actualTime": "06:15",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "05:23",
     "type": "dprtr",
     "airlineCode": "EY"
   },
   "ME 247-2026-01-11": {
     "flightNumber": "ME 247",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "06:30",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -909,44 +888,9 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "PC 758-2026-01-11": {
-    "flightNumber": "PC 758",
-    "status": "وصلت",
-    "actualTime": "02:32",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "LH 1308-2026-01-11": {
-    "flightNumber": "LH 1308",
-    "status": "",
-    "actualTime": "15:45",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
-  "PC 756-2026-01-11": {
-    "flightNumber": "PC 756",
-    "status": "وصلت",
-    "actualTime": "03:15",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "MS 713-2026-01-11": {
-    "flightNumber": "MS 713",
-    "status": "وصلت",
-    "actualTime": "03:05",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
-  "RO 167-2026-01-11": {
-    "flightNumber": "RO 167",
-    "status": "وصلت",
-    "actualTime": "03:11",
-    "type": "arivl",
-    "airlineCode": "RO"
-  },
   "ME 431-2026-01-11": {
     "flightNumber": "ME 431",
-    "status": "تبكير",
+    "status": "وصلت",
     "actualTime": "04:35",
     "type": "arivl",
     "airlineCode": "ME"
@@ -960,22 +904,22 @@
   },
   "EY 583-2026-01-11": {
     "flightNumber": "EY 583",
-    "status": "",
-    "actualTime": "05:05",
+    "status": "وصلت",
+    "actualTime": "04:33",
     "type": "arivl",
     "airlineCode": "EY"
   },
   "ME 582-2026-01-11": {
     "flightNumber": "ME 582",
-    "status": "",
-    "actualTime": "05:45",
+    "status": "وصلت",
+    "actualTime": "05:42",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 435-2026-01-11": {
     "flightNumber": "ME 435",
-    "status": "تبكير",
-    "actualTime": "05:30",
+    "status": "وصلت",
+    "actualTime": "05:26",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1160,6 +1104,13 @@
     "actualTime": "15:30",
     "type": "arivl",
     "airlineCode": "IA"
+  },
+  "LH 1308-2026-01-11": {
+    "flightNumber": "LH 1308",
+    "status": "",
+    "actualTime": "15:45",
+    "type": "arivl",
+    "airlineCode": "LH"
   },
   "ME 248-2026-01-11": {
     "flightNumber": "ME 248",
