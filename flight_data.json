@@ -1,11 +1,4 @@
 {
-  "ME 424-2026-01-11": {
-    "flightNumber": "ME 424",
-    "status": "غادرت",
-    "actualTime": "07:48",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 404-2026-01-11": {
     "flightNumber": "ME 404",
     "status": "تم اغلاق البوابة",
@@ -22,7 +15,7 @@
   },
   "TK 831-2026-01-11": {
     "flightNumber": "TK 831",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:40",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -771,7 +764,7 @@
   },
   "TK 830-2026-01-11": {
     "flightNumber": "TK 830",
-    "status": "",
+    "status": "وصلت",
     "actualTime": "08:45",
     "type": "arivl",
     "airlineCode": "TK"
