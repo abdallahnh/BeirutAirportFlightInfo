@@ -43,15 +43,15 @@
   },
   "RJ 408-2026-01-12": {
     "flightNumber": "RJ 408",
-    "status": "تم فتح البوابة",
-    "actualTime": "06:00",
+    "status": "غادرت",
+    "actualTime": "05:03",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "EY 584-2026-01-12": {
     "flightNumber": "EY 584",
-    "status": "",
-    "actualTime": "06:15",
+    "status": "غادرت",
+    "actualTime": "05:22",
     "type": "dprtr",
     "airlineCode": "EY"
   },
@@ -78,7 +78,7 @@
   },
   "ME 217-2026-01-12": {
     "flightNumber": "ME 217",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -867,38 +867,31 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "PC 756-2026-01-12": {
-    "flightNumber": "PC 756",
-    "status": "وصلت",
-    "actualTime": "02:50",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "RJ 407-2026-01-12": {
     "flightNumber": "RJ 407",
-    "status": "",
-    "actualTime": "05:00",
+    "status": "وصلت",
+    "actualTime": "04:29",
     "type": "arivl",
     "airlineCode": "RJ"
   },
   "ME 431-2026-01-12": {
     "flightNumber": "ME 431",
-    "status": "",
-    "actualTime": "05:00",
+    "status": "وصلت",
+    "actualTime": "04:38",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "EY 583-2026-01-12": {
     "flightNumber": "EY 583",
-    "status": "",
-    "actualTime": "05:05",
+    "status": "وصلت",
+    "actualTime": "04:35",
     "type": "arivl",
     "airlineCode": "EY"
   },
   "ME 435-2026-01-12": {
     "flightNumber": "ME 435",
-    "status": "",
-    "actualTime": "06:00",
+    "status": "وصلت",
+    "actualTime": "05:47",
     "type": "arivl",
     "airlineCode": "ME"
   },
