@@ -1,49 +1,28 @@
 {
-  "IA 132-2026-01-12": {
-    "flightNumber": "IA 132",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "RJ 402-2026-01-12": {
-    "flightNumber": "RJ 402",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "11:22",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
-  "QR 417-2026-01-12": {
-    "flightNumber": "QR 417",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "12:22",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "EY 582-2026-01-12": {
     "flightNumber": "EY 582",
-    "status": "تم فتح البوابة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "11:52",
     "type": "dprtr",
     "airlineCode": "EY"
   },
   "TK 825-2026-01-12": {
     "flightNumber": "TK 825",
-    "status": "",
-    "actualTime": "14:50",
+    "status": "تأخير",
+    "actualTime": "17:40",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "ME 436-2026-01-12": {
     "flightNumber": "ME 436",
-    "status": "",
-    "actualTime": "15:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "14:59",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "SK 2968-2026-01-12": {
     "flightNumber": "SK 2968",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:25",
     "type": "dprtr",
     "airlineCode": "SK"
@@ -57,7 +36,7 @@
   },
   "AF 565-2026-01-12": {
     "flightNumber": "AF 565",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "AF"
@@ -636,45 +615,38 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 266-2026-01-12": {
-    "flightNumber": "ME 266",
-    "status": "وصلت",
-    "actualTime": "12:01",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "TK 824-2026-01-12": {
     "flightNumber": "TK 824",
-    "status": "",
-    "actualTime": "13:55",
+    "status": "تأخير",
+    "actualTime": "16:50",
     "type": "arivl",
     "airlineCode": "TK"
   },
   "ME 425-2026-01-12": {
     "flightNumber": "ME 425",
-    "status": "",
-    "actualTime": "14:15",
+    "status": "وصلت",
+    "actualTime": "14:07",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "AF 566-2026-01-12": {
     "flightNumber": "AF 566",
-    "status": "",
-    "actualTime": "14:20",
+    "status": "وصلت",
+    "actualTime": "14:11",
     "type": "arivl",
     "airlineCode": "AF"
   },
   "SK 2967-2026-01-12": {
     "flightNumber": "SK 2967",
-    "status": "",
-    "actualTime": "14:25",
+    "status": "وصلت",
+    "actualTime": "14:13",
     "type": "arivl",
     "airlineCode": "SK"
   },
   "ME 405-2026-01-12": {
     "flightNumber": "ME 405",
-    "status": "",
-    "actualTime": "14:25",
+    "status": "وصلت",
+    "actualTime": "14:17",
     "type": "arivl",
     "airlineCode": "ME"
   },
