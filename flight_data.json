@@ -1,46 +1,4 @@
 {
-  "ET 407-2026-01-12": {
-    "flightNumber": "ET 407",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "01:36",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "PC 759-2026-01-12": {
-    "flightNumber": "PC 759",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:18",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
-  "ET 417-2026-01-12": {
-    "flightNumber": "ET 417",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:43",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "TK 829-2026-01-12": {
-    "flightNumber": "TK 829",
-    "status": "ألغيت",
-    "actualTime": "03:25",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "VF 544-2026-01-12": {
-    "flightNumber": "VF 544",
-    "status": "ألغيت",
-    "actualTime": "04:15",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
-  "VF 1628-2026-01-12": {
-    "flightNumber": "VF 1628",
-    "status": "ألغيت",
-    "actualTime": "05:15",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
   "ME 217-2026-01-12": {
     "flightNumber": "ME 217",
     "status": "النداء الاخير",
@@ -48,31 +6,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 201-2026-01-12": {
-    "flightNumber": "ME 201",
-    "status": "غادرت",
-    "actualTime": "07:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 310-2026-01-12": {
-    "flightNumber": "ME 310",
-    "status": "غادرت",
-    "actualTime": "07:03",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 211-2026-01-12": {
     "flightNumber": "ME 211",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "07:13",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 424-2026-01-12": {
     "flightNumber": "ME 424",
-    "status": "",
-    "actualTime": "08:25",
+    "status": "النداء الاخير",
+    "actualTime": "07:50",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -92,7 +36,7 @@
   },
   "ME 241-2026-01-12": {
     "flightNumber": "ME 241",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -817,13 +761,6 @@
     "actualTime": "02:30",
     "type": "arivl",
     "airlineCode": "TK"
-  },
-  "ME 435-2026-01-12": {
-    "flightNumber": "ME 435",
-    "status": "وصلت",
-    "actualTime": "05:47",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "TK 830-2026-01-12": {
     "flightNumber": "TK 830",
