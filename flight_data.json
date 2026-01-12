@@ -41,13 +41,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "LH 1309-2026-01-12": {
-    "flightNumber": "LH 1309",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "16:51",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
   "ME 267-2026-01-12": {
     "flightNumber": "ME 267",
     "status": "تم اغلاق البوابة",
@@ -57,21 +50,21 @@
   },
   "ME 368-2026-01-12": {
     "flightNumber": "ME 368",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "17:10",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 422-2026-01-12": {
     "flightNumber": "ME 422",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:55",
+    "status": "النداء الاخير",
+    "actualTime": "17:24",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 306-2026-01-12": {
     "flightNumber": "ME 306",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "18:15",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -624,8 +617,8 @@
   },
   "EK 953-2026-01-12": {
     "flightNumber": "EK 953",
-    "status": "",
-    "actualTime": "17:00",
+    "status": "وصلت",
+    "actualTime": "17:18",
     "type": "arivl",
     "airlineCode": "EK"
   },
