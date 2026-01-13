@@ -22,14 +22,14 @@
   },
   "ME 229-2026-01-13": {
     "flightNumber": "ME 229",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:30",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EY 582-2026-01-13": {
     "flightNumber": "EY 582",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "13:50",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -55,19 +55,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 140-2026-01-13": {
-    "flightNumber": "IA 140",
-    "status": "",
-    "actualTime": "15:20",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "AH 4017-2026-01-13": {
     "flightNumber": "AH 4017",
     "status": "",
     "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "AH"
+  },
+  "IA 140-2026-01-13": {
+    "flightNumber": "IA 140",
+    "status": "",
+    "actualTime": "15:45",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "ME 322-2026-01-13": {
     "flightNumber": "ME 322",
@@ -699,26 +699,12 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "IA 131-2026-01-13": {
-    "flightNumber": "IA 131",
-    "status": "وصلت",
-    "actualTime": "10:46",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "EY 581-2026-01-13": {
     "flightNumber": "EY 581",
     "status": "وصلت",
     "actualTime": "11:12",
     "type": "arivl",
     "airlineCode": "EY"
-  },
-  "G9 385-2026-01-13": {
-    "flightNumber": "G9 385",
-    "status": "وصلت",
-    "actualTime": "10:41",
-    "type": "arivl",
-    "airlineCode": "G9"
   },
   "QR 416-2026-01-13": {
     "flightNumber": "QR 416",
@@ -736,8 +722,8 @@
   },
   "ME 252-2026-01-13": {
     "flightNumber": "ME 252",
-    "status": "",
-    "actualTime": "13:00",
+    "status": "وصلت",
+    "actualTime": "12:53",
     "type": "arivl",
     "airlineCode": "ME"
   },
