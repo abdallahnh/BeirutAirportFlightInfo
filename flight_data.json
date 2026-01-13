@@ -13,24 +13,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 368-2026-01-13": {
-    "flightNumber": "ME 368",
-    "status": "غادرت",
-    "actualTime": "17:24",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 422-2026-01-13": {
     "flightNumber": "ME 422",
     "status": "تم اغلاق البوابة",
     "actualTime": "17:19",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 306-2026-01-13": {
-    "flightNumber": "ME 306",
-    "status": "النداء الاخير",
-    "actualTime": "17:31",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -43,14 +29,14 @@
   },
   "MS 712-2026-01-13": {
     "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "19:15",
+    "status": "النداء الاخير",
+    "actualTime": "18:25",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "QR 427-2026-01-13": {
     "flightNumber": "QR 427",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:35",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -573,13 +559,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "IA 1301-2026-01-13": {
-    "flightNumber": "IA 1301",
-    "status": "",
-    "actualTime": "15:30",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "ME 248-2026-01-13": {
     "flightNumber": "ME 248",
     "status": "وصلت",
@@ -587,17 +566,10 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 321-2026-01-13": {
-    "flightNumber": "ME 321",
-    "status": "وصلت",
-    "actualTime": "16:15",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 1824-2026-01-13": {
     "flightNumber": "PC 1824",
     "status": "تأخير",
-    "actualTime": "16:40",
+    "actualTime": "16:25",
     "type": "arivl",
     "airlineCode": "PC"
   },
@@ -617,8 +589,8 @@
   },
   "EK 953-2026-01-13": {
     "flightNumber": "EK 953",
-    "status": "",
-    "actualTime": "17:00",
+    "status": "وصلت",
+    "actualTime": "18:03",
     "type": "arivl",
     "airlineCode": "EK"
   },
@@ -638,8 +610,8 @@
   },
   "MS 711-2026-01-13": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "18:15",
+    "status": "وصلت",
+    "actualTime": "17:59",
     "type": "arivl",
     "airlineCode": "MS"
   },
