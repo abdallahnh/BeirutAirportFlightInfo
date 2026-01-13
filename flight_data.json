@@ -6,16 +6,9 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ME 229-2026-01-13": {
-    "flightNumber": "ME 229",
-    "status": "غادرت",
-    "actualTime": "12:55",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EY 582-2026-01-13": {
     "flightNumber": "EY 582",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "13:05",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -314,6 +307,13 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
+  "EY 584-2026-01-14": {
+    "flightNumber": "EY 584",
+    "status": "",
+    "actualTime": "06:15",
+    "type": "dprtr",
+    "airlineCode": "EY"
+  },
   "ME 235-2026-01-14": {
     "flightNumber": "ME 235",
     "status": "",
@@ -559,6 +559,13 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "ME 312-2026-01-14": {
+    "flightNumber": "ME 312",
+    "status": "",
+    "actualTime": "16:25",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "UF 002-2026-01-14": {
     "flightNumber": "UF 002",
     "status": "",
@@ -573,12 +580,12 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "ME 312-2026-01-14": {
-    "flightNumber": "ME 312",
+  "LH 1309-2026-01-14": {
+    "flightNumber": "LH 1309",
     "status": "",
-    "actualTime": "16:45",
+    "actualTime": "16:55",
     "type": "dprtr",
-    "airlineCode": "ME"
+    "airlineCode": "LH"
   },
   "ME 267-2026-01-14": {
     "flightNumber": "ME 267",
@@ -639,7 +646,7 @@
   "RJ 404-2026-01-14": {
     "flightNumber": "RJ 404",
     "status": "",
-    "actualTime": "19:55",
+    "actualTime": "20:05",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
