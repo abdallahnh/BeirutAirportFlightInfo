@@ -41,23 +41,16 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
-  "RJ 404-2026-01-13": {
-    "flightNumber": "RJ 404",
-    "status": "غادرت",
-    "actualTime": "19:19",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "TK 6902-2026-01-13": {
     "flightNumber": "TK 6902",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:50",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "J9 262-2026-01-13": {
     "flightNumber": "J9 262",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:50",
     "type": "dprtr",
     "airlineCode": "J9"
@@ -71,7 +64,7 @@
   },
   "ME 261-2026-01-13": {
     "flightNumber": "ME 261",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -559,13 +552,6 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "ME 218-2026-01-13": {
-    "flightNumber": "ME 218",
-    "status": "وصلت",
-    "actualTime": "17:53",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "EK 953-2026-01-13": {
     "flightNumber": "EK 953",
     "status": "وصلت",
@@ -575,8 +561,8 @@
   },
   "IA 135-2026-01-13": {
     "flightNumber": "IA 135",
-    "status": "",
-    "actualTime": "18:00",
+    "status": "وصلت",
+    "actualTime": "19:47",
     "type": "arivl",
     "airlineCode": "IA"
   },
