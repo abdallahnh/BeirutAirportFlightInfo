@@ -8,7 +8,7 @@
   },
   "ME 322-2026-01-14": {
     "flightNumber": "ME 322",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "15:33",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -20,17 +20,10 @@
     "type": "dprtr",
     "airlineCode": "CY"
   },
-  "AF 565-2026-01-14": {
-    "flightNumber": "AF 565",
-    "status": "النداء الاخير",
-    "actualTime": "15:05",
-    "type": "dprtr",
-    "airlineCode": "AF"
-  },
   "ME 428-2026-01-14": {
     "flightNumber": "ME 428",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -43,7 +36,7 @@
   },
   "UF 002-2026-01-14": {
     "flightNumber": "UF 002",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "UF"
@@ -156,7 +149,7 @@
   "ET 407-2026-01-15": {
     "flightNumber": "ET 407",
     "status": "",
-    "actualTime": "02:00",
+    "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ET"
   },
@@ -601,20 +594,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "PC 3000-2026-01-14": {
-    "flightNumber": "PC 3000",
-    "status": "وصلت",
-    "actualTime": "13:57",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "ME 425-2026-01-14": {
-    "flightNumber": "ME 425",
-    "status": "وصلت",
-    "actualTime": "14:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "IA 133-2026-01-14": {
     "flightNumber": "IA 133",
     "status": "وصلت",
@@ -673,15 +652,15 @@
   },
   "UF 001-2026-01-14": {
     "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "15:30",
+    "status": "وصلت",
+    "actualTime": "16:01",
     "type": "arivl",
     "airlineCode": "UF"
   },
   "ME 321-2026-01-14": {
     "flightNumber": "ME 321",
-    "status": "",
-    "actualTime": "16:00",
+    "status": "وصلت",
+    "actualTime": "15:55",
     "type": "arivl",
     "airlineCode": "ME"
   },
