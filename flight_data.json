@@ -1,11 +1,4 @@
 {
-  "ME 265-2026-01-14": {
-    "flightNumber": "ME 265",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "06:34",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2026-01-14": {
     "flightNumber": "TK 831",
     "status": "تم اغلاق البوابة",
@@ -29,14 +22,14 @@
   },
   "G9 386-2026-01-14": {
     "flightNumber": "G9 386",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:35",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "ME 304-2026-01-14": {
     "flightNumber": "ME 304",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -713,20 +706,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 830-2026-01-14": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:34",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "IA 137-2026-01-14": {
-    "flightNumber": "IA 137",
-    "status": "وصلت",
-    "actualTime": "08:44",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "KU 501-2026-01-14": {
     "flightNumber": "KU 501",
     "status": "وصلت",
@@ -750,8 +729,8 @@
   },
   "IA 131-2026-01-14": {
     "flightNumber": "IA 131",
-    "status": "",
-    "actualTime": "10:30",
+    "status": "وصلت",
+    "actualTime": "10:36",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -771,15 +750,15 @@
   },
   "RJ 401-2026-01-14": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "10:50",
+    "status": "وصلت",
+    "actualTime": "10:46",
     "type": "arivl",
     "airlineCode": "RJ"
   },
   "G9 385-2026-01-14": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "10:55",
+    "status": "وصلت",
+    "actualTime": "10:43",
     "type": "arivl",
     "airlineCode": "G9"
   },
