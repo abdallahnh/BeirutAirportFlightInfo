@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ME 229-2026-01-15": {
-    "flightNumber": "ME 229",
-    "status": "غادرت",
-    "actualTime": "12:57",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "EY 582-2026-01-15": {
     "flightNumber": "EY 582",
     "status": "تأخير",
@@ -36,7 +29,7 @@
   },
   "TK 825-2026-01-15": {
     "flightNumber": "TK 825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "14:50",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -601,6 +594,20 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "ME 306-2026-01-16": {
+    "flightNumber": "ME 306",
+    "status": "",
+    "actualTime": "18:15",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "SK 2828-2026-01-16": {
+    "flightNumber": "SK 2828",
+    "status": "",
+    "actualTime": "18:20",
+    "type": "dprtr",
+    "airlineCode": "SK"
+  },
   "MS 712-2026-01-16": {
     "flightNumber": "MS 712",
     "status": "",
@@ -629,26 +636,19 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
+  "ME 261-2026-01-16": {
+    "flightNumber": "ME 261",
+    "status": "",
+    "actualTime": "20:25",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "J9 262-2026-01-16": {
     "flightNumber": "J9 262",
     "status": "",
     "actualTime": "20:50",
     "type": "dprtr",
     "airlineCode": "J9"
-  },
-  "ME 430-2026-01-16": {
-    "flightNumber": "ME 430",
-    "status": "",
-    "actualTime": "21:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 261-2026-01-16": {
-    "flightNumber": "ME 261",
-    "status": "",
-    "actualTime": "21:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "TK 827-2026-01-16": {
     "flightNumber": "TK 827",
@@ -684,13 +684,6 @@
     "actualTime": "12:54",
     "type": "arivl",
     "airlineCode": "PC"
-  },
-  "ME 266-2026-01-15": {
-    "flightNumber": "ME 266",
-    "status": "وصلت",
-    "actualTime": "11:47",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 252-2026-01-15": {
     "flightNumber": "ME 252",
