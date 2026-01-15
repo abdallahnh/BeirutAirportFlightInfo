@@ -8,7 +8,7 @@
   },
   "EY 582-2026-01-15": {
     "flightNumber": "EY 582",
-    "status": "تأخير",
+    "status": "النداء الاخير",
     "actualTime": "16:25",
     "type": "dprtr",
     "airlineCode": "EY"
@@ -29,36 +29,36 @@
   },
   "IA 140-2026-01-15": {
     "flightNumber": "IA 140",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "15:45",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "ME 322-2026-01-15": {
     "flightNumber": "ME 322",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "15:18",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "CY 121-2026-01-15": {
     "flightNumber": "CY 121",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "15:17",
     "type": "dprtr",
     "airlineCode": "CY"
   },
   "AF 565-2026-01-15": {
     "flightNumber": "AF 565",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "15:01",
     "type": "dprtr",
     "airlineCode": "AF"
   },
   "ME 428-2026-01-15": {
     "flightNumber": "ME 428",
-    "status": "",
-    "actualTime": "16:15",
+    "status": "النداء الاخير",
+    "actualTime": "15:35",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -664,13 +664,6 @@
     "type": "arivl",
     "airlineCode": "EY"
   },
-  "TK 824-2026-01-15": {
-    "flightNumber": "TK 824",
-    "status": "وصلت",
-    "actualTime": "13:27",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "ME 425-2026-01-15": {
     "flightNumber": "ME 425",
     "status": "وصلت",
@@ -736,22 +729,22 @@
   },
   "IA 1301-2026-01-15": {
     "flightNumber": "IA 1301",
-    "status": "",
-    "actualTime": "15:30",
+    "status": "وصلت",
+    "actualTime": "15:55",
     "type": "arivl",
     "airlineCode": "IA"
   },
   "LH 1308-2026-01-15": {
     "flightNumber": "LH 1308",
-    "status": "",
-    "actualTime": "15:45",
+    "status": "وصلت",
+    "actualTime": "15:41",
     "type": "arivl",
     "airlineCode": "LH"
   },
   "ME 321-2026-01-15": {
     "flightNumber": "ME 321",
-    "status": "",
-    "actualTime": "16:00",
+    "status": "وصلت",
+    "actualTime": "15:58",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1070,19 +1063,19 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "ME 311-2026-01-16": {
-    "flightNumber": "ME 311",
-    "status": "",
-    "actualTime": "10:40",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "RJ 401-2026-01-16": {
     "flightNumber": "RJ 401",
     "status": "",
     "actualTime": "10:40",
     "type": "arivl",
     "airlineCode": "RJ"
+  },
+  "ME 311-2026-01-16": {
+    "flightNumber": "ME 311",
+    "status": "",
+    "actualTime": "10:40",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "G9 385-2026-01-16": {
     "flightNumber": "G9 385",
