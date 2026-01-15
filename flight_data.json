@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "G9 388-2026-01-15": {
-    "flightNumber": "G9 388",
-    "status": "غادرت",
-    "actualTime": "22:14",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
   "FZ 160-2026-01-15": {
     "flightNumber": "FZ 160",
     "status": "تم اغلاق البوابة",
@@ -36,7 +29,7 @@
   },
   "ME 434-2026-01-15": {
     "flightNumber": "ME 434",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "22:16",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -533,8 +526,8 @@
   },
   "ME 419-2026-01-15": {
     "flightNumber": "ME 419",
-    "status": "",
-    "actualTime": "22:45",
+    "status": "وصلت",
+    "actualTime": "22:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
