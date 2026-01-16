@@ -1,11 +1,4 @@
 {
-  "RJ 408-2026-01-16": {
-    "flightNumber": "RJ 408",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "07:46",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 217-2026-01-16": {
     "flightNumber": "ME 217",
     "status": "تم اغلاق البوابة",
@@ -27,20 +20,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 310-2026-01-16": {
-    "flightNumber": "ME 310",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "07:23",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 211-2026-01-16": {
-    "flightNumber": "ME 211",
-    "status": "غادرت",
-    "actualTime": "07:08",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 251-2026-01-16": {
     "flightNumber": "ME 251",
     "status": "",
@@ -48,31 +27,17 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 424-2026-01-16": {
-    "flightNumber": "ME 424",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "07:51",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 404-2026-01-16": {
-    "flightNumber": "ME 404",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:40",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 364-2026-01-16": {
     "flightNumber": "ME 364",
-    "status": "",
-    "actualTime": "08:55",
+    "status": "النداء الاخير",
+    "actualTime": "08:25",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 241-2026-01-16": {
     "flightNumber": "ME 241",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:55",
+    "status": "النداء الاخير",
+    "actualTime": "08:16",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -813,8 +778,8 @@
   },
   "TK 830-2026-01-16": {
     "flightNumber": "TK 830",
-    "status": "",
-    "actualTime": "08:45",
+    "status": "وصلت",
+    "actualTime": "08:32",
     "type": "arivl",
     "airlineCode": "TK"
   },
