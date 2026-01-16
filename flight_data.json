@@ -36,7 +36,7 @@
   },
   "AH 4017-2026-01-16": {
     "flightNumber": "AH 4017",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "13:20",
     "type": "dprtr",
     "airlineCode": "AH"
@@ -261,7 +261,7 @@
   "MS 714-2026-01-17": {
     "flightNumber": "MS 714",
     "status": "",
-    "actualTime": "04:00",
+    "actualTime": "03:40",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -288,13 +288,6 @@
   },
   "ME 247-2026-01-17": {
     "flightNumber": "ME 247",
-    "status": "",
-    "actualTime": "06:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 225-2026-01-17": {
-    "flightNumber": "ME 225",
     "status": "",
     "actualTime": "06:30",
     "type": "dprtr",
@@ -678,13 +671,6 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "ME 266-2026-01-16": {
-    "flightNumber": "ME 266",
-    "status": "وصلت",
-    "actualTime": "11:31",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "AH 4016-2026-01-16": {
     "flightNumber": "AH 4016",
     "status": "وصلت",
@@ -701,8 +687,8 @@
   },
   "TK 824-2026-01-16": {
     "flightNumber": "TK 824",
-    "status": "",
-    "actualTime": "13:55",
+    "status": "وصلت",
+    "actualTime": "13:43",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -1118,6 +1104,13 @@
     "actualTime": "11:00",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "ET 3406-2026-01-17": {
+    "flightNumber": "ET 3406",
+    "status": "",
+    "actualTime": "11:00",
+    "type": "arivl",
+    "airlineCode": "ET"
   },
   "QR 416-2026-01-17": {
     "flightNumber": "QR 416",
