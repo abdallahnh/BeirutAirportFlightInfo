@@ -8,7 +8,7 @@
   },
   "MS 712-2026-01-16": {
     "flightNumber": "MS 712",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "18:40",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -22,7 +22,7 @@
   },
   "EK 954-2026-01-16": {
     "flightNumber": "EK 954",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "18:48",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -76,19 +76,19 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ET 407-2026-01-17": {
-    "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "02:05",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "ME 575-2026-01-17": {
     "flightNumber": "ME 575",
     "status": "",
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "ET 407-2026-01-17": {
+    "flightNumber": "ET 407",
+    "status": "",
+    "actualTime": "02:05",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "PC 759-2026-01-17": {
     "flightNumber": "PC 759",
@@ -111,19 +111,19 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "MS 714-2026-01-17": {
-    "flightNumber": "MS 714",
-    "status": "",
-    "actualTime": "03:40",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "PC 757-2026-01-17": {
     "flightNumber": "PC 757",
     "status": "",
     "actualTime": "03:40",
     "type": "dprtr",
     "airlineCode": "PC"
+  },
+  "MS 714-2026-01-17": {
+    "flightNumber": "MS 714",
+    "status": "",
+    "actualTime": "03:40",
+    "type": "dprtr",
+    "airlineCode": "MS"
   },
   "VF 1628-2026-01-17": {
     "flightNumber": "VF 1628",
@@ -293,6 +293,13 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
+  "ME 320-2026-01-17": {
+    "flightNumber": "ME 320",
+    "status": "",
+    "actualTime": "11:55",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "EK 958-2026-01-17": {
     "flightNumber": "EK 958",
     "status": "",
@@ -300,10 +307,10 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
-  "ME 320-2026-01-17": {
-    "flightNumber": "ME 320",
+  "ME 324-2026-01-17": {
+    "flightNumber": "ME 324",
     "status": "",
-    "actualTime": "11:55",
+    "actualTime": "12:00",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -313,13 +320,6 @@
     "actualTime": "12:00",
     "type": "dprtr",
     "airlineCode": "ET"
-  },
-  "ME 324-2026-01-17": {
-    "flightNumber": "ME 324",
-    "status": "",
-    "actualTime": "12:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "QR 417-2026-01-17": {
     "flightNumber": "QR 417",
@@ -342,13 +342,6 @@
     "type": "dprtr",
     "airlineCode": "EY"
   },
-  "PC 3001-2026-01-17": {
-    "flightNumber": "PC 3001",
-    "status": "",
-    "actualTime": "14:50",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "TK 825-2026-01-17": {
     "flightNumber": "TK 825",
     "status": "",
@@ -356,10 +349,24 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
+  "PC 3001-2026-01-17": {
+    "flightNumber": "PC 3001",
+    "status": "",
+    "actualTime": "14:50",
+    "type": "dprtr",
+    "airlineCode": "PC"
+  },
   "ME 436-2026-01-17": {
     "flightNumber": "ME 436",
     "status": "",
     "actualTime": "15:15",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 418-2026-01-17": {
+    "flightNumber": "ME 418",
+    "status": "",
+    "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -370,13 +377,6 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "ME 418-2026-01-17": {
-    "flightNumber": "ME 418",
-    "status": "",
-    "actualTime": "15:20",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 322-2026-01-17": {
     "flightNumber": "ME 322",
     "status": "",
@@ -384,19 +384,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "AF 565-2026-01-17": {
-    "flightNumber": "AF 565",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "dprtr",
-    "airlineCode": "AF"
-  },
   "CY 121-2026-01-17": {
     "flightNumber": "CY 121",
     "status": "",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "CY"
+  },
+  "AF 565-2026-01-17": {
+    "flightNumber": "AF 565",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "AF"
   },
   "ME 428-2026-01-17": {
     "flightNumber": "ME 428",
@@ -524,13 +524,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "EK 9748-2026-01-17": {
-    "flightNumber": "EK 9748",
-    "status": "",
-    "actualTime": "23:10",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
   "ME 434-2026-01-17": {
     "flightNumber": "ME 434",
     "status": "",
@@ -538,12 +531,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 214-2026-01-16": {
-    "flightNumber": "ME 214",
-    "status": "وصلت",
-    "actualTime": "17:12",
-    "type": "arivl",
-    "airlineCode": "ME"
+  "EK 9748-2026-01-17": {
+    "flightNumber": "EK 9748",
+    "status": "",
+    "actualTime": "23:10",
+    "type": "dprtr",
+    "airlineCode": "EK"
   },
   "EK 953-2026-01-16": {
     "flightNumber": "EK 953",
@@ -551,13 +544,6 @@
     "actualTime": "17:31",
     "type": "arivl",
     "airlineCode": "EK"
-  },
-  "SK 2827-2026-01-16": {
-    "flightNumber": "SK 2827",
-    "status": "وصلت",
-    "actualTime": "17:09",
-    "type": "arivl",
-    "airlineCode": "SK"
   },
   "QR 426-2026-01-16": {
     "flightNumber": "QR 426",
@@ -582,22 +568,22 @@
   },
   "ME 212-2026-01-16": {
     "flightNumber": "ME 212",
-    "status": "",
-    "actualTime": "18:55",
+    "status": "وصلت",
+    "actualTime": "18:44",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "RJ 403-2026-01-16": {
     "flightNumber": "RJ 403",
-    "status": "",
-    "actualTime": "19:05",
+    "status": "وصلت",
+    "actualTime": "19:16",
     "type": "arivl",
     "airlineCode": "RJ"
   },
   "ME 313-2026-01-16": {
     "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "19:25",
+    "status": "وصلت",
+    "actualTime": "19:11",
     "type": "arivl",
     "airlineCode": "ME"
   },
