@@ -1,80 +1,10 @@
 {
-  "QR 419-2026-01-16": {
-    "flightNumber": "QR 419",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "00:02",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
-  "PC 755-2026-01-16": {
-    "flightNumber": "PC 755",
-    "status": "",
-    "actualTime": "01:35",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
-  "ME 571-2026-01-16": {
-    "flightNumber": "ME 571",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "01:46",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ET 407-2026-01-16": {
-    "flightNumber": "ET 407",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "01:47",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "PC 759-2026-01-16": {
-    "flightNumber": "PC 759",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:35",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
-  "ET 417-2026-01-16": {
-    "flightNumber": "ET 417",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:55",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "TK 829-2026-01-16": {
-    "flightNumber": "TK 829",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:45",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "RO 168-2026-01-16": {
-    "flightNumber": "RO 168",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:16",
-    "type": "dprtr",
-    "airlineCode": "RO"
-  },
-  "VF 1628-2026-01-16": {
-    "flightNumber": "VF 1628",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "04:21",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
   "RJ 408-2026-01-16": {
     "flightNumber": "RJ 408",
-    "status": "تأخير",
-    "actualTime": "07:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:46",
     "type": "dprtr",
     "airlineCode": "RJ"
-  },
-  "ME 302-2026-01-16": {
-    "flightNumber": "ME 302",
-    "status": "غادرت",
-    "actualTime": "06:45",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "ME 217-2026-01-16": {
     "flightNumber": "ME 217",
@@ -83,37 +13,30 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 426-2026-01-16": {
-    "flightNumber": "ME 426",
-    "status": "النداء الاخير",
-    "actualTime": "07:20",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 213-2026-01-16": {
     "flightNumber": "ME 213",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "06:54",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 201-2026-01-16": {
     "flightNumber": "ME 201",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "07:19",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 310-2026-01-16": {
     "flightNumber": "ME 310",
-    "status": "",
-    "actualTime": "07:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "07:23",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 211-2026-01-16": {
     "flightNumber": "ME 211",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "07:08",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -134,7 +57,7 @@
   },
   "ME 404-2026-01-16": {
     "flightNumber": "ME 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -148,7 +71,7 @@
   },
   "ME 241-2026-01-16": {
     "flightNumber": "ME 241",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -937,19 +860,19 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "RJ 401-2026-01-16": {
-    "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "10:40",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "ME 311-2026-01-16": {
     "flightNumber": "ME 311",
     "status": "",
     "actualTime": "10:40",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "RJ 401-2026-01-16": {
+    "flightNumber": "RJ 401",
+    "status": "",
+    "actualTime": "10:40",
+    "type": "arivl",
+    "airlineCode": "RJ"
   },
   "G9 385-2026-01-16": {
     "flightNumber": "G9 385",
