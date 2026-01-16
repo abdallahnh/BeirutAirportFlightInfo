@@ -22,7 +22,7 @@
   },
   "KU 502-2026-01-16": {
     "flightNumber": "KU 502",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "10:12",
     "type": "dprtr",
     "airlineCode": "KU"
@@ -64,7 +64,7 @@
   },
   "EK 958-2026-01-16": {
     "flightNumber": "EK 958",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -741,13 +741,6 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "TK 830-2026-01-16": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:32",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "MS 709-2026-01-16": {
     "flightNumber": "MS 709",
     "status": "وصلت",
@@ -799,8 +792,8 @@
   },
   "G9 385-2026-01-16": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "10:55",
+    "status": "وصلت",
+    "actualTime": "10:45",
     "type": "arivl",
     "airlineCode": "G9"
   },
