@@ -15,14 +15,14 @@
   },
   "ME 418-2026-01-17": {
     "flightNumber": "ME 418",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "15:28",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "IA 140-2026-01-17": {
     "flightNumber": "IA 140",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:45",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -36,22 +36,22 @@
   },
   "CY 121-2026-01-17": {
     "flightNumber": "CY 121",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "15:07",
     "type": "dprtr",
     "airlineCode": "CY"
   },
   "AF 565-2026-01-17": {
     "flightNumber": "AF 565",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "15:24",
     "type": "dprtr",
     "airlineCode": "AF"
   },
   "ME 428-2026-01-17": {
     "flightNumber": "ME 428",
-    "status": "",
-    "actualTime": "16:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "15:42",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -71,7 +71,7 @@
   },
   "LH 1309-2026-01-17": {
     "flightNumber": "LH 1309",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "16:55",
     "type": "dprtr",
     "airlineCode": "LH"
@@ -114,7 +114,7 @@
   "MS 712-2026-01-17": {
     "flightNumber": "MS 712",
     "status": "",
-    "actualTime": "19:20",
+    "actualTime": "19:15",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -678,13 +678,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 824-2026-01-17": {
-    "flightNumber": "TK 824",
-    "status": "وصلت",
-    "actualTime": "13:43",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "PC 3000-2026-01-17": {
     "flightNumber": "PC 3000",
     "status": "وصلت",
@@ -750,15 +743,15 @@
   },
   "IA 1301-2026-01-17": {
     "flightNumber": "IA 1301",
-    "status": "",
-    "actualTime": "15:30",
+    "status": "وصلت",
+    "actualTime": "15:46",
     "type": "arivl",
     "airlineCode": "IA"
   },
   "LH 1308-2026-01-17": {
     "flightNumber": "LH 1308",
-    "status": "",
-    "actualTime": "15:45",
+    "status": "وصلت",
+    "actualTime": "15:35",
     "type": "arivl",
     "airlineCode": "LH"
   },
