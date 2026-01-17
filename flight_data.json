@@ -43,8 +43,8 @@
   },
   "RJ 408-2026-01-17": {
     "flightNumber": "RJ 408",
-    "status": "تم فتح البوابة",
-    "actualTime": "06:00",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "05:16",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -57,14 +57,14 @@
   },
   "ME 247-2026-01-17": {
     "flightNumber": "ME 247",
-    "status": "",
-    "actualTime": "06:30",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "05:56",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 235-2026-01-17": {
     "flightNumber": "ME 235",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "06:50",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -937,13 +937,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "MS 713-2026-01-17": {
-    "flightNumber": "MS 713",
-    "status": "وصلت",
-    "actualTime": "03:00",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "RJ 407-2026-01-17": {
     "flightNumber": "RJ 407",
     "status": "وصلت",
@@ -960,8 +953,8 @@
   },
   "ME 435-2026-01-17": {
     "flightNumber": "ME 435",
-    "status": "",
-    "actualTime": "06:00",
+    "status": "وصلت",
+    "actualTime": "05:40",
     "type": "arivl",
     "airlineCode": "ME"
   },
