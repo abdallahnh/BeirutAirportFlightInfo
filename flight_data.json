@@ -15,7 +15,7 @@
   },
   "ME 418-2026-01-17": {
     "flightNumber": "ME 418",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "15:28",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -29,17 +29,10 @@
   },
   "ME 322-2026-01-17": {
     "flightNumber": "ME 322",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:15",
+    "status": "النداء الاخير",
+    "actualTime": "15:53",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "CY 121-2026-01-17": {
-    "flightNumber": "CY 121",
-    "status": "غادرت",
-    "actualTime": "15:07",
-    "type": "dprtr",
-    "airlineCode": "CY"
   },
   "AF 565-2026-01-17": {
     "flightNumber": "AF 565",
@@ -50,7 +43,7 @@
   },
   "ME 428-2026-01-17": {
     "flightNumber": "ME 428",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "15:42",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -64,7 +57,7 @@
   },
   "IA 1302-2026-01-17": {
     "flightNumber": "IA 1302",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -757,15 +750,15 @@
   },
   "ME 248-2026-01-17": {
     "flightNumber": "ME 248",
-    "status": "",
-    "actualTime": "15:50",
+    "status": "وصلت",
+    "actualTime": "15:51",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 321-2026-01-17": {
     "flightNumber": "ME 321",
-    "status": "تبكير",
-    "actualTime": "15:50",
+    "status": "وصلت",
+    "actualTime": "15:48",
     "type": "arivl",
     "airlineCode": "ME"
   },
