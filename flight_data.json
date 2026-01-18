@@ -13,30 +13,23 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 132-2026-01-18": {
-    "flightNumber": "IA 132",
-    "status": "غادرت",
-    "actualTime": "10:56",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "ME 304-2026-01-18": {
     "flightNumber": "ME 304",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "10:18",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 320-2026-01-18": {
     "flightNumber": "ME 320",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "11:31",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2026-01-18": {
     "flightNumber": "EK 958",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "10:54",
     "type": "dprtr",
     "airlineCode": "EK"
@@ -50,7 +43,7 @@
   },
   "QR 417-2026-01-18": {
     "flightNumber": "QR 417",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:40",
     "type": "dprtr",
     "airlineCode": "QR"
