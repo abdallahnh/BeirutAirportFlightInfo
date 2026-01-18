@@ -1,53 +1,4 @@
 {
-  "QR 419-2026-01-18": {
-    "flightNumber": "QR 419",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "23:55",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
-  "ET 407-2026-01-18": {
-    "flightNumber": "ET 407",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "01:33",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "PC 759-2026-01-18": {
-    "flightNumber": "PC 759",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "01:36",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
-  "ET 417-2026-01-18": {
-    "flightNumber": "ET 417",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:55",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "TK 829-2026-01-18": {
-    "flightNumber": "TK 829",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "02:50",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "RO 168-2026-01-18": {
-    "flightNumber": "RO 168",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "03:05",
-    "type": "dprtr",
-    "airlineCode": "RO"
-  },
-  "VF 1628-2026-01-18": {
-    "flightNumber": "VF 1628",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "04:20",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
   "ME 275-2026-01-18": {
     "flightNumber": "ME 275",
     "status": "تم اغلاق البوابة",
@@ -57,29 +8,29 @@
   },
   "ME 247-2026-01-18": {
     "flightNumber": "ME 247",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "06:02",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 265-2026-01-18": {
     "flightNumber": "ME 265",
-    "status": "",
-    "actualTime": "07:05",
+    "status": "غادرت",
+    "actualTime": "06:31",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 302-2026-01-18": {
     "flightNumber": "ME 302",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:15",
+    "status": "النداء الاخير",
+    "actualTime": "06:49",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 217-2026-01-18": {
     "flightNumber": "ME 217",
-    "status": "",
-    "actualTime": "07:15",
+    "status": "النداء الاخير",
+    "actualTime": "06:41",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -92,7 +43,7 @@
   },
   "ME 231-2026-01-18": {
     "flightNumber": "ME 231",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -106,7 +57,7 @@
   },
   "ME 310-2026-01-18": {
     "flightNumber": "ME 310",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -895,13 +846,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "EY 583-2026-01-18": {
-    "flightNumber": "EY 583",
-    "status": "ألغيت",
-    "actualTime": "05:05",
-    "type": "arivl",
-    "airlineCode": "EY"
-  },
   "ME 435-2026-01-18": {
     "flightNumber": "ME 435",
     "status": "وصلت",
@@ -923,17 +867,10 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "PC 1824-2026-01-18": {
-    "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "MS 709-2026-01-18": {
     "flightNumber": "MS 709",
     "status": "",
-    "actualTime": "09:15",
+    "actualTime": "09:00",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -943,6 +880,13 @@
     "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "EK"
+  },
+  "PC 1824-2026-01-18": {
+    "flightNumber": "PC 1824",
+    "status": "",
+    "actualTime": "09:15",
+    "type": "arivl",
+    "airlineCode": "PC"
   },
   "IA 131-2026-01-18": {
     "flightNumber": "IA 131",
