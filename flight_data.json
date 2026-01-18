@@ -41,13 +41,6 @@
     "type": "dprtr",
     "airlineCode": "CY"
   },
-  "AF 565-2026-01-18": {
-    "flightNumber": "AF 565",
-    "status": "غادرت",
-    "actualTime": "15:32",
-    "type": "dprtr",
-    "airlineCode": "AF"
-  },
   "ME 428-2026-01-18": {
     "flightNumber": "ME 428",
     "status": "تم اغلاق البوابة",
@@ -57,15 +50,15 @@
   },
   "ME 312-2026-01-18": {
     "flightNumber": "ME 312",
-    "status": "تأخير",
-    "actualTime": "16:50",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "16:21",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "UF 002-2026-01-18": {
     "flightNumber": "UF 002",
-    "status": "تم فتح البوابة",
-    "actualTime": "16:30",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "16:28",
     "type": "dprtr",
     "airlineCode": "UF"
   },
@@ -78,7 +71,7 @@
   },
   "LH 1309-2026-01-18": {
     "flightNumber": "LH 1309",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "16:12",
     "type": "dprtr",
     "airlineCode": "LH"
