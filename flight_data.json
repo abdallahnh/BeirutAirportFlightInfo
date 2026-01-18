@@ -27,13 +27,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 364-2026-01-18": {
-    "flightNumber": "ME 364",
-    "status": "غادرت",
-    "actualTime": "07:31",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 302-2026-01-18": {
     "flightNumber": "ME 302",
     "status": "تأخير",
@@ -50,7 +43,7 @@
   },
   "IA 134-2026-01-18": {
     "flightNumber": "IA 134",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:45",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -64,7 +57,7 @@
   },
   "MS 710-2026-01-18": {
     "flightNumber": "MS 710",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:00",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -797,19 +790,19 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "IA 137-2026-01-18": {
-    "flightNumber": "IA 137",
-    "status": "",
-    "actualTime": "08:45",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "TK 830-2026-01-18": {
     "flightNumber": "TK 830",
     "status": "",
     "actualTime": "08:45",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "IA 137-2026-01-18": {
+    "flightNumber": "IA 137",
+    "status": "",
+    "actualTime": "08:45",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "MS 709-2026-01-18": {
     "flightNumber": "MS 709",
@@ -818,19 +811,19 @@
     "type": "arivl",
     "airlineCode": "MS"
   },
-  "PC 1824-2026-01-18": {
-    "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "EK 957-2026-01-18": {
     "flightNumber": "EK 957",
     "status": "",
     "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "EK"
+  },
+  "PC 1824-2026-01-18": {
+    "flightNumber": "PC 1824",
+    "status": "",
+    "actualTime": "09:15",
+    "type": "arivl",
+    "airlineCode": "PC"
   },
   "IA 131-2026-01-18": {
     "flightNumber": "IA 131",
