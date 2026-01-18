@@ -6,20 +6,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 426-2026-01-18": {
-    "flightNumber": "ME 426",
-    "status": "غادرت",
-    "actualTime": "07:06",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 201-2026-01-18": {
-    "flightNumber": "ME 201",
-    "status": "النداء الاخير",
-    "actualTime": "07:07",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 211-2026-01-18": {
     "flightNumber": "ME 211",
     "status": "تم اغلاق البوابة",
@@ -29,22 +15,29 @@
   },
   "ME 424-2026-01-18": {
     "flightNumber": "ME 424",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "07:51",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 404-2026-01-18": {
     "flightNumber": "ME 404",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:40",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "08:03",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 364-2026-01-18": {
     "flightNumber": "ME 364",
-    "status": "تم فتح البوابة",
+    "status": "غادرت",
     "actualTime": "07:31",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
+  "ME 302-2026-01-18": {
+    "flightNumber": "ME 302",
+    "status": "تأخير",
+    "actualTime": "09:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -92,7 +85,7 @@
   },
   "RJ 402-2026-01-18": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -314,19 +307,19 @@
     "type": "dprtr",
     "airlineCode": "EK"
   },
-  "RJ 404-2026-01-18": {
-    "flightNumber": "RJ 404",
-    "status": "",
-    "actualTime": "19:55",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 261-2026-01-18": {
     "flightNumber": "ME 261",
     "status": "",
     "actualTime": "20:25",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "RJ 404-2026-01-18": {
+    "flightNumber": "RJ 404",
+    "status": "",
+    "actualTime": "20:30",
+    "type": "dprtr",
+    "airlineCode": "RJ"
   },
   "J9 262-2026-01-18": {
     "flightNumber": "J9 262",
