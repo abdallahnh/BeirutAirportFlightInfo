@@ -36,15 +36,15 @@
   },
   "TK 831-2026-01-18": {
     "flightNumber": "TK 831",
-    "status": "",
-    "actualTime": "09:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:26",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "IA 134-2026-01-18": {
     "flightNumber": "IA 134",
-    "status": "تم فتح البوابة",
-    "actualTime": "09:45",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:14",
     "type": "dprtr",
     "airlineCode": "IA"
   },
@@ -57,8 +57,8 @@
   },
   "MS 710-2026-01-18": {
     "flightNumber": "MS 710",
-    "status": "تم فتح البوابة",
-    "actualTime": "10:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:26",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -363,19 +363,19 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ET 407-2026-01-19": {
-    "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "02:00",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "ME 571-2026-01-19": {
     "flightNumber": "ME 571",
     "status": "",
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "ET 407-2026-01-19": {
+    "flightNumber": "ET 407",
+    "status": "",
+    "actualTime": "02:05",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "PC 759-2026-01-19": {
     "flightNumber": "PC 759",
@@ -411,13 +411,6 @@
     "actualTime": "04:00",
     "type": "dprtr",
     "airlineCode": "MS"
-  },
-  "VF 544-2026-01-19": {
-    "flightNumber": "VF 544",
-    "status": "",
-    "actualTime": "04:15",
-    "type": "dprtr",
-    "airlineCode": "VF"
   },
   "VF 1628-2026-01-19": {
     "flightNumber": "VF 1628",
@@ -538,13 +531,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "FZ 158-2026-01-19": {
-    "flightNumber": "FZ 158",
-    "status": "",
-    "actualTime": "09:50",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
   "MS 710-2026-01-19": {
     "flightNumber": "MS 710",
     "status": "",
@@ -643,19 +629,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "VF 1044-2026-01-19": {
-    "flightNumber": "VF 1044",
-    "status": "",
-    "actualTime": "15:30",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
   "ME 322-2026-01-19": {
     "flightNumber": "ME 322",
     "status": "",
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "CY 121-2026-01-19": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "CY"
   },
   "AF 565-2026-01-19": {
     "flightNumber": "AF 565",
@@ -691,13 +677,6 @@
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "IA"
-  },
-  "CY 121-2026-01-19": {
-    "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "16:40",
-    "type": "dprtr",
-    "airlineCode": "CY"
   },
   "ME 312-2026-01-19": {
     "flightNumber": "ME 312",
@@ -792,24 +771,31 @@
   },
   "TK 830-2026-01-18": {
     "flightNumber": "TK 830",
-    "status": "",
-    "actualTime": "08:45",
+    "status": "وصلت",
+    "actualTime": "09:11",
     "type": "arivl",
     "airlineCode": "TK"
   },
   "IA 137-2026-01-18": {
     "flightNumber": "IA 137",
-    "status": "",
-    "actualTime": "08:45",
+    "status": "وصلت",
+    "actualTime": "09:11",
     "type": "arivl",
     "airlineCode": "IA"
   },
   "MS 709-2026-01-18": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "09:00",
+    "status": "وصلت",
+    "actualTime": "09:12",
     "type": "arivl",
     "airlineCode": "MS"
+  },
+  "PC 1824-2026-01-18": {
+    "flightNumber": "PC 1824",
+    "status": "وصلت",
+    "actualTime": "09:27",
+    "type": "arivl",
+    "airlineCode": "PC"
   },
   "EK 957-2026-01-18": {
     "flightNumber": "EK 957",
@@ -817,13 +803,6 @@
     "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "EK"
-  },
-  "PC 1824-2026-01-18": {
-    "flightNumber": "PC 1824",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "PC"
   },
   "IA 131-2026-01-18": {
     "flightNumber": "IA 131",
@@ -1196,13 +1175,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "VF 543-2026-01-19": {
-    "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "00:30",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "ET 406-2026-01-19": {
     "flightNumber": "ET 406",
     "status": "",
@@ -1272,13 +1244,6 @@
     "actualTime": "08:45",
     "type": "arivl",
     "airlineCode": "TK"
-  },
-  "FZ 157-2026-01-19": {
-    "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "08:50",
-    "type": "arivl",
-    "airlineCode": "FZ"
   },
   "MS 709-2026-01-19": {
     "flightNumber": "MS 709",
@@ -1356,13 +1321,6 @@
     "actualTime": "12:00",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "VF 1043-2026-01-19": {
-    "flightNumber": "VF 1043",
-    "status": "",
-    "actualTime": "13:35",
-    "type": "arivl",
-    "airlineCode": "VF"
   },
   "TK 824-2026-01-19": {
     "flightNumber": "TK 824",
@@ -1532,19 +1490,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "TK 826-2026-01-19": {
-    "flightNumber": "TK 826",
-    "status": "",
-    "actualTime": "20:15",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "ME 242-2026-01-19": {
     "flightNumber": "ME 242",
     "status": "",
     "actualTime": "20:15",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "TK 826-2026-01-19": {
+    "flightNumber": "TK 826",
+    "status": "",
+    "actualTime": "20:25",
+    "type": "arivl",
+    "airlineCode": "TK"
   },
   "ME 572-2026-01-19": {
     "flightNumber": "ME 572",
@@ -1601,13 +1559,6 @@
     "actualTime": "23:10",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "EK 955-2026-01-19": {
-    "flightNumber": "EK 955",
-    "status": "",
-    "actualTime": "23:20",
-    "type": "arivl",
-    "airlineCode": "EK"
   },
   "ME 419-2026-01-19": {
     "flightNumber": "ME 419",
