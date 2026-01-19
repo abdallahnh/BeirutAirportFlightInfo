@@ -13,51 +13,44 @@
     "type": "dprtr",
     "airlineCode": "KU"
   },
-  "RJ 402-2026-01-19": {
-    "flightNumber": "RJ 402",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "10:54",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "IA 132-2026-01-19": {
     "flightNumber": "IA 132",
-    "status": "",
-    "actualTime": "11:30",
+    "status": "غادرت",
+    "actualTime": "11:19",
     "type": "dprtr",
     "airlineCode": "IA"
   },
   "G9 386-2026-01-19": {
     "flightNumber": "G9 386",
-    "status": "",
-    "actualTime": "11:35",
+    "status": "غادرت",
+    "actualTime": "11:15",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "ME 304-2026-01-19": {
     "flightNumber": "ME 304",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:40",
+    "status": "غادرت",
+    "actualTime": "11:02",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 320-2026-01-19": {
     "flightNumber": "ME 320",
-    "status": "",
-    "actualTime": "11:55",
+    "status": "غادرت",
+    "actualTime": "11:17",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "EK 958-2026-01-19": {
     "flightNumber": "EK 958",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:55",
+    "status": "النداء الاخير",
+    "actualTime": "11:03",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "QR 417-2026-01-19": {
     "flightNumber": "QR 417",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "12:40",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -664,13 +657,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "MS 709-2026-01-19": {
-    "flightNumber": "MS 709",
-    "status": "وصلت",
-    "actualTime": "09:08",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "EK 957-2026-01-19": {
     "flightNumber": "EK 957",
     "status": "وصلت",
@@ -722,8 +708,8 @@
   },
   "QR 416-2026-01-19": {
     "flightNumber": "QR 416",
-    "status": "",
-    "actualTime": "11:10",
+    "status": "وصلت",
+    "actualTime": "11:23",
     "type": "arivl",
     "airlineCode": "QR"
   },
@@ -750,7 +736,7 @@
   },
   "AF 566-2026-01-19": {
     "flightNumber": "AF 566",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "14:20",
     "type": "arivl",
     "airlineCode": "AF"
