@@ -22,36 +22,29 @@
   },
   "IA 136-2026-01-20": {
     "flightNumber": "IA 136",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:00",
+    "status": "غادرت",
+    "actualTime": "19:25",
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "MS 712-2026-01-20": {
-    "flightNumber": "MS 712",
-    "status": "غادرت",
-    "actualTime": "18:30",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "QR 427-2026-01-20": {
     "flightNumber": "QR 427",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "18:57",
     "type": "dprtr",
     "airlineCode": "QR"
   },
   "EK 954-2026-01-20": {
     "flightNumber": "EK 954",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "18:56",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "RJ 404-2026-01-20": {
     "flightNumber": "RJ 404",
-    "status": "تم فتح البوابة",
-    "actualTime": "19:55",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "19:26",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -132,19 +125,19 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "PC 757-2026-01-21": {
-    "flightNumber": "PC 757",
-    "status": "",
-    "actualTime": "03:40",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "MS 714-2026-01-21": {
     "flightNumber": "MS 714",
     "status": "",
     "actualTime": "03:40",
     "type": "dprtr",
     "airlineCode": "MS"
+  },
+  "PC 757-2026-01-21": {
+    "flightNumber": "PC 757",
+    "status": "",
+    "actualTime": "03:40",
+    "type": "dprtr",
+    "airlineCode": "PC"
   },
   "RO 168-2026-01-21": {
     "flightNumber": "RO 168",
@@ -516,13 +509,6 @@
     "actualTime": "18:16",
     "type": "arivl",
     "airlineCode": "TK"
-  },
-  "EK 953-2026-01-20": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:37",
-    "type": "arivl",
-    "airlineCode": "EK"
   },
   "IA 135-2026-01-20": {
     "flightNumber": "IA 135",
