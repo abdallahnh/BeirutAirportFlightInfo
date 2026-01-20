@@ -1,14 +1,7 @@
 {
-  "QR 417-2026-01-20": {
-    "flightNumber": "QR 417",
-    "status": "غادرت",
-    "actualTime": "12:42",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "ME 229-2026-01-20": {
     "flightNumber": "ME 229",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "12:56",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -64,7 +57,7 @@
   },
   "AF 565-2026-01-20": {
     "flightNumber": "AF 565",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "AF"
@@ -237,19 +230,19 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
+  "MS 714-2026-01-21": {
+    "flightNumber": "MS 714",
+    "status": "",
+    "actualTime": "03:40",
+    "type": "dprtr",
+    "airlineCode": "MS"
+  },
   "PC 757-2026-01-21": {
     "flightNumber": "PC 757",
     "status": "",
     "actualTime": "03:40",
     "type": "dprtr",
     "airlineCode": "PC"
-  },
-  "MS 714-2026-01-21": {
-    "flightNumber": "MS 714",
-    "status": "",
-    "actualTime": "04:00",
-    "type": "dprtr",
-    "airlineCode": "MS"
   },
   "RO 168-2026-01-21": {
     "flightNumber": "RO 168",
@@ -264,20 +257,6 @@
     "actualTime": "05:15",
     "type": "dprtr",
     "airlineCode": "VF"
-  },
-  "RJ 408-2026-01-21": {
-    "flightNumber": "RJ 408",
-    "status": "",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
-  "ME 225-2026-01-21": {
-    "flightNumber": "ME 225",
-    "status": "",
-    "actualTime": "06:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "ME 235-2026-01-21": {
     "flightNumber": "ME 235",
@@ -342,13 +321,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 251-2026-01-21": {
-    "flightNumber": "ME 251",
-    "status": "",
-    "actualTime": "08:15",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 424-2026-01-21": {
     "flightNumber": "ME 424",
     "status": "",
@@ -405,19 +377,19 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
+  "KU 502-2026-01-21": {
+    "flightNumber": "KU 502",
+    "status": "",
+    "actualTime": "10:30",
+    "type": "dprtr",
+    "airlineCode": "KU"
+  },
   "UF 002-2026-01-21": {
     "flightNumber": "UF 002",
     "status": "",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "UF"
-  },
-  "KU 502-2026-01-21": {
-    "flightNumber": "KU 502",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "dprtr",
-    "airlineCode": "KU"
   },
   "IA 132-2026-01-21": {
     "flightNumber": "IA 132",
@@ -663,13 +635,6 @@
     "actualTime": "11:59",
     "type": "arivl",
     "airlineCode": "QR"
-  },
-  "ME 266-2026-01-20": {
-    "flightNumber": "ME 266",
-    "status": "وصلت",
-    "actualTime": "11:26",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 252-2026-01-20": {
     "flightNumber": "ME 252",
