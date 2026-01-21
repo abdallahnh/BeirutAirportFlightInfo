@@ -27,20 +27,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 404-2026-01-21": {
-    "flightNumber": "ME 404",
-    "status": "غادرت",
-    "actualTime": "08:01",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 364-2026-01-21": {
-    "flightNumber": "ME 364",
-    "status": "النداء الاخير",
-    "actualTime": "08:21",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 241-2026-01-21": {
     "flightNumber": "ME 241",
     "status": "تم اغلاق البوابة",
@@ -50,7 +36,7 @@
   },
   "TK 831-2026-01-21": {
     "flightNumber": "TK 831",
-    "status": "تم فتح البوابة",
+    "status": "النداء الاخير",
     "actualTime": "09:40",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -64,7 +50,7 @@
   },
   "MS 710-2026-01-21": {
     "flightNumber": "MS 710",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "10:15",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -146,19 +132,19 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "IA 138-2026-01-21": {
-    "flightNumber": "IA 138",
-    "status": "",
-    "actualTime": "15:00",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "ME 436-2026-01-21": {
     "flightNumber": "ME 436",
     "status": "",
     "actualTime": "15:15",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "IA 138-2026-01-21": {
+    "flightNumber": "IA 138",
+    "status": "",
+    "actualTime": "15:15",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "ME 418-2026-01-21": {
     "flightNumber": "ME 418",
@@ -785,8 +771,8 @@
   },
   "MS 709-2026-01-21": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "09:15",
+    "status": "وصلت",
+    "actualTime": "08:59",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -866,6 +852,13 @@
     "actualTime": "14:15",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "IA 137-2026-01-21": {
+    "flightNumber": "IA 137",
+    "status": "",
+    "actualTime": "14:15",
+    "type": "arivl",
+    "airlineCode": "IA"
   },
   "AF 566-2026-01-21": {
     "flightNumber": "AF 566",
