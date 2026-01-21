@@ -57,14 +57,14 @@
   },
   "PC 755-2026-01-22": {
     "flightNumber": "PC 755",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "00:42",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "ET 407-2026-01-22": {
     "flightNumber": "ET 407",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -958,13 +958,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "QR 418-2026-01-21": {
-    "flightNumber": "QR 418",
-    "status": "وصلت",
-    "actualTime": "23:11",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "ME 403-2026-01-21": {
     "flightNumber": "ME 403",
     "status": "وصلت",
@@ -1009,22 +1002,22 @@
   },
   "ET 406-2026-01-22": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "01:05",
+    "status": "وصلت",
+    "actualTime": "01:13",
     "type": "arivl",
     "airlineCode": "ET"
   },
   "VF 1627-2026-01-22": {
     "flightNumber": "VF 1627",
-    "status": "",
-    "actualTime": "01:30",
+    "status": "وصلت",
+    "actualTime": "01:22",
     "type": "arivl",
     "airlineCode": "VF"
   },
   "PC 758-2026-01-22": {
     "flightNumber": "PC 758",
-    "status": "",
-    "actualTime": "01:35",
+    "status": "وصلت",
+    "actualTime": "01:30",
     "type": "arivl",
     "airlineCode": "PC"
   },
