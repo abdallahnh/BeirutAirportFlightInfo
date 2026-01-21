@@ -1,25 +1,4 @@
 {
-  "ME 235-2026-01-21": {
-    "flightNumber": "ME 235",
-    "status": "غادرت",
-    "actualTime": "06:23",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 215-2026-01-21": {
-    "flightNumber": "ME 215",
-    "status": "غادرت",
-    "actualTime": "06:28",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 265-2026-01-21": {
-    "flightNumber": "ME 265",
-    "status": "غادرت",
-    "actualTime": "06:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 217-2026-01-21": {
     "flightNumber": "ME 217",
     "status": "تم اغلاق البوابة",
@@ -27,44 +6,37 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 426-2026-01-21": {
-    "flightNumber": "ME 426",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "06:48",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 213-2026-01-21": {
     "flightNumber": "ME 213",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "06:48",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 201-2026-01-21": {
     "flightNumber": "ME 201",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "06:57",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 310-2026-01-21": {
     "flightNumber": "ME 310",
-    "status": "",
-    "actualTime": "07:40",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "07:07",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 211-2026-01-21": {
     "flightNumber": "ME 211",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:50",
+    "status": "النداء الاخير",
+    "actualTime": "07:14",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 424-2026-01-21": {
     "flightNumber": "ME 424",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:25",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -191,8 +163,8 @@
   "IA 138-2026-01-21": {
     "flightNumber": "IA 138",
     "status": "",
-    "actualTime": "14:15",
-    "type": "arivl",
+    "actualTime": "15:00",
+    "type": "dprtr",
     "airlineCode": "IA"
   },
   "ME 436-2026-01-21": {
@@ -824,13 +796,6 @@
     "actualTime": "08:45",
     "type": "arivl",
     "airlineCode": "TK"
-  },
-  "IA 137-2026-01-21": {
-    "flightNumber": "IA 137",
-    "status": "ألغيت",
-    "actualTime": "08:45",
-    "type": "arivl",
-    "airlineCode": "IA"
   },
   "MS 709-2026-01-21": {
     "flightNumber": "MS 709",
