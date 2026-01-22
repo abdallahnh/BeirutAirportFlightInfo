@@ -55,13 +55,6 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "RJ 408-2026-01-22": {
-    "flightNumber": "RJ 408",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "05:01",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 999-2026-01-22": {
     "flightNumber": "ME 999",
     "status": "",
@@ -69,17 +62,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 275-2026-01-22": {
-    "flightNumber": "ME 275",
-    "status": "",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 265-2026-01-22": {
     "flightNumber": "ME 265",
-    "status": "",
-    "actualTime": "07:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:28",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -92,14 +78,14 @@
   },
   "ME 426-2026-01-22": {
     "flightNumber": "ME 426",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 231-2026-01-22": {
     "flightNumber": "ME 231",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -894,13 +880,6 @@
     "actualTime": "23:10",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "RJ 407-2026-01-22": {
-    "flightNumber": "RJ 407",
-    "status": "وصلت",
-    "actualTime": "04:26",
-    "type": "arivl",
-    "airlineCode": "RJ"
   },
   "TK 830-2026-01-22": {
     "flightNumber": "TK 830",
