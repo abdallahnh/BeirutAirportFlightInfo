@@ -41,31 +41,24 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "MS 714-2026-01-22": {
-    "flightNumber": "MS 714",
-    "status": "",
-    "actualTime": "03:40",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "EY 584-2026-01-22": {
     "flightNumber": "EY 584",
-    "status": "تم فتح البوابة",
-    "actualTime": "03:55",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "03:31",
     "type": "dprtr",
     "airlineCode": "EY"
   },
   "VF 1628-2026-01-22": {
     "flightNumber": "VF 1628",
-    "status": "",
-    "actualTime": "05:15",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "04:10",
     "type": "dprtr",
     "airlineCode": "VF"
   },
   "RJ 408-2026-01-22": {
     "flightNumber": "RJ 408",
-    "status": "",
-    "actualTime": "06:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "05:01",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
@@ -902,59 +895,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "VF 1627-2026-01-22": {
-    "flightNumber": "VF 1627",
-    "status": "وصلت",
-    "actualTime": "01:22",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
-  "PC 758-2026-01-22": {
-    "flightNumber": "PC 758",
-    "status": "وصلت",
-    "actualTime": "01:30",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "ET 416-2026-01-22": {
-    "flightNumber": "ET 416",
-    "status": "وصلت",
-    "actualTime": "01:49",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
-  "TK 828-2026-01-22": {
-    "flightNumber": "TK 828",
-    "status": "وصلت",
-    "actualTime": "02:25",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "PC 756-2026-01-22": {
-    "flightNumber": "PC 756",
-    "status": "وصلت",
-    "actualTime": "02:39",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
-  "MS 713-2026-01-22": {
-    "flightNumber": "MS 713",
-    "status": "وصلت",
-    "actualTime": "02:46",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
-  "EY 583-2026-01-22": {
-    "flightNumber": "EY 583",
-    "status": "وصلت",
-    "actualTime": "02:55",
-    "type": "arivl",
-    "airlineCode": "EY"
-  },
   "RJ 407-2026-01-22": {
     "flightNumber": "RJ 407",
-    "status": "",
-    "actualTime": "05:00",
+    "status": "وصلت",
+    "actualTime": "04:26",
     "type": "arivl",
     "airlineCode": "RJ"
   },
