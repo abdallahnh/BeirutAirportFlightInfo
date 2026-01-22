@@ -6,16 +6,9 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ME 261-2026-01-22": {
-    "flightNumber": "ME 261",
-    "status": "غادرت",
-    "actualTime": "19:49",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "J9 262-2026-01-22": {
     "flightNumber": "J9 262",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:05",
     "type": "dprtr",
     "airlineCode": "J9"
@@ -36,8 +29,8 @@
   },
   "KU 504-2026-01-22": {
     "flightNumber": "KU 504",
-    "status": "",
-    "actualTime": "21:35",
+    "status": "النداء الاخير",
+    "actualTime": "20:39",
     "type": "dprtr",
     "airlineCode": "KU"
   },
@@ -489,73 +482,17 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "MS 711-2026-01-22": {
-    "flightNumber": "MS 711",
-    "status": "وصلت",
-    "actualTime": "18:31",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
-  "ME 202-2026-01-22": {
-    "flightNumber": "ME 202",
-    "status": "وصلت",
-    "actualTime": "19:08",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 212-2026-01-22": {
-    "flightNumber": "ME 212",
-    "status": "وصلت",
-    "actualTime": "18:52",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "RJ 403-2026-01-22": {
-    "flightNumber": "RJ 403",
-    "status": "وصلت",
-    "actualTime": "18:35",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
-  "ME 313-2026-01-22": {
-    "flightNumber": "ME 313",
-    "status": "وصلت",
-    "actualTime": "19:14",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "J9 261-2026-01-22": {
-    "flightNumber": "J9 261",
-    "status": "وصلت",
-    "actualTime": "19:41",
-    "type": "arivl",
-    "airlineCode": "J9"
-  },
-  "ME 323-2026-01-22": {
-    "flightNumber": "ME 323",
-    "status": "وصلت",
-    "actualTime": "19:55",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "KU 503-2026-01-22": {
-    "flightNumber": "KU 503",
-    "status": "وصلت",
-    "actualTime": "19:48",
-    "type": "arivl",
-    "airlineCode": "KU"
-  },
   "TK 826-2026-01-22": {
     "flightNumber": "TK 826",
-    "status": "",
-    "actualTime": "20:25",
+    "status": "وصلت",
+    "actualTime": "20:29",
     "type": "arivl",
     "airlineCode": "TK"
   },
   "FZ 159-2026-01-22": {
     "flightNumber": "FZ 159",
-    "status": "",
-    "actualTime": "20:45",
+    "status": "وصلت",
+    "actualTime": "20:47",
     "type": "arivl",
     "airlineCode": "FZ"
   },
