@@ -8,29 +8,29 @@
   },
   "ME 368-2026-01-23": {
     "flightNumber": "ME 368",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "17:14",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 422-2026-01-23": {
     "flightNumber": "ME 422",
-    "status": "",
-    "actualTime": "17:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:51",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 306-2026-01-23": {
     "flightNumber": "ME 306",
-    "status": "",
-    "actualTime": "18:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:44",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "SK 2828-2026-01-23": {
     "flightNumber": "SK 2828",
-    "status": "تم فتح البوابة",
-    "actualTime": "18:20",
+    "status": "النداء الاخير",
+    "actualTime": "17:43",
     "type": "dprtr",
     "airlineCode": "SK"
   },
@@ -104,13 +104,6 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "ME 575-2026-01-24": {
-    "flightNumber": "ME 575",
-    "status": "",
-    "actualTime": "02:05",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ET 407-2026-01-24": {
     "flightNumber": "ET 407",
     "status": "",
@@ -118,12 +111,12 @@
     "type": "dprtr",
     "airlineCode": "ET"
   },
-  "PC 759-2026-01-24": {
-    "flightNumber": "PC 759",
+  "ME 575-2026-01-24": {
+    "flightNumber": "ME 575",
     "status": "",
-    "actualTime": "02:35",
+    "actualTime": "02:05",
     "type": "dprtr",
-    "airlineCode": "PC"
+    "airlineCode": "ME"
   },
   "ET 417-2026-01-24": {
     "flightNumber": "ET 417",
@@ -545,34 +538,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "AF 566-2026-01-23": {
-    "flightNumber": "AF 566",
-    "status": "وصلت",
-    "actualTime": "15:43",
-    "type": "arivl",
-    "airlineCode": "AF"
-  },
-  "LH 1308-2026-01-23": {
-    "flightNumber": "LH 1308",
-    "status": "وصلت",
-    "actualTime": "15:41",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
-  "ME 248-2026-01-23": {
-    "flightNumber": "ME 248",
-    "status": "وصلت",
-    "actualTime": "15:47",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 321-2026-01-23": {
-    "flightNumber": "ME 321",
-    "status": "وصلت",
-    "actualTime": "15:53",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 214-2026-01-23": {
     "flightNumber": "ME 214",
     "status": "وصلت",
@@ -782,13 +747,6 @@
     "actualTime": "01:30",
     "type": "arivl",
     "airlineCode": "VF"
-  },
-  "PC 758-2026-01-24": {
-    "flightNumber": "PC 758",
-    "status": "",
-    "actualTime": "01:35",
-    "type": "arivl",
-    "airlineCode": "PC"
   },
   "ET 416-2026-01-24": {
     "flightNumber": "ET 416",
