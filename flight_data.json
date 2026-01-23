@@ -1,32 +1,4 @@
 {
-  "AH 4017-2026-01-23": {
-    "flightNumber": "AH 4017",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "13:40",
-    "type": "dprtr",
-    "airlineCode": "AH"
-  },
-  "TK 825-2026-01-23": {
-    "flightNumber": "TK 825",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "14:10",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "ME 418-2026-01-23": {
-    "flightNumber": "ME 418",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "14:50",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "AF 565-2026-01-23": {
-    "flightNumber": "AF 565",
-    "status": "غادرت",
-    "actualTime": "16:31",
-    "type": "dprtr",
-    "airlineCode": "AF"
-  },
   "ME 428-2026-01-23": {
     "flightNumber": "ME 428",
     "status": "تم اغلاق البوابة",
@@ -34,24 +6,10 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 326-2026-01-23": {
-    "flightNumber": "ME 326",
-    "status": "غادرت",
-    "actualTime": "16:49",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 267-2026-01-23": {
-    "flightNumber": "ME 267",
-    "status": "النداء الاخير",
-    "actualTime": "16:50",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 368-2026-01-23": {
     "flightNumber": "ME 368",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:45",
+    "status": "النداء الاخير",
+    "actualTime": "17:14",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -71,7 +29,7 @@
   },
   "SK 2828-2026-01-23": {
     "flightNumber": "SK 2828",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "18:20",
     "type": "dprtr",
     "airlineCode": "SK"
@@ -587,33 +545,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 6158-2026-01-23": {
-    "flightNumber": "TK 6158",
-    "status": "",
-    "actualTime": "11:45",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "AF 566-2026-01-23": {
     "flightNumber": "AF 566",
     "status": "وصلت",
     "actualTime": "15:43",
     "type": "arivl",
     "airlineCode": "AF"
-  },
-  "ME 427-2026-01-23": {
-    "flightNumber": "ME 427",
-    "status": "وصلت",
-    "actualTime": "15:38",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 305-2026-01-23": {
-    "flightNumber": "ME 305",
-    "status": "وصلت",
-    "actualTime": "15:23",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "LH 1308-2026-01-23": {
     "flightNumber": "LH 1308",
@@ -652,15 +589,15 @@
   },
   "EK 953-2026-01-23": {
     "flightNumber": "EK 953",
-    "status": "تأخير",
-    "actualTime": "17:30",
+    "status": "وصلت",
+    "actualTime": "17:29",
     "type": "arivl",
     "airlineCode": "EK"
   },
   "SK 2827-2026-01-23": {
     "flightNumber": "SK 2827",
-    "status": "",
-    "actualTime": "17:20",
+    "status": "وصلت",
+    "actualTime": "17:14",
     "type": "arivl",
     "airlineCode": "SK"
   },
