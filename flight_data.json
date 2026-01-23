@@ -1,18 +1,4 @@
 {
-  "QR 417-2026-01-23": {
-    "flightNumber": "QR 417",
-    "status": "غادرت",
-    "actualTime": "12:09",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
-  "EY 582-2026-01-23": {
-    "flightNumber": "EY 582",
-    "status": "غادرت",
-    "actualTime": "12:43",
-    "type": "dprtr",
-    "airlineCode": "EY"
-  },
   "AH 4017-2026-01-23": {
     "flightNumber": "AH 4017",
     "status": "تم اغلاق البوابة",
@@ -22,7 +8,7 @@
   },
   "TK 825-2026-01-23": {
     "flightNumber": "TK 825",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "14:50",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -666,8 +652,8 @@
   },
   "TK 824-2026-01-23": {
     "flightNumber": "TK 824",
-    "status": "",
-    "actualTime": "13:55",
+    "status": "وصلت",
+    "actualTime": "13:47",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -750,8 +736,8 @@
   },
   "ME 214-2026-01-23": {
     "flightNumber": "ME 214",
-    "status": "",
-    "actualTime": "16:35",
+    "status": "تأخير",
+    "actualTime": "17:15",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -762,19 +748,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "RJ 051-2026-01-23": {
-    "flightNumber": "RJ 051",
-    "status": "",
-    "actualTime": "17:00",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "EK 953-2026-01-23": {
     "flightNumber": "EK 953",
     "status": "",
     "actualTime": "17:00",
     "type": "arivl",
     "airlineCode": "EK"
+  },
+  "RJ 051-2026-01-23": {
+    "flightNumber": "RJ 051",
+    "status": "",
+    "actualTime": "17:00",
+    "type": "arivl",
+    "airlineCode": "RJ"
   },
   "SK 2827-2026-01-23": {
     "flightNumber": "SK 2827",
