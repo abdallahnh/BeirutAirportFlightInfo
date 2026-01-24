@@ -1,32 +1,4 @@
 {
-  "ME 215-2026-01-24": {
-    "flightNumber": "ME 215",
-    "status": "النداء الاخير",
-    "actualTime": "07:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 265-2026-01-24": {
-    "flightNumber": "ME 265",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:27",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 310-2026-01-24": {
-    "flightNumber": "ME 310",
-    "status": "النداء الاخير",
-    "actualTime": "07:01",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 364-2026-01-24": {
-    "flightNumber": "ME 364",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "08:26",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2026-01-24": {
     "flightNumber": "TK 831",
     "status": "تم اغلاق البوابة",
@@ -41,13 +13,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "MS 710-2026-01-24": {
-    "flightNumber": "MS 710",
-    "status": "غادرت",
-    "actualTime": "10:05",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "PC 1825-2026-01-24": {
     "flightNumber": "PC 1825",
     "status": "غادرت",
@@ -57,7 +22,7 @@
   },
   "IA 132-2026-01-24": {
     "flightNumber": "IA 132",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "IA"
@@ -71,7 +36,7 @@
   },
   "RJ 402-2026-01-24": {
     "flightNumber": "RJ 402",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "11:50",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -310,7 +275,7 @@
   "ET 407-2026-01-25": {
     "flightNumber": "ET 407",
     "status": "",
-    "actualTime": "02:00",
+    "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ET"
   },
@@ -475,13 +440,6 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "FZ 158-2026-01-25": {
-    "flightNumber": "FZ 158",
-    "status": "",
-    "actualTime": "09:50",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
   "PC 1825-2026-01-25": {
     "flightNumber": "PC 1825",
     "status": "",
@@ -601,19 +559,19 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "VF 1044-2026-01-25": {
-    "flightNumber": "VF 1044",
-    "status": "",
-    "actualTime": "15:30",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
   "ME 322-2026-01-25": {
     "flightNumber": "ME 322",
     "status": "",
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "CY 121-2026-01-25": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "CY"
   },
   "AF 565-2026-01-25": {
     "flightNumber": "AF 565",
@@ -642,13 +600,6 @@
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "IA"
-  },
-  "CY 121-2026-01-25": {
-    "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "16:40",
-    "type": "dprtr",
-    "airlineCode": "CY"
   },
   "ME 312-2026-01-25": {
     "flightNumber": "ME 312",
@@ -804,13 +755,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 830-2026-01-24": {
-    "flightNumber": "TK 830",
-    "status": "وصلت",
-    "actualTime": "08:44",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
   "FZ 157-2026-01-24": {
     "flightNumber": "FZ 157",
     "status": "وصلت",
@@ -862,8 +806,8 @@
   },
   "RJ 401-2026-01-24": {
     "flightNumber": "RJ 401",
-    "status": "",
-    "actualTime": "10:50",
+    "status": "وصلت",
+    "actualTime": "10:48",
     "type": "arivl",
     "airlineCode": "RJ"
   },
@@ -1563,7 +1507,7 @@
   "TK 826-2026-01-25": {
     "flightNumber": "TK 826",
     "status": "",
-    "actualTime": "20:15",
+    "actualTime": "20:25",
     "type": "arivl",
     "airlineCode": "TK"
   },
