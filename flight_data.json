@@ -29,15 +29,15 @@
   },
   "J9 262-2026-01-24": {
     "flightNumber": "J9 262",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "20:01",
     "type": "dprtr",
     "airlineCode": "J9"
   },
   "TK 827-2026-01-24": {
     "flightNumber": "TK 827",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:10",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "20:41",
     "type": "dprtr",
     "airlineCode": "TK"
   },
@@ -50,14 +50,14 @@
   },
   "KU 504-2026-01-24": {
     "flightNumber": "KU 504",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "20:29",
     "type": "dprtr",
     "airlineCode": "KU"
   },
   "FZ 160-2026-01-24": {
     "flightNumber": "FZ 160",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:45",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -545,20 +545,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 212-2026-01-24": {
-    "flightNumber": "ME 212",
-    "status": "وصلت",
-    "actualTime": "18:45",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "RJ 403-2026-01-24": {
-    "flightNumber": "RJ 403",
-    "status": "وصلت",
-    "actualTime": "18:32",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
   "ME 313-2026-01-24": {
     "flightNumber": "ME 313",
     "status": "وصلت",
@@ -603,8 +589,8 @@
   },
   "FZ 159-2026-01-24": {
     "flightNumber": "FZ 159",
-    "status": "",
-    "actualTime": "20:45",
+    "status": "وصلت",
+    "actualTime": "20:42",
     "type": "arivl",
     "airlineCode": "FZ"
   },
