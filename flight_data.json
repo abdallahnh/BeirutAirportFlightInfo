@@ -1,25 +1,4 @@
 {
-  "IA 132-2026-01-24": {
-    "flightNumber": "IA 132",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "11:17",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "ME 304-2026-01-24": {
-    "flightNumber": "ME 304",
-    "status": "النداء الاخير",
-    "actualTime": "11:09",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 324-2026-01-24": {
-    "flightNumber": "ME 324",
-    "status": "",
-    "actualTime": "12:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "QR 417-2026-01-24": {
     "flightNumber": "QR 417",
     "status": "تم اغلاق البوابة",
@@ -43,7 +22,7 @@
   },
   "ME 418-2026-01-24": {
     "flightNumber": "ME 418",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -555,7 +534,7 @@
   "ME 326-2026-01-25": {
     "flightNumber": "ME 326",
     "status": "",
-    "actualTime": "18:00",
+    "actualTime": "17:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -643,6 +622,13 @@
     "type": "dprtr",
     "airlineCode": "RJ"
   },
+  "ME 261-2026-01-25": {
+    "flightNumber": "ME 261",
+    "status": "",
+    "actualTime": "20:25",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "J9 262-2026-01-25": {
     "flightNumber": "J9 262",
     "status": "",
@@ -652,13 +638,6 @@
   },
   "ME 430-2026-01-25": {
     "flightNumber": "ME 430",
-    "status": "",
-    "actualTime": "21:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 261-2026-01-25": {
-    "flightNumber": "ME 261",
     "status": "",
     "actualTime": "21:00",
     "type": "dprtr",
@@ -692,13 +671,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 252-2026-01-24": {
-    "flightNumber": "ME 252",
-    "status": "وصلت",
-    "actualTime": "12:41",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "PC 3000-2026-01-24": {
     "flightNumber": "PC 3000",
     "status": "",
@@ -712,13 +684,6 @@
     "actualTime": "14:15",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "AF 566-2026-01-24": {
-    "flightNumber": "AF 566",
-    "status": "ألغيت",
-    "actualTime": "14:20",
-    "type": "arivl",
-    "airlineCode": "AF"
   },
   "IA 139-2026-01-24": {
     "flightNumber": "IA 139",
@@ -789,13 +754,6 @@
     "actualTime": "16:00",
     "type": "arivl",
     "airlineCode": "ME"
-  },
-  "ET 3406-2026-01-24": {
-    "flightNumber": "ET 3406",
-    "status": "",
-    "actualTime": "16:25",
-    "type": "arivl",
-    "airlineCode": "ET"
   },
   "ME 214-2026-01-24": {
     "flightNumber": "ME 214",
