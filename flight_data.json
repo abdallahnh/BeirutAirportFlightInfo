@@ -1,21 +1,21 @@
 {
   "ME 571-2026-01-26": {
     "flightNumber": "ME 571",
-    "status": "تم فتح البوابة",
-    "actualTime": "02:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:39",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ET 407-2026-01-26": {
     "flightNumber": "ET 407",
-    "status": "الصعود الى الطائرة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "01:20",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "PC 759-2026-01-26": {
     "flightNumber": "PC 759",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "02:35",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -860,31 +860,10 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 443-2026-01-25": {
-    "flightNumber": "ME 443",
-    "status": "وصلت",
-    "actualTime": "23:30",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 369-2026-01-25": {
-    "flightNumber": "ME 369",
-    "status": "وصلت",
-    "actualTime": "23:36",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 423-2026-01-25": {
     "flightNumber": "ME 423",
     "status": "وصلت",
     "actualTime": "00:06",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 230-2026-01-25": {
-    "flightNumber": "ME 230",
-    "status": "وصلت",
-    "actualTime": "23:39",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -904,8 +883,8 @@
   },
   "VF 1627-2026-01-26": {
     "flightNumber": "VF 1627",
-    "status": "",
-    "actualTime": "01:30",
+    "status": "وصلت",
+    "actualTime": "01:33",
     "type": "arivl",
     "airlineCode": "VF"
   },
