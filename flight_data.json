@@ -1,39 +1,4 @@
 {
-  "LH 1309-2026-01-25": {
-    "flightNumber": "LH 1309",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "16:55",
-    "type": "dprtr",
-    "airlineCode": "LH"
-  },
-  "ME 442-2026-01-25": {
-    "flightNumber": "ME 442",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "16:59",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 422-2026-01-25": {
-    "flightNumber": "ME 422",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "17:26",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 253-2026-01-25": {
-    "flightNumber": "ME 253",
-    "status": "غادرت",
-    "actualTime": "17:18",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 306-2026-01-25": {
-    "flightNumber": "ME 306",
-    "status": "النداء الاخير",
-    "actualTime": "17:37",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "IA 136-2026-01-25": {
     "flightNumber": "IA 136",
     "status": "",
@@ -50,7 +15,7 @@
   },
   "QR 427-2026-01-25": {
     "flightNumber": "QR 427",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "19:35",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -538,31 +503,10 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "LH 1308-2026-01-25": {
-    "flightNumber": "LH 1308",
-    "status": "وصلت",
-    "actualTime": "16:05",
-    "type": "arivl",
-    "airlineCode": "LH"
-  },
-  "ME 248-2026-01-25": {
-    "flightNumber": "ME 248",
-    "status": "وصلت",
-    "actualTime": "16:02",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 218-2026-01-25": {
     "flightNumber": "ME 218",
     "status": "وصلت",
     "actualTime": "16:41",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 325-2026-01-25": {
-    "flightNumber": "ME 325",
-    "status": "وصلت",
-    "actualTime": "16:22",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -582,15 +526,15 @@
   },
   "QR 426-2026-01-25": {
     "flightNumber": "QR 426",
-    "status": "",
-    "actualTime": "18:05",
+    "status": "وصلت",
+    "actualTime": "18:01",
     "type": "arivl",
     "airlineCode": "QR"
   },
   "MS 711-2026-01-25": {
     "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "18:15",
+    "status": "وصلت",
+    "actualTime": "18:23",
     "type": "arivl",
     "airlineCode": "MS"
   },
