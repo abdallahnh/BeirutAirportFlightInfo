@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "MS 712-2026-01-25": {
-    "flightNumber": "MS 712",
-    "status": "غادرت",
-    "actualTime": "18:59",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "QR 427-2026-01-25": {
     "flightNumber": "QR 427",
     "status": "تم اغلاق البوابة",
@@ -22,14 +15,14 @@
   },
   "EK 954-2026-01-25": {
     "flightNumber": "EK 954",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "18:49",
     "type": "dprtr",
     "airlineCode": "EK"
   },
   "RJ 404-2026-01-25": {
     "flightNumber": "RJ 404",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "19:14",
     "type": "dprtr",
     "airlineCode": "RJ"
@@ -43,7 +36,7 @@
   },
   "J9 262-2026-01-25": {
     "flightNumber": "J9 262",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "20:50",
     "type": "dprtr",
     "airlineCode": "J9"
@@ -503,17 +496,10 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "EK 953-2026-01-25": {
-    "flightNumber": "EK 953",
-    "status": "وصلت",
-    "actualTime": "17:27",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "IA 135-2026-01-25": {
     "flightNumber": "IA 135",
-    "status": "",
-    "actualTime": "18:00",
+    "status": "وصلت",
+    "actualTime": "19:36",
     "type": "arivl",
     "airlineCode": "IA"
   },
