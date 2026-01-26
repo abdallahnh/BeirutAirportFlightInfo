@@ -1,43 +1,36 @@
 {
   "ME 424-2026-01-26": {
     "flightNumber": "ME 424",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "07:53",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 404-2026-01-26": {
     "flightNumber": "ME 404",
-    "status": "تم فتح البوابة",
+    "status": "غادرت",
     "actualTime": "08:40",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 364-2026-01-26": {
-    "flightNumber": "ME 364",
-    "status": "",
-    "actualTime": "08:55",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 241-2026-01-26": {
     "flightNumber": "ME 241",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:55",
+    "status": "غادرت",
+    "actualTime": "08:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "TK 831-2026-01-26": {
     "flightNumber": "TK 831",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:40",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "MS 710-2026-01-26": {
     "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "10:00",
+    "status": "تأخير",
+    "actualTime": "10:30",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -209,13 +202,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "MS 712-2026-01-26": {
-    "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "19:15",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "QR 427-2026-01-26": {
     "flightNumber": "QR 427",
     "status": "",
@@ -236,6 +222,13 @@
     "actualTime": "19:55",
     "type": "dprtr",
     "airlineCode": "RJ"
+  },
+  "MS 712-2026-01-26": {
+    "flightNumber": "MS 712",
+    "status": "",
+    "actualTime": "20:10",
+    "type": "dprtr",
+    "airlineCode": "MS"
   },
   "ME 261-2026-01-26": {
     "flightNumber": "ME 261",
@@ -715,8 +708,8 @@
   },
   "TK 830-2026-01-26": {
     "flightNumber": "TK 830",
-    "status": "",
-    "actualTime": "08:45",
+    "status": "وصلت",
+    "actualTime": "08:30",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -930,13 +923,6 @@
     "type": "arivl",
     "airlineCode": "QR"
   },
-  "MS 711-2026-01-26": {
-    "flightNumber": "MS 711",
-    "status": "",
-    "actualTime": "18:15",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "ME 202-2026-01-26": {
     "flightNumber": "ME 202",
     "status": "",
@@ -957,6 +943,13 @@
     "actualTime": "19:05",
     "type": "arivl",
     "airlineCode": "RJ"
+  },
+  "MS 711-2026-01-26": {
+    "flightNumber": "MS 711",
+    "status": "",
+    "actualTime": "19:10",
+    "type": "arivl",
+    "airlineCode": "MS"
   },
   "ME 313-2026-01-26": {
     "flightNumber": "ME 313",
