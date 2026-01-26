@@ -1,57 +1,22 @@
 {
-  "ME 215-2026-01-26": {
-    "flightNumber": "ME 215",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "06:25",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 265-2026-01-26": {
-    "flightNumber": "ME 265",
-    "status": "غادرت",
-    "actualTime": "06:28",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 217-2026-01-26": {
-    "flightNumber": "ME 217",
-    "status": "النداء الاخير",
-    "actualTime": "06:45",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 426-2026-01-26": {
-    "flightNumber": "ME 426",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "06:48",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 213-2026-01-26": {
     "flightNumber": "ME 213",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "06:49",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 201-2026-01-26": {
     "flightNumber": "ME 201",
-    "status": "تم فتح البوابة",
-    "actualTime": "07:35",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 310-2026-01-26": {
-    "flightNumber": "ME 310",
-    "status": "",
-    "actualTime": "07:40",
+    "status": "غادرت",
+    "actualTime": "07:06",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 211-2026-01-26": {
     "flightNumber": "ME 211",
-    "status": "",
-    "actualTime": "07:50",
+    "status": "غادرت",
+    "actualTime": "07:12",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -64,7 +29,7 @@
   },
   "ME 404-2026-01-26": {
     "flightNumber": "ME 404",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "08:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -167,13 +132,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 825-2026-01-26": {
-    "flightNumber": "TK 825",
-    "status": "ألغيت",
-    "actualTime": "14:50",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "ME 436-2026-01-26": {
     "flightNumber": "ME 436",
     "status": "",
@@ -187,13 +145,6 @@
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "ME"
-  },
-  "UF 002-2026-01-26": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "dprtr",
-    "airlineCode": "UF"
   },
   "AF 565-2026-01-26": {
     "flightNumber": "AF 565",
@@ -853,13 +804,6 @@
     "type": "arivl",
     "airlineCode": "QR"
   },
-  "UF 001-2026-01-26": {
-    "flightNumber": "UF 001",
-    "status": "",
-    "actualTime": "15:00",
-    "type": "arivl",
-    "airlineCode": "UF"
-  },
   "ME 266-2026-01-26": {
     "flightNumber": "ME 266",
     "status": "",
@@ -871,13 +815,6 @@
     "flightNumber": "TK 6384",
     "status": "",
     "actualTime": "12:20",
-    "type": "arivl",
-    "airlineCode": "TK"
-  },
-  "TK 824-2026-01-26": {
-    "flightNumber": "TK 824",
-    "status": "ألغيت",
-    "actualTime": "13:55",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -908,6 +845,13 @@
     "actualTime": "14:50",
     "type": "arivl",
     "airlineCode": "ME"
+  },
+  "UF 001-2026-01-26": {
+    "flightNumber": "UF 001",
+    "status": "",
+    "actualTime": "15:00",
+    "type": "arivl",
+    "airlineCode": "UF"
   },
   "ME 427-2026-01-26": {
     "flightNumber": "ME 427",
