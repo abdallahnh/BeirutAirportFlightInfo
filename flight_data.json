@@ -1,25 +1,4 @@
 {
-  "ME 251-2026-01-27": {
-    "flightNumber": "ME 251",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:36",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 424-2026-01-27": {
-    "flightNumber": "ME 424",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:42",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 364-2026-01-27": {
-    "flightNumber": "ME 364",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "08:12",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2026-01-27": {
     "flightNumber": "TK 831",
     "status": "تم اغلاق البوابة",
@@ -43,35 +22,21 @@
   },
   "IA 132-2026-01-27": {
     "flightNumber": "IA 132",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:30",
+    "status": "غادرت",
+    "actualTime": "11:22",
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "G9 386-2026-01-27": {
-    "flightNumber": "G9 386",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "11:11",
-    "type": "dprtr",
-    "airlineCode": "G9"
-  },
-  "ME 304-2026-01-27": {
-    "flightNumber": "ME 304",
-    "status": "النداء الاخير",
-    "actualTime": "11:04",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 320-2026-01-27": {
     "flightNumber": "ME 320",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:55",
+    "status": "غادرت",
+    "actualTime": "11:22",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 324-2026-01-27": {
     "flightNumber": "ME 324",
-    "status": "",
+    "status": "النداء الاخير",
     "actualTime": "12:00",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -778,15 +743,15 @@
   },
   "ME 266-2026-01-27": {
     "flightNumber": "ME 266",
-    "status": "تبكير",
-    "actualTime": "11:50",
+    "status": "وصلت",
+    "actualTime": "11:49",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "ME 252-2026-01-27": {
     "flightNumber": "ME 252",
-    "status": "",
-    "actualTime": "13:00",
+    "status": "تبكير",
+    "actualTime": "12:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
