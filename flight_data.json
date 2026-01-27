@@ -1,25 +1,4 @@
 {
-  "TK 831-2026-01-27": {
-    "flightNumber": "TK 831",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "09:21",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "FZ 158-2026-01-27": {
-    "flightNumber": "FZ 158",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "09:08",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
-  "MS 710-2026-01-27": {
-    "flightNumber": "MS 710",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "09:40",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "ME 324-2026-01-27": {
     "flightNumber": "ME 324",
     "status": "النداء الاخير",
@@ -90,16 +69,9 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 1302-2026-01-27": {
-    "flightNumber": "IA 1302",
-    "status": "ألغيت",
-    "actualTime": "16:30",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "LH 1309-2026-01-27": {
     "flightNumber": "LH 1309",
-    "status": "",
+    "status": "ألغيت",
     "actualTime": "16:40",
     "type": "dprtr",
     "airlineCode": "LH"
@@ -524,12 +496,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "UF 004-2026-01-28": {
-    "flightNumber": "UF 004",
+  "ME 312-2026-01-28": {
+    "flightNumber": "ME 312",
     "status": "",
-    "actualTime": "16:30",
+    "actualTime": "16:25",
     "type": "dprtr",
-    "airlineCode": "UF"
+    "airlineCode": "ME"
   },
   "IA 1302-2026-01-28": {
     "flightNumber": "IA 1302",
@@ -537,13 +509,6 @@
     "actualTime": "16:30",
     "type": "dprtr",
     "airlineCode": "IA"
-  },
-  "ME 312-2026-01-28": {
-    "flightNumber": "ME 312",
-    "status": "",
-    "actualTime": "16:45",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "LH 1309-2026-01-28": {
     "flightNumber": "LH 1309",
@@ -618,9 +583,16 @@
   "RJ 404-2026-01-28": {
     "flightNumber": "RJ 404",
     "status": "",
-    "actualTime": "19:55",
+    "actualTime": "20:05",
     "type": "dprtr",
     "airlineCode": "RJ"
+  },
+  "ME 261-2026-01-28": {
+    "flightNumber": "ME 261",
+    "status": "",
+    "actualTime": "20:25",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "J9 262-2026-01-28": {
     "flightNumber": "J9 262",
@@ -628,13 +600,6 @@
     "actualTime": "20:50",
     "type": "dprtr",
     "airlineCode": "J9"
-  },
-  "ME 261-2026-01-28": {
-    "flightNumber": "ME 261",
-    "status": "",
-    "actualTime": "21:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "TK 827-2026-01-28": {
     "flightNumber": "TK 827",
@@ -649,13 +614,6 @@
     "actualTime": "21:45",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "ME 266-2026-01-27": {
-    "flightNumber": "ME 266",
-    "status": "وصلت",
-    "actualTime": "11:50",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 252-2026-01-27": {
     "flightNumber": "ME 252",
