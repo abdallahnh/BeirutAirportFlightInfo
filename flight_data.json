@@ -55,13 +55,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 404-2026-01-27": {
-    "flightNumber": "ME 404",
-    "status": "غادرت",
-    "actualTime": "08:15",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 364-2026-01-27": {
     "flightNumber": "ME 364",
     "status": "تم اغلاق البوابة",
@@ -71,15 +64,15 @@
   },
   "TK 831-2026-01-27": {
     "flightNumber": "TK 831",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:40",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "FZ 158-2026-01-27": {
     "flightNumber": "FZ 158",
-    "status": "تم فتح البوابة",
-    "actualTime": "09:50",
+    "status": "النداء الاخير",
+    "actualTime": "09:08",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -799,8 +792,8 @@
   },
   "TK 830-2026-01-27": {
     "flightNumber": "TK 830",
-    "status": "",
-    "actualTime": "08:45",
+    "status": "وصلت",
+    "actualTime": "09:07",
     "type": "arivl",
     "airlineCode": "TK"
   },
@@ -813,8 +806,8 @@
   },
   "MS 709-2026-01-27": {
     "flightNumber": "MS 709",
-    "status": "",
-    "actualTime": "09:15",
+    "status": "وصلت",
+    "actualTime": "09:13",
     "type": "arivl",
     "airlineCode": "MS"
   },
