@@ -41,38 +41,31 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 211-2026-01-27": {
-    "flightNumber": "ME 211",
-    "status": "غادرت",
-    "actualTime": "07:17",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 251-2026-01-27": {
     "flightNumber": "ME 251",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "07:36",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 424-2026-01-27": {
     "flightNumber": "ME 424",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "07:42",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 404-2026-01-27": {
     "flightNumber": "ME 404",
-    "status": "تم فتح البوابة",
-    "actualTime": "08:40",
+    "status": "غادرت",
+    "actualTime": "08:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 364-2026-01-27": {
     "flightNumber": "ME 364",
-    "status": "",
-    "actualTime": "08:55",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "08:12",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -85,7 +78,7 @@
   },
   "FZ 158-2026-01-27": {
     "flightNumber": "FZ 158",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:50",
     "type": "dprtr",
     "airlineCode": "FZ"
@@ -160,19 +153,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "IA 140-2026-01-27": {
-    "flightNumber": "IA 140",
-    "status": "",
-    "actualTime": "15:20",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "AH 4017-2026-01-27": {
     "flightNumber": "AH 4017",
     "status": "",
     "actualTime": "15:20",
     "type": "dprtr",
     "airlineCode": "AH"
+  },
+  "IA 140-2026-01-27": {
+    "flightNumber": "IA 140",
+    "status": "",
+    "actualTime": "15:45",
+    "type": "dprtr",
+    "airlineCode": "IA"
   },
   "CY 121-2026-01-27": {
     "flightNumber": "CY 121",
@@ -813,8 +806,8 @@
   },
   "FZ 157-2026-01-27": {
     "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "08:50",
+    "status": "وصلت",
+    "actualTime": "08:38",
     "type": "arivl",
     "airlineCode": "FZ"
   },
@@ -841,8 +834,8 @@
   },
   "G9 385-2026-01-27": {
     "flightNumber": "G9 385",
-    "status": "",
-    "actualTime": "10:55",
+    "status": "تبكير",
+    "actualTime": "10:35",
     "type": "arivl",
     "airlineCode": "G9"
   },
