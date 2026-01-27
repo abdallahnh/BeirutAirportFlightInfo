@@ -20,20 +20,6 @@
     "type": "dprtr",
     "airlineCode": "MS"
   },
-  "IA 132-2026-01-27": {
-    "flightNumber": "IA 132",
-    "status": "غادرت",
-    "actualTime": "11:22",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "ME 320-2026-01-27": {
-    "flightNumber": "ME 320",
-    "status": "غادرت",
-    "actualTime": "11:22",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 324-2026-01-27": {
     "flightNumber": "ME 324",
     "status": "النداء الاخير",
@@ -43,8 +29,8 @@
   },
   "QR 417-2026-01-27": {
     "flightNumber": "QR 417",
-    "status": "",
-    "actualTime": "12:40",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "11:59",
     "type": "dprtr",
     "airlineCode": "QR"
   },
@@ -720,13 +706,6 @@
     "type": "arivl",
     "airlineCode": "IA"
   },
-  "ME 311-2026-01-27": {
-    "flightNumber": "ME 311",
-    "status": "وصلت",
-    "actualTime": "10:08",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "G9 385-2026-01-27": {
     "flightNumber": "G9 385",
     "status": "وصلت",
@@ -744,7 +723,7 @@
   "ME 266-2026-01-27": {
     "flightNumber": "ME 266",
     "status": "وصلت",
-    "actualTime": "11:49",
+    "actualTime": "11:50",
     "type": "arivl",
     "airlineCode": "ME"
   },
