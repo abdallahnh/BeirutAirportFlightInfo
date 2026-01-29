@@ -43,29 +43,29 @@
   },
   "TK 827-2026-01-29": {
     "flightNumber": "TK 827",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:10",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "20:54",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "G9 388-2026-01-29": {
     "flightNumber": "G9 388",
-    "status": "",
-    "actualTime": "21:30",
+    "status": "النداء الاخير",
+    "actualTime": "21:12",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "KU 504-2026-01-29": {
     "flightNumber": "KU 504",
-    "status": "",
-    "actualTime": "21:35",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "20:53",
     "type": "dprtr",
     "airlineCode": "KU"
   },
   "FZ 160-2026-01-29": {
     "flightNumber": "FZ 160",
-    "status": "",
-    "actualTime": "21:45",
+    "status": "النداء الاخير",
+    "actualTime": "21:14",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -524,31 +524,10 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 202-2026-01-29": {
-    "flightNumber": "ME 202",
-    "status": "وصلت",
-    "actualTime": "19:02",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 212-2026-01-29": {
     "flightNumber": "ME 212",
     "status": "وصلت",
     "actualTime": "19:22",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "RJ 403-2026-01-29": {
-    "flightNumber": "RJ 403",
-    "status": "وصلت",
-    "actualTime": "18:45",
-    "type": "arivl",
-    "airlineCode": "RJ"
-  },
-  "ME 313-2026-01-29": {
-    "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "20:05",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -563,6 +542,13 @@
     "flightNumber": "ME 323",
     "status": "وصلت",
     "actualTime": "19:54",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
+  "ME 313-2026-01-29": {
+    "flightNumber": "ME 313",
+    "status": "",
+    "actualTime": "20:05",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -589,8 +575,8 @@
   },
   "G9 387-2026-01-29": {
     "flightNumber": "G9 387",
-    "status": "",
-    "actualTime": "20:50",
+    "status": "وصلت",
+    "actualTime": "20:52",
     "type": "arivl",
     "airlineCode": "G9"
   },
