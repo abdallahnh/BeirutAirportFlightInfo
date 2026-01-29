@@ -1,50 +1,29 @@
 {
-  "FZ 158-2026-01-29": {
-    "flightNumber": "FZ 158",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "09:16",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
   "IA 132-2026-01-29": {
     "flightNumber": "IA 132",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:30",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "10:55",
     "type": "dprtr",
     "airlineCode": "IA"
   },
-  "ME 304-2026-01-29": {
-    "flightNumber": "ME 304",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:40",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "PC 1825-2026-01-29": {
-    "flightNumber": "PC 1825",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:45",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "RJ 402-2026-01-29": {
     "flightNumber": "RJ 402",
-    "status": "",
-    "actualTime": "11:50",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "11:12",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
   "ME 320-2026-01-29": {
     "flightNumber": "ME 320",
-    "status": "تم فتح البوابة",
-    "actualTime": "11:55",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "11:16",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 324-2026-01-29": {
     "flightNumber": "ME 324",
-    "status": "",
-    "actualTime": "12:00",
+    "status": "النداء الاخير",
+    "actualTime": "11:36",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -272,27 +251,6 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "ET 407-2026-01-30": {
-    "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "01:05",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
-  "VF 1628-2026-01-30": {
-    "flightNumber": "VF 1628",
-    "status": "",
-    "actualTime": "01:30",
-    "type": "dprtr",
-    "airlineCode": "VF"
-  },
-  "ET 417-2026-01-30": {
-    "flightNumber": "ET 417",
-    "status": "",
-    "actualTime": "02:00",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "ME 571-2026-01-30": {
     "flightNumber": "ME 571",
     "status": "",
@@ -300,12 +258,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 829-2026-01-30": {
-    "flightNumber": "TK 829",
+  "ET 407-2026-01-30": {
+    "flightNumber": "ET 407",
     "status": "",
-    "actualTime": "02:30",
+    "actualTime": "02:05",
     "type": "dprtr",
-    "airlineCode": "TK"
+    "airlineCode": "ET"
   },
   "PC 759-2026-01-30": {
     "flightNumber": "PC 759",
@@ -314,12 +272,19 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "RO 168-2026-01-30": {
-    "flightNumber": "RO 168",
+  "ET 417-2026-01-30": {
+    "flightNumber": "ET 417",
     "status": "",
-    "actualTime": "03:05",
+    "actualTime": "02:55",
     "type": "dprtr",
-    "airlineCode": "RO"
+    "airlineCode": "ET"
+  },
+  "TK 829-2026-01-30": {
+    "flightNumber": "TK 829",
+    "status": "",
+    "actualTime": "03:25",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "PC 757-2026-01-30": {
     "flightNumber": "PC 757",
@@ -334,6 +299,20 @@
     "actualTime": "04:00",
     "type": "dprtr",
     "airlineCode": "MS"
+  },
+  "RO 168-2026-01-30": {
+    "flightNumber": "RO 168",
+    "status": "",
+    "actualTime": "04:05",
+    "type": "dprtr",
+    "airlineCode": "RO"
+  },
+  "VF 1628-2026-01-30": {
+    "flightNumber": "VF 1628",
+    "status": "",
+    "actualTime": "05:15",
+    "type": "dprtr",
+    "airlineCode": "VF"
   },
   "RJ 408-2026-01-30": {
     "flightNumber": "RJ 408",
@@ -433,13 +412,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "TK 831-2026-01-30": {
-    "flightNumber": "TK 831",
-    "status": "",
-    "actualTime": "08:45",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
   "ME 364-2026-01-30": {
     "flightNumber": "ME 364",
     "status": "",
@@ -453,6 +425,13 @@
     "actualTime": "08:55",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "TK 831-2026-01-30": {
+    "flightNumber": "TK 831",
+    "status": "",
+    "actualTime": "09:40",
+    "type": "dprtr",
+    "airlineCode": "TK"
   },
   "MS 710-2026-01-30": {
     "flightNumber": "MS 710",
@@ -517,13 +496,6 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "AH 4017-2026-01-30": {
-    "flightNumber": "AH 4017",
-    "status": "",
-    "actualTime": "12:50",
-    "type": "dprtr",
-    "airlineCode": "AH"
-  },
   "ME 229-2026-01-30": {
     "flightNumber": "ME 229",
     "status": "",
@@ -538,19 +510,19 @@
     "type": "dprtr",
     "airlineCode": "EY"
   },
+  "AH 4017-2026-01-30": {
+    "flightNumber": "AH 4017",
+    "status": "",
+    "actualTime": "13:50",
+    "type": "dprtr",
+    "airlineCode": "AH"
+  },
   "TK 825-2026-01-30": {
     "flightNumber": "TK 825",
     "status": "",
-    "actualTime": "13:55",
+    "actualTime": "14:50",
     "type": "dprtr",
     "airlineCode": "TK"
-  },
-  "CY 121-2026-01-30": {
-    "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "15:00",
-    "type": "dprtr",
-    "airlineCode": "CY"
   },
   "ME 436-2026-01-30": {
     "flightNumber": "ME 436",
@@ -572,6 +544,13 @@
     "actualTime": "15:55",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "CY 121-2026-01-30": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "CY"
   },
   "AF 565-2026-01-30": {
     "flightNumber": "AF 565",
@@ -720,13 +699,6 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "MS 709-2026-01-29": {
-    "flightNumber": "MS 709",
-    "status": "وصلت",
-    "actualTime": "09:14",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
   "IA 131-2026-01-29": {
     "flightNumber": "IA 131",
     "status": "وصلت",
@@ -764,8 +736,8 @@
   },
   "ME 276-2026-01-29": {
     "flightNumber": "ME 276",
-    "status": "تبكير",
-    "actualTime": "11:00",
+    "status": "وصلت",
+    "actualTime": "11:03",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -785,8 +757,8 @@
   },
   "ME 252-2026-01-29": {
     "flightNumber": "ME 252",
-    "status": "",
-    "actualTime": "13:00",
+    "status": "تبكير",
+    "actualTime": "12:45",
     "type": "arivl",
     "airlineCode": "ME"
   },
