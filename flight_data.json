@@ -48,13 +48,6 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "PC 755-2026-01-31": {
-    "flightNumber": "PC 755",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "00:54",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "ME 575-2026-01-31": {
     "flightNumber": "ME 575",
     "status": "",
@@ -64,8 +57,8 @@
   },
   "ET 407-2026-01-31": {
     "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:33",
     "type": "dprtr",
     "airlineCode": "ET"
   },
@@ -1007,27 +1000,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 419-2026-01-30": {
-    "flightNumber": "ME 419",
-    "status": "وصلت",
-    "actualTime": "23:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 369-2026-01-30": {
-    "flightNumber": "ME 369",
-    "status": "وصلت",
-    "actualTime": "23:27",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 423-2026-01-30": {
-    "flightNumber": "ME 423",
-    "status": "وصلت",
-    "actualTime": "23:32",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 230-2026-01-30": {
     "flightNumber": "ME 230",
     "status": "وصلت",
@@ -1051,15 +1023,15 @@
   },
   "ET 406-2026-01-31": {
     "flightNumber": "ET 406",
-    "status": "",
-    "actualTime": "01:05",
+    "status": "وصلت",
+    "actualTime": "01:16",
     "type": "arivl",
     "airlineCode": "ET"
   },
   "VF 1627-2026-01-31": {
     "flightNumber": "VF 1627",
-    "status": "",
-    "actualTime": "01:30",
+    "status": "وصلت",
+    "actualTime": "01:16",
     "type": "arivl",
     "airlineCode": "VF"
   },
