@@ -43,7 +43,7 @@
   },
   "QR 419-2026-01-31": {
     "flightNumber": "QR 419",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "00:40",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -55,19 +55,19 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "ET 407-2026-01-31": {
-    "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "02:05",
-    "type": "dprtr",
-    "airlineCode": "ET"
-  },
   "ME 575-2026-01-31": {
     "flightNumber": "ME 575",
     "status": "",
     "actualTime": "02:05",
     "type": "dprtr",
     "airlineCode": "ME"
+  },
+  "ET 407-2026-01-31": {
+    "flightNumber": "ET 407",
+    "status": "",
+    "actualTime": "02:05",
+    "type": "dprtr",
+    "airlineCode": "ET"
   },
   "PC 759-2026-01-31": {
     "flightNumber": "PC 759",
@@ -489,13 +489,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 572-2026-01-30": {
-    "flightNumber": "ME 572",
-    "status": "وصلت",
-    "actualTime": "20:44",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 327-2026-01-30": {
     "flightNumber": "ME 327",
     "status": "وصلت",
@@ -533,15 +526,15 @@
   },
   "ME 419-2026-01-30": {
     "flightNumber": "ME 419",
-    "status": "تأخير",
-    "actualTime": "22:55",
+    "status": "وصلت",
+    "actualTime": "23:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "QR 418-2026-01-30": {
     "flightNumber": "QR 418",
-    "status": "",
-    "actualTime": "22:55",
+    "status": "وصلت",
+    "actualTime": "22:46",
     "type": "arivl",
     "airlineCode": "QR"
   },
