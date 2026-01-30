@@ -22,15 +22,15 @@
   },
   "EY 582-2026-01-30": {
     "flightNumber": "EY 582",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "12:43",
     "type": "dprtr",
     "airlineCode": "EY"
   },
   "AH 4017-2026-01-30": {
     "flightNumber": "AH 4017",
-    "status": "تم فتح البوابة",
-    "actualTime": "13:50",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "13:29",
     "type": "dprtr",
     "airlineCode": "AH"
   },
@@ -62,19 +62,19 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "CY 121-2026-01-30": {
-    "flightNumber": "CY 121",
-    "status": "",
-    "actualTime": "16:00",
-    "type": "dprtr",
-    "airlineCode": "CY"
-  },
   "AF 565-2026-01-30": {
     "flightNumber": "AF 565",
     "status": "",
     "actualTime": "16:00",
     "type": "dprtr",
     "airlineCode": "AF"
+  },
+  "CY 121-2026-01-30": {
+    "flightNumber": "CY 121",
+    "status": "",
+    "actualTime": "16:00",
+    "type": "dprtr",
+    "airlineCode": "CY"
   },
   "ME 428-2026-01-30": {
     "flightNumber": "ME 428",
@@ -275,14 +275,14 @@
   "MS 714-2026-01-31": {
     "flightNumber": "MS 714",
     "status": "",
-    "actualTime": "04:00",
+    "actualTime": "03:40",
     "type": "dprtr",
     "airlineCode": "MS"
   },
   "EY 584-2026-01-31": {
     "flightNumber": "EY 584",
     "status": "",
-    "actualTime": "04:00",
+    "actualTime": "03:55",
     "type": "dprtr",
     "airlineCode": "EY"
   },
@@ -293,22 +293,8 @@
     "type": "dprtr",
     "airlineCode": "VF"
   },
-  "RJ 408-2026-01-31": {
-    "flightNumber": "RJ 408",
-    "status": "",
-    "actualTime": "06:00",
-    "type": "dprtr",
-    "airlineCode": "RJ"
-  },
   "ME 247-2026-01-31": {
     "flightNumber": "ME 247",
-    "status": "",
-    "actualTime": "06:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 225-2026-01-31": {
-    "flightNumber": "ME 225",
     "status": "",
     "actualTime": "06:30",
     "type": "dprtr",
@@ -377,6 +363,13 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
+  "ME 251-2026-01-31": {
+    "flightNumber": "ME 251",
+    "status": "",
+    "actualTime": "08:05",
+    "type": "dprtr",
+    "airlineCode": "ME"
+  },
   "ME 271-2026-01-31": {
     "flightNumber": "ME 271",
     "status": "",
@@ -426,19 +419,19 @@
     "type": "dprtr",
     "airlineCode": "PC"
   },
-  "UF 002-2026-01-31": {
-    "flightNumber": "UF 002",
-    "status": "",
-    "actualTime": "11:30",
-    "type": "dprtr",
-    "airlineCode": "UF"
-  },
   "IA 132-2026-01-31": {
     "flightNumber": "IA 132",
     "status": "",
     "actualTime": "11:30",
     "type": "dprtr",
     "airlineCode": "IA"
+  },
+  "ME 304-2026-01-31": {
+    "flightNumber": "ME 304",
+    "status": "",
+    "actualTime": "11:40",
+    "type": "dprtr",
+    "airlineCode": "ME"
   },
   "RJ 402-2026-01-31": {
     "flightNumber": "RJ 402",
@@ -460,13 +453,6 @@
     "actualTime": "11:55",
     "type": "dprtr",
     "airlineCode": "EK"
-  },
-  "ME 304-2026-01-31": {
-    "flightNumber": "ME 304",
-    "status": "",
-    "actualTime": "12:00",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "ET 3407-2026-01-31": {
     "flightNumber": "ET 3407",
