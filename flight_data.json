@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "LH"
   },
-  "ME 402-2026-01-31": {
-    "flightNumber": "ME 402",
-    "status": "غادرت",
-    "actualTime": "17:21",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 368-2026-01-31": {
     "flightNumber": "ME 368",
     "status": "غادرت",
@@ -29,7 +22,7 @@
   },
   "ME 306-2026-01-31": {
     "flightNumber": "ME 306",
-    "status": "الصعود الى الطائرة",
+    "status": "النداء الاخير",
     "actualTime": "17:39",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -617,8 +610,8 @@
   },
   "QR 426-2026-01-31": {
     "flightNumber": "QR 426",
-    "status": "",
-    "actualTime": "18:05",
+    "status": "وصلت",
+    "actualTime": "17:57",
     "type": "arivl",
     "airlineCode": "QR"
   },
