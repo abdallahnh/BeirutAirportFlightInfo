@@ -15,15 +15,15 @@
   },
   "ET 407-2026-02-01": {
     "flightNumber": "ET 407",
-    "status": "النداء الاخير",
+    "status": "تم اغلاق البوابة",
     "actualTime": "01:21",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "PC 759-2026-02-01": {
     "flightNumber": "PC 759",
-    "status": "تم فتح البوابة",
-    "actualTime": "02:35",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:46",
     "type": "dprtr",
     "airlineCode": "PC"
   },
@@ -923,20 +923,6 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 369-2026-01-31": {
-    "flightNumber": "ME 369",
-    "status": "وصلت",
-    "actualTime": "23:49",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 423-2026-01-31": {
-    "flightNumber": "ME 423",
-    "status": "وصلت",
-    "actualTime": "23:40",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 429-2026-01-31": {
     "flightNumber": "ME 429",
     "status": "وصلت",
@@ -1007,6 +993,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "IA 137-2026-02-01": {
+    "flightNumber": "IA 137",
+    "status": "",
+    "actualTime": "08:45",
+    "type": "arivl",
+    "airlineCode": "IA"
+  },
   "TK 830-2026-02-01": {
     "flightNumber": "TK 830",
     "status": "",
@@ -1014,12 +1007,12 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "IA 137-2026-02-01": {
-    "flightNumber": "IA 137",
+  "EK 957-2026-02-01": {
+    "flightNumber": "EK 957",
     "status": "",
-    "actualTime": "08:45",
+    "actualTime": "09:15",
     "type": "arivl",
-    "airlineCode": "IA"
+    "airlineCode": "EK"
   },
   "PC 1824-2026-02-01": {
     "flightNumber": "PC 1824",
@@ -1034,13 +1027,6 @@
     "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "MS"
-  },
-  "EK 957-2026-02-01": {
-    "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "EK"
   },
   "EY 581-2026-02-01": {
     "flightNumber": "EY 581",
