@@ -1,43 +1,22 @@
 {
-  "ME 310-2026-01-31": {
-    "flightNumber": "ME 310",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "07:02",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 271-2026-01-31": {
-    "flightNumber": "ME 271",
-    "status": "النداء الاخير",
-    "actualTime": "07:43",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 364-2026-01-31": {
-    "flightNumber": "ME 364",
-    "status": "النداء الاخير",
-    "actualTime": "08:21",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2026-01-31": {
     "flightNumber": "TK 831",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "09:40",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "FZ 158-2026-01-31": {
     "flightNumber": "FZ 158",
-    "status": "",
-    "actualTime": "09:50",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "09:14",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
   "MS 710-2026-01-31": {
     "flightNumber": "MS 710",
-    "status": "",
-    "actualTime": "10:15",
+    "status": "تأخير",
+    "actualTime": "10:40",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -85,7 +64,7 @@
   },
   "ET 3407-2026-01-31": {
     "flightNumber": "ET 3407",
-    "status": "",
+    "status": "CARGO Flt",
     "actualTime": "12:00",
     "type": "dprtr",
     "airlineCode": "ET"
@@ -806,15 +785,15 @@
   },
   "TK 830-2026-01-31": {
     "flightNumber": "TK 830",
-    "status": "",
-    "actualTime": "08:45",
+    "status": "وصلت",
+    "actualTime": "08:57",
     "type": "arivl",
     "airlineCode": "TK"
   },
   "FZ 157-2026-01-31": {
     "flightNumber": "FZ 157",
-    "status": "",
-    "actualTime": "08:50",
+    "status": "وصلت",
+    "actualTime": "08:47",
     "type": "arivl",
     "airlineCode": "FZ"
   },
@@ -881,12 +860,26 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "ME 252-2026-01-31": {
+    "flightNumber": "ME 252",
+    "status": "",
+    "actualTime": "12:50",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
   "TK 824-2026-01-31": {
     "flightNumber": "TK 824",
     "status": "",
     "actualTime": "13:55",
     "type": "arivl",
     "airlineCode": "TK"
+  },
+  "PC 3000-2026-01-31": {
+    "flightNumber": "PC 3000",
+    "status": "",
+    "actualTime": "14:05",
+    "type": "arivl",
+    "airlineCode": "PC"
   },
   "ME 425-2026-01-31": {
     "flightNumber": "ME 425",
