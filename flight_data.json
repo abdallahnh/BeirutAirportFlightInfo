@@ -1,21 +1,7 @@
 {
-  "QR 427-2026-01-31": {
-    "flightNumber": "QR 427",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "18:49",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
-  "EK 954-2026-01-31": {
-    "flightNumber": "EK 954",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "18:49",
-    "type": "dprtr",
-    "airlineCode": "EK"
-  },
   "MS 712-2026-01-31": {
     "flightNumber": "MS 712",
-    "status": "تأخير",
+    "status": "النداء الاخير",
     "actualTime": "20:30",
     "type": "dprtr",
     "airlineCode": "MS"
@@ -29,14 +15,14 @@
   },
   "J9 262-2026-01-31": {
     "flightNumber": "J9 262",
-    "status": "الصعود الى الطائرة",
+    "status": "غادرت",
     "actualTime": "19:52",
     "type": "dprtr",
     "airlineCode": "J9"
   },
   "TK 827-2026-01-31": {
     "flightNumber": "TK 827",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "21:10",
     "type": "dprtr",
     "airlineCode": "TK"
@@ -545,26 +531,12 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "QR 426-2026-01-31": {
-    "flightNumber": "QR 426",
-    "status": "وصلت",
-    "actualTime": "17:57",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "MS 711-2026-01-31": {
     "flightNumber": "MS 711",
-    "status": "تأخير",
-    "actualTime": "19:30",
+    "status": "وصلت",
+    "actualTime": "19:59",
     "type": "arivl",
     "airlineCode": "MS"
-  },
-  "ME 325-2026-01-31": {
-    "flightNumber": "ME 325",
-    "status": "وصلت",
-    "actualTime": "18:24",
-    "type": "arivl",
-    "airlineCode": "ME"
   },
   "ME 202-2026-01-31": {
     "flightNumber": "ME 202",
@@ -617,8 +589,8 @@
   },
   "TK 826-2026-01-31": {
     "flightNumber": "TK 826",
-    "status": "",
-    "actualTime": "20:25",
+    "status": "وصلت",
+    "actualTime": "20:31",
     "type": "arivl",
     "airlineCode": "TK"
   },
