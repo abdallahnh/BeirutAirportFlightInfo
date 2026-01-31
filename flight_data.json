@@ -1,7 +1,7 @@
 {
   "ME 322-2026-01-31": {
     "flightNumber": "ME 322",
-    "status": "النداء الاخير",
+    "status": "غادرت",
     "actualTime": "16:22",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -12,20 +12,6 @@
     "actualTime": "15:19",
     "type": "dprtr",
     "airlineCode": "CY"
-  },
-  "ME 428-2026-01-31": {
-    "flightNumber": "ME 428",
-    "status": "غادرت",
-    "actualTime": "16:15",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 312-2026-01-31": {
-    "flightNumber": "ME 312",
-    "status": "غادرت",
-    "actualTime": "15:59",
-    "type": "dprtr",
-    "airlineCode": "ME"
   },
   "IA 1302-2026-01-31": {
     "flightNumber": "IA 1302",
@@ -43,8 +29,8 @@
   },
   "ME 267-2026-01-31": {
     "flightNumber": "ME 267",
-    "status": "",
-    "actualTime": "17:25",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "16:48",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -64,7 +50,7 @@
   },
   "ME 422-2026-01-31": {
     "flightNumber": "ME 422",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "17:55",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -83,19 +69,19 @@
     "type": "dprtr",
     "airlineCode": "QR"
   },
-  "MS 712-2026-01-31": {
-    "flightNumber": "MS 712",
-    "status": "",
-    "actualTime": "19:35",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "EK 954-2026-01-31": {
     "flightNumber": "EK 954",
     "status": "",
     "actualTime": "19:45",
     "type": "dprtr",
     "airlineCode": "EK"
+  },
+  "MS 712-2026-01-31": {
+    "flightNumber": "MS 712",
+    "status": "",
+    "actualTime": "19:50",
+    "type": "dprtr",
+    "airlineCode": "MS"
   },
   "RJ 404-2026-01-31": {
     "flightNumber": "RJ 404",
@@ -131,6 +117,13 @@
     "actualTime": "21:45",
     "type": "dprtr",
     "airlineCode": "FZ"
+  },
+  "EK 9748-2026-01-31": {
+    "flightNumber": "EK 9748",
+    "status": "",
+    "actualTime": "22:50",
+    "type": "dprtr",
+    "airlineCode": "EK"
   },
   "ME 434-2026-01-31": {
     "flightNumber": "ME 434",
@@ -666,8 +659,8 @@
   },
   "ME 214-2026-01-31": {
     "flightNumber": "ME 214",
-    "status": "",
-    "actualTime": "16:35",
+    "status": "وصلت",
+    "actualTime": "16:38",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -811,19 +804,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "QR 418-2026-01-31": {
-    "flightNumber": "QR 418",
-    "status": "",
-    "actualTime": "22:55",
-    "type": "arivl",
-    "airlineCode": "QR"
-  },
   "KU 503-2026-01-31": {
     "flightNumber": "KU 503",
     "status": "",
     "actualTime": "22:55",
     "type": "arivl",
     "airlineCode": "KU"
+  },
+  "QR 418-2026-01-31": {
+    "flightNumber": "QR 418",
+    "status": "",
+    "actualTime": "22:55",
+    "type": "arivl",
+    "airlineCode": "QR"
   },
   "ME 403-2026-01-31": {
     "flightNumber": "ME 403",
