@@ -1,11 +1,4 @@
 {
-  "MS 712-2026-01-31": {
-    "flightNumber": "MS 712",
-    "status": "غادرت",
-    "actualTime": "20:30",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "RJ 404-2026-01-31": {
     "flightNumber": "RJ 404",
     "status": "تم اغلاق البوابة",
@@ -15,22 +8,22 @@
   },
   "TK 827-2026-01-31": {
     "flightNumber": "TK 827",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:10",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "21:06",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "G9 388-2026-01-31": {
     "flightNumber": "G9 388",
-    "status": "",
+    "status": "غادرت",
     "actualTime": "21:30",
     "type": "dprtr",
     "airlineCode": "G9"
   },
   "FZ 160-2026-01-31": {
     "flightNumber": "FZ 160",
-    "status": "تم فتح البوابة",
-    "actualTime": "21:45",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "21:05",
     "type": "dprtr",
     "airlineCode": "FZ"
   },
@@ -531,13 +524,6 @@
     "type": "arivl",
     "airlineCode": "MS"
   },
-  "ME 313-2026-01-31": {
-    "flightNumber": "ME 313",
-    "status": "وصلت",
-    "actualTime": "19:02",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "J9 261-2026-01-31": {
     "flightNumber": "J9 261",
     "status": "وصلت",
@@ -547,8 +533,8 @@
   },
   "ME 323-2026-01-31": {
     "flightNumber": "ME 323",
-    "status": "",
-    "actualTime": "20:00",
+    "status": "وصلت",
+    "actualTime": "21:10",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -741,19 +727,19 @@
     "type": "arivl",
     "airlineCode": "PC"
   },
-  "EK 957-2026-02-01": {
-    "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "09:15",
-    "type": "arivl",
-    "airlineCode": "EK"
-  },
   "MS 709-2026-02-01": {
     "flightNumber": "MS 709",
     "status": "",
     "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "MS"
+  },
+  "EK 957-2026-02-01": {
+    "flightNumber": "EK 957",
+    "status": "",
+    "actualTime": "09:15",
+    "type": "arivl",
+    "airlineCode": "EK"
   },
   "EY 581-2026-02-01": {
     "flightNumber": "EY 581",
