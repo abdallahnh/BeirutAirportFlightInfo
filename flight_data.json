@@ -43,14 +43,14 @@
   },
   "ME 434-2026-02-01": {
     "flightNumber": "ME 434",
-    "status": "",
-    "actualTime": "23:10",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "22:57",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "QR 419-2026-02-02": {
     "flightNumber": "QR 419",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "00:40",
     "type": "dprtr",
     "airlineCode": "QR"
@@ -454,17 +454,10 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 327-2026-02-01": {
-    "flightNumber": "ME 327",
-    "status": "وصلت",
-    "actualTime": "21:19",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 307-2026-02-01": {
     "flightNumber": "ME 307",
-    "status": "تأخير",
-    "actualTime": "22:55",
+    "status": "وصلت",
+    "actualTime": "23:00",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -517,15 +510,15 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 369-2026-02-01": {
-    "flightNumber": "ME 369",
+  "ME 443-2026-02-01": {
+    "flightNumber": "ME 443",
     "status": "",
     "actualTime": "23:40",
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "ME 443-2026-02-01": {
-    "flightNumber": "ME 443",
+  "ME 369-2026-02-01": {
+    "flightNumber": "ME 369",
     "status": "",
     "actualTime": "23:40",
     "type": "arivl",
