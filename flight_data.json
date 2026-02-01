@@ -1,18 +1,4 @@
 {
-  "KU 504-2026-02-01": {
-    "flightNumber": "KU 504",
-    "status": "النداء الاخير",
-    "actualTime": "23:33",
-    "type": "dprtr",
-    "airlineCode": "KU"
-  },
-  "QR 419-2026-02-01": {
-    "flightNumber": "QR 419",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "23:52",
-    "type": "dprtr",
-    "airlineCode": "QR"
-  },
   "ET 407-2026-02-01": {
     "flightNumber": "ET 407",
     "status": "تم اغلاق البوابة",
@@ -20,38 +6,31 @@
     "type": "dprtr",
     "airlineCode": "ET"
   },
-  "PC 759-2026-02-01": {
-    "flightNumber": "PC 759",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "01:46",
-    "type": "dprtr",
-    "airlineCode": "PC"
-  },
   "ET 417-2026-02-01": {
     "flightNumber": "ET 417",
-    "status": "",
+    "status": "تم اغلاق البوابة",
     "actualTime": "02:55",
     "type": "dprtr",
     "airlineCode": "ET"
   },
   "TK 829-2026-02-01": {
     "flightNumber": "TK 829",
-    "status": "",
-    "actualTime": "03:25",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "02:53",
     "type": "dprtr",
     "airlineCode": "TK"
   },
   "PC 757-2026-02-01": {
     "flightNumber": "PC 757",
-    "status": "",
-    "actualTime": "03:40",
+    "status": "غادرت",
+    "actualTime": "02:42",
     "type": "dprtr",
     "airlineCode": "PC"
   },
   "MS 714-2026-02-01": {
     "flightNumber": "MS 714",
-    "status": "",
-    "actualTime": "03:40",
+    "status": "غادرت",
+    "actualTime": "02:59",
     "type": "dprtr",
     "airlineCode": "MS"
   },
@@ -923,59 +902,38 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 429-2026-01-31": {
-    "flightNumber": "ME 429",
-    "status": "وصلت",
-    "actualTime": "23:59",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ET 406-2026-02-01": {
-    "flightNumber": "ET 406",
-    "status": "وصلت",
-    "actualTime": "00:51",
-    "type": "arivl",
-    "airlineCode": "ET"
-  },
   "VF 1627-2026-02-01": {
     "flightNumber": "VF 1627",
-    "status": "",
-    "actualTime": "01:30",
+    "status": "وصلت",
+    "actualTime": "02:18",
     "type": "arivl",
     "airlineCode": "VF"
   },
-  "PC 758-2026-02-01": {
-    "flightNumber": "PC 758",
-    "status": "وصلت",
-    "actualTime": "01:20",
-    "type": "arivl",
-    "airlineCode": "PC"
-  },
   "ET 416-2026-02-01": {
     "flightNumber": "ET 416",
-    "status": "",
-    "actualTime": "02:00",
+    "status": "وصلت",
+    "actualTime": "01:53",
     "type": "arivl",
     "airlineCode": "ET"
   },
   "TK 828-2026-02-01": {
     "flightNumber": "TK 828",
-    "status": "",
-    "actualTime": "02:30",
+    "status": "وصلت",
+    "actualTime": "02:24",
     "type": "arivl",
     "airlineCode": "TK"
   },
   "PC 756-2026-02-01": {
     "flightNumber": "PC 756",
-    "status": "",
-    "actualTime": "02:35",
+    "status": "وصلت",
+    "actualTime": "02:20",
     "type": "arivl",
     "airlineCode": "PC"
   },
   "MS 713-2026-02-01": {
     "flightNumber": "MS 713",
-    "status": "",
-    "actualTime": "02:40",
+    "status": "وصلت",
+    "actualTime": "02:29",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -993,13 +951,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "IA 137-2026-02-01": {
-    "flightNumber": "IA 137",
-    "status": "",
-    "actualTime": "08:45",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "TK 830-2026-02-01": {
     "flightNumber": "TK 830",
     "status": "",
@@ -1007,12 +958,12 @@
     "type": "arivl",
     "airlineCode": "TK"
   },
-  "EK 957-2026-02-01": {
-    "flightNumber": "EK 957",
+  "IA 137-2026-02-01": {
+    "flightNumber": "IA 137",
     "status": "",
-    "actualTime": "09:15",
+    "actualTime": "08:45",
     "type": "arivl",
-    "airlineCode": "EK"
+    "airlineCode": "IA"
   },
   "PC 1824-2026-02-01": {
     "flightNumber": "PC 1824",
@@ -1027,6 +978,13 @@
     "actualTime": "09:15",
     "type": "arivl",
     "airlineCode": "MS"
+  },
+  "EK 957-2026-02-01": {
+    "flightNumber": "EK 957",
+    "status": "",
+    "actualTime": "09:15",
+    "type": "arivl",
+    "airlineCode": "EK"
   },
   "EY 581-2026-02-01": {
     "flightNumber": "EY 581",
