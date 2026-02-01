@@ -1,7 +1,7 @@
 {
   "AF 565-2026-02-01": {
     "flightNumber": "AF 565",
-    "status": "تم فتح البوابة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "17:09",
     "type": "dprtr",
     "airlineCode": "AF"
@@ -17,13 +17,6 @@
     "flightNumber": "ME 267",
     "status": "النداء الاخير",
     "actualTime": "16:48",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 442-2026-02-01": {
-    "flightNumber": "ME 442",
-    "status": "النداء الاخير",
-    "actualTime": "17:35",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -43,22 +36,22 @@
   },
   "ME 422-2026-02-01": {
     "flightNumber": "ME 422",
-    "status": "تم فتح البوابة",
-    "actualTime": "17:55",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:29",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 253-2026-02-01": {
     "flightNumber": "ME 253",
-    "status": "تم فتح البوابة",
-    "actualTime": "18:00",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:20",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 306-2026-02-01": {
     "flightNumber": "ME 306",
-    "status": "",
-    "actualTime": "18:15",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "17:38",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -559,27 +552,6 @@
     "type": "arivl",
     "airlineCode": "AF"
   },
-  "IA 139-2026-02-01": {
-    "flightNumber": "IA 139",
-    "status": "وصلت",
-    "actualTime": "15:26",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
-  "ME 305-2026-02-01": {
-    "flightNumber": "ME 305",
-    "status": "وصلت",
-    "actualTime": "15:31",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "IA 1301-2026-02-01": {
-    "flightNumber": "IA 1301",
-    "status": "وصلت",
-    "actualTime": "15:39",
-    "type": "arivl",
-    "airlineCode": "IA"
-  },
   "LH 1308-2026-02-01": {
     "flightNumber": "LH 1308",
     "status": "وصلت",
@@ -610,15 +582,15 @@
   },
   "ME 325-2026-02-01": {
     "flightNumber": "ME 325",
-    "status": "تأخير",
-    "actualTime": "17:20",
+    "status": "وصلت",
+    "actualTime": "17:17",
     "type": "arivl",
     "airlineCode": "ME"
   },
   "EK 953-2026-02-01": {
     "flightNumber": "EK 953",
-    "status": "",
-    "actualTime": "17:00",
+    "status": "وصلت",
+    "actualTime": "17:22",
     "type": "arivl",
     "airlineCode": "EK"
   },
