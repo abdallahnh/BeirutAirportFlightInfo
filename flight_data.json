@@ -1,11 +1,4 @@
 {
-  "ME 324-2026-02-01": {
-    "flightNumber": "ME 324",
-    "status": "غادرت",
-    "actualTime": "12:53",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 229-2026-02-01": {
     "flightNumber": "ME 229",
     "status": "تم اغلاق البوابة",
@@ -673,8 +666,8 @@
   },
   "IA 133-2026-02-01": {
     "flightNumber": "IA 133",
-    "status": "",
-    "actualTime": "14:15",
+    "status": "وصلت",
+    "actualTime": "13:53",
     "type": "arivl",
     "airlineCode": "IA"
   },
@@ -965,13 +958,6 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "VF 543-2026-02-02": {
-    "flightNumber": "VF 543",
-    "status": "",
-    "actualTime": "00:30",
-    "type": "arivl",
-    "airlineCode": "VF"
-  },
   "ET 406-2026-02-02": {
     "flightNumber": "ET 406",
     "status": "",
@@ -1041,6 +1027,13 @@
     "actualTime": "05:00",
     "type": "arivl",
     "airlineCode": "RJ"
+  },
+  "ME 435-2026-02-02": {
+    "flightNumber": "ME 435",
+    "status": "",
+    "actualTime": "06:00",
+    "type": "arivl",
+    "airlineCode": "ME"
   },
   "TK 830-2026-02-02": {
     "flightNumber": "TK 830",
@@ -1217,13 +1210,6 @@
     "type": "arivl",
     "airlineCode": "LH"
   },
-  "ME 226-2026-02-02": {
-    "flightNumber": "ME 226",
-    "status": "",
-    "actualTime": "15:50",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 321-2026-02-02": {
     "flightNumber": "ME 321",
     "status": "",
@@ -1259,6 +1245,13 @@
     "type": "arivl",
     "airlineCode": "EK"
   },
+  "J9 261-2026-02-02": {
+    "flightNumber": "J9 261",
+    "status": "",
+    "actualTime": "17:45",
+    "type": "arivl",
+    "airlineCode": "J9"
+  },
   "QR 426-2026-02-02": {
     "flightNumber": "QR 426",
     "status": "",
@@ -1269,7 +1262,7 @@
   "MS 711-2026-02-02": {
     "flightNumber": "MS 711",
     "status": "",
-    "actualTime": "18:15",
+    "actualTime": "18:35",
     "type": "arivl",
     "airlineCode": "MS"
   },
@@ -1280,6 +1273,13 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "ME 212-2026-02-02": {
+    "flightNumber": "ME 212",
+    "status": "",
+    "actualTime": "18:55",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
   "RJ 403-2026-02-02": {
     "flightNumber": "RJ 403",
     "status": "",
@@ -1287,24 +1287,17 @@
     "type": "arivl",
     "airlineCode": "RJ"
   },
-  "J9 261-2026-02-02": {
-    "flightNumber": "J9 261",
+  "ME 313-2026-02-02": {
+    "flightNumber": "ME 313",
     "status": "",
-    "actualTime": "19:45",
+    "actualTime": "19:25",
     "type": "arivl",
-    "airlineCode": "J9"
+    "airlineCode": "ME"
   },
   "ME 323-2026-02-02": {
     "flightNumber": "ME 323",
     "status": "",
     "actualTime": "20:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 313-2026-02-02": {
-    "flightNumber": "ME 313",
-    "status": "",
-    "actualTime": "20:05",
     "type": "arivl",
     "airlineCode": "ME"
   },
@@ -1357,26 +1350,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
+  "ME 262-2026-02-02": {
+    "flightNumber": "ME 262",
+    "status": "",
+    "actualTime": "22:35",
+    "type": "arivl",
+    "airlineCode": "ME"
+  },
   "QR 418-2026-02-02": {
     "flightNumber": "QR 418",
     "status": "",
     "actualTime": "22:55",
     "type": "arivl",
     "airlineCode": "QR"
-  },
-  "ME 262-2026-02-02": {
-    "flightNumber": "ME 262",
-    "status": "",
-    "actualTime": "23:10",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "EK 955-2026-02-02": {
-    "flightNumber": "EK 955",
-    "status": "",
-    "actualTime": "23:20",
-    "type": "arivl",
-    "airlineCode": "EK"
   },
   "ME 419-2026-02-02": {
     "flightNumber": "ME 419",
