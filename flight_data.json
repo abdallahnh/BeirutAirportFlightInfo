@@ -1,64 +1,15 @@
 {
-  "AF 565-2026-02-01": {
-    "flightNumber": "AF 565",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "17:09",
-    "type": "dprtr",
-    "airlineCode": "AF"
-  },
-  "ME 326-2026-02-01": {
-    "flightNumber": "ME 326",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "16:37",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 306-2026-02-01": {
-    "flightNumber": "ME 306",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "17:38",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "IA 136-2026-02-01": {
-    "flightNumber": "IA 136",
-    "status": "",
-    "actualTime": "19:00",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
-  "TK 827-2026-02-01": {
-    "flightNumber": "TK 827",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "21:06",
-    "type": "dprtr",
-    "airlineCode": "TK"
-  },
-  "FZ 160-2026-02-01": {
-    "flightNumber": "FZ 160",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "21:01",
-    "type": "dprtr",
-    "airlineCode": "FZ"
-  },
-  "ME 434-2026-02-01": {
-    "flightNumber": "ME 434",
-    "status": "تم اغلاق البوابة",
-    "actualTime": "22:57",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 571-2026-02-02": {
     "flightNumber": "ME 571",
-    "status": "تم فتح البوابة",
-    "actualTime": "02:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "01:26",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ET 407-2026-02-02": {
     "flightNumber": "ET 407",
-    "status": "",
-    "actualTime": "02:05",
+    "status": "النداء الاخير",
+    "actualTime": "01:24",
     "type": "dprtr",
     "airlineCode": "ET"
   },
@@ -902,24 +853,10 @@
     "type": "dprtr",
     "airlineCode": "FZ"
   },
-  "ME 307-2026-02-01": {
-    "flightNumber": "ME 307",
-    "status": "وصلت",
-    "actualTime": "23:00",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
   "ME 403-2026-02-01": {
     "flightNumber": "ME 403",
     "status": "وصلت",
     "actualTime": "23:49",
-    "type": "arivl",
-    "airlineCode": "ME"
-  },
-  "ME 443-2026-02-01": {
-    "flightNumber": "ME 443",
-    "status": "وصلت",
-    "actualTime": "23:30",
     "type": "arivl",
     "airlineCode": "ME"
   },
