@@ -1,11 +1,4 @@
 {
-  "ME 364-2026-02-01": {
-    "flightNumber": "ME 364",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "08:21",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "TK 831-2026-02-01": {
     "flightNumber": "TK 831",
     "status": "تم اغلاق البوابة",
@@ -13,16 +6,9 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "IA 134-2026-02-01": {
-    "flightNumber": "IA 134",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "09:16",
-    "type": "dprtr",
-    "airlineCode": "IA"
-  },
   "PC 1825-2026-02-01": {
     "flightNumber": "PC 1825",
-    "status": "تم فتح البوابة",
+    "status": "تم اغلاق البوابة",
     "actualTime": "09:12",
     "type": "dprtr",
     "airlineCode": "PC"
@@ -799,8 +785,8 @@
   },
   "EK 957-2026-02-01": {
     "flightNumber": "EK 957",
-    "status": "",
-    "actualTime": "09:15",
+    "status": "وصلت",
+    "actualTime": "09:30",
     "type": "arivl",
     "airlineCode": "EK"
   },
