@@ -20,13 +20,6 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 201-2026-02-02": {
-    "flightNumber": "ME 201",
-    "status": "غادرت",
-    "actualTime": "06:59",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 310-2026-02-02": {
     "flightNumber": "ME 310",
     "status": "تم اغلاق البوابة",
@@ -34,38 +27,24 @@
     "type": "dprtr",
     "airlineCode": "ME"
   },
-  "ME 211-2026-02-02": {
-    "flightNumber": "ME 211",
-    "status": "غادرت",
-    "actualTime": "07:13",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
-  "ME 424-2026-02-02": {
-    "flightNumber": "ME 424",
-    "status": "الصعود الى الطائرة",
-    "actualTime": "07:38",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 404-2026-02-02": {
     "flightNumber": "ME 404",
-    "status": "",
-    "actualTime": "08:40",
+    "status": "النداء الاخير",
+    "actualTime": "08:09",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 364-2026-02-02": {
     "flightNumber": "ME 364",
-    "status": "",
-    "actualTime": "08:55",
+    "status": "النداء الاخير",
+    "actualTime": "08:21",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 241-2026-02-02": {
     "flightNumber": "ME 241",
-    "status": "",
-    "actualTime": "08:55",
+    "status": "غادرت",
+    "actualTime": "08:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
@@ -881,19 +860,19 @@
     "type": "arivl",
     "airlineCode": "ME"
   },
-  "CY 120-2026-02-02": {
-    "flightNumber": "CY 120",
-    "status": "",
-    "actualTime": "15:00",
-    "type": "arivl",
-    "airlineCode": "CY"
-  },
   "UF 001-2026-02-02": {
     "flightNumber": "UF 001",
     "status": "",
     "actualTime": "15:00",
     "type": "arivl",
     "airlineCode": "UF"
+  },
+  "CY 120-2026-02-02": {
+    "flightNumber": "CY 120",
+    "status": "",
+    "actualTime": "15:00",
+    "type": "arivl",
+    "airlineCode": "CY"
   },
   "ME 427-2026-02-02": {
     "flightNumber": "ME 427",
