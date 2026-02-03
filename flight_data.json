@@ -6,13 +6,6 @@
     "type": "dprtr",
     "airlineCode": "TK"
   },
-  "MS 714-2026-02-03": {
-    "flightNumber": "MS 714",
-    "status": "تأخير",
-    "actualTime": "05:00",
-    "type": "dprtr",
-    "airlineCode": "MS"
-  },
   "EY 584-2026-02-03": {
     "flightNumber": "EY 584",
     "status": "تم اغلاق البوابة",
@@ -29,35 +22,28 @@
   },
   "RJ 408-2026-02-03": {
     "flightNumber": "RJ 408",
-    "status": "",
-    "actualTime": "06:00",
+    "status": "تم اغلاق البوابة",
+    "actualTime": "05:05",
     "type": "dprtr",
     "airlineCode": "RJ"
   },
-  "ME 247-2026-02-03": {
-    "flightNumber": "ME 247",
-    "status": "",
-    "actualTime": "06:30",
-    "type": "dprtr",
-    "airlineCode": "ME"
-  },
   "ME 265-2026-02-03": {
     "flightNumber": "ME 265",
-    "status": "",
-    "actualTime": "07:05",
+    "status": "الصعود الى الطائرة",
+    "actualTime": "06:37",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 217-2026-02-03": {
     "flightNumber": "ME 217",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:15",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 426-2026-02-03": {
     "flightNumber": "ME 426",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:20",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -71,14 +57,14 @@
   },
   "ME 201-2026-02-03": {
     "flightNumber": "ME 201",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:35",
     "type": "dprtr",
     "airlineCode": "ME"
   },
   "ME 310-2026-02-03": {
     "flightNumber": "ME 310",
-    "status": "",
+    "status": "تم فتح البوابة",
     "actualTime": "07:40",
     "type": "dprtr",
     "airlineCode": "ME"
@@ -831,20 +817,6 @@
     "actualTime": "21:45",
     "type": "dprtr",
     "airlineCode": "FZ"
-  },
-  "MS 713-2026-02-03": {
-    "flightNumber": "MS 713",
-    "status": "وصلت",
-    "actualTime": "04:30",
-    "type": "arivl",
-    "airlineCode": "MS"
-  },
-  "RJ 407-2026-02-03": {
-    "flightNumber": "RJ 407",
-    "status": "وصلت",
-    "actualTime": "04:37",
-    "type": "arivl",
-    "airlineCode": "RJ"
   },
   "TK 830-2026-02-03": {
     "flightNumber": "TK 830",
