@@ -87,32 +87,32 @@ async function sendGroupedNotification(allChanges) {
 
 // --- 3. MAIN WORKFLOW (Unchanged) ---
 async function main() {
-    let oldData = {};
-    try {
-        oldData = JSON.parse(await fs.readFile(DATA_FILE, 'utf8'));
-    } catch (error) { console.log('No previous data file found.'); }
+    //let oldData = {};
+    //try {
+        //oldData = JSON.parse(await fs.readFile(DATA_FILE, 'utf8'));
+   // } catch (error) { console.log('No previous data file found.'); }
 
-    const newData = await scrapeFlights();
-    const allChanges = [];
+    //const newData = await scrapeFlights();
+    //const allChanges = [];
 
-    for (const id in newData) {
-        const oldFlight = oldData[id];
-        const newFlight = newData[id];
-        if (oldFlight && oldFlight.status !== newFlight.status && newFlight.status?.trim()) {
-            const airlineName = airlineNames[newFlight.airlineCode] || newFlight.airlineCode;
-            allChanges.push({
-                message: `${airlineName}: ${newFlight.flightNumber} ${newFlight.status}`,
-                airlineCode: newFlight.airlineCode, type: newFlight.type,
-            });
-        }
-    }
+    //for (const id in newData) {
+        //const oldFlight = oldData[id];
+        //const newFlight = newData[id];
+        //if (oldFlight && oldFlight.status !== newFlight.status && newFlight.status?.trim()) {
+            //const airlineName = airlineNames[newFlight.airlineCode] || newFlight.airlineCode;
+            //allChanges.push({
+                //message: `${airlineName}: ${newFlight.flightNumber} ${newFlight.status}`,
+                //airlineCode: newFlight.airlineCode, type: newFlight.type,
+            //});
+        //}
+    //}
 
-    if (allChanges.length > 0) {
-        console.log(`Found ${allChanges.length} total changes. Sending one notification.`);
-        await sendGroupedNotification(allChanges);
-    } else {
-        console.log('No flight changes detected.');
-    }
+    //if (allChanges.length > 0) {
+        //console.log(`Found ${allChanges.length} total changes. Sending one notification.`);
+        //await sendGroupedNotification(allChanges);
+    //} else {
+        //console.log('No flight changes detected.');
+    //}
 
     //await fs.writeFile(DATA_FILE, JSON.stringify(newData, null, 2));
     
