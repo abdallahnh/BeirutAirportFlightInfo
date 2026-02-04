@@ -114,13 +114,13 @@ async function main() {
         console.log('No flight changes detected.');
     }
 
-    await fs.writeFile(DATA_FILE, JSON.stringify(newData, null, 2));
+    //await fs.writeFile(DATA_FILE, JSON.stringify(newData, null, 2));
     
-    execSync('git config --global user.email "action@github.com"');
-    execSync('git config --global user.name "GitHub Action"');
-    execSync('git add flight_data.json');
-    execSync('git commit -m "Update flight data" || exit 0');
-    execSync('git push');
+    //execSync('git config --global user.email "action@github.com"');
+    //execSync('git config --global user.name "GitHub Action"');
+    //execSync('git add flight_data.json');
+    //execSync('git commit -m "Update flight data" || exit 0');
+    //execSync('git push');
     console.log('Workflow finished.');
 }
 
